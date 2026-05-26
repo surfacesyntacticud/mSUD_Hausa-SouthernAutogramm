@@ -1,0 +1,358 @@
+# sent_id = HAUZ_BC_NARR_03_01-03
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 881, 5002
+# phonetic_text = hm̀: àkwai wata raːnaː / mukà yiwoː lettìː //
+# text = hm̀: àkwai wata raːnaː / mukà yiwoː lettìː //
+# text_en = Mm One day, we were late.
+1	hm̀:	hm̀:	INTJ	_	_	2	discourse	_	AlignBegin=881|AlignEnd=1472|Gloss=FILL
+2	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	AlignBegin=1472|AlignEnd=1739|Gloss=there_is
+3	wata	wata	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	4	det	_	AlignBegin=1739|AlignEnd=2006|Gloss=some.Fem
+4	raːnaː	raːnaː	NOUN	_	_	2	subj	_	AlignBegin=2006|AlignEnd=2273|Gloss=day
+5	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=3816|AlignEnd=4112|Gloss=1Plur-|SpaceAfter=No|wordform=mukà
+6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
+7	yiwoː	yi	VERB	_	_	2	parataxis	_	AlignBegin=4112|AlignEnd=4408|Gloss=do.DIR
+8	lettìː	lettìː	NOUN	_	_	7	comp:pred	_	AlignBegin=4408|AlignEnd=4704|Gloss=late|Lang=en
+9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=4704|AlignEnd=5002|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_04-04
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 5850, 7761
+# phonetic_text = sai akà tsarèː mu lettìː hakà //
+# text = sai akà tsarèː mu lettìː hakà //
+# text_en = Then they blocked us for being late.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=5850|AlignEnd=6123|Gloss=then
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=6123|AlignEnd=6396|Gloss=4-|SpaceAfter=No|wordform=akà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+4	tsarèː	tsar-	VERB	_	_	0	root	_	AlignBegin=6396|AlignEnd=6669|Gloss=block
+5	mu	mu	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=6669|AlignEnd=6942|Gloss=1Plur
+6	lettìː	lettìː	NOUN	_	_	4	comp:pred	_	AlignBegin=6942|AlignEnd=7215|Gloss=late|Lang=en
+7	hakà	hakà	ADV	_	_	4	mod	_	AlignBegin=7215|AlignEnd=7488|Gloss=like_this
+8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=7488|AlignEnd=7761|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_05-06
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 8749, 11288
+# phonetic_text = sai maːlàmiː -ǹ ya zoː ya dùːkaː -eː mù //
+# text = saiːːː maːlàmîn ya zoː ya dòːkeː mù //
+# text_en = Then.. the teacher came and beat us.
+1	sai	sai	ADV	_	_	5	mod	_	AlignBegin=8749|AlignEnd=9581|Gloss=then
+2	maːlàmîn	maːlàmiː	NOUN	_	Definite=Def	5	subj	_	AlignBegin=9581|AlignEnd=9703|Gloss=teacher.Def
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=9825|AlignEnd=10069|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+5	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=10069|AlignEnd=10313|Gloss=come
+6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=10313|AlignEnd=10557|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+8	dòːkeː	doːk-	VERB	_	_	5	parataxis@conj	_	AlignBegin=10557|AlignEnd=10679|Gloss=beat
+9	mù	mù	PRON	_	Number=Plur|Person=1|PronType=Prs	8	mod	_	AlignBegin=10801|AlignEnd=11045|Gloss=1Plur
+10	//	//	PUNCT	_	_	5	punct	_	AlignBegin=11045|AlignEnd=11288|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_07-08
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 11947, 15447
+# phonetic_text = sai wani ya / ya ganiː an cêː ƴaː -n esʔès hakà sù shìga ajìː //
+# text = sai wani ya-_= ya-_= ga a-n= cêː ƴa-n es-ès hakà sù=shìga ajìː //
+# text_en = Then somebody .. heard that they said the pupils of SS should go into their class.
+1	sai	sai	ADV	_	_	7	mod	_	AlignBegin=11947|AlignEnd=12143|Gloss=then
+2	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	7	subj	_	AlignBegin=12143|AlignEnd=12339|Gloss=some.Masc
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	=|AlignBegin=12339|AlignEnd=12535|Gloss=3Masc-|SpaceAfter=No
+4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=_=
+5	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	conj:dicto	_	AlignBegin=12733|AlignEnd=12980|Gloss=3Masc-|SpaceAfter=No
+6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	AlignBegin=12733|AlignEnd=12980|Gloss=Perf.Rel.Sing=|Relative=Yes|wordform=_=
+7	ga	ganiː	VERB	_	_	0	root	_	AlignBegin=12980|AlignEnd=13227|Gloss=see
+8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=13227|AlignEnd=13474|Gloss=4-|SpaceAfter=No|wordform=an
+9	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Plur
+10	cêː	cêː	VERB	_	_	7	comp:obj	_	AlignBegin=13474|AlignEnd=13721|Gloss=say
+11	ƴa	ɗaː	NOUN	_	Number=Plur	17	subj	_	AlignBegin=13721|AlignEnd=13845|Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform=ƴan
+12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
+13	es-ès	es-ès	PROPN	_	_	12	comp:obj	_	AlignBegin=13968|AlignEnd=14215|Gloss=SS|Lang=en
+14	hakà	hakà	ADV	_	_	11	mod	_	AlignBegin=14215|AlignEnd=14462|Gloss=like_this
+15	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=14462|AlignEnd=14709|Gloss=3Plur-|SpaceAfter=No|wordform=sù
+16	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	17	mod/m	_	Gloss=Sub=
+17	shìga	shìg-	VERB	_	_	10	comp:obj	_	AlignBegin=14709|AlignEnd=14956|Gloss=enter
+18	ajìː	ajìː	NOUN	_	_	17	comp:obj@G	_	AlignBegin=14956|AlignEnd=15203|Gloss=classroom
+19	//	//	PUNCT	_	_	7	punct	_	AlignBegin=15203|AlignEnd=15447|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_09-11a
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 16328, 19925
+# phonetic_text = sai ya cêː tòː shiː maː barìː yà tàfi dâː maː à jiːniyo kilaːs yakèː //
+# text = sai ya cêː tòː shiː maː bàri yà tàfi //
+# text_en = Then he said well he should go.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=16328|AlignEnd=16584|Gloss=then
+2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=16584|AlignEnd=16840|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=16840|AlignEnd=17097|Gloss=say
+5	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=17097|AlignEnd=17285|Gloss=well
+6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated	_	AlignBegin=17285|AlignEnd=17473|Gloss=3Masc.Nom
+7	maː	maː	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=17473|AlignEnd=17661|Gloss=even
+8	bàri	barìː	VERB	_	_	4	comp:obj	_	AlignBegin=17661|AlignEnd=17849|Gloss=let.Jus
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=17849|AlignEnd=18037|Gloss=3Masc-|SpaceAfter=No|wordform=yà
+10	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	11	mod/m	_	Gloss=Sub=
+11	tàfi	tàfi	VERB	_	_	8	comp:obj	_	AlignBegin=18037|AlignEnd=18228|Gloss=go
+12	//	//	PUNCT	_	_	4	punct	_	AlignBegin=18037|AlignEnd=18228|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_09-11b
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 16328, 19925
+# phonetic_text = sai ya cêː tòː shiː maː barìː yà tàfi dâː maː à jiːniyo kilaːs yakèː //
+# text = dâː maː à jiːniyo kilaːs ya- kè //
+# text_en = Actually he was in junior class.
+1	dâː	dâː	ADV	_	_	3	mod	_	AlignBegin=18228|AlignEnd=18470|Gloss=formerly
+2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=18470|AlignEnd=18712|Gloss=even
+3	à	à	ADP	_	_	0	root	_	AlignBegin=18712|AlignEnd=18954|Gloss=at
+4	jiːniyo	jiːniyo	ADJ	_	Foreign=Yes	5	mod	_	AlignBegin=18954|AlignEnd=19196|Gloss=junior|Lang=en
+5	kilaːs	kilaːs	NOUN	_	Foreign=Yes	3	comp:obj	_	AlignBegin=19196|AlignEnd=19438|Gloss=class|Lang=en
+6	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=19438|AlignEnd=19680|Gloss=3Masc|SpaceAfter=No
+7	kè	nàː	AUX	_	Aspect=Prog	3	comp:cleft	_	AlignBegin=19438|AlignEnd=19680|Copula=Yes|Gloss=Prog|Relative=Yes|wordform=yakè
+8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=19680|AlignEnd=19925|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_12-12
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 20891, 22007
+# phonetic_text = shiː kèː nan //
+# text = shiː kèː nan //
+# text_en = That's it.
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	0	root	_	AlignBegin=20891|AlignEnd=21170|Gloss=OK|wordform=shiː
+2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=21728|AlignEnd=22007|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_13-14
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 22711, 25428
+# phonetic_text = sai akà cêː mut || sauraː -ǹ dukà sù tàttàfi ajìː //
+# text = sai akà cêː mut~~ XX saurân duk sù tàttàfi ajìː //
+# text_en = Then they told us t.. all the others should go to their class.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=22711|AlignEnd=22936|Gloss=then
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=22936|AlignEnd=23161|Gloss=4-|SpaceAfter=No|wordform=akà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=23161|AlignEnd=23386|Gloss=say
+5	mut~	X	X	_	_	4	comp:obj	_	AlignBegin=23386|AlignEnd=23611|Gloss=X
+6	saurân	saurâː	NOUN	_	Definite=Def	10	dislocated	_	AlignBegin=23836|AlignEnd=23968|Gloss=remainder.Def
+7	dus	dukà	DET	_	PronType=Tot	6	det	_	AlignBegin=24101|AlignEnd=24366|Gloss=all
+8	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=24366|AlignEnd=24631|Gloss=3Plur-|SpaceAfter=No|wordform=sù
+9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
+10	tàttàfi	taf-	VERB	_	Number=Plur	5	conj:dicto	_	AlignBegin=24631|AlignEnd=24896|Gloss=go.Plur
+11	ajìː	ajìː	NOUN	_	_	10	comp:obj@G	_	AlignBegin=24896|AlignEnd=25161|Gloss=classroom
+12	//	//	PUNCT	_	_	4	punct	_	AlignBegin=25161|AlignEnd=25428|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_15-16
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 25766, 27679
+# phonetic_text = sai akà cêː yà tsayàː |c à dùːkaː -eː shi //
+# text = sai akà cêː yà tsayàː Xc à dòːkeː shì //
+# text_en = Then they said he should stay, they will beat him.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=25766|AlignEnd=25957|Gloss=then
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=25957|AlignEnd=26148|Gloss=4-|SpaceAfter=No|wordform=akà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=26148|AlignEnd=26339|Gloss=say
+5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=26339|AlignEnd=26530|Gloss=3Masc-|SpaceAfter=No|wordform=yà
+6	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	7	mod/m	_	Gloss=Sub=
+7	tsayàː	tsayàː	VERB	_	_	4	comp:obj	_	AlignBegin=26530|AlignEnd=26721|Gloss=stop
+8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=26910|AlignEnd=27102|Gloss=4-|SpaceAfter=No|wordform=à
+9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
+10	dòːkeː	doːk-	VERB	_	_	7	parataxis	_	AlignBegin=27102|AlignEnd=27198|Gloss=beat
+11	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=27294|AlignEnd=27486|Gloss=3Masc
+12	//	//	PUNCT	_	_	4	punct	_	AlignBegin=27486|AlignEnd=27679|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_17-19
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 28197, 29923
+# phonetic_text = ya cêː tòː / shiː maː / bà zâi yàr̃da ba //
+# text = ya cêː tòː / shiː maː / bà zâi yàr̃da ba //
+# text_en = He said well, he himself, he did not agree.
+1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=28197|AlignEnd=28305|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+3	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=28305|AlignEnd=28413|Gloss=say
+4	tòː	tòː	INTJ	_	_	10	discourse	_	AlignBegin=28413|AlignEnd=28521|Gloss=well
+5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	10	dislocated@subj	_	AlignBegin=28627|AlignEnd=28789|Gloss=3Masc.Nom
+6	maː	maː	PART	_	PartType=Top	5	discourse@top	_	AlignBegin=28789|AlignEnd=28951|Gloss=even
+7	bà	bà	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	AlignBegin=29112|AlignEnd=29274|Gloss=Neg
+8	zâ-	zâː-	PART	_	PartType=TAM	10	mod/m	_	Gloss=Fut-|SpaceAfter=No
+9	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=29274|AlignEnd=29436|Gloss=3Masc=|wordform=zâi
+10	yàr̃da	yar̃d-	VERB	_	_	3	comp:obj	_	AlignBegin=29436|AlignEnd=29598|Gloss=agree
+11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	AlignBegin=29598|AlignEnd=29760|Gloss=Neg
+12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=29760|AlignEnd=29923|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_20-20
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 30446, 32161
+# phonetic_text = sai sukà faːràː faɗàː dà maːlàmiː //
+# text = sai sukà faːrà faɗàː dà maːlàm //
+# text_en = Then he started arguing with the teacher.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=30446|AlignEnd=30691|Gloss=then
+2	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=30691|AlignEnd=30936|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+4	faːrà	faːr-	VERB	_	_	0	root	_	AlignBegin=30936|AlignEnd=31181|Gloss=begin
+5	faɗàː	faɗàː	NOUN	_	_	4	comp:obj	_	AlignBegin=31181|AlignEnd=31426|Gloss=fighting
+6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=31426|AlignEnd=31671|Gloss=with
+7	maːlàmiː	maːlàmiː	NOUN	_	_	6	comp:obj	_	AlignBegin=31671|AlignEnd=31916|Gloss=teacher
+8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=31916|AlignEnd=32161|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_21-21
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 32890, 33741
+# phonetic_text = sai ya gudù //
+# text = sai ya gudù //
+# text_en = Then he ran away.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=32890|AlignEnd=33103|Gloss=then
+2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=33103|AlignEnd=33316|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+4	gudù	gudù	VERB	_	_	0	root	_	AlignBegin=33316|AlignEnd=33529|Gloss=run
+5	//	//	PUNCT	_	_	4	punct	_	AlignBegin=33529|AlignEnd=33741|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_22-22
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 34151, 35374
+# phonetic_text = sai maːlàmiː -ǹ ya bi shi //
+# text = sai maːlàmîn ya biːː shì //
+# text_en = Then the teacher followed him.
+1	sai	sai	ADV	_	_	5	mod	_	AlignBegin=34151|AlignEnd=34355|Gloss=then
+2	maːlàmîn	maːlàmiː	NOUN	_	Definite=Def	5	subj	_	AlignBegin=34355|AlignEnd=34457|Gloss=teacher.Def
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=34559|AlignEnd=34763|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+5	biː	biː	VERB	_	_	0	root	_	AlignBegin=34763|AlignEnd=34967|Gloss=follow
+6	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=34967|AlignEnd=35171|Gloss=3Masc
+7	//	//	PUNCT	_	_	5	punct	_	AlignBegin=35171|AlignEnd=35374|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_23-24
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 35971, 39064
+# phonetic_text = dà maːlàmiː -ǹ ya bi shi / sai akà kaːmoː shi //
+# text = dà maːlàmîn ya biːː shì / sai akà kaːmoː shì //
+# text_en = When the teacher followed him, then they caught him.
+1	dà	dà	SCONJ	_	_	10	mod	_	AlignBegin=35971|AlignEnd=36169|Gloss=as
+2	maːlàmîn	maːlàmîː	NOUN	_	Definite=Def	5	subj	_	AlignBegin=36169|AlignEnd=36268|Gloss=teacher.Def
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=36367|AlignEnd=36565|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+5	biː	bi	VERB	_	_	1	comp:obj	_	AlignBegin=36565|AlignEnd=36763|Gloss=follow
+6	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=36763|AlignEnd=36961|Gloss=3Masc
+7	sai	sai	ADV	_	_	10	mod	_	AlignBegin=37719|AlignEnd=37988|Gloss=then
+8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=37988|AlignEnd=38257|Gloss=4-|SpaceAfter=No|wordform=akà
+9	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+10	kaːmoː	kaːm-	VERB	_	_	0	root	_	AlignBegin=38257|AlignEnd=38526|Gloss=catch.DIR
+11	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=38526|AlignEnd=38795|Gloss=3Masc
+12	//	//	PUNCT	_	_	10	punct	_	AlignBegin=38795|AlignEnd=39064|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_25-26
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 39834, 42120
+# phonetic_text = akà sâː à yi laːyi // hakà //
+# text = akà sâː à yi laːyi // hakà //
+# text_en = They.. they formed a line Like this.
+1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=39834|AlignEnd=40103|Gloss=4-|SpaceAfter=No|wordform=akà
+2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+3	sâː	sâː	VERB	_	_	0	root	_	AlignBegin=40103|AlignEnd=40372|Gloss=put
+4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	AlignBegin=40372|AlignEnd=40641|Gloss=4-|SpaceAfter=No|wordform=à
+5	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	6	mod/m	_	Gloss=Sub=
+6	yi	yi	VERB	_	_	3	comp:obj	_	AlignBegin=40641|AlignEnd=40910|Gloss=do
+7	laːyi	laːyi	NOUN	_	_	6	comp:obj	_	AlignBegin=40910|AlignEnd=41179|Gloss=line|Lang=en
+8	hakà	hakà	ADV	_	_	6	mod	_	AlignBegin=41761|AlignEnd=41941|Gloss=like_this
+9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=41941|AlignEnd=42120|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_27-28
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 42662, 45317
+# phonetic_text = sai akà yi ta duːkàː -n -shì / har̃ akà yi mishì ciːwòː //
+# text = sai akà ji ta duːkàn =shì akà yi mishì ciːwòː //
+# text_en = Then they kept beating him until he was wounded.
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=42662|AlignEnd=42875|Gloss=then
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=42875|AlignEnd=43088|Gloss=4-|SpaceAfter=No|wordform=akà
+3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+4	yi	yi	VERB	_	_	0	root	_	AlignBegin=43088|AlignEnd=43301|Gloss=do
+5	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	6	mod	_	AlignBegin=43301|AlignEnd=43514|Gloss=Iter
+6	duːkà	doːk-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=43514|AlignEnd=43585|Gloss=beat.Vnoun|Poss=Yes|SpaceAfter=No|wordform=duːkàː|wordfrom=duːkànshì
+7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen|SpaceAfter=No
+8	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
+9	a-	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=44170|AlignEnd=44400|Gloss=4-|SpaceAfter=No|wordform=akà
+10	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+11	ji	ji	VERB	_	_	4	parataxis@conj	_	AlignBegin=44400|AlignEnd=44630|Gloss=feel
+12	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	11	comp:obl	_	AlignBegin=44630|AlignEnd=44860|Gloss=3Masc.Dat
+13	ciːwòː	ciːwòː	NOUN	_	_	11	comp:obj	_	AlignBegin=44860|AlignEnd=45090|Gloss=wound
+14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=45090|AlignEnd=45317|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_29-29
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 46007, 47350
+# phonetic_text = sai iyàːyeː -n -shì sukà zoː //
+# text = sai iyàːyen -shì sukà zoː //
+# text_en = Then his parents came.
+1	sai	sai	ADV	_	_	7	mod	_	AlignBegin=46007|AlignEnd=46276|Gloss=then
+2	iyàːye	iyàːyeː	NOUN	_	_	7	dislocated@subj	_	AlignBegin=46276|AlignEnd=46366|Gloss=relatives|Poss=Yes|SpaceAfter=No|wordform=iyàːyen|wordfrom=iyàːyenshì
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
+4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
+5	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=46545|AlignEnd=46814|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+7	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=46814|AlignEnd=47083|Gloss=come
+8	//	//	PUNCT	_	_	7	punct	_	AlignBegin=47083|AlignEnd=47350|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_30-31
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 49023, 53652
+# phonetic_text = dà iyàːyeː -n -shì sukà zoː / sai sukà / cêː mèː ya yi hakà akà dùːkaː -eː shi //
+# text = dà iyàːyen -shì sukà zoː / sai sukà / cêː mèː ya yi hakà akà dòːkeː -eː shì ?//
+# text_en = When his parents arrived, then they asked why are they beating him like this?
+1	dà	dà	SCONJ	_	_	11	mod	_	AlignBegin=49023|AlignEnd=49258|Gloss=as
+2	iyàːye	iyàːyeː	NOUN	_	_	7	subj	_	AlignBegin=49258|AlignEnd=49336|Gloss=relatives|Poss=Yes|SpaceAfter=No|wordform=iyàːyen|wordfrom=iyàːyenshì
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
+4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
+5	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=49493|AlignEnd=49728|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+7	zoː	zoː	VERB	_	_	1	comp:obj	_	AlignBegin=49728|AlignEnd=49963|Gloss=come
+8	sai	sai	ADV	_	_	11	mod	_	AlignBegin=51160|AlignEnd=51368|Gloss=then
+9	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=51368|AlignEnd=51576|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+10	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+11	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=51784|AlignEnd=51992|Gloss=say
+12	mèː	mèː	PRON	_	_	11	comp:obj	_	AlignBegin=51992|AlignEnd=52200|Gloss=what
+13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=52200|AlignEnd=52408|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+14	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+15	yi	yi	VERB	_	_	12	comp:cleft	_	AlignBegin=52408|AlignEnd=52616|Gloss=do
+16	hakà	hakà	ADV	_	_	15	mod	_	AlignBegin=52616|AlignEnd=52824|Gloss=like_this
+17	a-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	AlignBegin=52824|AlignEnd=53032|Gloss=4-|SpaceAfter=No|wordform=akà
+18	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+19	dòːkeː	doːk-	VERB	_	_	15	parataxis	_	AlignBegin=53032|AlignEnd=53136|Gloss=beat
+20	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	19	comp:obj	_	AlignBegin=53240|AlignEnd=53448|Gloss=3Masc
+21	?//	?//	PUNCT	_	_	11	punct	_	AlignBegin=53448|AlignEnd=53652|Gloss=PUNCT
+
+# sent_id = HAUZ_BC_NARR_03_32-32
+# speaker_id = SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
+# sent_timecode = 54652, 58176
+# phonetic_text = sai maːlàmiː -ei -ǹ sukà cêː gàː àbù -ǹ dà ya yi yaː yi rashì -n tar̃biyyàː //
+# text = sai màːlàmân sukà cêː gàː àbin -ǹ dà ya yi yaː yi rashì -n tar̃biyyàː //
+# text_en = Then the teachers said here is what he did, he was insolent.
+1	sai	sai	ADV	_	_	5	mod	_	AlignBegin=54652|AlignEnd=54904|Gloss=then
+2	màːlàmân	maːlàmiː	NOUN	_	Definite=Def|Number=Plur	5	dislocated@subj	_	AlignBegin=54904|AlignEnd=54988|Gloss=teacher.Plur.Def
+3	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=55156|AlignEnd=55408|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
+4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
+5	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=55408|AlignEnd=55660|Gloss=say
+6	gàː	gàː	PART	_	PartType=Pred	5	comp:obj	_	AlignBegin=55660|AlignEnd=55912|Gloss=here_is
+7	àbin	àbù	NOUN	_	Definite=Def	6	subj	_	AlignBegin=55912|AlignEnd=56038|Gloss=thing..Def
+8	dà	dà	SCONJ	_	_	7	mod@relcl	_	AlignBegin=56164|AlignEnd=56416|Gloss=COMP
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=56416|AlignEnd=56668|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+11	yi	yi	VERB	_	_	8	comp:obj	_	AlignBegin=56668|AlignEnd=56920|Gloss=do
+12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=56920|AlignEnd=57172|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
+13	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing
+14	yi	yi	VERB	_	_	6	parataxis	_	AlignBegin=57172|AlignEnd=57424|Gloss=do
+15	rashì	ras-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=57424|AlignEnd=57550|Gloss=lack.Vnoun|SpaceAfter=No|wordform=rashìn
+16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen|SpaceAfter=No
+17	tar̃biyyàː	tar̃biyyàː	NOUN	_	_	16	comp:obj	_	AlignBegin=57676|AlignEnd=57928|Gloss=obedience
+18	//	//	PUNCT	_	_	5	punct	_	AlignBegin=57928|AlignEnd=58176|Gloss=PUNCT
+
