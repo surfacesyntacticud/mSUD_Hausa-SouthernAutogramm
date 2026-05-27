@@ -1813,12 +1813,13 @@
 # phonetic_text = sai tanàː mishì waːƙàː //
 # text = sai ta- nàː mishì waːƙàː //
 # text_en = Then she was singing for him.
-1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=213208|AlignEnd=213417|Gloss=then
+1	sai	sai	CCONJ	_	_	3	cc	_	AlignBegin=213208|AlignEnd=213417|Gloss=then
 2	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=213417|AlignEnd=213626|Gloss=3Fem|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=213417|AlignEnd=213626|Copula=Yes|Gloss=Prog|wordform=tanà
-4	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=213626|AlignEnd=213835|Gloss=3Masc.Dat
-5	waːƙàː	waːƙàː	NOUN	_	_	3	comp:pred	_	AlignBegin=213835|AlignEnd=214044|Gloss=song
-6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=214044|AlignEnd=214252|Gloss=PUNCT
+4	Ø	yi	VERB	_	_	3	comp:pred	_	Gloss=do
+5	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=213626|AlignEnd=213835|Gloss=3Masc.Dat
+6	waːƙàː	waːƙàː	NOUN	_	_	4	comp:pred	_	AlignBegin=213835|AlignEnd=214044|Gloss=song
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=214044|AlignEnd=214252|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__123
 # speaker_id = SP1
@@ -2925,7 +2926,7 @@
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen
 5	dà	dà	SCONJ	_	_	4	comp:obj	_	AlignBegin=333687|AlignEnd=333847|Gloss=COMP
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	comp:obj@scrap	_	AlignBegin=333847|AlignEnd=334007|Gloss=3Masc|Relative=Yes|SpaceAfter=No|wordform=ya
-7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	_	_	_	Gloss=Perf.Rel.Sing=
+7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod@scrap	_	Gloss=Perf.Rel.Sing=
 8	||	||	PUNCT	_	_	9	punct	_	AlignBegin=334007|AlignEnd=334168|Gloss=PUNCT
 9	dà	dà	SCONJ	_	_	5	conj:dicto	_	AlignBegin=334168|AlignEnd=334326|Gloss=COMP
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=334326|AlignEnd=334484|Gloss=3Masc-|SpaceAfter=No|wordform=ya
@@ -3519,9 +3520,10 @@
 13	jeː	jeː	VERB	_	_	0	root	_	AlignBegin=399393|AlignEnd=399627|Gloss=go
 14	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	15	subj/m	_	AlignBegin=399627|AlignEnd=399861|Gloss=3Plur|SpaceAfter=No
 15	nàː	nàː	AUX	_	Aspect=Prog	13	mod	_	AlignBegin=399627|AlignEnd=399861|Copula=Yes|Gloss=Prog|wordform=sunà
-16	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	15	comp:obl	_	AlignBegin=399861|AlignEnd=400095|Gloss=3Fem.Dat
-17	tambayoːyiː	tàmbayàː	NOUN	_	Number=Plur	15	comp:obj	_	AlignBegin=400095|AlignEnd=400212|Gloss=question.Plur
-18	//	//	PUNCT	_	_	13	punct	_	AlignBegin=400329|AlignEnd=400561|Gloss=PUNCT
+16	Ø	yi	VERB	_	_	15	comp:pred	_	Gloss=do
+17	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	16	comp:obl	_	AlignBegin=399861|AlignEnd=400095|Gloss=3Fem.Dat
+18	tambayoːyiː	tàmbayàː	NOUN	_	Number=Plur	16	comp:obj	_	AlignBegin=400095|AlignEnd=400212|Gloss=question.Plur
+19	//	//	PUNCT	_	_	13	punct	_	AlignBegin=400329|AlignEnd=400561|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__218
 # speaker_id = SP1

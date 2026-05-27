@@ -976,9 +976,10 @@
 6	sâː	sâː	VERB	_	_	3	comp:cleft	_	AlignBegin=99572|AlignEnd=99792|Gloss=put
 7	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=100206|AlignEnd=100467|Gloss=3Plur|SpaceAfter=No
 8	kèː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	AlignBegin=100206|AlignEnd=100467|Copula=Yes|Gloss=Prog|Relative=Yes|wordform=sukè
-9	manà	manà	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	8	comp:obl	_	AlignBegin=100467|AlignEnd=100597|Gloss=1Plur.Dat
-10	hùːɗaː	huːɗ-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:pred	_	AlignBegin=100990|AlignEnd=101246|Gloss=billow.Vnoun
-11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=101246|AlignEnd=101502|Gloss=PUNCT
+9	Ø	yi	VERB	_	_	8	comp:pred	_	Gloss=do
+10	manà	manà	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	9	comp:obl	_	AlignBegin=100467|AlignEnd=100597|Gloss=1Plur.Dat
+11	hùːɗaː	huːɗ-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	9	comp:pred	_	AlignBegin=100990|AlignEnd=101246|Gloss=billow.Vnoun
+12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=101246|AlignEnd=101502|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_113-113
 # speaker_id = SP1
@@ -1917,8 +1918,9 @@
 1	dukà	dukà	PRON	_	PronType=Tot	3	dislocated@comp	_	AlignBegin=184871|AlignEnd=185025|Gloss=all
 2	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=185025|AlignEnd=185179|Gloss=3Masc|SpaceAfter=No
 3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=185025|AlignEnd=185179|Copula=Yes|Gloss=Prog|wordform=yanà
-4	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	comp:obl	_	AlignBegin=185179|AlignEnd=185333|Gloss=1Sing.Dat
-5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=185333|AlignEnd=185489|Gloss=PUNCT
+4	Ø	yi	VERB	_	_	3	comp:pred	_	Gloss=do
+5	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	comp:obl	_	AlignBegin=185179|AlignEnd=185333|Gloss=1Sing.Dat
+6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=185333|AlignEnd=185489|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_202-202
 # speaker_id = SP2

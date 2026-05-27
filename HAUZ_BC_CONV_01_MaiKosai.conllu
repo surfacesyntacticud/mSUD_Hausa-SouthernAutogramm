@@ -309,7 +309,7 @@
 8	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=33019|AlignEnd=33242|Gloss=with
 9	Mài	Mài	PROPN	_	_	8	comp:obj	_	AlignBegin=33242|AlignEnd=33465|Gloss=Mai
 10	Ƙoːsai	Ƙoːsai	PROPN	_	_	9	flat@name	_	AlignBegin=33465|AlignEnd=33688|Gloss=K'osai
-11	//	//	PUNCT	_	_	_	_	_	AlignBegin=33688|AlignEnd=33908|Gloss=PUNCT
+11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=33688|AlignEnd=33908|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_011-011
 # speaker_id = SP2
@@ -1882,7 +1882,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 202716, 204227
 # phonetic_text = har̃ allàː ya sâː na gamàː < sakandir̃iː sùkûːl > //
-# text = shiː kèː cîː dà niː //=shiː kèː mîn àbîn nân |c kuma ya-kèː tallàfaː mîn wajen har̃kà-n kàr̃àːtuː dà saura-n-sù har̃ Allàː ya=sâː na=gamà sakandir̃iː sùkûːl //
+# text = shiː kèː cîː dà niː //=shiː kèː Ø mîn àbîn nân |c kuma ya-kèː tallàfaː mîn wajen har̃kà-n kàr̃àːtuː dà saura-n-sù har̃ Allàː ya-Ø= sâː na-Ø= gamà sakandir̃iː sùkûːl //
 # text_en = He's the one feeding me, he's the one doing that thing, and supporting me for my school, etc. until God enabled me to finish secondary school.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=198860|AlignEnd=198967|Gloss=3Masc.Nom
 2	kèː	nàː	AUX	_	Aspect=Prog	1	comp:cleft	_	AlignBegin=198967|AlignEnd=199074|Copula=Yes|Gloss=Prog.Rel|Relative=Yes
@@ -1891,35 +1891,36 @@
 5	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=199288|AlignEnd=199395|Gloss=1Sing.Nom
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=199395|AlignEnd=199502|Gloss=PUNCT|SpaceAfter=No
 7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	1	parataxis	_	AlignBegin=199502|AlignEnd=199651|Gloss=3Masc.Nom
-8	kèː	nàː	AUX	_	Aspect=Prog	7	comp:cleft	_	AlignBegin=199651|AlignEnd=199800|Copula=Yes|Gloss=Prog.Rel|Relative=Yes
-9	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	8	comp:obl	_	AlignBegin=199800|AlignEnd=199949|Gloss=1Sing.Dat
-10	àbîn	àbù	NOUN	_	Definite=Def	8	comp:pred	_	AlignBegin=199949|AlignEnd=200023|Gloss=thing.Def
-11	nân	nân	DET	_	Deixis=ProxS|PronType=Dem	10	det	_	AlignBegin=200098|AlignEnd=200247|Gloss=ProxS
-12	|c	|c	PUNCT	_	_	15	punct	_	AlignBegin=200247|AlignEnd=200396|Gloss=PUNCT
-13	kuma	kuma	CCONJ	_	_	15	cc	_	AlignBegin=200396|AlignEnd=200602|Gloss=also
-14	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=Prs	15	subj/m	_	AlignBegin=200602|AlignEnd=200808|Gloss=3Masc|SpaceAfter=No
-15	kèː	nàː	AUX	_	Aspect=Prog	8	conj:coord	_	AlignBegin=200602|AlignEnd=200808|Copula=Yes|Gloss=Prog|Relative=Yes|wordform=yakèː
-16	tallàfaː	tallàfaː	VERB	_	_	15	comp:pred	_	AlignBegin=200808|AlignEnd=201014|Gloss=support
-17	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	16	comp:obl	_	AlignBegin=201014|AlignEnd=201220|Gloss=1Sing.Dat
-18	wajen	wajen	ADP	_	_	16	comp:obl	_	AlignBegin=201220|AlignEnd=201426|Gloss=around
-19	har̃kà	har̃kàː	NOUN	_	_	18	comp:obj	_	AlignBegin=201426|AlignEnd=201529|Gloss=affair|SpaceAfter=No|wordform=har̃kàn
-20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen
-21	kàr̃àːtuː	kàr̃àːtuː	NOUN	_	_	20	comp:obj	_	AlignBegin=201632|AlignEnd=201838|Gloss=education
-22	dà	dà	CCONJ	_	_	23	cc	_	AlignBegin=201838|AlignEnd=202044|Gloss=and
-23	saura	sauraː	NOUN	_	Person=3	19	conj:coord	_	AlignBegin=202044|AlignEnd=202113|Gloss=remainder|SpaceAfter=No|wordform=sauransù
-24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod/m	_	Gloss=Gen|SpaceAfter=No
-25	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	24	comp:obj	_	Gloss=3Plur.Gen
-26	har̃	har̃	SCONJ	_	_	15	mod	_	AlignBegin=202716|AlignEnd=202853|Gloss=up_to
-27	Allàː	Allàː	PROPN	_	_	30	subj	_	AlignBegin=202853|AlignEnd=202990|Gloss=God
-28	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	30	subj/m	_	AlignBegin=202990|AlignEnd=203127|Gloss=3Masc-|SpaceAfter=No|wordform=ya
-29	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	30	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-30	sâː	sâː	VERB	_	_	26	comp:obj	_	AlignBegin=203127|AlignEnd=203264|Gloss=put
-31	na-	na	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	33	subj/m	_	AlignBegin=203264|AlignEnd=203401|Gloss=1Sing-|SpaceAfter=No|wordform=na
-32	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	33	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-33	gamà	gamàː	VERB	_	_	30	comp:obj	_	AlignBegin=203401|AlignEnd=203538|Gloss=finish
-34	sakandir̃iː	sakandir̃iː	ADJ	_	Foreign=Yes	33	comp:obj	_	AlignBegin=203675|AlignEnd=203812|Gloss=secondary|Lang=en
-35	sùkûːl	sùkûːl	NOUN	_	Foreign=Yes	34	flat@foreign	_	AlignBegin=203812|AlignEnd=203949|Gloss=school|Lang=en
-36	//	//	PUNCT	_	_	1	punct	_	AlignBegin=204086|AlignEnd=204227|Gloss=PUNCT
+8	kèː	nàː	AUX	_	Aspect=Prog	9	mod/m	_	AlignBegin=199651|AlignEnd=199800|Copula=Yes|Gloss=Prog.Rel|Relative=Yes
+9	Ø	yi	VERB	_	_	7	comp:cleft	_	Gloss=do
+10	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	comp:obl	_	AlignBegin=199800|AlignEnd=199949|Gloss=1Sing.Dat
+11	àbîn	àbù	NOUN	_	Definite=Def	9	comp:pred	_	AlignBegin=199949|AlignEnd=200023|Gloss=thing.Def
+12	nân	nân	DET	_	Deixis=ProxS|PronType=Dem	11	det	_	AlignBegin=200098|AlignEnd=200247|Gloss=ProxS
+13	|c	|c	PUNCT	_	_	16	punct	_	AlignBegin=200247|AlignEnd=200396|Gloss=PUNCT
+14	kuma	kuma	CCONJ	_	_	16	cc	_	AlignBegin=200396|AlignEnd=200602|Gloss=also
+15	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=Prs	16	subj/m	_	AlignBegin=200602|AlignEnd=200808|Gloss=3Masc|SpaceAfter=No
+16	kèː	nàː	AUX	_	Aspect=Prog	9	conj:coord	_	AlignBegin=200602|AlignEnd=200808|Copula=Yes|Gloss=Prog|Relative=Yes|wordform=yakèː
+17	tallàfaː	tallàfaː	VERB	_	_	16	comp:pred	_	AlignBegin=200808|AlignEnd=201014|Gloss=support
+18	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	17	comp:obl	_	AlignBegin=201014|AlignEnd=201220|Gloss=1Sing.Dat
+19	wajen	wajen	ADP	_	_	17	comp:obl	_	AlignBegin=201220|AlignEnd=201426|Gloss=around
+20	har̃kà	har̃kàː	NOUN	_	_	19	comp:obj	_	AlignBegin=201426|AlignEnd=201529|Gloss=affair|SpaceAfter=No|wordform=har̃kàn
+21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen
+22	kàr̃àːtuː	kàr̃àːtuː	NOUN	_	_	21	comp:obj	_	AlignBegin=201632|AlignEnd=201838|Gloss=education
+23	dà	dà	CCONJ	_	_	24	cc	_	AlignBegin=201838|AlignEnd=202044|Gloss=and
+24	saura	sauraː	NOUN	_	Person=3	20	conj:coord	_	AlignBegin=202044|AlignEnd=202113|Gloss=remainder|SpaceAfter=No|wordform=sauransù
+25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod/m	_	Gloss=Gen|SpaceAfter=No
+26	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	25	comp:obj	_	Gloss=3Plur.Gen
+27	har̃	har̃	SCONJ	_	_	16	mod	_	AlignBegin=202716|AlignEnd=202853|Gloss=up_to
+28	Allàː	Allàː	PROPN	_	_	31	subj	_	AlignBegin=202853|AlignEnd=202990|Gloss=God
+29	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	31	subj/m	_	AlignBegin=202990|AlignEnd=203127|Gloss=3Masc-|SpaceAfter=No|wordform=ya
+30	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	31	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+31	sâː	sâː	VERB	_	_	27	comp:obj	_	AlignBegin=203127|AlignEnd=203264|Gloss=put
+32	na-	na	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	34	subj/m	_	AlignBegin=203264|AlignEnd=203401|Gloss=1Sing-|SpaceAfter=No|wordform=na
+33	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	34	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+34	gamà	gamàː	VERB	_	_	31	comp:obj	_	AlignBegin=203401|AlignEnd=203538|Gloss=finish
+35	sakandir̃iː	sakandir̃iː	ADJ	_	Foreign=Yes	34	comp:obj	_	AlignBegin=203675|AlignEnd=203812|Gloss=secondary|Lang=en
+36	sùkûːl	sùkûːl	NOUN	_	Foreign=Yes	35	flat@foreign	_	AlignBegin=203812|AlignEnd=203949|Gloss=school|Lang=en
+37	//	//	PUNCT	_	_	1	punct	_	AlignBegin=204086|AlignEnd=204227|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_080-081
 # speaker_id = SP2
@@ -2261,8 +2262,8 @@
 # text = loːkàcîn bà-n= &//
 # text_en = At that time, I didn't ...
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	2	mod	_	AlignBegin=248426|AlignEnd=248524|Gloss=time.Def
-2	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	0	mod/m	_	AlignBegin=248622|AlignEnd=248818|Gloss=Neg.Perf-|SpaceAfter=No
-3	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	unk@scrap/m	_	AlignBegin=248622|AlignEnd=248818|Gloss=1Sing=
+2	bà-	bà-	PART	_	Aspect=Perf|PartType=TAM|Polarity=Neg	0	root@scrap	_	AlignBegin=248622|AlignEnd=248818|Gloss=Neg.Perf-|SpaceAfter=No
+3	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj@scrap/m	_	AlignBegin=248622|AlignEnd=248818|Gloss=1Sing=
 4	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=248818|AlignEnd=249014|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_094-094_split2_split2
@@ -4867,17 +4868,18 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 565151, 567828
 # phonetic_text = tòː yàyàː kukèː dà / dabbàː -oCi kuma / ma- kiyàːyeː -aː\HLH //
-# text = tòː yàː kukèː dà dabboːbiː kuma makìyàːyaː ?//
+# text = tòː yàː ku-kèː Ø dà dabboːbiː kuma makìyàːyaː ?//
 # text_en = Well how do you do with... animals and cattle drivers?
 1	tòː	tòː	INTJ	_	_	2	discourse	_	AlignBegin=565151|AlignEnd=565353|Gloss=well
 2	yàː	yàyàː	ADV	_	PronType=Int	0	root	_	AlignBegin=565353|AlignEnd=565555|Gloss=how
 3	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	4	subj/m	_	AlignBegin=565555|AlignEnd=565757|Gloss=2Plur|SpaceAfter=No
-4	kè	nàː	AUX	_	Aspect=Prog	2	comp:cleft	_	AlignBegin=565555|AlignEnd=565757|Copula=Yes|Gloss=Prog|Relative=Yes|wordform=kukè
-5	dà	dà	ADP	_	_	4	comp:obl	_	AlignBegin=565757|AlignEnd=565959|Gloss=with
-6	dabboːbiː	dabbàː	NOUN	_	Number=Plur	5	comp:obj	_	AlignBegin=566161|AlignEnd=566273|Gloss=cattle.Plur
-7	kuma	kuma	CCONJ	_	_	8	cc	_	AlignBegin=566384|AlignEnd=566607|Gloss=too
-8	makìyàːyaː	makìyàːyiː	NOUN	_	Number=Plur	6	conj:coord	_	AlignBegin=567240|AlignEnd=567357|Gloss=keeper.Plur
-9	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=567475|AlignEnd=567828|Gloss=PUNCT
+4	kèː	nàː	AUX	_	Aspect=Prog	2	comp:cleft	_	AlignBegin=565555|AlignEnd=565757|Copula=Yes|Gloss=Prog|Relative=Yes|wordform=kukèː
+5	Ø	yi	VERB	_	_	4	comp:pred	_	Gloss=do
+6	dà	dà	ADP	_	_	5	comp:obl	_	AlignBegin=565757|AlignEnd=565959|Gloss=with
+7	dabboːbiː	dabbàː	NOUN	_	Number=Plur	6	comp:obj	_	AlignBegin=566161|AlignEnd=566273|Gloss=cattle.Plur
+8	kuma	kuma	CCONJ	_	_	9	cc	_	AlignBegin=566384|AlignEnd=566607|Gloss=too
+9	makìyàːyaː	makìyàːyiː	NOUN	_	Number=Plur	7	conj:coord	_	AlignBegin=567240|AlignEnd=567357|Gloss=keeper.Plur
+10	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=567475|AlignEnd=567828|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP1_114-114
 # speaker_id = SP1
