@@ -3,10 +3,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 2009, 6774
 # phonetic_text = tòː shiː wânnan ƙasaː indà kukèː noːmaː -n raːniː / yaː kasànceː kunàː noːmaː -ǹ kunàː saːmùː -n àlbar̃kàː sòːsai à wuriː -ǹ kèː nan //
-# text = tòː shiː wânnan ƙasaː indà kukèː noːman raːniː < yaː kasàncè kunàː noːmân kunàː saːmùn àlbar̃kàː sòːsai à wurîn kèːnan ?//
+# text = tòː shiː wânnan ƙasaː indà ku-kèːnoːma-n raːniː |c y-aː= kasàncè ku-nàːnoːmân ku-nàːsaːmù-nàlbar̃kàː sòːsai à wurîn kèːnan ?//
 # text_en = Well, that soil where you do your dry season farming, where you happen to be farming, is the place fertile?
-1	tòː	tòː	INTJ	_	_	14	discourse	_	AlignBegin=2009|AlignEnd=2203|Gloss=well
-2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	14	dislocated@subj	_	AlignBegin=2203|AlignEnd=2397|Gloss=3Masc.Nom
+1	tòː	tòː	INTJ	_	_	19	discourse	_	AlignBegin=2009|AlignEnd=2203|Gloss=well
+2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	dislocated@mod	_	AlignBegin=2203|AlignEnd=2397|Gloss=3Masc.Nom
 3	wânnan	wânnan	DET	_	Number=Plur	4	det	_	AlignBegin=2397|AlignEnd=2591|Gloss=PreRef
 4	ƙasaː	ƙasaː	NOUN	_	_	2	conj:appos	_	AlignBegin=2591|AlignEnd=2785|Gloss=land
 5	indà	indà	ADV	_	_	4	mod@relcl	_	AlignBegin=2785|AlignEnd=2979|Gloss=where
@@ -15,23 +15,23 @@
 8	noːma	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	comp:pred	_	AlignBegin=3173|AlignEnd=3270|Compound=Yes|Gloss=farm.Vnoun|SpaceAfter=No|wordform=noːman
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	Gloss=Gen.Fem
 10	raːniː	raːniː	NOUN	_	_	9	comp:obj	_	AlignBegin=3367|AlignEnd=3561|Gloss=dry_season
-11	<	<	PUNCT	_	_	14	punct	_	AlignBegin=3561|AlignEnd=3754|Gloss=PUNCT
+11	|c	|c	PUNCT	_	_	14	punct	_	AlignBegin=3561|AlignEnd=3754|Gloss=PUNCT
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=4018|AlignEnd=4230|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 13	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing
-14	kasàncè	kasànceː	VERB	_	_	0	root	_	AlignBegin=4230|AlignEnd=4442|Gloss=become
+14	kasàncè	kasànceː	VERB	_	_	7	conj:coord	_	AlignBegin=4230|AlignEnd=4442|Gloss=become
 15	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	16	subj/m	_	AlignBegin=4442|AlignEnd=4654|Gloss=2Plur|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	14	comp:obj	_	AlignBegin=4442|AlignEnd=4654|Copula=Yes|Gloss=Prog|SpaceAfter=No|wordform=kunàː
 17	noːmân	noːm-	NOUN	_	Definite=Def|ExtPos=NOUN	16	comp:pred	_	AlignBegin=4654|AlignEnd=4760|Gloss=farming.Def
 18	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	19	subj/m	_	AlignBegin=4866|AlignEnd=5078|Gloss=2Plur|SpaceAfter=No
-19	nàː	nàː	AUX	_	Aspect=Prog	16	parataxis@conj	_	AlignBegin=4866|AlignEnd=5078|Copula=Yes|Gloss=Prog|SpaceAfter=No|wordform=kunàː
+19	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=4866|AlignEnd=5078|Copula=Yes|Gloss=Prog|SpaceAfter=No|wordform=kunàː
 20	saːmù	saːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	19	comp:pred	_	AlignBegin=5078|AlignEnd=5184|Gloss=get.Vnoun|SpaceAfter=No|wordform=saːmùn
-21	-n	na	PART	_	Case=Gen|PartType=Case	20	mod/m	_	Gloss=Gen|SpaceAfter=No
+21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen|SpaceAfter=No
 22	àlbar̃kàː	àlbar̃kàː	NOUN	_	_	21	comp:obj	_	AlignBegin=5290|AlignEnd=5502|Gloss=blessing
 23	sòːsai	sòːsai	ADV	_	_	20	mod	_	AlignBegin=5502|AlignEnd=5714|Gloss=quite
-24	à	à	ADP	_	_	20	comp:obl	_	AlignBegin=5714|AlignEnd=5926|Gloss=at
+24	à	à	ADP	_	_	20	mod	_	AlignBegin=5714|AlignEnd=5926|Gloss=at
 25	wurîn	wurîː	NOUN	_	Definite=Def	24	comp:obj	_	AlignBegin=5926|AlignEnd=6032|Gloss=place.Def
-26	kèːnan	kèːnan	PART	_	PartType=Foc	24	comp:obj	_	AlignBegin=6138|AlignEnd=6350|Gloss=Ident.Emph
-27	?//	?//	PUNCT	_	_	14	punct	_	AlignBegin=6562|AlignEnd=6774|Gloss=PUNCT
+26	kèːnan	kèːnan	PART	_	PartType=Foc	19	discourse@foc	_	AlignBegin=6138|AlignEnd=6350|Gloss=Emph
+27	?//	?//	PUNCT	_	_	19	punct	_	AlignBegin=6562|AlignEnd=6774|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_003-003
 # speaker_id = SP2
@@ -1981,30 +1981,32 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 188553, 192203
 # phonetic_text = kà mîn ƙaːrìː -ǹ bàyaːnìː / à kâi -n dàngàntakàː -n -shì dà wancàn kàːkaː taːkù dà allàː ya makà r̃àsu -wàː //
-# text = kà=mîn ƙaːrì-nbàyaːnìː à kân dàngàntakà-n-shì dà wancàn kàːkaː taːkù dà Allàː ya=makà r̃àsuwaː //
+# text = ka-_̀= Ø mîn ƙaːrì-nbàyaːnìː à kân dàngàntakà-n-shì dà wancàn kàːkaː taːkù dà Allàː ya-Ø= Ø makà r̃àsuwaː //
 # text_en = Give me more explanation concerning his relationship with that grand-mother of yours who has died?
-1	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=188553|AlignEnd=188734|Gloss=2Masc-|SpaceAfter=No|wordform=kà
-2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	4	mod/m	_	Gloss=Sub=
-3	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	4	comp:obl	_	AlignBegin=188734|AlignEnd=188915|Gloss=1Sing.Dat
-4	ƙaːrì	ƙaːr-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=188915|AlignEnd=189005|Gloss=increase.Vnoun|SpaceAfter=No|wordform=ƙaːrìn
-5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen|SpaceAfter=No
-6	bàyaːnìː	bàyaːnìː	NOUN	_	_	5	comp:obj	_	AlignBegin=189096|AlignEnd=189277|Gloss=explanation
-7	à	à	ADP	_	ExtPos=ADP	6	comp:obl	_	AlignBegin=189458|AlignEnd=189669|Gloss=at|Idiom=Yes
-8	kân	kân	ADP	_	Definite=Cons|Gender=Masc	7	comp:obj	_	AlignBegin=189669|AlignEnd=189775|Gloss=on|InIdiom=Yes|wordform=kâi
-9	dàngàntakà	dàngàntakàː	NOUN	_	Person=3	7	comp:obj	_	AlignBegin=189880|AlignEnd=189950|Gloss=relationship|SpaceAfter=No|wordform=dàngàntakànshì
-10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen|SpaceAfter=No
-11	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	Gloss=3Masc.Gen
-12	dà	dà	ADP	_	_	9	comp:obl	_	AlignBegin=190091|AlignEnd=190302|Gloss=with
-13	wancàn	cân	DET	_	Deixis=Med|PronType=Dem	14	det	_	AlignBegin=190302|AlignEnd=190513|Gloss=Med
-14	kàːkaː	kàːkaː	NOUN	_	_	12	comp:obj	_	AlignBegin=190513|AlignEnd=190724|Gloss=grand-parent
-15	taːkù	taːkù	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=2|PronType=Prs	14	mod@poss	_	AlignBegin=190724|AlignEnd=190935|Gloss=2Plur.Gen.Fem
-16	dà	dà	SCONJ	_	_	14	mod@relcl	_	AlignBegin=190935|AlignEnd=191146|Gloss=COMP
-17	Allàː	Allàː	PROPN	_	_	20	subj	_	AlignBegin=191146|AlignEnd=191357|Gloss=God|wordform=allàː
-18	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	20	subj/m	_	AlignBegin=191357|AlignEnd=191568|Gloss=3Masc-|SpaceAfter=No|wordform=ya=
-19	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	20	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-20	makà	makà	PRON	_	Case=Dat|ExtPos=VERB|Gender=Masc|Person=2|PronType=Prs	16	comp:obj	_	AlignBegin=191568|AlignEnd=191779|Gloss=2Masc.Dat
-21	r̃àsuwaː	r̃as-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	20	comp:obj	_	AlignBegin=191779|AlignEnd=191885|Gloss=die.Vnoun|wordform=r̃àsu
-22	//	//	PUNCT	_	_	5	comp:obj	_	AlignBegin=191990|AlignEnd=192203|Gloss=PUNCT
+1	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=188553|AlignEnd=188734|Gloss=2Masc-|SpaceAfter=No|wordform=kà
+2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	3	mod/m	_	Gloss=Sub=
+3	Ø	yi	VERB	_	_	0	root	_	Gloss=do
+4	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	comp:obl	_	AlignBegin=188734|AlignEnd=188915|Gloss=1Sing.Dat
+5	ƙaːrì	ƙaːr-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:pred	_	AlignBegin=188915|AlignEnd=189005|Gloss=increase.Vnoun|SpaceAfter=No|wordform=ƙaːrìn
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceAfter=No
+7	bàyaːnìː	bàyaːnìː	NOUN	_	_	6	comp:obj	_	AlignBegin=189096|AlignEnd=189277|Gloss=explanation
+8	à	à	ADP	_	ExtPos=ADP	7	comp:obl	_	AlignBegin=189458|AlignEnd=189669|Gloss=at|Idiom=Yes
+9	kân	kân	ADP	_	Definite=Cons|Gender=Masc	8	comp:obj	_	AlignBegin=189669|AlignEnd=189775|Gloss=on|InIdiom=Yes|wordform=kâi
+10	dàngàntakà	dàngàntakàː	NOUN	_	Person=3	8	comp:obj	_	AlignBegin=189880|AlignEnd=189950|Gloss=relationship|SpaceAfter=No|wordform=dàngàntakànshì
+11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen|SpaceAfter=No
+12	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	11	comp:obj	_	Gloss=3Masc.Gen
+13	dà	dà	ADP	_	_	10	comp:obl	_	AlignBegin=190091|AlignEnd=190302|Gloss=with
+14	wancàn	cân	DET	_	Deixis=Med|PronType=Dem	15	det	_	AlignBegin=190302|AlignEnd=190513|Gloss=Med
+15	kàːkaː	kàːkaː	NOUN	_	_	13	comp:obj	_	AlignBegin=190513|AlignEnd=190724|Gloss=grand-parent
+16	taːkù	taːkù	PRON	_	Case=Gen|Gender=Fem|Number=Plur|Person=2|PronType=Prs	15	mod@poss	_	AlignBegin=190724|AlignEnd=190935|Gloss=2Plur.Gen.Fem
+17	dà	dà	SCONJ	_	_	15	mod@relcl	_	AlignBegin=190935|AlignEnd=191146|Gloss=COMP
+18	Allàː	Allàː	PROPN	_	_	21	subj	_	AlignBegin=191146|AlignEnd=191357|Gloss=God|wordform=allàː
+19	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	AlignBegin=191357|AlignEnd=191568|Gloss=3Masc-|SpaceAfter=No|wordform=ya=
+20	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
+21	Ø	yi	VERB	_	_	17	comp:obj	_	Gloss=do
+22	makà	makà	PRON	_	Case=Dat|ExtPos=VERB|Gender=Masc|Person=2|PronType=Prs	21	comp:obl	_	AlignBegin=191568|AlignEnd=191779|Gloss=2Masc.Dat
+23	r̃àsuwaː	r̃as-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	21	comp:pred	_	AlignBegin=191779|AlignEnd=191885|Gloss=die.Vnoun|wordform=r̃àsu
+24	//	//	PUNCT	_	_	3	punct	_	AlignBegin=191990|AlignEnd=192203|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_208-212
 # speaker_id = SP2
@@ -3273,7 +3275,7 @@
 6	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	7	det	_	AlignBegin=313169|AlignEnd=313449|Gloss=PreRef|PreRef=Yes
 7	Ùngwan	ùngwaː	PROPN	_	_	5	conj:appos	_	AlignBegin=313449|AlignEnd=313589|Gloss=ward|SpaceAfter=No
 8	Fulàːniː	Fulàːniː	PROPN	_	_	7	flat@name	_	AlignBegin=313729|AlignEnd=314009|Gloss=Fulanis
-9	?//	?//	PUNCT	_	_	2	comp:obj	_	AlignBegin=314009|AlignEnd=314291|Gloss=PUNCT
+9	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=314009|AlignEnd=314291|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_340-340
 # speaker_id = SP1

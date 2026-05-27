@@ -6651,7 +6651,7 @@
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod/m	_	AlignBegin=762118|AlignEnd=762230|Gloss=Gen
 5	gar̃gajiya:	gar̃gajiya:	NOUN	_	_	4	comp:obj	_	AlignBegin=762455|AlignEnd=762792|Gloss=olden_times
 6	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	1	det	_	AlignBegin=762792|AlignEnd=763129|Gloss=Def
-7	<	<	PUNCT	_	_	2	comp:obj	_	AlignBegin=763129|AlignEnd=763467|Gloss=PUNCT
+7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=763129|AlignEnd=763467|Gloss=PUNCT
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=763467|AlignEnd=763671|Gloss=4-|SpaceAfter=No|wordform=an
 9	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Plur
 10	dankàfeː	dankaf-	VERB	_	_	0	root	_	AlignBegin=763671|AlignEnd=763875|Gloss=abandon

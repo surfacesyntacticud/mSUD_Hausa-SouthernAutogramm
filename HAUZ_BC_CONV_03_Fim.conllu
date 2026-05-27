@@ -3332,7 +3332,7 @@
 8	saːmar̃	saːm-	VERB	_	_	4	comp:obj	_	AlignBegin=379881|AlignEnd=380097|Gloss=give_out.Cau
 9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=380097|AlignEnd=380313|Gloss=Neg
 10	sam	sam	ADV	_	_	8	mod	_	AlignBegin=380313|AlignEnd=380529|Gloss=at_all|Ideo=Yes
-11	//	//	PUNCT	_	_	4	_	_	AlignBegin=380529|AlignEnd=380741|Gloss=PUNCT
+11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=380529|AlignEnd=380741|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__207
 # speaker_id = SP1
