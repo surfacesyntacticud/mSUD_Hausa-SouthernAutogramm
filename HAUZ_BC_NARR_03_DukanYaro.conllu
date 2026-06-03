@@ -101,7 +101,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
 # sent_timecode = 16328, 19925
 # phonetic_text = sai ya cêː tòː shiː maː barìː yà tàfi dâː maː à jiːniyo kilaːs yakèː //
-# text = dâː maː à jiːniyo kilaːs ya- kè //
+# text = dâː maː à jiːniyo kilaːs ya-kèː //
 # text_en = Actually he was in junior class.
 1	dâː	dâː	ADV	_	_	3	mod	_	AlignBegin=18228|AlignEnd=18470|Gloss=formerly
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=18470|AlignEnd=18712|Gloss=even
@@ -109,7 +109,7 @@
 4	jiːniyo	jiːniyo	ADJ	_	Foreign=Yes	5	mod	_	AlignBegin=18954|AlignEnd=19196|Gloss=junior|Lang=en
 5	kilaːs	kilaːs	NOUN	_	Foreign=Yes	3	comp:obj	_	AlignBegin=19196|AlignEnd=19438|Gloss=class|Lang=en
 6	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=19438|AlignEnd=19680|Gloss=3Masc|SpaceAfter=No
-7	kè	nàː	AUX	_	Aspect=Prog	3	comp:cleft	_	AlignBegin=19438|AlignEnd=19680|Copula=Yes|Gloss=Prog|Relative=Yes|wordform=yakè
+7	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:cleft	_	AlignBegin=19438|AlignEnd=19680|Gloss=Prog.Rel|Relative=Yes|wordform=yakè
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=19680|AlignEnd=19925|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_03_12-12
@@ -335,7 +335,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
 # sent_timecode = 54652, 58176
 # phonetic_text = sai maːlàmiː -ei -ǹ sukà cêː gàː àbù -ǹ dà ya yi yaː yi rashì -n tar̃biyyàː //
-# text = sai màːlàmân sukà cêː gàː àbin -ǹ dà ya yi yaː yi rashì -n tar̃biyyàː //
+# text = sai màːlàmân su-kà= cêː gàː àbin dà ya-Ø= yi y-aː= yi rashì-ntar̃biyyàː //
 # text_en = Then the teachers said here is what he did, he was insolent.
 1	sai	sai	ADV	_	_	5	mod	_	AlignBegin=54652|AlignEnd=54904|Gloss=then
 2	màːlàmân	maːlàmiː	NOUN	_	Definite=Def|Number=Plur	5	dislocated@subj	_	AlignBegin=54904|AlignEnd=54988|Gloss=teacher.Plur.Def
@@ -343,11 +343,11 @@
 4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
 5	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=55408|AlignEnd=55660|Gloss=say
 6	gàː	gàː	PART	_	PartType=Pred	5	comp:obj	_	AlignBegin=55660|AlignEnd=55912|Gloss=here_is
-7	àbin	àbù	NOUN	_	Definite=Def	6	subj	_	AlignBegin=55912|AlignEnd=56038|Gloss=thing..Def
-8	dà	dà	SCONJ	_	_	7	mod@relcl	_	AlignBegin=56164|AlignEnd=56416|Gloss=COMP
+7	àbin	àbù	NOUN	_	Definite=Def	6	subj	_	AlignBegin=55912|AlignEnd=56038|Gloss=thing..Def|RelAnt=Yes
+8	dà	dà	SCONJ	_	_	7	mod@relcl	_	AlignBegin=56164|AlignEnd=56416|Gloss=CompRel|Relz=Word
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=56416|AlignEnd=56668|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 10	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-11	yi	yi	VERB	_	_	8	comp:obj	_	AlignBegin=56668|AlignEnd=56920|Gloss=do
+11	yi	yi	VERB	_	_	8	comp:obj	_	AlignBegin=56668|AlignEnd=56920|ClauseType=Rel|Gloss=do|RelRole=pred
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=56920|AlignEnd=57172|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 13	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing
 14	yi	yi	VERB	_	_	6	parataxis	_	AlignBegin=57172|AlignEnd=57424|Gloss=do
