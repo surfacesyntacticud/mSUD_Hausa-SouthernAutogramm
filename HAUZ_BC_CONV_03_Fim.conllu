@@ -1901,19 +1901,19 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_03.WAV
 # sent_timecode = 222829, 226020
 # phonetic_text = an kai shi wani ɗaːkìː // wai anàː cêː masù Gor̃illas //
-# text = an kai shi wani ɗaːkìː wai anàː cêː masù Gor̃illas //
+# text = a-n= kai shi wani ɗaːkìː wai a-nàː cêː masù Gor̃illas //
 # text_en = They had taken him to place they called 'Gorillas'.
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=222829|AlignEnd=223031|Gloss=4-|SpaceAfter=No|wordform=an
 2	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Plur
 3	kai	kai	VERB	_	_	0	root	_	AlignBegin=223031|AlignEnd=223233|Gloss=carry
 4	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	comp:obj@T	_	AlignBegin=223233|AlignEnd=223435|Gloss=3Masc
 5	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	6	det	_	AlignBegin=223435|AlignEnd=223637|Gloss=some.Masc
-6	ɗaːkìː	ɗaːkìː	NOUN	_	_	3	comp:obj@G	_	AlignBegin=223637|AlignEnd=223839|Gloss=hut
-7	wai	wai	SCONJ	_	Evident=Nfh	6	mod@relcl	_	AlignBegin=224540|AlignEnd=224787|Gloss=reportedly
+6	ɗaːkìː	ɗaːkìː	NOUN	_	_	3	comp:obj@G	_	AlignBegin=223637|AlignEnd=223839|Gloss=hut|RelAnt=Yes
+7	wai	wai	SCONJ	_	Evident=Nfh	6	mod@relcl	_	AlignBegin=224540|AlignEnd=224787|Gloss=reportedly.Rel|Relz=Word
 8	a-	a-	PRON	_	Person=4|PronType=Prs	9	subj/m	_	AlignBegin=224787|AlignEnd=225034|Gloss=4|SpaceAfter=No
-9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp:obj	_	AlignBegin=224787|AlignEnd=225034|Gloss=Prog|wordform=anàː
+9	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	comp:obj	_	AlignBegin=224787|AlignEnd=225034|ClauseType=Rel|Gloss=Prog|wordform=anàː
 10	cêː	cêː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	9	comp:pred	_	AlignBegin=225034|AlignEnd=225281|Gloss=say.Vnoun
-11	masù	masù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	comp:obl	_	AlignBegin=225281|AlignEnd=225528|Gloss=3Plur.Dat
+11	masù	masù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	10	comp:obl	_	AlignBegin=225281|AlignEnd=225528|Gloss=3Plur.Dat|RelRole=obl
 12	Gor̃illas	Gor̃illas	PROPN	_	Foreign=Yes	10	comp:pred	_	AlignBegin=225528|AlignEnd=225775|Gloss=Gorillas|Lang=en
 13	//	//	PUNCT	_	_	3	punct	_	AlignBegin=225775|AlignEnd=226020|Gloss=PUNCT
 
@@ -2697,17 +2697,17 @@
 7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=310685|AlignEnd=310889|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__172
-# text = sòː wandà ya cêː mishì zâi yàdda nèː < mêː-mêː mêː-mêː hakà //
+# text = sòː wandà ya-Ø= cêː mishì zâ-i= yàdda nèː < mêː-mêː mêː-mêː hakà ?//
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_03.WAV
 # sent_timecode = 310889, 314409
 # phonetic_text = so wandà ya cêː mishì / zâi yàdda nèː / mêː mêː mêː mêː hakà //
 # text_en = So, the one who told him he will agree, etc. etc.
 1	sòː	sòː	INTJ	_	Foreign=Yes	12	discourse	_	AlignBegin=310889|AlignEnd=311179|Gloss=so|Lang=en
-2	wandà	wandà	PRON	_	PronType=Rel	12	dislocated	_	AlignBegin=311179|AlignEnd=311469|Gloss=who
+2	wandà	wandà	PRON	_	PronType=Rel	5	subj	_	AlignBegin=311179|AlignEnd=311469|Gloss=who.Rel|RelPos=Yes|Relz=Word
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=311469|AlignEnd=311759|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-5	cêː	cêː	VERB	_	_	2	mod@relcl	_	AlignBegin=311759|AlignEnd=312049|Gloss=say
+5	cêː	cêː	VERB	_	_	12	dislocated@top	_	AlignBegin=311759|AlignEnd=312049|ClauseType=Rel|Gloss=say
 6	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	5	comp:obl	_	AlignBegin=312049|AlignEnd=312339|Gloss=3Masc.Dat
 7	zâ-	zâː-	PART	_	PartType=TAM	9	mod/m	_	Gloss=Fut-|SpaceAfter=No
 8	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=312627|AlignEnd=312778|Gloss=3Masc=|wordform=zâi
@@ -2717,7 +2717,7 @@
 12	mêː-mêː	mêː-mêː	X	_	_	0	root	_	AlignBegin=313230|AlignEnd=313426|Gloss=etc
 13	mêː-mêː	mêː-mêː	X	_	_	12	conj:redup	_	AlignBegin=313426|AlignEnd=313622|Gloss=etc
 14	hakà	hakà	ADV	_	_	12	mod	_	AlignBegin=314014|AlignEnd=314210|Gloss=like_this
-15	//	//	PUNCT	_	_	12	punct	_	AlignBegin=314210|AlignEnd=314409|Gloss=PUNCT
+15	?//	?//	PUNCT	_	_	12	punct	_	AlignBegin=314210|AlignEnd=314409|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__173
 # speaker_id = SP1

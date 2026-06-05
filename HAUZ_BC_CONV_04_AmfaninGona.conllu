@@ -1635,15 +1635,15 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 179930, 181797
 # phonetic_text = ciccìkaː musù bâː wandà zâi iyàː yîː //
-# text = ciccìkaː musù bâː wandà zâi iyà yîː //
+# text = ciccìkaː musù bâː wandà zâː-i=iyà yîː //
 # text_en = Among all of them, there isn't one who is doing it.
 1	ciccìkaː	cik-	VERB	_	Number=Plur	3	mod	_	AlignBegin=179930|AlignEnd=180163|Gloss=fill.Plur
 2	musù	sù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	comp:obl	_	AlignBegin=180163|AlignEnd=180396|Gloss=3Plur.Dat
 3	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=180396|AlignEnd=180629|Gloss=there_is.Neg
-4	wandà	wandà	PRON	_	PronType=Rel	3	subj	_	AlignBegin=180629|AlignEnd=180862|Gloss=who
+4	wandà	wandà	PRON	_	PronType=Rel	7	subj	_	AlignBegin=180629|AlignEnd=180862|Gloss=who.Rel|RelPos=Yes|Relz=Word
 5	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	7	mod/m	_	Gloss=Fut-|SpaceAfter=No
 6	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=180862|AlignEnd=181095|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
-7	iyà	iyàː	VERB	_	_	4	mod@relcl	_	AlignBegin=181095|AlignEnd=181328|Gloss=can
+7	iyà	iyàː	VERB	_	_	3	subj	_	AlignBegin=181095|AlignEnd=181328|ClauseType=Rel|Gloss=can
 8	yîː	yi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	comp:obj	_	AlignBegin=181328|AlignEnd=181561|Gloss=do.Vnoun
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=181561|AlignEnd=181797|Gloss=PUNCT
 
@@ -2432,7 +2432,7 @@
 9	//	//	PUNCT	_	_	4	punct	_	AlignBegin=272866|AlignEnd=273078|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0224-0226
-# text = kâi < Allàː hù âkabar̃ < Allàː ji ƙân wandà sukà rigaː mù //
+# text = kâi < Allàː hù âkabar̃ < Allàː ji ƙâ-n wandà su-kà= rigaː mù //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 273078, 275724
@@ -2448,10 +2448,10 @@
 8	ji	ji	VERB	_	_	0	root	_	AlignBegin=274644|AlignEnd=274798|Gloss=hear.Jus|Jussive=Yes
 9	ƙâ	ƙâi	NOUN	_	_	8	comp:obj	_	AlignBegin=274798|AlignEnd=274875|Gloss=mercy|SpaceAfter=No|wordform=ƙân
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen
-11	wandà	wandà	PRON	_	PronType=Rel	10	comp:obj	_	AlignBegin=274952|AlignEnd=275106|Gloss=who
+11	wandà	wandà	PRON	_	PronType=Rel	14	subj	_	AlignBegin=274952|AlignEnd=275106|Gloss=who.Rel|RelPos=Yes|Relz=Word
 12	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=275106|AlignEnd=275260|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 13	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-14	rigaː	rigaː	VERB	_	_	11	mod@relcl	_	AlignBegin=275260|AlignEnd=275414|Gloss=precede
+14	rigaː	rigaː	VERB	_	_	10	comp:obj	_	AlignBegin=275260|AlignEnd=275414|ClauseType=Rel|Gloss=precede
 15	mù	mu	PRON	_	Number=Plur|Person=1|PronType=Prs	14	comp:obj	_	AlignBegin=275414|AlignEnd=275568|Gloss=1Plur
 16	//	//	PUNCT	_	_	8	punct	_	AlignBegin=275568|AlignEnd=275724|Gloss=PUNCT
 
@@ -3505,7 +3505,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 399528, 402140
 # phonetic_text = kâi / wânnan mangòr̃ò -ǹ / àkwai zaːƙiː // yandà ka sanìː kàmar̃ sigàː //
-# text = kâi < wânnan mangòr̃òn < àkwai zaːƙiː yandà ka san kàman sigàː //
+# text = kâi < wânnan mangòr̃ò-n< àkwai zaːƙiː yandà ka-kà= san kàmar̃ sigàː //
 # text_en = My, that mango tree, it is sweet, just like you know brown sugar.
 1	kâi	kâi	INTJ	_	_	7	discourse	_	AlignBegin=399528|AlignEnd=399681|Gloss=my
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=399681|AlignEnd=399834|Gloss=PUNCT
@@ -3514,11 +3514,11 @@
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod/m	_	Gloss=Gen|SpaceAfter=No
 6	<	<	PUNCT	_	_	5	comp:obj	_	AlignBegin=400238|AlignEnd=400440|Gloss=PUNCT
 7	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	AlignBegin=400440|AlignEnd=400603|Gloss=there_is
-8	zaːƙiː	zaːƙiː	NOUN	_	_	7	subj	_	AlignBegin=400603|AlignEnd=400766|Gloss=sweetness
-9	yandà	yandà	ADV	_	PronType=Rel	12	mod	_	AlignBegin=400930|AlignEnd=401132|Gloss=how
+8	zaːƙiː	zaːƙiː	NOUN	_	_	7	subj	_	AlignBegin=400603|AlignEnd=400766|Gloss=sweetness|RelAnt=Yes
+9	yandà	yandà	ADV	_	PronType=Rel	12	mod	_	AlignBegin=400930|AlignEnd=401132|Gloss=how.Rel|Relz=Word
 10	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	12	subj/m	_	AlignBegin=401132|AlignEnd=401334|Gloss=2Masc-|SpaceAfter=No|wordform=ka
 11	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-12	san	sanìː	VERB	_	_	8	mod@relcl	_	AlignBegin=401334|AlignEnd=401536|Gloss=know
+12	san	sanìː	VERB	_	_	8	mod@relcl	_	AlignBegin=401334|AlignEnd=401536|ClauseType=Rel|Gloss=know|RelRole=mod
 13	kàmar̃	kàmar̃	ADP	_	_	14	discourse	_	AlignBegin=401536|AlignEnd=401738|Gloss=like|wordform=kàman
 14	sigàː	sigàː	NOUN	_	ExtPos=NOUN	12	comp:obj	_	AlignBegin=401738|AlignEnd=401940|Gloss=brown_sugar
 15	//	//	PUNCT	_	_	7	punct	_	AlignBegin=401940|AlignEnd=402140|Gloss=PUNCT
@@ -8436,7 +8436,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 945342, 948276
 # phonetic_text = gwandàː -n daːjìː / kaː tunàː mîn dà wani àbù / wai gwandàː -n daːjìː //
-# text = gwandàn daːjìː < kaː tunàː mîn dà wani àbù wai gwandàn daːjìː //
+# text = gwandà-n daːjìː < k-aː= tunàː mîn dà wani àbù wai gwandà-n daːjìː //
 # text_en = Custard-apple, you remind me of something called custard apple.
 1	gwandà	gwandàː	NOUN	_	_	7	dislocated	_	AlignBegin=945342|AlignEnd=945478|Gloss=pawpaw|SpaceAfter=No|wordform=gwandàn
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod/m	_	Gloss=Gen
@@ -8448,9 +8448,9 @@
 8	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	7	comp:obl	_	AlignBegin=946709|AlignEnd=946846|Gloss=1Sing.Dat
 9	dà	dà	ADP	_	_	7	comp:obl	_	AlignBegin=946846|AlignEnd=946983|Gloss=with
 10	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	11	det	_	AlignBegin=946983|AlignEnd=947120|Gloss=some.Masc
-11	àbù	àbù	NOUN	_	_	9	comp:obj	_	AlignBegin=947120|AlignEnd=947257|Gloss=thing
-12	wai	wai	SCONJ	_	Evident=Nfh	11	mod@relcl	_	AlignBegin=947392|AlignEnd=947613|Gloss=reportedly
-13	gwandà	gwandàː	NOUN	_	_	12	comp:obj	_	AlignBegin=947613|AlignEnd=947723|Gloss=pawpaw|SpaceAfter=No|wordform=gwandàn
+11	àbù	àbù	NOUN	_	_	9	comp:obj	_	AlignBegin=947120|AlignEnd=947257|Gloss=thing|RelAnt=Yes
+12	wai	wai	SCONJ	_	Evident=Nfh	11	mod@relcl	_	AlignBegin=947392|AlignEnd=947613|Gloss=reportedly.Rel|Relz=Word
+13	gwandà	gwandàː	NOUN	_	_	12	comp:obj	_	AlignBegin=947613|AlignEnd=947723|ClauseType=Rel|Gloss=pawpaw|RelRole=subj|SpaceAfter=No|wordform=gwandàn
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	udep/m	_	Gloss=Gen
 15	daːjìː	daːjìː	NOUN	_	_	14	comp:obj	_	AlignBegin=947834|AlignEnd=948055|Gloss=bush
 16	//	//	PUNCT	_	_	7	punct	_	AlignBegin=948055|AlignEnd=948276|Gloss=PUNCT
@@ -10209,10 +10209,10 @@
 7	fa	fa	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=114160|AlignEnd=1141790|Gloss=indeed
 8	<	<	PUNCT	_	_	9	punct	_	AlignBegin=1141790|AlignEnd=1141970|Gloss=PUNCT
 9	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=1141970|AlignEnd=1142150|Gloss=there_is.Neg
-10	wandà	wandà	PRON	_	PronType=Rel	9	subj	_	AlignBegin=1142150|AlignEnd=1142320|Gloss=who
+10	wandà	wandà	PRON	_	PronType=Rel	13	subj	_	AlignBegin=1142150|AlignEnd=1142320|Gloss=who.Rel|RelPos=Yes|Relz=Word
 11	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	13	mod/m	_	Gloss=Fut-|SpaceAfter=No
 12	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=1142320|AlignEnd=114250|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
-13	Ø	yi	PRON	_	_	10	mod@relcl	_	AlignBegin=1142320|AlignEnd=114250|Gloss=do
+13	Ø	yi	PRON	_	_	9	subj	_	AlignBegin=1142320|AlignEnd=114250|ClauseType=Rel|Gloss=do
 14	wànnan	wânnan	PRON	_	PronType=Dem	13	comp:obj	_	AlignBegin=114250|AlignEnd=1142670|Gloss=PreRef|PreRef=Yes
 15	//	//	PUNCT	_	_	9	punct	_	AlignBegin=1142670|AlignEnd=1142850|Gloss=PUNCT
 
@@ -11317,7 +11317,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1263846, 1267469
 # phonetic_text = dan / in kanàː sôː -n kà sàːmaː -eː shi / yànzu -n indà zaːkà sàːmaː -eː shi / sai kaː jeː tudùnwàda //
-# text = dan < in ka-nàː sô-nkà=sàːmeː shi < yànzun indà zaːkà=sàːmeː shi < sai kaː=jeː Tudùn-Wàda //
+# text = dan < in ka-nàː sô-nka-_̀= sàːmeː shi < yànzun indà zaː-kà=sàːmeː shi < sai k-aː= jeː Tudùn-Wàda //
 # text_en = Because if you want to get it, now, if you want to get it, you have to go to Tudun Wada.
 1	dan	don	SCONJ	_	_	23	discourse	_	AlignBegin=1263850|AlignEnd=1263940|Gloss=because
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=1263940|AlignEnd=1264040|Gloss=PUNCT
@@ -11332,10 +11332,10 @@
 11	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=126490|AlignEnd=1265070|Gloss=3Masc
 12	<	<	PUNCT	_	_	3	punct	_	AlignBegin=1265070|AlignEnd=1265240|Gloss=PUNCT
 13	yànzun	yànzu	ADV	_	Definite=Def	23	dislocated	_	AlignBegin=1265240|AlignEnd=1265350|Gloss=now.Def
-14	indà	indà	ADV	_	PronType=Rel	23	mod@relcl	_	AlignBegin=1265450|AlignEnd=1265660|Gloss=COMP.LOC
+14	indà	indà	SCONJ	_	PronType=Rel	23	mod	_	AlignBegin=1265450|AlignEnd=1265660|Gloss=if
 15	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	17	mod/m	_	Gloss=Fut-|SpaceAfter=No
 16	kà=	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	17	subj/m	_	AlignBegin=1265660|AlignEnd=1265870|Gloss=2Masc=|SpaceAfter=No|wordform=zaːkà
-17	sàːmeː	saːm-	VERB	_	_	14	mod@relcl	_	AlignBegin=1265870|AlignEnd=1265980|Gloss=come_acroos
+17	sàːmeː	saːm-	VERB	_	_	14	comp:obj	_	AlignBegin=1265870|AlignEnd=1265980|Gloss=come_acroos
 18	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	AlignBegin=1266080|AlignEnd=1266290|Gloss=3Masc
 19	<	<	PUNCT	_	_	14	punct	_	AlignBegin=1266290|AlignEnd=126650|Gloss=PUNCT
 20	sai	sai	ADV	_	_	23	mod	_	AlignBegin=126650|AlignEnd=126670|Gloss=must
@@ -11453,18 +11453,18 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1280218, 1283533
 # phonetic_text = yandà ka sanìː anàː cîː -n kàːsuwaː / hakà zaːkà jeː kà tarar̃ /
-# text = yandà ka san anàː cîn kàːsuwaː / hakà zaːkà jeː kà tarar̃ /
+# text = yandà ka-kà= san a-nàː cî-nkàːsuwaː < hakà zaː-kà=jeː ka-_̀= tarar̃ //+
 # text_en = The way we go shopping, if you go there, you will find them,
-1	yandà	yandà	ADV	_	PronType=Rel	11	mod	_	AlignBegin=1280220|AlignEnd=1280430|Gloss=how
+1	yandà	yandà	ADV	_	PronType=Rel	7	mod	_	AlignBegin=1280220|AlignEnd=1280430|Gloss=how.Rel|RelPos=Yes|Relz=Word
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=1280430|AlignEnd=1280650|Gloss=2Masc-|SpaceAfter=No|wordform=ka
 3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-4	san	sanìː	VERB	_	_	1	mod@relcl	_	AlignBegin=1280650|AlignEnd=1280860|Gloss=know
+4	san	sanìː	VERB	_	_	11	mod	_	AlignBegin=1280650|AlignEnd=1280860|ClauseType=Rel|Gloss=know
 5	a-	a-	PRON	_	Person=4|PronType=Prs	6	subj/m	_	AlignBegin=1280860|AlignEnd=1281070|Gloss=4|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	comp:obj	_	AlignBegin=1280860|AlignEnd=1281070|Gloss=Prog|wordform=anàː
 7	cî	ci	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=1281070|AlignEnd=1281180|Gloss=eat.Vnoun|SpaceAfter=No|wordform=cîn
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen|SpaceAfter=No
 9	kàːsuwaː	kàːsuwaː	NOUN	_	_	8	comp:obj	_	AlignBegin=1281290|AlignEnd=128150|Gloss=market
-10	<	<	PUNCT	_	_	1	punct	_	AlignBegin=128150|AlignEnd=1281720|Gloss=PUNCT
+10	<	<	PUNCT	_	_	4	punct	_	AlignBegin=128150|AlignEnd=1281720|Gloss=PUNCT
 11	hakà	hakà	ADV	_	_	0	root	_	AlignBegin=1282260|AlignEnd=1282470|Gloss=like_this
 12	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	14	mod/m	_	Gloss=Fut-|SpaceAfter=No
 13	kà=	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	14	subj/m	_	AlignBegin=1282470|AlignEnd=1282680|Gloss=2Masc=|SpaceAfter=No|wordform=zaːkà
@@ -11575,7 +11575,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1291568, 1294903
 # phonetic_text = dukà yandà kakèː cîː -n mâi -n sâː -nuː\H / à wannàn zaːmàniː / bâː yandà zaːʼà yi sanyìː -n ƙàshiː yà shìgaː -eː kà ba //
-# text = duy yandà ka-kèː cî-nmân shaːnuː < à wannàn zaːmàniː < bâː yandà zaːʼà=yi sanyì-n ƙàshiː yà=shìgeː kà ba //
+# text = duy yandà ka-kèː cî-nmân shaːnuː < à wannàn zaːmàniː < bâː yandà zaː-'à=yi sanyì-n ƙàshiː ya-_̀= shìgeː kà ba //
 # text_en = Whenever you are eating butter, nowadays, there is no way you will catch polio.
 1	duy	dukà	DET	_	PronType=Tot	2	det	_	AlignBegin=1291570|AlignEnd=1291740|Gloss=all
 2	yandà	yandà	ADV	_	PronType=Rel	14	mod	_	AlignBegin=1291740|AlignEnd=1291910|Gloss=how
@@ -11591,16 +11591,16 @@
 12	zaːmàniː	zaːmàn	NOUN	_	_	10	comp:obj	_	AlignBegin=1293090|AlignEnd=1293260|Gloss=present_time
 13	<	<	PUNCT	_	_	10	punct	_	AlignBegin=1293260|AlignEnd=1293430|Gloss=PUNCT
 14	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=1293430|AlignEnd=1293560|Gloss=there_is.Neg
-15	yandà	yandà	ADV	_	PronType=Rel	14	subj	_	AlignBegin=1293560|AlignEnd=129370|Gloss=how
+15	yandà	yandà	ADV	_	PronType=Rel	18	mod	_	AlignBegin=1293560|AlignEnd=129370|Gloss=how.Rel|RelPos=Yes|Relz=Word
 16	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	18	mod/m	_	Gloss=Fut-|SpaceAfter=No
 17	'à=	a	PRON	_	Number=Sing|Person=4|PronType=PrsSubj	18	subj/m	_	AlignBegin=129370|AlignEnd=1293830|Gloss=4=|SpaceAfter=No|wordform=zaːʼà
-18	yi	yi	VERB	_	_	15	mod@relcl	_	AlignBegin=1293830|AlignEnd=1293960|Gloss=do
+18	yi	yi	VERB	_	_	14	subj	_	AlignBegin=1293830|AlignEnd=1293960|ClauseType=Rel|Gloss=do
 19	sanyì	sanyìː	NOUN	_	_	24	subj	_	AlignBegin=1293960|AlignEnd=1294030|Gloss=cold|SpaceAfter=No|wordform=sanyìn
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen
 21	ƙàshiː	ƙàshiː	NOUN	_	_	20	comp:obj	_	AlignBegin=129410|AlignEnd=1294230|Gloss=bone
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	AlignBegin=1294230|AlignEnd=1294370|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 23	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	24	mod/m	_	Gloss=Sub=
-24	shìgeː	shig-	VERB	_	_	18	comp:obj	_	AlignBegin=1294370|AlignEnd=1294430|Gloss=enter
+24	shìgeː	shig-	VERB	_	_	18	parataxis:conj	_	AlignBegin=1294370|AlignEnd=1294430|Gloss=enter
 25	kà	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	24	comp:obj@G	_	AlignBegin=129450|AlignEnd=1294640|Gloss=2Masc
 26	ba	ba	PART	_	PartType=Neg|Polarity=Neg	14	mod	_	AlignBegin=1294640|AlignEnd=1294770|Gloss=Neg
 27	//	//	PUNCT	_	_	14	punct	_	AlignBegin=1294770|AlignEnd=129490|Gloss=PUNCT
@@ -14459,7 +14459,7 @@
 2	Àːmadù	Àːmadù	PROPN	_	_	5	subj	_	AlignBegin=1608660|AlignEnd=1608870|Gloss=Amadu
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=1608870|AlignEnd=1609080|AttachTo=HAUZ_BC_CONV_04_1437-1439|Gloss=3Masc-|Rel=mod@relcl|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-5	cêː	cêː	VERB	_	_	1	mod@relcl	_	AlignBegin=1609080|AlignEnd=1609290|Gloss=say
+5	cêː	cêː	VERB	_	_	1	conj:cleft	_	AlignBegin=1609080|AlignEnd=1609290|Gloss=say
 6	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	5	comp:obj	_	Gloss=there_is.Neg|SpaceAfter=No|wordform=baːyà
 7	-yà	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=1609290|AlignEnd=160950|Gloss=-3Masc|wordform=baːyà
 8	dà	dà	ADP	_	_	6	comp:pred	_	AlignBegin=160950|AlignEnd=1609710|Gloss=with
