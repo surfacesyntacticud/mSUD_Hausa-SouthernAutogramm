@@ -1163,12 +1163,12 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_02.WAV
 # sent_timecode = 129858, 131850
-# text = in ta taɓà hankàlin =tà zâi ɓaːcì //
+# text = in ta-Ø= taɓà hankàli-n-tà zâ-i= ɓaːcì //
 # text_en = If she touches (it), she will go mad.
 1	in	in	SCONJ	_	_	10	mod	_	AlignBegin=129858|AlignEnd=130031|Gloss=if
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=130031|AlignEnd=130204|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-4	taɓà	taɓ-	VERB	_	Definite=Cons	1	comp:obj	_	AlignBegin=130376|AlignEnd=130671|Gloss=touch
+4	taɓà	taɓ-	VERB	_	_	1	comp:obj	_	AlignBegin=130376|AlignEnd=130671|Gloss=touch
 5	hankàli	hankàliː	NOUN	_	_	10	subj	_	AlignBegin=130671|AlignEnd=130769|Gloss=mind|Poss=Yes|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen

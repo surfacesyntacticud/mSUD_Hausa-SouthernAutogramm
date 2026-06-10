@@ -1779,7 +1779,7 @@
 8	<	<	PUNCT	_	_	4	punct	_	AlignBegin=208224|AlignEnd=208487|Gloss=PUNCT
 9	sai	sai	ADV	_	_	14	mod	_	AlignBegin=209033|AlignEnd=209461|Gloss=then
 10	<	<	PUNCT	_	_	9	punct	_	AlignBegin=209461|AlignEnd=209889|Gloss=PUNCT
-11	irìn	irìː	NOUN	_	Definite=Cons	14	discourse	_	AlignBegin=210189|AlignEnd=210285|Gloss=type.PUNCT|wordform=irìː
+11	irìn	irìn	INTJ	_	_	14	discourse	_	AlignBegin=210189|AlignEnd=210285|Gloss=like
 12	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	14	subj	_	AlignBegin=210381|AlignEnd=210573|Gloss=3Fem.Nom
 13	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	14	subj/m	_	AlignBegin=210573|AlignEnd=210765|Gloss=3Fem|SpaceAfter=No
 14	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=210573|AlignEnd=210765|Gloss=Prog|wordform=tanàː

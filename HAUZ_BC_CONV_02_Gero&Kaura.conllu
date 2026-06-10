@@ -525,7 +525,7 @@
 1	tòː	tòː	INTJ	_	_	18	discourse	_	AlignBegin=51943|AlignEnd=52145|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=52145|AlignEnd=52348|Gloss=PUNCT
 3	suː	suː	PRON	_	Number=Plur|Person=2|PronType=Prs	18	dislocated@subj	_	AlignBegin=52348|AlignEnd=52570|Gloss=2Plur.Nom
-4	waɗànnan	waɗànnan	DET	_	Definite=Cons|Number=Plur	5	det	_	AlignBegin=52570|AlignEnd=52792|Gloss=Def.Plur
+4	waɗànnan	waɗànnan	DET	_	Number=Plur	5	det	_	AlignBegin=52570|AlignEnd=52792|Gloss=Def.Plur
 5	àwàːkiː	àwàːkiː	NOUN	_	Number=Plur	3	conj:appos	_	AlignBegin=52792|AlignEnd=52903|Gloss=goat.Plur|RelAnt=Yes
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	AlignBegin=53014|AlignEnd=53236|Gloss=CompRel|Relz=Word
 7	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	8	subj/m	_	AlignBegin=53236|AlignEnd=53458|Gloss=2Plur|SpaceAfter=No
@@ -1858,14 +1858,15 @@
 # text_en = I get help from him.
 1	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=176916|AlignEnd=177342|Gloss=1Sing|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=176916|AlignEnd=177342|Gloss=Prog|wordform=inàː
-3	saːmùn	saːm-	VERB	_	Definite=Cons|ExtPos=NOUN|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=177342|AlignEnd=177555|Gloss=get.Vnoun.Cons|wordform=saːmùː
-4	kyautàːtâːwaː	kyautaːt-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	comp:obj	_	AlignBegin=177768|AlignEnd=177981|Gloss=favour.Vnoun|wordform=kyautàːtaː
-5	ta	ta	ADP	_	_	4	comp:obl	_	AlignBegin=178194|AlignEnd=178620|Gloss=via
-6	ɓangarè	ɓangarèː	NOUN	_	Person=3	5	comp:obj	_	AlignBegin=178620|AlignEnd=178762|Gloss=group|SpaceAfter=No|wordform=ɓangarènshì
-7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod/m	_	Gloss=Gen|SpaceAfter=No
-8	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	Gloss=3Masc.Gen
-9	X	X	X	_	_	2	unk	_	AlignBegin=179046|AlignEnd=179473|Gloss=X
-10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=179046|AlignEnd=179473|Gloss=PUNCT
+3	saːmù	saːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	comp:pred	_	AlignBegin=177342|AlignEnd=177555|Gloss=get.Vnoun|SpaceAfter=No|wordform=saːmùn
+4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	mod/m	_	Gloss=Gen|SpaceAfter=No
+5	kyautàːtâːwaː	kyautaːt-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=177768|AlignEnd=177981|Gloss=favour.Vnoun|wordform=kyautàːtaː
+6	ta	ta	ADP	_	_	5	comp:obl	_	AlignBegin=178194|AlignEnd=178620|Gloss=via
+7	ɓangarè	ɓangarèː	NOUN	_	Person=3	6	comp:obj	_	AlignBegin=178620|AlignEnd=178762|Gloss=group|SpaceAfter=No|wordform=ɓangarènshì
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod/m	_	Gloss=Gen|SpaceAfter=No
+9	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Masc.Gen
+10	X	X	X	_	_	2	unk	_	AlignBegin=179046|AlignEnd=179473|Gloss=X
+11	//	//	PUNCT	_	_	2	punct	_	AlignBegin=179046|AlignEnd=179473|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_197-199
 # speaker_id = SP2
@@ -1991,7 +1992,7 @@
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceAfter=No
 7	bàyaːnìː	bàyaːnìː	NOUN	_	_	6	comp:obj	_	AlignBegin=189096|AlignEnd=189277|Gloss=explanation
 8	à	à	ADP	_	ExtPos=ADP	7	comp:obl	_	AlignBegin=189458|AlignEnd=189669|Gloss=at|Idiom=Yes
-9	kân	kân	ADP	_	Definite=Cons|Gender=Masc	8	comp:obj	_	AlignBegin=189669|AlignEnd=189775|Gloss=on|InIdiom=Yes|wordform=kâi
+9	kân	kân	ADP	_	Gender=Masc	8	comp:obj	_	AlignBegin=189669|AlignEnd=189775|Gloss=on|InIdiom=Yes|wordform=kâi
 10	dàngàntakà	dàngàntakàː	NOUN	_	Person=3	8	comp:obj	_	AlignBegin=189880|AlignEnd=189950|Gloss=relationship|SpaceAfter=No|wordform=dàngàntakànshì
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen|SpaceAfter=No
 12	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	11	comp:obj	_	Gloss=3Masc.Gen
