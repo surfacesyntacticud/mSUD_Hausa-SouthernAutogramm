@@ -656,7 +656,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 63229, 69265
 # phonetic_text = yà kasànceː cêːwaː tòː / kàman wajen ɓangarèː -n / noːmaː -n kàːkaː dà kukàn yi / kukàn sayoː dabbàː -oːCiː\H nèː sukàn mukù / tayàː ku aikìː koː / kòː kuː nèː kukàn dukà wannàn aikìː //
-# text = y-aː= kasànceː cêːwaː tòː < kàman wajen ɓangarè-n noːma-n kàːkaː dà ku-kàn= yi < ku-kàn= sayoː dabboːbiː nèː su-kàn= mukù tayàː ku aikìː koː kòː kuː nèː ku-kàn= dukà wannàn aikìː //
+# text = y-aː= kasànceː cêːwaː tòː < kàman wajen ɓangarè-n noːma-n kàːkaː dà ku-kàn= yi < ku-kàn= sayoː dabboːbiː nèː su-kàn= Ø mukù tayàː ku aikìː koː kòː kuː nèː ku-kàn= Ø dukà wannàn aikìː //
 # text_en = It happens that well, like in the area of the rainy season farming that you are doing, you buy animals that you use for your work, or do you do all the work yourself?
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=63229|AlignEnd=63363|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
@@ -671,7 +671,7 @@
 11	noːma	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	10	comp:obj	_	AlignBegin=64873|AlignEnd=64957|Compound=Yes|Gloss=farm.Vnoun|RelAnt=Yes|SpaceAfter=No|wordform=noːman
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	mod/m	_	Gloss=Gen.Fem
 13	kàːkaː	kàːkaː	NOUN	_	_	12	comp:obj	_	AlignBegin=65040|AlignEnd=65207|Gloss=rain_season
-14	dà	dà	ADP	_	_	11	mod@relcl	_	AlignBegin=65207|AlignEnd=65374|Gloss=CompRel|Relz=Word
+14	dà	dà	SCONJ	_	_	11	mod@relcl	_	AlignBegin=65207|AlignEnd=65374|Gloss=CompRel|Relz=Word
 15	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	17	subj/m	_	AlignBegin=65374|AlignEnd=65541|Gloss=2Plur-|SpaceAfter=No|wordform=kukàn
 16	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	17	mod/m	_	Gloss=Hab=
 17	yi	yi	VERB	_	_	14	comp:obj	_	AlignBegin=65541|AlignEnd=65708|ClauseType=Rel|Gloss=do|RelPos=Yes
@@ -681,22 +681,24 @@
 21	sayoː	sayoː	VERB	_	_	4	comp:obj	_	AlignBegin=66052|AlignEnd=66230|Gloss=sell.DIR
 22	dabboːbiː	dabboːbiː	NOUN	_	Number=Plur	21	comp:obj	_	AlignBegin=66230|AlignEnd=66319|Gloss=cattle.Plur
 23	nèː	neː	PART	_	PartType=Foc	22	discourse@foc	_	AlignBegin=66408|AlignEnd=66586|Gloss=Emph
-24	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	27	subj/m	_	AlignBegin=66586|AlignEnd=66764|Gloss=3Plur-|SpaceAfter=No|wordform=sukàn
-25	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	27	mod/m	_	Gloss=Hab=
-26	mukù	mukù	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	27	comp:obl	_	AlignBegin=66764|AlignEnd=66942|Gloss=2.Plur.Dat
-27	tayàː	tay-	VERB	_	_	22	mod@relcl	_	AlignBegin=67261|AlignEnd=67420|Gloss=assist
-28	ku	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	27	comp:obj@R	_	AlignBegin=67420|AlignEnd=67579|Gloss=2.Plur
-29	aikìː	aikìː	NOUN	_	_	27	comp:obj@T	_	AlignBegin=67579|AlignEnd=67738|Gloss=work
-30	koː	koː	CCONJ	_	_	33	cc	_	AlignBegin=67738|AlignEnd=67897|Gloss=or
-31	kòː	kùwa	PART	_	PartType=Top	30	discourse@top	_	AlignBegin=68054|AlignEnd=68205|Gloss=else
-32	kuː	kuː	PRON	_	Case=Nom|Number=Plur|Person=2	33	comp:pred	_	AlignBegin=68205|AlignEnd=68356|Gloss=2Plur.Nom
-33	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	27	conj:coord	_	AlignBegin=68356|AlignEnd=68507|Gloss=be.Masc/Plur
-34	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	38	subj/m	_	AlignBegin=68507|AlignEnd=68658|Gloss=2Plur-|SpaceAfter=No|wordform=kukàn
-35	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	38	mod/m	_	Gloss=Hab=
-36	dukà	dukà	DET	_	PronType=Tot	38	det	_	AlignBegin=68658|AlignEnd=68809|Gloss=all
-37	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	38	det	_	AlignBegin=68809|AlignEnd=68960|Gloss=ProxS.Masc
-38	aikìː	aikìː	NOUN	_	_	33	comp:cleft	_	AlignBegin=68960|AlignEnd=69111|Gloss=work
-39	//	//	PUNCT	_	_	3	punct	_	AlignBegin=69111|AlignEnd=69265|Gloss=PUNCT
+24	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	26	subj/m	_	AlignBegin=66586|AlignEnd=66764|Gloss=3Plur-|SpaceAfter=No|wordform=sukàn
+25	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	26	mod/m	_	Gloss=Hab=
+26	Ø	yi	VERB	_	_	22	mod@relcl	_	Gloss=do|RelPos=Yes
+27	mukù	mukù	PRON	_	Case=Dat|Number=Plur|Person=2|PronType=Prs	26	comp:obl	_	AlignBegin=66764|AlignEnd=66942|Gloss=2.Plur.Dat
+28	tayàː	tay-	VERB	_	_	26	comp:pred	_	AlignBegin=67261|AlignEnd=67420|Gloss=assist
+29	ku	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	28	comp:obj@R	_	AlignBegin=67420|AlignEnd=67579|Gloss=2.Plur
+30	aikìː	aikìː	NOUN	_	_	28	comp:obj@T	_	AlignBegin=67579|AlignEnd=67738|Gloss=work
+31	koː	koː	CCONJ	_	_	34	cc	_	AlignBegin=67738|AlignEnd=67897|Gloss=or
+32	kòː	kùwa	PART	_	PartType=Top	31	discourse@top	_	AlignBegin=68054|AlignEnd=68205|Gloss=else
+33	kuː	kuː	PRON	_	Case=Nom|Number=Plur|Person=2	34	comp:pred	_	AlignBegin=68205|AlignEnd=68356|Gloss=2Plur.Nom
+34	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	21	conj:coord	_	AlignBegin=68356|AlignEnd=68507|Gloss=be.Masc/Plur
+35	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	37	subj/m	_	AlignBegin=68507|AlignEnd=68658|Gloss=2Plur-|SpaceAfter=No|wordform=kukàn
+36	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	37	mod/m	_	Gloss=Hab=
+37	Ø	yi	VERB	_	_	34	comp:cleft	_	Gloss=do
+38	dukà	dukà	DET	_	PronType=Tot	40	det	_	AlignBegin=68658|AlignEnd=68809|Gloss=all
+39	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	40	det	_	AlignBegin=68809|AlignEnd=68960|Gloss=ProxS.Masc
+40	aikìː	aikìː	NOUN	_	_	37	comp:pred	_	AlignBegin=68960|AlignEnd=69111|Gloss=work
+41	//	//	PUNCT	_	_	3	punct	_	AlignBegin=69111|AlignEnd=69265|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_074-078
 # speaker_id = SP2
@@ -3883,12 +3885,12 @@
 2	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=364434|AlignEnd=364680|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_406-407
+# text = sai kuma gida-n Dir̃ùm wandà a-kà= fi sanì-n-shì dà Mài Bindigàː //
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 364680, 367239
 # phonetic_text = sai kuma gidaː -n dir̃ùm // wandà akà fi sanìː -n -shì dà mài bindigàː //
-# text = sai kuma gida-n Dir̃ùm wandà a-kà= fi sanì-n-shì dà Mài Bindigàː //
-# text_en = Then there is Dirum's ward whom is best known as the Hunter.
+# text_en = Then there is Dirum's ward who is best known as the Hunter.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=364680|AlignEnd=364865|Gloss=then
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=364865|AlignEnd=365050|Gloss=too
 3	gida	gidaː	NOUN	_	_	0	root	_	AlignBegin=365050|AlignEnd=365142|Gloss=house|SpaceAfter=No|wordform=gidan
