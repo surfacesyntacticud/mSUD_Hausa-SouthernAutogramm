@@ -275,7 +275,7 @@
 3	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
 4	yi	yi	VERB	_	_	0	root	_	AlignBegin=43088|AlignEnd=43301|Gloss=do
 5	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	6	mod	_	AlignBegin=43301|AlignEnd=43514|Gloss=Iter
-6	duːkà	doːk-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=43514|AlignEnd=43585|Gloss=beat.Vnoun|Poss=Yes|SpaceAfter=No|wordform=duːkàː|wordfrom=duːkànshì
+6	duːkà	doːk-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=43514|AlignEnd=43585|Gloss=beat.Vnoun|SpaceAfter=No|wordform=duːkàː|wordfrom=duːkànshì
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen|SpaceAfter=No
 8	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
 9	a-	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=44170|AlignEnd=44400|Gloss=4-|SpaceAfter=No|wordform=akà
@@ -293,7 +293,7 @@
 # text = sai iyàːyen -shì sukà zoː //
 # text_en = Then his parents came.
 1	sai	sai	ADV	_	_	7	mod	_	AlignBegin=46007|AlignEnd=46276|Gloss=then
-2	iyàːye	iyàːyeː	NOUN	_	_	7	dislocated@subj	_	AlignBegin=46276|AlignEnd=46366|Gloss=relatives|Poss=Yes|SpaceAfter=No|wordform=iyàːyen|wordfrom=iyàːyenshì
+2	iyàːye	iyàːyeː	NOUN	_	_	7	dislocated@subj	_	AlignBegin=46276|AlignEnd=46366|Gloss=relatives|SpaceAfter=No|wordform=iyàːyen|wordfrom=iyàːyenshì
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
 5	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=46545|AlignEnd=46814|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
@@ -309,7 +309,7 @@
 # text = dà iyàːyen -shì sukà zoː / sai sukà / cêː mèː ya yi hakà akà dòːkeː -eː shì ?//
 # text_en = When his parents arrived, then they asked why are they beating him like this?
 1	dà	dà	SCONJ	_	_	11	mod	_	AlignBegin=49023|AlignEnd=49258|Gloss=as
-2	iyàːye	iyàːyeː	NOUN	_	_	7	subj	_	AlignBegin=49258|AlignEnd=49336|Gloss=relatives|Poss=Yes|SpaceAfter=No|wordform=iyàːyen|wordfrom=iyàːyenshì
+2	iyàːye	iyàːyeː	NOUN	_	_	7	subj	_	AlignBegin=49258|AlignEnd=49336|Gloss=relatives|SpaceAfter=No|wordform=iyàːyen|wordfrom=iyàːyenshì
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
 5	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=49493|AlignEnd=49728|Gloss=3Plur-|SpaceAfter=No|wordform=sukà

@@ -228,7 +228,7 @@
 4	jeː	jeː	VERB	_	_	0	root	_	AlignBegin=28595|AlignEnd=28806|Gloss=go
 5	gidaː	gidaː	NOUN	_	_	4	comp:obj@G	_	AlignBegin=28806|AlignEnd=29017|Gloss=home
 6	à	à	ADP	_	_	4	mod	_	AlignBegin=29017|AlignEnd=29228|Gloss=at
-7	gàri	gàriː	NOUN	_	_	6	comp:obj	_	AlignBegin=29228|AlignEnd=29298|Gloss=town|Poss=Yes|SpaceAfter=No|wordform=gàrinsù
+7	gàri	gàriː	NOUN	_	_	6	comp:obj	_	AlignBegin=29228|AlignEnd=29298|Gloss=town|SpaceAfter=No|wordform=gàrinsù
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 9	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	comp:obj	_	Gloss=3Plur.Gen
 10	//	//	PUNCT	_	_	4	punct	_	AlignBegin=29439|AlignEnd=29652|Gloss=PUNCT
@@ -846,7 +846,7 @@
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=96090|AlignEnd=96360|Gloss=4-|SpaceAfter=No|wordform=akà
 2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
 3	kira	kiraː	VERB	_	_	0	root	_	AlignBegin=96360|AlignEnd=96630|Gloss=call
-4	ƴaːƴa	ɗaː	NOUN	_	_	3	comp:obj	_	AlignBegin=96630|AlignEnd=96698|Gloss=child.Plur|Poss=Yes|SpaceAfter=No|wordform=ƴaːƴansù
+4	ƴaːƴa	ɗaː	NOUN	_	_	3	comp:obj	_	AlignBegin=96630|AlignEnd=96698|Gloss=child.Plur|SpaceAfter=No|wordform=ƴaːƴansù
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 6	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	comp:obj	_	Gloss=3Plur.Gen
 7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=96900|AlignEnd=97170|Gloss=PUNCT
@@ -858,7 +858,7 @@
 # phonetic_text = ƴaː \Plur -n -sù gùdaː bìyar̃ //
 # text = ƴaːƴan -sù gùdaː bìyar̃ //
 # text_en = They have five children.
-1	ƴaːƴa	ɗaː	NOUN	_	_	4	subj	_	AlignBegin=97944|AlignEnd=98017|Gloss=child.Plur|Poss=Yes|SpaceAfter=No|wordform=ƴaːƴansù
+1	ƴaːƴa	ɗaː	NOUN	_	_	4	subj	_	AlignBegin=97944|AlignEnd=98017|Gloss=child.Plur|SpaceAfter=No|wordform=ƴaːƴansù
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 3	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	comp:obj	_	Gloss=3Plur.Gen
 4	gùdaː	gùdaː	NUM	_	_	0	root	_	AlignBegin=98236|AlignEnd=98528|Gloss=unit
@@ -996,7 +996,7 @@
 # text = ai tsìyan =shì dà yawàː !//
 # text_en = He is really quarrelsome!
 1	ai	ai	INTJ	_	_	5	discourse	_	AlignBegin=115008|AlignEnd=115203|Gloss=indeed
-2	tsìya	tsìyaː	NOUN	_	_	5	subj	_	AlignBegin=115203|AlignEnd=115398|Gloss=quarrel|Poss=Yes|SpaceAfter=No|wordform=tsìyan|wordfrom=tsìyanshì
+2	tsìya	tsìyaː	NOUN	_	_	5	subj	_	AlignBegin=115203|AlignEnd=115398|Gloss=quarrel|SpaceAfter=No|wordform=tsìyan|wordfrom=tsìyanshì
 3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
 5	dà	dà	ADP	_	_	0	root	_	AlignBegin=115398|AlignEnd=115593|Gloss=with
@@ -1151,7 +1151,7 @@
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=128564|AlignEnd=128866|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
 4	taɓàː	taɓ-	VERB	_	_	1	comp:obj	_	AlignBegin=128866|AlignEnd=129168|Gloss=touch
-5	hankàli	hankàliː	NOUN	_	_	4	comp:obj	_	AlignBegin=129168|AlignEnd=129269|Gloss=mind|Poss=Yes|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
+5	hankàli	hankàliː	NOUN	_	_	4	comp:obj	_	AlignBegin=129168|AlignEnd=129269|Gloss=mind|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
 8	zâ-	zâː-	PART	_	PartType=TAM	10	mod/m	_	Gloss=Fut-|SpaceAfter=No
@@ -1169,7 +1169,7 @@
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=130031|AlignEnd=130204|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
 4	taɓà	taɓ-	VERB	_	_	1	comp:obj	_	AlignBegin=130376|AlignEnd=130671|Gloss=touch
-5	hankàli	hankàliː	NOUN	_	_	10	subj	_	AlignBegin=130671|AlignEnd=130769|Gloss=mind|Poss=Yes|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
+5	hankàli	hankàliː	NOUN	_	_	10	subj	_	AlignBegin=130671|AlignEnd=130769|Gloss=mind|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
 8	zâ-	zâː-	PART	_	PartType=TAM	10	mod/m	_	Gloss=Fut-|SpaceAfter=No
@@ -1222,7 +1222,7 @@
 13	saːmoː	saːm-	VERB	_	_	10	parataxis@conj	_	AlignBegin=135662|AlignEnd=135867|Gloss=get.DIR
 14	àbîn	àbù	NOUN	_	Definite=Def	13	comp:obj	_	AlignBegin=135867|AlignEnd=135969|Gloss=thing.Def
 15	dà	dà	ADP	_	_	13	comp:obl	_	AlignBegin=136072|AlignEnd=136277|Gloss=with
-16	hannuː	hannuː	NOUN	_	_	15	comp:obj	_	AlignBegin=136277|AlignEnd=136379|Gloss=hand|Poss=Yes|SpaceAfter=No
+16	hannuː	hannuː	NOUN	_	_	15	comp:obj	_	AlignBegin=136277|AlignEnd=136379|Gloss=hand|SpaceAfter=No
 17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 18	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	comp:obj/m	_	Gloss=1Sing.Gen
 19	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=137228|AlignEnd=137298|Gloss=PUNCT
@@ -1285,7 +1285,7 @@
 3	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=140852|AlignEnd=140946|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 4	n=	aː=	PART	_	Aspect=Perf|Gender=Fem|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Sing.Fem
 5	ci	ci	VERB	_	_	1	comp:obj	_	AlignBegin=141039|AlignEnd=141226|Gloss=eat
-6	hankàli	hankàliː	NOUN	_	_	11	subj	_	AlignBegin=141961|AlignEnd=142074|GenderAf=Fem|Gloss=mind|Poss=Yes|SpaceAfter=No|wordform=hankàliː
+6	hankàli	hankàliː	NOUN	_	_	11	subj	_	AlignBegin=141961|AlignEnd=142074|GenderAf=Fem|Gloss=mind|SpaceAfter=No|wordform=hankàliː
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 8	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	7	comp:obj/m	_	Gloss=2Fem.Gen
 9	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	11	mod/m	_	Gloss=Fut-|SpaceAfter=No
@@ -1469,7 +1469,7 @@
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
 4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=160100|AlignEnd=160200|Gloss=say
 5	Ƙoːƙì	Ƙoːƙì	PROPN	_	_	11	mod	_	AlignBegin=160298|AlignEnd=160527|Gloss=Manta
-6	àlhaki	àlhakiː	NOUN	_	_	11	subj	_	AlignBegin=161642|AlignEnd=161742|GenderAf=Fem|Gloss=sin|Poss=Yes|SpaceAfter=No|wordform=àlhakiː
+6	àlhaki	àlhakiː	NOUN	_	_	11	subj	_	AlignBegin=161642|AlignEnd=161742|GenderAf=Fem|Gloss=sin|SpaceAfter=No|wordform=àlhakiː
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 8	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	7	comp:obj/m	_	Gloss=2Fem.Gen
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=161943|AlignEnd=162244|Gloss=3Masc-|SpaceAfter=No|wordform=ya
