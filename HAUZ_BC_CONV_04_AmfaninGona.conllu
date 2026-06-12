@@ -982,9 +982,9 @@
 # text_en = There is somebody who often walks pass our house door, when he drinks, they have to carry him away.
 1	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	AlignBegin=107103|AlignEnd=107284|Gloss=there_is
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	1	subj	_	AlignBegin=107284|AlignEnd=107465|Gloss=some.Masc
-3	wandà	wandà	PRON	_	PronType=Rel	5	subj	_	AlignBegin=107465|AlignEnd=107646|Gloss=who.Rel|RelPos=Yes|Relz=word
+3	wandà	wandà	PRON	_	PronType=Rel	2	mod@relcl	_	AlignBegin=107465|AlignEnd=107646|Gloss=who.Rel|Relz=word
 4	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	AlignBegin=107646|AlignEnd=107827|Gloss=3Masc|SpaceAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	mod@relcl	_	AlignBegin=107646|AlignEnd=107827|ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=yakè
+5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp	_	AlignBegin=107646|AlignEnd=107827|ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj|wordform=yakè
 6	yawàn	yawàː	ADJ	_	_	7	mod	_	AlignBegin=107827|AlignEnd=107917|Gloss=most|wordform=yawàː
 7	wucèːwaː	wut-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:pred	_	AlignBegin=108008|AlignEnd=108098|Gloss=pass_by.Vnoun|wordform=wucèː
 8	ta	ta	ADP	_	_	7	comp:obl	_	AlignBegin=108189|AlignEnd=108370|Gloss=via

@@ -3283,10 +3283,10 @@
 23	saːmàː	saːm-	VERB	_	_	19	comp:obj	_	AlignBegin=375148|AlignEnd=375335|Gloss=give
 24	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	23	comp:obl	_	AlignBegin=375335|AlignEnd=375522|Gloss=3Masc.Dat
 25	aikìː	aikìː	NOUN	_	_	23	comp:obj	_	AlignBegin=375707|AlignEnd=375944|Gloss=work
-26	wandà	wandà	PRON	_	PronType=Rel	29	subj	_	AlignBegin=375944|AlignEnd=376181|Gloss=which.Rel|RelPos=Yes|Relz=word
+26	wandà	wandà	PRON	_	PronType=Rel	25	mod@relcl	_	AlignBegin=375944|AlignEnd=376181|Gloss=which.Rel|Relz=word
 27	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	AlignBegin=376181|AlignEnd=376418|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 28	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-29	fi	fi	VERB	_	_	25	mod@relcl	_	AlignBegin=376418|AlignEnd=376655|ClauseType=Rel|Gloss=exceed
+29	fi	fi	VERB	_	_	26	comp	_	AlignBegin=376418|AlignEnd=376655|ClauseType=Rel|Gloss=exceed|RelRole=subj
 30	wânnan	wânnan	PRON	_	Number=Plur|PronType=Dem	29	comp:obj	_	AlignBegin=376655|AlignEnd=376892|Gloss=PreRef|PreRef=Yes
 31	girmaː	girmaː	NOUN	_	_	29	mod	_	AlignBegin=376892|AlignEnd=377129|Gloss=size
 32	//	//	PUNCT	_	_	14	punct	_	AlignBegin=377129|AlignEnd=377365|Gloss=PUNCT
