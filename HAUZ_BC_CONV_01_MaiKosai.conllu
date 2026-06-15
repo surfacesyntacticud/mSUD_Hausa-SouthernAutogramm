@@ -255,12 +255,12 @@
 7	&//	&//	PUNCT	_	_	6	punct	_	AlignBegin=28493|AlignEnd=28840|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_009-009
+# text = kàːkaː-n-aː ( mèː su-kèː &//) wandà a-kèː kirà-n-tà dà R̃aːbi //
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 28840, 31235
 # phonetic_text = kàːkaː -naː ( mèː sukèː &//) wandà akèː kiràː -n -tà dà r̃aːbi //
-# text = kàːkaː-n-aː ( mèː su-kèː &//) wandà a-kèː kirà-n-tà dà R̃aːbi //
-# text_en = My grandmother (what did they...) whom they called Rabi.
+# text_en = My grandmother (what did they...) the one they called Rabi.
 1	kàːkaː	kàːkaː	NOUN	_	_	0	root	_	AlignBegin=28840|AlignEnd=28949|Gloss=grandmother|SpaceAfter=No
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 3	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	comp:obj/m	_	Gloss=1Sing.Gen
@@ -269,12 +269,12 @@
 6	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=29494|AlignEnd=29712|Gloss=3Plur|SpaceAfter=No
 7	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	5	comp:cleft	_	AlignBegin=29494|AlignEnd=29712|Gloss=Prog.Rel|Relative=Yes|wordform=sukè
 8	&//)	&//)	PUNCT	_	_	5	punct	_	AlignBegin=29712|AlignEnd=29930|Gloss=PUNCT
-9	wandà	wandà	PRON	_	PronType=Rel	1	conj:appos	_	AlignBegin=29930|AlignEnd=30148|Gloss=who
+9	wandà	wandà	PRON	_	PronType=Rel	1	conj:appos	_	AlignBegin=29930|AlignEnd=30148|ClauseType=Rel|Gloss=who|Relz=Word
 10	a-	a-	PRON	_	Person=4|PronType=Prs	11	subj/m	_	AlignBegin=30148|AlignEnd=30366|Gloss=4|SpaceAfter=No
 11	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	mod@relcl	_	AlignBegin=30148|AlignEnd=30366|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 12	kirà	kir-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	11	comp:pred	_	AlignBegin=30366|AlignEnd=30439|Gloss=call.Vnoun|SpaceAfter=No|wordform=kiràntà
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen|SpaceAfter=No
-14	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	13	comp:obj	_	Gloss=3Fem.Gen
+14	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	13	comp:obj	_	Gloss=3Fem.Gen|RelPos=Yes
 15	dà	dà	ADP	_	_	12	comp:obl	_	AlignBegin=30584|AlignEnd=30802|Gloss=with
 16	R̃aːbi	R̃aːbi	PROPN	_	_	15	comp:obj	_	AlignBegin=30802|AlignEnd=31020|Gloss=Rabi
 17	//	//	PUNCT	_	_	1	punct	_	AlignBegin=31020|AlignEnd=31235|Gloss=PUNCT
@@ -1828,10 +1828,10 @@
 # text = tundà wandà akà ràsu < akà bâː shì //
 # text_en = Since the one that had died, I had been given to him.
 1	tundà	tundà	SCONJ	_	_	9	discourse	_	AlignBegin=196436|AlignEnd=196598|Gloss=since
-2	wandà	wandà	PRON	_	PronType=Rel	9	dislocated@comp	_	AlignBegin=196598|AlignEnd=196760|Gloss=who
+2	wandà	wandà	PRON	_	PronType=Rel	9	dislocated@comp	_	AlignBegin=196598|AlignEnd=196760|ClauseType=Rel|Gloss=who|Relz=Word
 3	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=196760|AlignEnd=196922|Gloss=4-|SpaceAfter=No|wordform=akà
 4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-5	ràsu	ràsu	VERB	_	_	2	mod@relcl	_	AlignBegin=196922|AlignEnd=197084|Gloss=die
+5	ràsu	ràsu	VERB	_	_	2	mod@relcl	_	AlignBegin=196922|AlignEnd=197084|Gloss=die|RelRole=obj
 6	<	<	PUNCT	_	_	9	punct	_	AlignBegin=197084|AlignEnd=197246|Gloss=PUNCT
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	AlignBegin=197246|AlignEnd=197408|Gloss=4-|SpaceAfter=No|wordform=akà
 8	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
@@ -1918,13 +1918,13 @@
 11	mài	mài	PART	_	Number=Sing|PartType=Der	9	mod	_	AlignBegin=206437|AlignEnd=206547|Extpos=NOUN|Gloss=owner_of.Sing|Linker=Yes
 12	suːnaː	suːnaː	NOUN	_	_	11	compound	_	AlignBegin=206547|AlignEnd=206658|Gloss=name
 13	Taːbi	Taːbi	PROPN	_	_	12	mod:desc	_	AlignBegin=206879|AlignEnd=206989|Gloss=Tabi
-14	wandà	wandà	PRON	_	PronType=Rel	9	mod@relcl	_	AlignBegin=206989|AlignEnd=207100|Gloss=whom
+14	wandà	wandà	PRON	_	PronType=Rel	9	mod@relcl	_	AlignBegin=206989|AlignEnd=207100|Gloss=whom|Relz=Word
 15	a-	a-	PRON	_	Person=4|PronType=Prs	16	subj/m	_	AlignBegin=207321|AlignEnd=207431|Gloss=4|SpaceAfter=No
-16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	mod@relcl	_	AlignBegin=207321|AlignEnd=207431|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
+16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	14	comp:obj	_	AlignBegin=207321|AlignEnd=207431|ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|wordform=akèː
 17	fi	fi	VERB	_	_	16	comp:pred	_	AlignBegin=207431|AlignEnd=207542|Gloss=exceed
 18	kirà	kir-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	17	comp:obj	_	AlignBegin=207763|AlignEnd=207818|Gloss=call.Vnoun|SpaceAfter=No|wordform=kiràntà
 19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen|SpaceAfter=No
-20	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Fem.Gen
+20	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	19	comp:obj	_	Gloss=3Fem.Gen|RelPos=Yes
 21	dà	dà	ADP	_	_	18	comp:pred	_	AlignBegin=207928|AlignEnd=207984|Gloss=with
 22	Mài	Mài	PROPN	_	_	21	comp:obj	_	AlignBegin=208205|AlignEnd=208315|Gloss=Owner_of
 23	Ƙoːsai	Ƙoːsai	PROPN	_	_	22	flat@name	_	AlignBegin=208315|AlignEnd=208426|Gloss=doughnut
@@ -3885,7 +3885,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 451761, 456287
 # phonetic_text = ìdan kukà gamàː noːmaː -n kàːkaː kukàn yi noːmaː -n raːniː // wandà shiː nèː yakàn sâː kuɗiː // bàː irìː -n su tùmaːtìr̃ dà sauraː -n -sù //
-# text = ìdan ku-kàgamà noːman kàːkaː kukàn=yi noːma-n raːniː wandà shiː nèː yakàn=sâː kuɗiː ?//
+# text = ìdan ku-kàgamà noːman kàːkaː ku-kàn= yi noːma-n raːniː wandà shiː nèː ya-kàn= sâː kuɗiː ?//
 # text_en = When you finished rain season farming, you did dry season farming which brought money.
 1	ìdan	ìdan	SCONJ	_	_	9	mod	_	AlignBegin=451761|AlignEnd=451953|Gloss=if
 2	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	3	subj/m	_	AlignBegin=451953|AlignEnd=452145|Gloss=2Plur|SpaceAfter=No
@@ -3899,9 +3899,9 @@
 10	noːma	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	9	comp:pred	_	AlignBegin=453105|AlignEnd=453201|Compound=Yes|Gloss=farm.Vnoun|SpaceAfter=No|wordform=noːman
 11	-n	na	PART	_	Case=Gen|PartType=Case	10	udep/m	_	Gloss=Gen.Fem
 12	raːniː	raːniː	NOUN	_	_	11	comp:obj	_	AlignBegin=453297|AlignEnd=453489|Gloss=dry_season
-13	wandà	wandà	PRON	_	PronType=Rel	10	mod@relcl	_	AlignBegin=453889|AlignEnd=454051|Gloss=which
+13	wandà	wandà	PRON	_	PronType=Rel	10	mod@relcl	_	AlignBegin=453889|AlignEnd=454051|Gloss=which|Relz=Word
 14	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	15	comp:pred	_	AlignBegin=454051|AlignEnd=454213|Gloss=3Masc.Nom
-15	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	13	mod@relcl	_	AlignBegin=454213|AlignEnd=454375|Gloss=be.Masc/Plur
+15	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	13	comp@obj	_	AlignBegin=454213|AlignEnd=454375|ClauseType=Rel|Gloss=be.Masc/Plur|RelRole=subj
 16	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	18	subj/m	_	AlignBegin=454375|AlignEnd=454537|Gloss=3Masc-|SpaceAfter=No|wordform=yakàn
 17	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	18	mod/m	_	Gloss=Hab=
 18	sâː	sâː	VERB	_	_	15	comp:cleft	_	AlignBegin=454537|AlignEnd=454699|Gloss=put

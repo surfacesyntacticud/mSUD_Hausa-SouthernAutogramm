@@ -3650,7 +3650,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 345340, 346831
 # phonetic_text = sa'àː -ǹ nan kuma / àkwai gidaː -n dattì //
-# text = sa'àn nan kuma / àkwai gidan Dattì //
+# text = sa'ànnan kuma < àkwai gida-n Dattì //
 # text_en = Then, there is the ward of Datti.
 1	sa'ànnan	sa'ànnan	ADV	_	_	4	mod	_	AlignBegin=345340|AlignEnd=345426|Gloss=then|wordform=sa'àː
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=345684|AlignEnd=345856|Gloss=too
@@ -3658,7 +3658,7 @@
 4	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	AlignBegin=346030|AlignEnd=346230|Gloss=there_is
 5	gida	gidaː	NOUN	_	_	4	subj	_	AlignBegin=346230|AlignEnd=346330|Compound=Yes|Gloss=house|SpaceAfter=No|wordform=gidan
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen.Fem
-7	Dattì	Dattì	PROPN	_	_	6	comp:obj	_	AlignBegin=346430|AlignEnd=346630|Gloss=Datti
+7	Dattì	Dattì	PROPN	_	_	6	comp:obj	_	AlignBegin=346430|AlignEnd=346630|Gloss=Datti|Overlap=HAUZ_BC_CONV_02_380-380
 8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=346630|AlignEnd=346831|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_379-379
@@ -3678,8 +3678,8 @@
 # phonetic_text = dattì mà'aːzù //
 # text = Dattì Mà'aːzù //
 # text_en = Datti Ma'azu.
-1	Dattì	Dattì	PROPN	_	_	0	root	_	AlignBegin=347228|AlignEnd=347493|AttachTo=HAUZ_BC_CONV_02_384-384|Gloss=Datti|Rel=dislocated@top
-2	Mà'aːzù	Mà'aːzù	PROPN	_	_	1	flat@name	_	AlignBegin=347493|AlignEnd=347758|Gloss=Ma'azu
+1	Dattì	Dattì	PROPN	_	_	0	root	_	AlignBegin=347228|AlignEnd=347493|AttachTo=7@HAUZ_BC_CONV_02_377-378|Gloss=Datti|Overlap=HAUZ_BC_CONV_02_377-378|Rel=conj:appos
+2	Mà'aːzù	Mà'aːzù	PROPN	_	_	1	flat@name	_	AlignBegin=347493|AlignEnd=347758|Gloss=Ma'azu|Overlap=HAUZ_BC_CONV_02_382-382
 3	//	//	PUNCT	_	_	1	punct	_	AlignBegin=347758|AlignEnd=348022|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_381-381
@@ -3697,13 +3697,13 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 348022, 349144
 # phonetic_text = wandà akèː cêː mâi mà'aːzù // anàː cêː mài dattì //
-# text = wandà akèː cêː mâi Mà'aːzù //
+# text = wandà a-kèː cêː mâi Mà'aːzù //
 # text_en = that they call Ma'azu,
-1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=348022|AlignEnd=348209|Gloss=who|Overlap=HAUZ_BC_CONV_02_380-380
+1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=348022|AlignEnd=348209|AttachTo=1@HAUZ_BC_CONV_02_380-380|Gloss=who|Overlap=HAUZ_BC_CONV_02_380-380|Rel=mod@relcl|Relz=Word
 2	a-	a-	PRON	_	Person=4|PronType=Prs	3	subj/m	_	AlignBegin=348209|AlignEnd=348396|AttachTo=HAUZ_BC_CONV_02_380-380|Gloss=4|Rel=mod@relcl|SpaceAfter=No
-3	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	AlignBegin=348209|AlignEnd=348396|AttachTo=HAUZ_BC_CONV_02_380-380|Gloss=Prog.Rel|Rel=mod@relcl|Relative=Yes|wordform=akèː
+3	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	AlignBegin=348209|AlignEnd=348396|AttachTo=HAUZ_BC_CONV_02_380-380|ClauseType=Rel|Gloss=Prog.Rel|Rel=mod@relcl|Relative=Yes|wordform=akèː
 4	cêː	cêː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:pred	_	AlignBegin=348396|AlignEnd=348583|Gloss=say.Vnoun
-5	mâi	mâi	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=348583|AlignEnd=348770|Gloss=3Masc.Dat
+5	mâi	mâi	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=348583|AlignEnd=348770|Gloss=3Masc.Dat|RelPos=Yes
 6	Mà'aːzù	Mà'aːzù	PROPN	_	_	4	comp:pred	_	AlignBegin=348770|AlignEnd=348957|Gloss=Ma'azu
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=348957|AlignEnd=349144|Gloss=PUNCT
 
