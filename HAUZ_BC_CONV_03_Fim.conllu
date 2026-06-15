@@ -127,10 +127,10 @@
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
 3	yi	yi	VERB	_	_	0	root	_	AlignBegin=15137|AlignEnd=15376|Gloss=do
 4	iyàːkân	iyàːkaː	NOUN	_	Definite=Def	3	comp:pred	_	AlignBegin=15376|AlignEnd=15496|Gloss=limitDef|RelAnt=Yes|wordform=iyàːkaː
-5	wandà	wandà	SCONJ	_	PronType=Rel	4	mod@relcl	_	AlignBegin=15615|AlignEnd=15854|Gloss=which.Rel|RelPos=Yes|Relz=Word
+5	wandà	wandà	PRON	_	ExtPos=SCONJ|PronType=Rel	4	mod@relcl	_	AlignBegin=15615|AlignEnd=15854|Gloss=which.Rel|Relz=Word
 6	zâ-	zâː-	PART	_	PartType=TAM	8	mod/m	_	Gloss=Fut-|SpaceAfter=No
 7	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=15854|AlignEnd=16093|Gloss=1Sing=|wordform=zân
-8	iyàː	iyàː	VERB	_	_	5	comp:obj	_	AlignBegin=16093|AlignEnd=16332|ClauseType=Rel|Gloss=can|RelRole=obj
+8	iyàː	iyàː	VERB	_	_	5	comp:obj	_	AlignBegin=16093|AlignEnd=16332|Gloss=can|RelRole=obj
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=16332|AlignEnd=16570|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__10

@@ -11334,10 +11334,10 @@
 11	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=126490|AlignEnd=1265070|Gloss=3Masc
 12	<	<	PUNCT	_	_	3	punct	_	AlignBegin=1265070|AlignEnd=1265240|Gloss=PUNCT
 13	yànzun	yànzu	ADV	_	Definite=Def	23	dislocated	_	AlignBegin=1265240|AlignEnd=1265350|Gloss=now.Def
-14	indà	indà	SCONJ	_	PronType=Rel	23	mod	_	AlignBegin=1265450|AlignEnd=1265660|Gloss=if
+14	indà	indà	ADV	_	PronType=Rel	23	mod	_	AlignBegin=1265450|AlignEnd=1265660|ClauseType=Rel|Gloss=where.Rel|Relz=Word
 15	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	17	mod/m	_	Gloss=Fut-|SpaceAfter=No
 16	kà=	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	17	subj/m	_	AlignBegin=1265660|AlignEnd=1265870|Gloss=2Masc=|SpaceAfter=No|wordform=zaːkà
-17	sàːmeː	saːm-	VERB	_	_	14	comp:obj	_	AlignBegin=1265870|AlignEnd=1265980|Gloss=come_acroos
+17	sàːmeː	saːm-	VERB	_	_	14	mod@relcl	_	AlignBegin=1265870|AlignEnd=1265980|Gloss=come_acroos|RelRole=mod
 18	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	17	comp:obj	_	AlignBegin=1266080|AlignEnd=1266290|Gloss=3Masc
 19	<	<	PUNCT	_	_	14	punct	_	AlignBegin=1266290|AlignEnd=126650|Gloss=PUNCT
 20	sai	sai	ADV	_	_	23	mod	_	AlignBegin=126650|AlignEnd=126670|Gloss=must

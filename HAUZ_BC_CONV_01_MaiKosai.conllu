@@ -2602,7 +2602,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 282638, 285482
 # phonetic_text = sukà zoː sukà kaːmàː wânnan sâː // wandà yakèː cikin wânnan //
-# text = sukà zoː sukà kaːmàː wânnan sâː wandà ya kè cikin wânnan X //
+# text = su-kà= zoː su-kà= kaːmàː wânnan sâː wandà ya-kè cikin wânnan X //
 # text_en = They went and they .. caught that bull who was in that XX.
 1	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=282638|AlignEnd=282875|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 2	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	3	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
@@ -2612,9 +2612,9 @@
 6	kaːmàː	kaːm-	VERB	_	_	3	parataxis@conj	_	AlignBegin=283349|AlignEnd=283586|Gloss=catch
 7	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	8	det	_	AlignBegin=283586|AlignEnd=283823|Gloss=PreRef|PreRef=Yes
 8	sâː	sâː	NOUN	_	_	6	comp:obj	_	AlignBegin=283823|AlignEnd=284060|Gloss=bull
-9	wandà	wandà	PRON	_	PronType=Rel	8	mod@relcl	_	AlignBegin=284297|AlignEnd=284415|Gloss=which
+9	wandà	wandà	PRON	_	PronType=Rel	8	mod@relcl	_	AlignBegin=284297|AlignEnd=284415|Gloss=which|Relz=Word
 10	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=284415|AlignEnd=284534|Gloss=3Masc|SpaceAfter=No
-11	kè	neː	PART	_	PartType=Pred	9	mod@relcl	_	AlignBegin=284415|AlignEnd=284534|Gloss=be.Rel2|Relative=Variante|wordform=ya
+11	kè	neː	PART	_	PartType=Pred	9	comp:obj	_	AlignBegin=284415|AlignEnd=284534|ClauseType=Rel|Gloss=be.Rel2|Relative=Variante|RelRole=subj|wordform=ya
 12	cikin	cikin	ADP	_	_	11	comp:pred	_	AlignBegin=284771|AlignEnd=284889|Gloss=inside
 13	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	14	det	_	AlignBegin=284889|AlignEnd=285008|Gloss=PreRef|PreRef=Yes
 14	X	X	X	_	_	12	comp:obj	_	AlignBegin=285245|AlignEnd=285482|Gloss=X
@@ -4579,11 +4579,11 @@
 2	ràːfiː	ràːfiː	NOUN	_	_	1	subj	_	AlignBegin=529991|AlignEnd=530222|Gloss=river|RelAnt=Yes
 3	gùdaː	gùdaː	NUM	_	_	2	det	_	AlignBegin=530453|AlignEnd=530684|Gloss=unit
 4	ɗaya	ɗaya	NUM	_	_	3	flat@num	_	AlignBegin=530684|AlignEnd=530915|Gloss=one
-5	wandà	wandà	PRON	_	ExtPos=PRON|PronType=Rel	2	mod@relcl	_	AlignBegin=531146|AlignEnd=531377|Gloss=which.Rel|Idiom=Yes|Relz=Word
-6	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	unk	_	AlignBegin=531377|AlignEnd=531608|Gloss=3Masc|InIdiom=Yes|SpaceAfter=No
-7	kè	neː	PART	_	Copula=Yes|PartType=Pred	6	unk	_	AlignBegin=531377|AlignEnd=531608|Gloss=be.Rel2|InIdiom=Yes|Relative=Variante|wordform=ya
+5	wandà	wandà	PRON	_	ExtPos=SCONJ|PronType=Rel	2	mod@relcl	_	AlignBegin=531146|AlignEnd=531377|Gloss=which.Rel|Idiom=Yes|Relz=Word
+6	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=531377|AlignEnd=531608|Gloss=3Masc|InIdiom=Yes|SpaceAfter=No
+7	kè	neː	PART	_	Copula=Yes|PartType=Pred	5	comp:obj	_	AlignBegin=531377|AlignEnd=531608|ClauseType=Rel|Gloss=be.Rel2|InIdiom=Yes|Relative=Variante|RelRole=subj|wordform=ya
 8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	AlignBegin=531608|AlignEnd=531839|Gloss=3Masc.Nom
-9	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	5	comp	_	AlignBegin=531839|AlignEnd=532070|Gloss=be.Masc/Plur|RelRole=subj
+9	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	5	comp@obj	_	AlignBegin=531839|AlignEnd=532070|Gloss=be.Masc/Plur|RelRole=subj
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=532070|AlignEnd=532301|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 11	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
 12	ɗiːbàː	ɗiːbàː	VERB	_	_	9	comp:cleft	_	AlignBegin=532301|AlignEnd=532532|Gloss=scoop_out|RelRole=obj
