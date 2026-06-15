@@ -451,7 +451,7 @@
 8	keː	keː	PRON	_	Gender=Fem|Person=2|PronType=Prs	11	vocative	_	AlignBegin=50493|AlignEnd=50656|Gloss=2Fem.Nom
 9	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	11	mod/m	_	Gloss=Fut-|SpaceAfter=No
 10	kì=	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	11	subj/m	_	AlignBegin=50656|AlignEnd=50819|Gloss=2Fem=|SpaceAfter=No|wordform=zaːkì
-11	zoː	zoː	VERB	_	_	3	parataxis	_	AlignBegin=50982|AlignEnd=51145|Gloss=come
+11	zoː	zoː	VERB	_	_	3	parataxis:conj	_	AlignBegin=50982|AlignEnd=51145|Gloss=come
 12	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=51145|AlignEnd=51312|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__32
@@ -828,7 +828,7 @@
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=98196|AlignEnd=98323|Gloss=PUNCT
 3	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=98323|AlignEnd=98476|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 4	n=	aː=	PART	_	Aspect=Perf|Gender=Fem|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Sing.Fem
-5	san	sanìː	VERB	_	_	7	parataxis@discourse	_	AlignBegin=98476|AlignEnd=98629|Gloss=know
+5	san	sanìː	VERB	_	_	7	parataxis:discourse	_	AlignBegin=98476|AlignEnd=98629|Gloss=know
 6	gòːbe	gòːbe	ADV	_	_	7	mod	_	AlignBegin=98629|AlignEnd=98782|Gloss=tomorrow
 7	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=98782|AlignEnd=98935|Gloss=there_is.Neg
 8	fa	fa	PART	_	PartType=Top	7	discourse@top	_	AlignBegin=98935|AlignEnd=99088|Gloss=indeed
@@ -1677,7 +1677,7 @@
 # text_en = You know, him, as it is, he did not have anything.
 1	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=198509|AlignEnd=198711|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 2	n=	aː=	PART	_	Aspect=Perf|Gender=Fem|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing.Fem
-3	san	sanìː	VERB	_	_	8	parataxis@discourse	_	AlignBegin=198711|AlignEnd=198913|Gloss=know
+3	san	sanìː	VERB	_	_	8	parataxis:discourse	_	AlignBegin=198711|AlignEnd=198913|Gloss=know
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	AlignBegin=198913|AlignEnd=199115|Gloss=3Masc.Nom
 5	dà	dà	SCONJ	_	ExtPos=ADV	8	mod	_	AlignBegin=199115|AlignEnd=199317|Gloss=COMP|Idiom=Yes
 6	ya-	ya-	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=199115|AlignEnd=199317|Gloss=3Masc|InIdiom=Yes|SpaceAfter=No
@@ -1964,7 +1964,7 @@
 11	dàyakè	dàyakè	SCONJ	_	_	27	mod	_	AlignBegin=230793|AlignEnd=230925|Gloss=since
 12	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	14	subj/m	_	AlignBegin=230925|AlignEnd=231057|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 13	n=	aː=	PART	_	Aspect=Perf|Gender=Fem|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing.Fem
-14	san	sanìː	VERB	_	_	18	parataxis@discourse	_	AlignBegin=231057|AlignEnd=231189|Gloss=know
+14	san	sanìː	VERB	_	_	18	parataxis:discourse	_	AlignBegin=231057|AlignEnd=231189|Gloss=know
 15	<	<	PUNCT	_	_	14	punct	_	AlignBegin=231189|AlignEnd=231320|Gloss=PUNCT
 16	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	18	subj	_	AlignBegin=231320|AlignEnd=231558|Gloss=3Fem.Nom
 17	ta-	ta-	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	18	subj/m	_	AlignBegin=231558|AlignEnd=231796|Gloss=3Fem|SpaceAfter=No
@@ -2111,7 +2111,7 @@
 15	yaːrinyàn	yaːrinyàː	NOUN	_	Definite=Def	18	dislocated@subj	_	AlignBegin=245392|AlignEnd=245466|Gloss=girl.Def|wordform=yaːrinyàː
 16	<	<	PUNCT	_	_	15	punct	_	AlignBegin=245541|AlignEnd=245692|Gloss=PUNCT
 17	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	18	subj/m	_	AlignBegin=245692|AlignEnd=245897|Gloss=3Fem|SpaceAfter=No
-18	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	12	parataxis	_	AlignBegin=245692|AlignEnd=245897|Gloss=Prog|wordform=tanàː
+18	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	12	parataxis:conj	_	AlignBegin=245692|AlignEnd=245897|Gloss=Prog|wordform=tanàː
 19	kai	kai	VERB	_	_	18	comp:pred	_	AlignBegin=245897|AlignEnd=246102|Gloss=carry
 20	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	19	comp:obl	_	AlignBegin=246102|AlignEnd=246307|Gloss=3Masc.Dat
 21	|c	|c	PUNCT	_	_	24	punct	_	AlignBegin=246307|AlignEnd=246512|Gloss=PUNCT
@@ -2845,7 +2845,7 @@
 # text_en = You know, she was a stranger.
 1	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=325965|AlignEnd=326160|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 2	n=	aː=	PART	_	Aspect=Perf|Gender=Fem|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing.Fem
-3	sanìː	sanìː	VERB	_	_	6	parataxis@discourse	_	AlignBegin=326160|AlignEnd=326355|Gloss=know
+3	sanìː	sanìː	VERB	_	_	6	parataxis:discourse	_	AlignBegin=326160|AlignEnd=326355|Gloss=know
 4	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	6	subj	_	AlignBegin=326355|AlignEnd=326550|Gloss=3Fem.Nom
 5	bàːƙuwaː	bàːƙuwaː	NOUN	_	Gender=Fem	6	comp:pred	_	AlignBegin=326550|AlignEnd=326745|Gloss=stranger.Fem
 6	cèː	neː	AUX	_	Copula=Yes|Gender=Fem	0	root	_	AlignBegin=326745|AlignEnd=326940|Gloss=be.Fem

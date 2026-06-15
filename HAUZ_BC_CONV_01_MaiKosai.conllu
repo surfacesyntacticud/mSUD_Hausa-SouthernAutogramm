@@ -1566,7 +1566,7 @@
 3	rigaː	rigaː	VERB	_	_	0	root	_	AlignBegin=174268|AlignEnd=174410|Gloss=already
 4	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	AlignBegin=174410|AlignEnd=174552|Gloss=4-|SpaceAfter=No|wordform=an
 5	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	6	mod/m	_	Gloss=Perf.Plur
-6	san	sanìː	VERB	_	_	3	parataxis	_	AlignBegin=174552|AlignEnd=174694|Gloss=know
+6	san	sanìː	VERB	_	_	3	parataxis:conj	_	AlignBegin=174552|AlignEnd=174694|Gloss=know
 7	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=174694|AlignEnd=174836|Gloss=3Masc.Nom
 8	à	à	ADP	_	_	6	mod	_	AlignBegin=174836|AlignEnd=174978|Gloss=at
 9	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	8	comp:obj	_	AlignBegin=174978|AlignEnd=175120|Gloss=PreRef|PreRef=Yes
@@ -1866,7 +1866,7 @@
 4	dà	dà	ADP	_	_	3	comp:obl	_	AlignBegin=199181|AlignEnd=199288|Gloss=with
 5	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=199288|AlignEnd=199395|Gloss=1Sing.Nom
 6	//=	//=	PUNCT	_	_	7	punct	_	AlignBegin=199395|AlignEnd=199502|Gloss=PUNCT|SpaceAfter=No
-7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	1	parataxis	_	AlignBegin=199502|AlignEnd=199651|Gloss=3Masc.Nom
+7	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	1	parataxis:conj	_	AlignBegin=199502|AlignEnd=199651|Gloss=3Masc.Nom
 8	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	mod/m	_	AlignBegin=199651|AlignEnd=199800|Gloss=Prog.Rel|Relative=Yes
 9	Ø	yi	VERB	_	_	7	comp:cleft	_	Gloss=do
 10	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	comp:obl	_	AlignBegin=199800|AlignEnd=199949|Gloss=1Sing.Dat
@@ -2848,7 +2848,7 @@
 1	tundà	tundà	SCONJ	_	_	9	discourse	_	AlignBegin=317593|AlignEnd=317806|Gloss=since
 2	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=317806|AlignEnd=318019|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 3	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing
-4	san	san-	VERB	_	_	9	parataxis@discourse	_	AlignBegin=318019|AlignEnd=318232|Gloss=know
+4	san	san-	VERB	_	_	9	parataxis:discourse	_	AlignBegin=318019|AlignEnd=318232|Gloss=know
 5	yànzu	yànzu	ADV	_	_	9	mod	_	AlignBegin=318232|AlignEnd=318445|Gloss=now
 6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=318445|AlignEnd=318658|Gloss=PUNCT
 7	baː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	9	mod/m	_	Gloss=Neg.Prog-|wordform=baː
@@ -3033,7 +3033,7 @@
 # text_en = You know if the thing grows quickly birds are hungry they will keep on eating the thing.
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=344138|AlignEnd=344360|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
-3	san	sanìː	VERB	_	_	18	parataxis@discourse	_	AlignBegin=344360|AlignEnd=344582|Gloss=know
+3	san	sanìː	VERB	_	_	18	parataxis:discourse	_	AlignBegin=344360|AlignEnd=344582|Gloss=know
 4	ìdan	ìdan	SCONJ	_	_	18	mod	_	AlignBegin=344582|AlignEnd=344804|Gloss=if
 5	àbù	àbù	NOUN	_	_	8	subj	_	AlignBegin=344804|AlignEnd=345026|Gloss=thing
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=345026|AlignEnd=345248|Gloss=3Masc-|SpaceAfter=No|wordform=ya
@@ -3171,7 +3171,7 @@
 9	yi	yi	VERB	_	_	6	comp:obj	_	AlignBegin=364230|AlignEnd=364400|ClauseType=Rel|Gloss=do|RelPos=Yes
 10	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	12	subj/m	_	AlignBegin=364400|AlignEnd=364485|Gloss=2Plur-|SpaceAfter=No|wordform=kukàn
 11	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	12	mod/m	_	Gloss=Hab=
-12	saːmù	saːmù	VERB	_	_	9	parataxis	_	AlignBegin=364570|AlignEnd=364627|Gloss=get
+12	saːmù	saːmù	VERB	_	_	9	parataxis:conj	_	AlignBegin=364570|AlignEnd=364627|Gloss=get
 13	waɗànnan	waɗànnan	DET	_	Number=Plur|PronType=Dem	14	det	_	AlignBegin=364485|AlignEnd=364570|Gloss=PreRef.Plur|PreRef=Yes
 14	buhunàː	bùhuː	NOUN	_	Number=Plur	12	comp:obj	_	AlignBegin=364627|AlignEnd=364684|Gloss=sack.Plur
 15	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=PrsSubj	17	subj/m	_	AlignBegin=365250|AlignEnd=365284|Gloss=2Plur-|SpaceAfter=No|wordform=kukàn
@@ -3589,7 +3589,7 @@
 # text_en = You kow how life is now.
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=413473|AlignEnd=413668|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
-3	sanìː	sanìː	VERB	_	_	5	parataxis@discourse	_	AlignBegin=413668|AlignEnd=413863|Gloss=know
+3	sanìː	sanìː	VERB	_	_	5	parataxis:discourse	_	AlignBegin=413668|AlignEnd=413863|Gloss=know
 4	dai	dai	PART	_	PartType=Top	3	discourse@top	_	AlignBegin=413863|AlignEnd=414058|Gloss=indeed
 5	ràːyuwa	ràːyuwaː	NOUN	_	_	0	root	_	AlignBegin=414058|AlignEnd=414156|Gloss=existence|SpaceAfter=No|wordform=ràːyuwan
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod/m	_	Gloss=Gen
@@ -4122,7 +4122,7 @@
 4	sâː	sâː	VERB	_	_	1	comp:cleft	_	AlignBegin=478361|AlignEnd=478547|Gloss=put
 5	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	7	subj/m	_	AlignBegin=478547|AlignEnd=478733|Gloss=2Masc-|SpaceAfter=No|wordform=ka
 6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-7	ji	jiyàː	VERB	_	_	4	parataxis@discourse	_	AlignBegin=478733|AlignEnd=478919|Gloss=hear
+7	ji	jiyàː	VERB	_	_	4	parataxis:discourse	_	AlignBegin=478733|AlignEnd=478919|Gloss=hear
 8	dai	dai	PART	_	PartType=Top	7	discourse@top	_	AlignBegin=478919|AlignEnd=479105|Gloss=indeed
 9	dà	dà	ADP	_	_	4	comp:obj	_	AlignBegin=479105|AlignEnd=479291|Gloss=with
 10	farkoː	farkoː	NOUN	_	_	9	comp:obj	_	AlignBegin=479291|AlignEnd=479477|Gloss=beginning
@@ -4341,7 +4341,7 @@
 7	<	<	PUNCT	_	_	2	punct	_	AlignBegin=501165|AlignEnd=501359|Gloss=PUNCT
 8	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	10	subj/m	_	AlignBegin=501359|AlignEnd=501569|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 9	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Sing
-10	san	sanìː	VERB	_	_	32	parataxis@discourse	_	AlignBegin=501569|AlignEnd=501779|Gloss=know
+10	san	sanìː	VERB	_	_	32	parataxis:discourse	_	AlignBegin=501569|AlignEnd=501779|Gloss=know
 11	suːnàːyeː	suːnaː	NOUN	_	Number=Plur	32	dislocated@top	_	AlignBegin=501779|AlignEnd=501884|Gloss=name.Plur
 12	|a	|a	PUNCT	_	_	13	punct	_	AlignBegin=501989|AlignEnd=502199|Gloss=PUNCT
 13	irìn	irìː	NOUN	_	Definite=Def	11	conj:appos	_	AlignBegin=502199|AlignEnd=502304|Gloss=type.Def
@@ -4753,7 +4753,7 @@
 24	tòː	tòː	INTJ	_	_	32	discourse	_	AlignBegin=554786|AlignEnd=554956|Gloss=well
 25	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	27	subj/m	_	AlignBegin=554956|AlignEnd=555126|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 26	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	27	mod/m	_	Gloss=Perf.Sing
-27	ganiː	ganiː	VERB	_	_	32	parataxis@discourse	_	AlignBegin=555126|AlignEnd=555296|Gloss=see
+27	ganiː	ganiː	VERB	_	_	32	parataxis:discourse	_	AlignBegin=555126|AlignEnd=555296|Gloss=see
 28	<	<	PUNCT	_	_	27	punct	_	AlignBegin=555296|AlignEnd=555466|Gloss=PUNCT
 29	àbîn	àbː	NOUN	_	Definite=Def	32	subj	_	AlignBegin=555466|AlignEnd=555587|Gloss=thing.Def
 30	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	AlignBegin=555708|AlignEnd=555950|Gloss=3Masc-|SpaceAfter=No|wordform=yakàn
@@ -4987,7 +4987,7 @@
 # text_en = You know, cattle drivers they are not really careful.
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=581782|AlignEnd=581941|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
-3	sanìː	sanìː	VERB	_	_	10	parataxis@discourse	_	AlignBegin=581941|AlignEnd=582100|Gloss=know
+3	sanìː	sanìː	VERB	_	_	10	parataxis:discourse	_	AlignBegin=581941|AlignEnd=582100|Gloss=know
 4	màːsu	mài	PART	_	Number=Plur|PartType=Der	10	dislocated@subj	_	AlignBegin=582100|AlignEnd=582259|Gloss=having.Plur|Linker=Yes
 5	kiːwòn	kiːwòː	NOUN	_	_	4	compound	_	AlignBegin=582259|AlignEnd=582339|Gloss=cattle_breeding.def
 6	<	<	PUNCT	_	_	4	punct	_	AlignBegin=582418|AlignEnd=582577|Gloss=PUNCT
@@ -5101,7 +5101,7 @@
 1	tundà	tundà	SCONJ	_	_	8	discourse	_	AlignBegin=595777|AlignEnd=595996|Gloss=since
 2	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=595996|AlignEnd=596215|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 3	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing
-4	san	sanìː	VERB	_	_	8	parataxis@discourse	_	AlignBegin=596215|AlignEnd=596434|Gloss=know
+4	san	sanìː	VERB	_	_	8	parataxis:discourse	_	AlignBegin=596215|AlignEnd=596434|Gloss=know
 5	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	8	dislocated@subj	_	AlignBegin=596434|AlignEnd=596653|Gloss=2Plur.Nom
 6	wânnan	wânnan	PRON	_	Number=Plur|PronType=Dem	5	conj:appos	_	AlignBegin=596653|AlignEnd=596872|Gloss=PreRef|PreRef=Yes
 7	su-	su-	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	8	subj/m	_	AlignBegin=596872|AlignEnd=597091|Gloss=3Plur|SpaceAfter=No

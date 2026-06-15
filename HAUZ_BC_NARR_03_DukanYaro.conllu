@@ -11,7 +11,7 @@
 4	raːnaː	raːnaː	NOUN	_	_	2	subj	_	AlignBegin=2006|AlignEnd=2273|Gloss=day
 5	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=3816|AlignEnd=4112|Gloss=1Plur-|SpaceAfter=No|wordform=mukà
 6	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur|Relative=Yes
-7	yiwoː	yi	VERB	_	_	2	parataxis	_	AlignBegin=4112|AlignEnd=4408|Gloss=do.DIR
+7	yiwoː	yi	VERB	_	_	2	parataxis:conj	_	AlignBegin=4112|AlignEnd=4408|Gloss=do.DIR
 8	lettìː	lettìː	NOUN	_	_	7	comp:pred	_	AlignBegin=4408|AlignEnd=4704|Gloss=late|Lang=en
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=4704|AlignEnd=5002|Gloss=PUNCT
 
@@ -158,7 +158,7 @@
 7	tsayàː	tsayàː	VERB	_	_	4	comp:obj	_	AlignBegin=26530|AlignEnd=26721|Gloss=stop
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=26910|AlignEnd=27102|Gloss=4-|SpaceAfter=No|wordform=à
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
-10	dòːkeː	doːk-	VERB	_	_	7	parataxis	_	AlignBegin=27102|AlignEnd=27198|Gloss=beat
+10	dòːkeː	doːk-	VERB	_	_	7	parataxis:conj	_	AlignBegin=27102|AlignEnd=27198|Gloss=beat
 11	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=27294|AlignEnd=27486|Gloss=3Masc
 12	//	//	PUNCT	_	_	4	punct	_	AlignBegin=27486|AlignEnd=27679|Gloss=PUNCT
 
@@ -326,7 +326,7 @@
 16	hakà	hakà	ADV	_	_	15	mod	_	AlignBegin=52616|AlignEnd=52824|Gloss=like_this
 17	a-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	AlignBegin=52824|AlignEnd=53032|Gloss=4-|SpaceAfter=No|wordform=akà
 18	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-19	dòːkeː	doːk-	VERB	_	_	15	parataxis	_	AlignBegin=53032|AlignEnd=53136|Gloss=beat
+19	dòːkeː	doːk-	VERB	_	_	15	parataxis:conj	_	AlignBegin=53032|AlignEnd=53136|Gloss=beat
 20	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	19	comp:obj	_	AlignBegin=53240|AlignEnd=53448|Gloss=3Masc
 21	?//	?//	PUNCT	_	_	11	punct	_	AlignBegin=53448|AlignEnd=53652|Gloss=PUNCT
 
@@ -350,7 +350,7 @@
 11	yi	yi	VERB	_	_	8	comp:obj	_	AlignBegin=56668|AlignEnd=56920|ClauseType=Rel|Gloss=do|RelRole=pred
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=56920|AlignEnd=57172|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 13	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing
-14	yi	yi	VERB	_	_	6	parataxis	_	AlignBegin=57172|AlignEnd=57424|Gloss=do
+14	yi	yi	VERB	_	_	6	parataxis:conj	_	AlignBegin=57172|AlignEnd=57424|Gloss=do
 15	rashì	ras-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=57424|AlignEnd=57550|Gloss=lack.Vnoun|SpaceAfter=No|wordform=rashìn
 16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen|SpaceAfter=No
 17	tar̃biyyàː	tar̃biyyàː	NOUN	_	_	16	comp:obj	_	AlignBegin=57676|AlignEnd=57928|Gloss=obedience

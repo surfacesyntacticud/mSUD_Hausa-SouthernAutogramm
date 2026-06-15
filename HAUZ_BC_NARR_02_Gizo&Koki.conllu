@@ -23,7 +23,7 @@
 3	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=1814|AlignEnd=1958|Gloss=come
 4	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=1958|AlignEnd=2102|Gloss=2Plur-|SpaceAfter=No|wordform=mù
 5	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	6	mod/m	_	Gloss=Sub=
-6	jiː	ji	VERB	_	_	3	parataxis	_	AlignBegin=2102|AlignEnd=2246|Gloss=hear
+6	jiː	ji	VERB	_	_	3	parataxis:conj	_	AlignBegin=2102|AlignEnd=2246|Gloss=hear
 7	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=2246|AlignEnd=2390|Gloss=3Fem
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=2390|AlignEnd=2536|Gloss=PUNCT
 
@@ -404,7 +404,7 @@
 9	sôː	soː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:pred	_	AlignBegin=49904|AlignEnd=50088|Gloss=want.Vnoun|RelRole=obj
 10	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	12	subj/m	_	AlignBegin=50088|AlignEnd=50272|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 11	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Sing
-12	saːmù	saːm-	VERB	_	_	1	parataxis	_	AlignBegin=50272|AlignEnd=50456|Gloss=get
+12	saːmù	saːm-	VERB	_	_	1	parataxis:conj	_	AlignBegin=50272|AlignEnd=50456|Gloss=get
 13	//	//	PUNCT	_	_	1	punct	_	AlignBegin=50456|AlignEnd=50640|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_036
@@ -1245,7 +1245,7 @@
 9	taɓàː	taɓ-	VERB	_	_	5	comp:obj	_	AlignBegin=138215|AlignEnd=138356|Gloss=touch
 10	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	12	subj/m	_	AlignBegin=138356|AlignEnd=138497|Gloss=1Sing-|wordform=ìn
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub=
-12	ci	ci	VERB	_	_	9	parataxis	_	AlignBegin=138497|AlignEnd=138638|Gloss=eat
+12	ci	ci	VERB	_	_	9	parataxis:conj	_	AlignBegin=138497|AlignEnd=138638|Gloss=eat
 13	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	AlignBegin=138638|AlignEnd=138779|Gloss=Neg
 14	?//	?//	PUNCT	_	_	5	punct	_	AlignBegin=138779|AlignEnd=138918|Gloss=PUNCT
 
@@ -1513,7 +1513,7 @@
 4	àlhakiː	àlhakiː	NOUN	_	_	7	subj	_	AlignBegin=168031|AlignEnd=168238|Gloss=sin
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=168238|AlignEnd=168445|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 6	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Sing
-7	kaːmàː	kaːm-	VERB	_	_	2	parataxis	_	AlignBegin=168445|AlignEnd=168652|Gloss=catch
+7	kaːmàː	kaːm-	VERB	_	_	2	parataxis:conj	_	AlignBegin=168445|AlignEnd=168652|Gloss=catch
 8	ni	ni	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	comp:obj	_	AlignBegin=168652|AlignEnd=168859|Gloss=1Sing
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=168859|AlignEnd=169067|Gloss=PUNCT
 
@@ -1573,7 +1573,7 @@
 9	ci	ci	VERB	_	_	6	conj:dicto	_	AlignBegin=173606|AlignEnd=173716|Gloss=eat
 10	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	12	subj/m	_	AlignBegin=173827|AlignEnd=173999|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 11	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Sing
-12	hanàː	hanàː	VERB	_	_	3	parataxis	_	AlignBegin=173999|AlignEnd=174171|Gloss=forbid
+12	hanàː	hanàː	VERB	_	_	3	parataxis:conj	_	AlignBegin=173999|AlignEnd=174171|Gloss=forbid
 13	ni	ni	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	12	comp:obj	_	AlignBegin=174171|AlignEnd=174343|Gloss=1Sing
 14	//	//	PUNCT	_	_	3	punct	_	AlignBegin=174343|AlignEnd=174516|Gloss=PUNCT
 
@@ -1639,7 +1639,7 @@
 7	jeː	jeː	VERB	_	_	3	parataxis:mod	_	AlignBegin=179342|AlignEnd=179497|Gloss=go
 8	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	10	subj/m	_	AlignBegin=179497|AlignEnd=179652|Gloss=1Sing-|wordform=ìn
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
-10	saːmoː	saːmoː	VERB	_	_	7	parataxis	_	AlignBegin=179652|AlignEnd=179807|Gloss=get.DIR
+10	saːmoː	saːmoː	VERB	_	_	7	parataxis:conj	_	AlignBegin=179652|AlignEnd=179807|Gloss=get.DIR
 11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=179807|AlignEnd=179807|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_150
@@ -1698,7 +1698,7 @@
 2	ai	ai	INTJ	_	_	9	discourse	_	AlignBegin=183691|AlignEnd=183878|Gloss=indeed
 3	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=183878|AlignEnd=184065|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 4	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Sing
-5	ga	ganiː	VERB	_	_	9	parataxis@discourse	_	AlignBegin=184065|AlignEnd=184252|Gloss=see
+5	ga	ganiː	VERB	_	_	9	parataxis:discourse	_	AlignBegin=184065|AlignEnd=184252|Gloss=see
 6	àlhakiː	àlhakiː	NOUN	_	_	9	subj	_	AlignBegin=184252|AlignEnd=184439|Gloss=sin
 7	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=184439|AlignEnd=184626|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 8	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Sing
@@ -1721,7 +1721,7 @@
 6	sai	sai	ADV	_	_	9	mod	_	AlignBegin=186132|AlignEnd=186289|Gloss=then
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=186289|AlignEnd=186446|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 8	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-9	mutù	mutù	VERB	_	_	5	parataxis	_	AlignBegin=186446|AlignEnd=186603|Gloss=die
+9	mutù	mutù	VERB	_	_	5	parataxis:conj	_	AlignBegin=186446|AlignEnd=186603|Gloss=die
 10	//	//	PUNCT	_	_	5	punct	_	AlignBegin=186603|AlignEnd=186756|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_155
@@ -1739,7 +1739,7 @@
 6	sai	sai	ADV	_	_	9	mod	_	AlignBegin=187182|AlignEnd=187349|Gloss=then
 7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=187349|AlignEnd=187516|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 8	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-9	mutù	mutù	VERB	_	_	5	parataxis	_	AlignBegin=187516|AlignEnd=187683|Gloss=die
+9	mutù	mutù	VERB	_	_	5	parataxis:conj	_	AlignBegin=187516|AlignEnd=187683|Gloss=die
 10	//	//	PUNCT	_	_	5	punct	_	AlignBegin=187683|AlignEnd=187854|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_156
