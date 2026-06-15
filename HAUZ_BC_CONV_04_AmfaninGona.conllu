@@ -2448,10 +2448,10 @@
 8	ji	ji	VERB	_	_	0	root	_	AlignBegin=274644|AlignEnd=274798|Gloss=hear.Jus|Jussive=Yes
 9	ƙâ	ƙâi	NOUN	_	_	8	comp:obj	_	AlignBegin=274798|AlignEnd=274875|Gloss=mercy|SpaceAfter=No|wordform=ƙân
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen
-11	wandà	wandà	PRON	_	PronType=Rel	14	subj	_	AlignBegin=274952|AlignEnd=275106|Gloss=who.Rel|RelPos=Yes|Relz=Word
+11	wandà	wandà	PRON	_	PronType=Rel	10	comp:obj	_	AlignBegin=274952|AlignEnd=275106|ClauseType=Rel|Gloss=who.Rel|Relz=Word
 12	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=275106|AlignEnd=275260|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 13	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-14	rigaː	rigaː	VERB	_	_	10	comp:obj	_	AlignBegin=275260|AlignEnd=275414|ClauseType=Rel|Gloss=precede
+14	rigaː	rigaː	VERB	_	_	11	mod@relcl	_	AlignBegin=275260|AlignEnd=275414|ClauseType=Rel|Gloss=precede|RelRole=subj
 15	mù	mu	PRON	_	Number=Plur|Person=1|PronType=Prs	14	comp:obj	_	AlignBegin=275414|AlignEnd=275568|Gloss=1Plur
 16	//	//	PUNCT	_	_	8	punct	_	AlignBegin=275568|AlignEnd=275724|Gloss=PUNCT
 

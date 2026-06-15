@@ -1511,7 +1511,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 145822, 152617
 # phonetic_text = in har̃ bàkà sâː mâi wânnan ba zaːkà àbù -ǹ nan X X zaː'à ganiː -ːːː / àː / wandà ya zoː ya shiryèː ya sâː na -ːːː / na bàtuːr̃èː -n / zâi fi kà saːmùː -n àmfàːniː fa //
-# text = in har̃ bàkà=sâː mâi wânnan ba zaːkà=àbîn nan zaː'à=ga àː < wandà ya=zoː ya=shiryèː ya=sâː na || na Bàtuːr̃èn < zâi=fi kà saːmù-nàmfàːniː fa //
+# text = in har̃ bà-kà= sâː mâi wânnan ba zaː-kà=àbîn nan zaː-à=ga àː < wandà ya-Ø= zoː ya-Ø= shiryèː ya-Ø= sâː na || na Bàtuːr̃èn < zâː-i=fi kà saːmù-nàmfàːniː fa //
 # text_en = And even if you don't put put that on it, you wwill see that... er... the person who has prepared his field and who has put... fertilizers he will get better crops than you.
 1	in	in	SCONJ	_	_	11	mod	_	AlignBegin=145822|AlignEnd=145950|Gloss=if
 2	har̃	har̃	ADV	_	_	1	unk	_	AlignBegin=145950|AlignEnd=146078|Gloss=even
@@ -1530,10 +1530,10 @@
 15	ga	ganiː	VERB	_	_	11	conj:dicto	_	AlignBegin=147673|AlignEnd=147785|Gloss=see
 16	àː	àː	INTJ	_	_	35	discourse	_	AlignBegin=148370|AlignEnd=148490|Gloss=FILL
 17	<	<	PUNCT	_	_	16	punct	_	AlignBegin=148490|AlignEnd=148610|Gloss=PUNCT
-18	wandà	wandà	PRON	_	PronType=Rel	35	subj	_	AlignBegin=148610|AlignEnd=148828|Gloss=who
+18	wandà	wandà	PRON	_	PronType=Rel	35	subj	_	AlignBegin=148610|AlignEnd=148828|ClauseType=Rel|Gloss=who|Relz=Word
 19	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	21	subj/m	_	AlignBegin=148828|AlignEnd=149046|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 20	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	21	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-21	zoː	zoː	VERB	_	_	18	mod@relcl	_	AlignBegin=149046|AlignEnd=149264|Gloss=come
+21	zoː	zoː	VERB	_	_	18	mod@relcl	_	AlignBegin=149046|AlignEnd=149264|Gloss=come|RelRole=subj
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	AlignBegin=149264|AlignEnd=149482|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 23	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
 24	shiryèː	shiryèː	VERB	_	_	21	parataxis@conj	_	AlignBegin=149482|AlignEnd=149700|Gloss=prepare
@@ -1547,7 +1547,7 @@
 32	<	<	PUNCT	_	_	18	punct	_	AlignBegin=150838|AlignEnd=150971|Gloss=PUNCT
 33	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	35	mod/m	_	Gloss=Fut-|SpaceAfter=No
 34	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	35	subj/m	_	AlignBegin=151310|AlignEnd=151497|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
-35	fi	fi	VERB	_	_	15	comp:obj	_	AlignBegin=151497|AlignEnd=151684|Gloss=exceed
+35	fi	fi	VERB	_	_	15	comp:obj	_	AlignBegin=151497|AlignEnd=151684|Gloss=exceed|RelRole=obj
 36	kà	kà	PRON	_	Case=Acc|Gender=Masc|Person=2|PronType=Prs	35	comp:obj	_	AlignBegin=151684|AlignEnd=151871|Gloss=2Masc.Acc
 37	saːmù	saːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	35	mod	_	AlignBegin=151871|AlignEnd=151965|Gloss=get.Vnoun|SpaceAfter=No|wordform=saːmùn
 38	-n	na	PART	_	Case=Gen|PartType=Case	37	udep/m	_	Gloss=Gen|SpaceAfter=No
