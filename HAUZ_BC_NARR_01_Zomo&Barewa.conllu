@@ -1333,10 +1333,10 @@
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=151978|AlignEnd=152141|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
 3	rasà	ras-	VERB	_	_	0	root	_	AlignBegin=152141|AlignEnd=152304|Gloss=miss
-4	yaddà	yaddà	ADV	_	PronType=Rel	3	comp:obj	_	AlignBegin=152304|AlignEnd=152467|Gloss=how
+4	yaddà	yaddà	ADV	_	PronType=Rel	3	comp:obj	_	AlignBegin=152304|AlignEnd=152467|ClauseType=Rel|Gloss=how|Relz=Word
 5	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	7	mod/m	_	Gloss=Fut-|SpaceAfter=No
 6	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=152467|AlignEnd=152630|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
-7	yi	yi	VERB	_	_	4	mod@relcl	_	AlignBegin=152630|AlignEnd=152793|Gloss=do
+7	yi	yi	VERB	_	_	4	mod@relcl	_	AlignBegin=152630|AlignEnd=152793|Gloss=do|RelRole=mod
 8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=152793|AlignEnd=152956|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
 10	fitoː	fitoː	VERB	_	_	7	mod	_	AlignBegin=152956|AlignEnd=153119|Gloss=go.DIR
@@ -1538,12 +1538,12 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_01.WAV
 # sent_timecode = 173008, 174055
 # phonetic_text = indà ya jeː yà kwântaː //
-# text = indà ya jeː yà kwântaː //
+# text = indà ya-Ø= jeː ya-Ø= kwântaː //
 # text_en = Where he went, he lay down.
-1	indà	indà	ADV	_	PronType=Rel	7	mod	_	AlignBegin=173008|AlignEnd=173182|Gloss=COMP.LOC
+1	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	7	mod	_	AlignBegin=173008|AlignEnd=173182|ClauseType=Rel|Gloss=COMP.LOC|Relz=Word
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=173182|AlignEnd=173356|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-4	jeː	jeː	VERB	_	_	1	mod@relcl	_	AlignBegin=173356|AlignEnd=173530|Gloss=go
+4	jeː	jeː	VERB	_	_	1	mod@relcl	_	AlignBegin=173356|AlignEnd=173530|Gloss=go|RelRole=mod
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=173530|AlignEnd=173704|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
 7	kwântaː	kwant-	VERB	_	_	0	root	_	AlignBegin=173704|AlignEnd=173878|Gloss=lie_down
@@ -1590,10 +1590,10 @@
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=177648|AlignEnd=177930|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
 3	rasà	ras-	VERB	_	_	0	root	_	AlignBegin=177930|AlignEnd=178212|Gloss=miss
-4	yaddà	yaddà	ADV	_	PronType=Rel	3	comp:obj	_	AlignBegin=178212|AlignEnd=178494|Gloss=how
+4	yaddà	yaddà	ADV	_	PronType=Rel	3	comp:obj	_	AlignBegin=178212|AlignEnd=178494|ClauseType=Rel|Gloss=how|Relz=Word
 5	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	7	mod/m	_	Gloss=Fut-|SpaceAfter=No
 6	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=178494|AlignEnd=178776|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
-7	yi	yi	VERB	_	_	4	mod@relcl	_	AlignBegin=178776|AlignEnd=179058|Gloss=do
+7	yi	yi	VERB	_	_	4	mod@relcl	_	AlignBegin=178776|AlignEnd=179058|Gloss=do|RelRole=mod
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=179058|AlignEnd=179340|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_168-168

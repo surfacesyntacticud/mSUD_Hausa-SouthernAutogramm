@@ -1306,11 +1306,11 @@
 # phonetic_text = dukà yandà kikà shiryàː //
 # text = duk yandà kikà shiryàː //
 # text_en = Whenever you are ready.
-1	duk	dukà	DET	_	PronType=Tot	2	det	_	AlignBegin=156016|AlignEnd=156218|Gloss=all
-2	yandà	yandà	ADV	_	PronType=Rel	0	root	_	AlignBegin=156218|AlignEnd=156420|Gloss=how
+1	duk	dukà	ADV	_	PronType=Tot	2	mod	_	AlignBegin=156016|AlignEnd=156218|Gloss=all
+2	yandà	yandà	ADV	_	PronType=Rel	0	root	_	AlignBegin=156218|AlignEnd=156420|ClauseType=Rel|Gloss=how|Relz=Word
 3	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=156420|AlignEnd=156622|Gloss=2Fem-|SpaceAfter=No|wordform=kikà
 4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-5	shiryàː	shiryàː	VERB	_	_	2	mod@relcl	_	AlignBegin=156622|AlignEnd=156824|Gloss=get_ready
+5	shiryàː	shiryàː	VERB	_	_	2	mod@relcl	_	AlignBegin=156622|AlignEnd=156824|Gloss=get_ready|RelRole=mod
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=156824|AlignEnd=157025|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__88

@@ -1167,13 +1167,13 @@
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	comp:obj	_	AlignBegin=118768|AlignEnd=118906|Gloss=3Masc.Nom|RelPos=Yes
 21	>	>	PUNCT	_	_	22	punct	_	AlignBegin=118906|AlignEnd=119048|Gloss=PUNCT
 22	kàmar̃	kàmar̃	ADP	_	_	13	mod	_	AlignBegin=119048|AlignEnd=119274|Gloss=like
-23	yandà	yandà	ADV	_	PronType=Rel	22	comp:obj	_	AlignBegin=119274|AlignEnd=119500|Gloss=how
+23	yandà	yandà	ADV	_	PronType=Rel	22	comp:obj	_	AlignBegin=119274|AlignEnd=119500|ClauseType=Rel|Gloss=how|Relz=Word
 24	kàːkànni	kàːkaː	NOUN	_	_	29	subj	_	AlignBegin=119500|AlignEnd=119556|Gloss=grand-parent.Plur|SpaceAfter=No|wordform=kàːkànninmù
 25	-n	na	PART	_	Case=Gen|PartType=Case	24	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 26	-mù	-mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	25	comp:obj	_	Gloss=1Plur.Gen
 27	dâː	dâː	ADV	_	_	29	comp:pred	_	AlignBegin=119726|AlignEnd=119839|Gloss=formerly
 28	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	29	subj/m	_	AlignBegin=119952|AlignEnd=120178|Gloss=3Plur|SpaceAfter=No
-29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	23	mod@relcl	_	AlignBegin=119952|AlignEnd=120178|Gloss=Prog.Rel|Relative=Yes|wordform=sukè
+29	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	23	mod@relcl	_	AlignBegin=119952|AlignEnd=120178|Gloss=Prog.Rel|Relative=Yes|RelRole=pred|wordform=sukè
 30	baː	baː	VERB	_	_	29	mod	_	AlignBegin=120178|AlignEnd=120404|Gloss=give
 31	mù	mu	PRON	_	Number=Plur|Person=1	30	comp:obj@R	_	AlignBegin=120404|AlignEnd=120630|Gloss=1Plur
 32	làːbaːr̃ìː	làːbaːr̃ìː	NOUN	_	_	30	comp:obj@T	_	AlignBegin=120630|AlignEnd=120856|Gloss=story
@@ -3174,13 +3174,13 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 301316, 305467
 # phonetic_text = bâː yandà zaː'à yi / à -ːːː / à zoː à -ːːː / à wucèː wânnan gaːnuwaː à jeː à X // eː //
-# text = bâː yandà zaː'à=yi a- || a-_̀= zoː a- || a-_̀= wucèː wânnan gaːnuwaː a-_̀= jeː à- _̀= eː //
+# text = bâː yandà zaː-à=yi a- || a-_̀= zoː a- || a-_̀= wucèː wânnan gaːnuwaː a-_̀= jeː à- _̀= eː //
 # text_en = Noone will ... er... go and ... go past this rampart and X. Yes.
-1	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=301316|AlignEnd=301435|Gloss=there_is.Neg
-2	yandà	yandà	ADV	_	PronType=Rel	5	mod	_	AlignBegin=301435|AlignEnd=301554|Gloss=how.Rel|RelPos=Yes|Relz=word
+1	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root@scrap	_	AlignBegin=301316|AlignEnd=301435|Gloss=there_is.Neg
+2	yandà	yandà	ADV	_	PronType=Rel	1	subj	_	AlignBegin=301435|AlignEnd=301554|ClauseType=Rel|Gloss=how.Rel|Relz=word
 3	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	5	mod/m	_	Gloss=Fut-|SpaceAfter=No
 4	à=	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=301554|AlignEnd=301673|Gloss=4=|SpaceAfter=No|wordform=zaː'à
-5	yi	yi	VERB	_	_	1	subj	_	AlignBegin=301673|AlignEnd=301792|ClauseType=Rel|Gloss=do
+5	yi	yi	VERB	_	_	2	mod@relcl	_	AlignBegin=301673|AlignEnd=301792|Gloss=do|RelRole=mod
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=301911|AlignEnd=302054|Gloss=4-
 7	||	||	PUNCT	_	_	8	punct	_	AlignBegin=302197|AlignEnd=302483|Gloss=PUNCT
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	conj:dicto	_	AlignBegin=302483|AlignEnd=302651|Gloss=4-|SpaceAfter=No|wordform=à
@@ -3198,7 +3198,7 @@
 20	jeː	jeː	VERB	_	_	15	parataxis@conj	_	AlignBegin=304119|AlignEnd=304312|Gloss=go
 21	à-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	AlignBegin=304312|AlignEnd=304505|Gloss=4-
 22	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	23	mod/m	_	AlignBegin=304312|AlignEnd=304505|Gloss=Sub=
-23	eː	eː	INTJ	_	_	20	parataxis	_	AlignBegin=304505|AlignEnd=304698|Gloss=FILL
+23	eː	eː	INTJ	_	_	20	parataxis@scrap	_	AlignBegin=304505|AlignEnd=304698|Gloss=FILL
 24	//	//	PUNCT	_	_	1	punct	_	AlignBegin=305180|AlignEnd=305467|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_334-334
