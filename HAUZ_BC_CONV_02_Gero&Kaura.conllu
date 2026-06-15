@@ -1536,10 +1536,10 @@
 21	zoː	zoː	VERB	_	_	18	mod@relcl	_	AlignBegin=149046|AlignEnd=149264|Gloss=come|RelRole=subj
 22	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	24	subj/m	_	AlignBegin=149264|AlignEnd=149482|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 23	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	24	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-24	shiryèː	shiryèː	VERB	_	_	21	parataxis@conj	_	AlignBegin=149482|AlignEnd=149700|Gloss=prepare
+24	shiryèː	shiryèː	VERB	_	_	21	parataxis:conj	_	AlignBegin=149482|AlignEnd=149700|Gloss=prepare
 25	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	27	subj/m	_	AlignBegin=149700|AlignEnd=149918|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 26	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	27	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-27	sâː	sâː	VERB	_	_	24	parataxis@conj	_	AlignBegin=149918|AlignEnd=150136|Gloss=put
+27	sâː	sâː	VERB	_	_	24	parataxis:conj	_	AlignBegin=149918|AlignEnd=150136|Gloss=put
 28	na	na	PART	_	Case=Gen|PartType=Case	27	comp:obj	_	AlignBegin=150136|AlignEnd=150245|Gloss=Gen
 29	||	||	PUNCT	_	_	30	punct	_	AlignBegin=150354|AlignEnd=150574|Gloss=PUNCT
 30	na	na	PART	_	Case=Gen|PartType=Case	28	conj:dicto	_	AlignBegin=150574|AlignEnd=150706|Gloss=Gen
@@ -1583,7 +1583,7 @@
 7	zoː	zoː	VERB	_	_	4	mod@relcl	_	AlignBegin=154010|AlignEnd=154163|Gloss=come
 8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=154163|AlignEnd=154316|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-10	shuːkàː	shuːk-	VERB	_	_	7	parataxis@conj	_	AlignBegin=154316|AlignEnd=154469|Gloss=harvest
+10	shuːkàː	shuːk-	VERB	_	_	7	parataxis:conj	_	AlignBegin=154316|AlignEnd=154469|Gloss=harvest
 11	||	||	PUNCT	_	_	14	punct	_	AlignBegin=154469|AlignEnd=154618|Gloss=PUNCT
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=154618|AlignEnd=154791|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 13	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing
@@ -1826,7 +1826,7 @@
 3	tsuːfa	tsuːfa	VERB	_	_	0	root	_	AlignBegin=174198|AlignEnd=174390|Gloss=get_old
 4	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=174390|AlignEnd=174582|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 5	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Sing
-6	kwaːna	kwaːna	VERB	_	_	3	parataxis@conj	_	AlignBegin=174582|AlignEnd=174774|Gloss=spend_night
+6	kwaːna	kwaːna	VERB	_	_	3	parataxis:conj	_	AlignBegin=174582|AlignEnd=174774|Gloss=spend_night
 7	biyu	biyu	NUM	_	_	6	mod	_	AlignBegin=174774|AlignEnd=174966|Gloss=two
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=174966|AlignEnd=175160|Gloss=PUNCT
 
@@ -2729,7 +2729,7 @@
 15	taːshì	taːs-	VERB	_	_	0	root	_	AlignBegin=261426|AlignEnd=261558|Gloss=rise
 16	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	18	subj/m	_	AlignBegin=261558|AlignEnd=261690|Gloss=2Masc-|SpaceAfter=No|wordform=kà
 17	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	18	mod/m	_	Gloss=Sub=
-18	jeː	jeː	VERB	_	_	15	parataxis@conj	_	AlignBegin=261690|AlignEnd=261822|Gloss=go
+18	jeː	jeː	VERB	_	_	15	parataxis:conj	_	AlignBegin=261690|AlignEnd=261822|Gloss=go
 19	Basaːwaː	Basaːwaː	PROPN	_	_	18	comp:obj@G	_	AlignBegin=261822|AlignEnd=261954|Gloss=Basawa|wordform=basaːwa
 20	|c	|c	PUNCT	_	_	23	punct	_	AlignBegin=261954|AlignEnd=262087|Gloss=PUNCT
 21	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	23	mod/m	_	Gloss=Fut-|SpaceAfter=No
@@ -3019,7 +3019,7 @@
 14	jeː	jeː	VERB	_	_	6	comp:obj	_	AlignBegin=291655|AlignEnd=291799|ClauseType=Rel|Gloss=go|RelRole=G
 15	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=291799|AlignEnd=291943|Gloss=3Plur-|SpaceAfter=No|wordform=sù
 16	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	17	mod/m	_	Gloss=Sub=
-17	dingà	ding-	VERB	_	_	14	parataxis@conj	_	AlignBegin=291943|AlignEnd=292087|Gloss=keep_on
+17	dingà	ding-	VERB	_	_	14	parataxis:conj	_	AlignBegin=291943|AlignEnd=292087|Gloss=keep_on
 18	faɗàː	faɗàː	NOUN	_	_	17	comp:obj	_	AlignBegin=292087|AlignEnd=292231|Gloss=fight
 19	//	//	PUNCT	_	_	1	punct	_	AlignBegin=292231|AlignEnd=292380|Gloss=PUNCT
 
@@ -3184,7 +3184,7 @@
 7	||	||	PUNCT	_	_	8	punct	_	AlignBegin=302197|AlignEnd=302483|Gloss=PUNCT
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	6	conj:dicto	_	AlignBegin=302483|AlignEnd=302651|Gloss=4-|SpaceAfter=No|wordform=à
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
-10	zoː	zoː	VERB	_	_	5	parataxis@mod	_	AlignBegin=302651|AlignEnd=302819|Gloss=come
+10	zoː	zoː	VERB	_	_	5	parataxis:mod	_	AlignBegin=302651|AlignEnd=302819|Gloss=come
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	15	subj/m	_	AlignBegin=302819|AlignEnd=302903|Gloss=4-
 12	||	||	PUNCT	_	_	13	punct	_	AlignBegin=302987|AlignEnd=303154|Gloss=PUNCT
 13	a-	a	PRON	_	Person=4|PronType=PrsSubj	11	conj:dicto	_	AlignBegin=303154|AlignEnd=303347|Gloss=4-|SpaceAfter=No|wordform=à
@@ -3194,7 +3194,7 @@
 17	gaːnuwaː	gaːnuwaː	NOUN	_	_	15	comp:obj	_	AlignBegin=303733|AlignEnd=303926|Gloss=rampart
 18	a-	a	PRON	_	Person=4|PronType=PrsSubj	20	subj/m	_	AlignBegin=303926|AlignEnd=304119|Gloss=4-|SpaceAfter=No|wordform=à
 19	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	20	mod/m	_	Gloss=Sub=
-20	jeː	jeː	VERB	_	_	15	parataxis@conj	_	AlignBegin=304119|AlignEnd=304312|Gloss=go
+20	jeː	jeː	VERB	_	_	15	parataxis:conj	_	AlignBegin=304119|AlignEnd=304312|Gloss=go
 21	à-	a	PRON	_	Person=4|PronType=PrsSubj	23	subj/m	_	AlignBegin=304312|AlignEnd=304505|Gloss=4-
 22	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	23	mod/m	_	AlignBegin=304312|AlignEnd=304505|Gloss=Sub=
 23	eː	eː	INTJ	_	_	20	parataxis@scrap	_	AlignBegin=304505|AlignEnd=304698|Gloss=FILL
@@ -3553,7 +3553,7 @@
 15	|c	|c	PUNCT	_	_	18	punct	_	AlignBegin=339731|AlignEnd=339868|Gloss=PUNCT
 16	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	18	subj/m	_	AlignBegin=339868|AlignEnd=340014|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 17	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	18	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-18	zaunàː	zaun-	VERB	_	_	12	parataxis@conj	_	AlignBegin=340014|AlignEnd=340160|Gloss=sit
+18	zaunàː	zaun-	VERB	_	_	12	parataxis:conj	_	AlignBegin=340014|AlignEnd=340160|Gloss=sit
 19	//	//	PUNCT	_	_	12	punct	_	AlignBegin=340160|AlignEnd=340307|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_369-370

@@ -45,7 +45,7 @@
 5	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=10069|AlignEnd=10313|Gloss=come
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=10313|AlignEnd=10557|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 7	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-8	dòːkeː	doːk-	VERB	_	_	5	parataxis@conj	_	AlignBegin=10557|AlignEnd=10679|Gloss=beat
+8	dòːkeː	doːk-	VERB	_	_	5	parataxis:conj	_	AlignBegin=10557|AlignEnd=10679|Gloss=beat
 9	mù	mù	PRON	_	Number=Plur|Person=1|PronType=Prs	8	mod	_	AlignBegin=10801|AlignEnd=11045|Gloss=1Plur
 10	//	//	PUNCT	_	_	5	punct	_	AlignBegin=11045|AlignEnd=11288|Gloss=PUNCT
 
@@ -280,7 +280,7 @@
 8	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
 9	a-	a	PRON	_	Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=44170|AlignEnd=44400|Gloss=4-|SpaceAfter=No|wordform=akà
 10	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-11	ji	ji	VERB	_	_	4	parataxis@conj	_	AlignBegin=44400|AlignEnd=44630|Gloss=feel
+11	ji	ji	VERB	_	_	4	parataxis:conj	_	AlignBegin=44400|AlignEnd=44630|Gloss=feel
 12	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	11	comp:obl	_	AlignBegin=44630|AlignEnd=44860|Gloss=3Masc.Dat
 13	ciːwòː	ciːwòː	NOUN	_	_	11	comp:obj	_	AlignBegin=44860|AlignEnd=45090|Gloss=wound
 14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=45090|AlignEnd=45317|Gloss=PUNCT
