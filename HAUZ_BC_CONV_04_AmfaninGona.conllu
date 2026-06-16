@@ -8112,15 +8112,15 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 916672, 918177
 # phonetic_text = in mun shìga ruwaː -n / zaːfiː /
-# text = in mun shìga ruwan zaːfiː //+
+# text = in mu-n= shìga ruwa-n zaːfiː //+
 # text_en = When we enter the rain season,
-1	in	in	SCONJ	_	_	0	root	_	AlignBegin=916672|AlignEnd=916834|AttachTo=HAUZ_BC_CONV_04_0808-0809|Gloss=if|Rel=mod
+1	in	in	SCONJ	_	_	0	root	_	AlignBegin=916672|AlignEnd=916834|Gloss=if
 2	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=916834|AlignEnd=916996|Gloss=1Plur-|SpaceAfter=No|wordform=mun
 3	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	4	mod/m	_	Gloss=Perf.Plur
 4	shìga	shig-	VERB	_	_	1	comp:obj	_	AlignBegin=916996|AlignEnd=917158|Gloss=enter
 5	ruwa	ruwaː	NOUN	_	_	4	comp:obj@G	_	AlignBegin=917158|AlignEnd=917239|Gloss=water|SpaceAfter=No|wordform=ruwan
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen
-7	zaːfiː	zaːfiː	NOUN	_	_	6	comp:obj	_	AlignBegin=917484|AlignEnd=917830|Gloss=heat
+7	zaːfiː	zaːfiː	NOUN	_	_	6	comp:obj	_	AlignBegin=917484|AlignEnd=917830|Gloss=heat|Overlap=HAUZ_BC_CONV_04_0807-0807
 8	//+	//+	PUNCT	_	_	1	punct	_	AlignBegin=917830|AlignEnd=918177|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0807-0807
@@ -8128,12 +8128,12 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 918673, 920568
 # phonetic_text = sai kà ringàː bâː tà ruwaː //
-# text = sai kà ringà baː tà ruwaː //
+# text = sai ka-_̀= ringà baː tà ruwaː //
 # text_en = then you will start watering it.
-1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=918673|AlignEnd=918944|Gloss=then
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=918673|AlignEnd=918944|Gloss=then|Overlap=HAUZ_BC_CONV_04_0805-806
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=918944|AlignEnd=919215|Gloss=2Masc-|SpaceAfter=No|wordform=kà
 3	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	4	mod/m	_	Gloss=Sub=
-4	ringà	ring-	VERB	_	_	0	root	_	AlignBegin=919215|AlignEnd=919486|Gloss=keep_on
+4	ringà	ring-	VERB	_	_	0	root	_	AlignBegin=919215|AlignEnd=919486|AttachTo=1@HAUZ_BC_CONV_04_0805-0806|Gloss=keep_on|Rel=mod
 5	baː	baː	VERB	_	_	4	comp:obj	_	AlignBegin=919486|AlignEnd=919757|Gloss=give
 6	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	5	comp:obj@R	_	AlignBegin=919757|AlignEnd=920028|Gloss=3Fem
 7	ruwaː	ruwaː	NOUN	_	_	5	comp:obj@T	_	AlignBegin=920028|AlignEnd=920299|Gloss=water
@@ -8146,10 +8146,10 @@
 # phonetic_text = sai ìn ganiː an yi fangaliː / ìn saːroː kwaiwaː /
 # text = sai in- _̀= ga a-n= yi fangaliː //= in- _̀= saːroː kwaiwaː //
 # text_en = I will make sure to make a watering bed, and I will cut branches.
-1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=919084|AlignEnd=919296|Gloss=then
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=919084|AlignEnd=919296|Gloss=then|Overlap=HAUZ_BC_CONV_04_0805-0806
 2	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=919296|AlignEnd=919508|Gloss=1Sing-|Overlap=HAUZ_BC_CONV_04_0807-0807|wordform=ìn
 3	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	4	mod/m	_	Gloss=Sub=
-4	ga	ganiː	VERB	_	_	0	root	_	AlignBegin=919508|AlignEnd=919720|Gloss=see
+4	ga	ganiː	VERB	_	_	0	root	_	AlignBegin=919508|AlignEnd=919720|AttachTo=1@HAUZ_BC_CONV_04_0805-0806|Gloss=see|Rel=mod
 5	a-	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=919720|AlignEnd=919932|Gloss=4-|SpaceAfter=No|wordform=an
 6	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Plur
 7	yi	yi	VERB	_	_	4	comp:obj	_	AlignBegin=919932|AlignEnd=920144|Gloss=do
@@ -8158,7 +8158,7 @@
 10	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	12	subj/m	_	AlignBegin=921442|AlignEnd=921807|Gloss=1Sing-|wordform=ìn
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub=
 12	saːroː	saːr-	VERB	_	_	4	parataxis:conj	_	AlignBegin=921807|AlignEnd=922172|Gloss=fell.DIR
-13	kwaiwaː	kwaiwaː	NOUN	_	_	12	mod	_	AlignBegin=922172|AlignEnd=922537|Gloss=foliage
+13	kwaiwaː	kwaiwaː	NOUN	_	_	12	mod	_	AlignBegin=922172|AlignEnd=922537|Gloss=foliage|Overlap=HAUZ_BC_CONV_04_0810-0810, HAUZ_BC_CONV_04_0811-811, HAUZ_BC_CONV_04_0810-0810, HAUZ_BC_CONV_04_0811-0811
 14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=922537|AlignEnd=922903|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0810-0810
@@ -8166,11 +8166,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 923622, 924121
 # phonetic_text = kà r̃ufèː //
-# text = kà r̃ufèː //
+# text = ka-_̀= r̃ufèː //
 # text_en = To cover it.
-1	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=923622|AlignEnd=923788|Gloss=2Masc-|SpaceAfter=No|wordform=kà
+1	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=923622|AlignEnd=923788|Gloss=2Masc-|Overlap=HAUZ_BC_CONV_04_0808-0809|SpaceAfter=No|wordform=kà
 2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	3	mod/m	_	Gloss=Sub=
-3	r̃ufèː	r̃uf-	VERB	_	_	0	root	_	AlignBegin=923788|AlignEnd=923954|Gloss=cover
+3	r̃ufèː	r̃uf-	VERB	_	_	0	root	_	AlignBegin=923788|AlignEnd=923954|AttachTo=12@HAUZ_BC_CONV_04_0808-0809|Gloss=cover|Rel=parataxis:conj
 4	//	//	PUNCT	_	_	3	punct	_	AlignBegin=923954|AlignEnd=924121|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0811-0811
@@ -8180,10 +8180,10 @@
 # phonetic_text = ìn r̃ufèː //
 # text = in- _̀= r̃ufèː //
 # text_en = To cover it.
-1	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=924121|AlignEnd=924307|Gloss=1Sing-|wordform=ìn
-2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	4	mod/m	_	Gloss=Sub=
-3	r̃ufèː	r̃uf-	VERB	_	_	4	comp:obj	_	AlignBegin=924307|AlignEnd=924493|Gloss=cover
-4	//	//	PUNCT	_	_	0	root	_	AlignBegin=924493|AlignEnd=924679|Gloss=PUNCT
+1	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=924121|AlignEnd=924307|Gloss=1Sing-|Overlap=HAUZ_BC_CONV_04_0808-0809|wordform=ìn
+2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	3	mod/m	_	Gloss=Sub=
+3	r̃ufèː	r̃uf-	VERB	_	_	0	root	_	AlignBegin=924307|AlignEnd=924493|AttachTo=12@HAUZ_BC_CONV_04_0808-0809|Gloss=cover|Rel=conj:appos
+4	//	//	PUNCT	_	_	3	root	_	AlignBegin=924493|AlignEnd=924679|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0812-0814
 # speaker_id = SP1

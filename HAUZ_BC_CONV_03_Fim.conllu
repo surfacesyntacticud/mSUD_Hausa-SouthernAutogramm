@@ -1339,13 +1339,13 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_03.WAV
 # sent_timecode = 163595, 165739
 # phonetic_text = kin kàlli wânnan fîːm ɗîn nan wai X ?//
-# text = kin kàlli wânnan fîːm ɗîn nan wai X ?//
+# text = ki-n= kàlli wânnan fîːm ɗîn nan wai X ?//
 # text_en = Did you watch that film called X ?
 1	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=163595|AlignEnd=163863|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 2	n=	aː=	PART	_	Aspect=Perf|Gender=Fem|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing.Fem
 3	kàlli	kall-	VERB	_	_	0	root	_	AlignBegin=163863|AlignEnd=163997|Gloss=watch
 4	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	5	det	_	AlignBegin=164131|AlignEnd=164399|Gloss=PreRef|PreRef=Yes
-5	fîːm	fî-	VERB	_	_	3	comp:obj	_	AlignBegin=164399|AlignEnd=164667|Gloss=film
+5	fîːm	fîːm	NOUN	_	_	3	comp:obj	_	AlignBegin=164399|AlignEnd=164667|Gloss=film
 6	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	5	det	_	AlignBegin=164667|AlignEnd=164935|Gloss=Def
 7	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	5	det	_	AlignBegin=164935|AlignEnd=165203|Gloss=PreRef|PreRef=Yes
 8	wai	wai	PART	_	Evident=Nfh|PartType=Evident	9	discourse	_	AlignBegin=165203|AlignEnd=165471|Gloss=reportedly
