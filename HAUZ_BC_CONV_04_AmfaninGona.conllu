@@ -8120,7 +8120,7 @@
 4	shìga	shig-	VERB	_	_	1	comp:obj	_	AlignBegin=916996|AlignEnd=917158|Gloss=enter
 5	ruwa	ruwaː	NOUN	_	_	4	comp:obj@G	_	AlignBegin=917158|AlignEnd=917239|Gloss=water|SpaceAfter=No|wordform=ruwan
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen
-7	zaːfiː	zaːfiː	NOUN	_	_	6	comp:obj	_	AlignBegin=917484|AlignEnd=917830|Gloss=heat|Overlap=HAUZ_BC_CONV_04_0807-0807
+7	zaːfiː	zaːfiː	NOUN	_	_	6	comp:obj	_	AlignBegin=917484|AlignEnd=917830|Gloss=heat|Overlap=HAUZ_BC_CONV_04_0807-0807;HAUZ_BC_CONV_04_0808-0809
 8	//+	//+	PUNCT	_	_	1	punct	_	AlignBegin=917830|AlignEnd=918177|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0807-0807
@@ -8158,7 +8158,7 @@
 10	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	12	subj/m	_	AlignBegin=921442|AlignEnd=921807|Gloss=1Sing-|wordform=ìn
 11	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	12	mod/m	_	Gloss=Sub=
 12	saːroː	saːr-	VERB	_	_	4	parataxis:conj	_	AlignBegin=921807|AlignEnd=922172|Gloss=fell.DIR
-13	kwaiwaː	kwaiwaː	NOUN	_	_	12	mod	_	AlignBegin=922172|AlignEnd=922537|Gloss=foliage|Overlap=HAUZ_BC_CONV_04_0810-0810, HAUZ_BC_CONV_04_0811-811, HAUZ_BC_CONV_04_0810-0810, HAUZ_BC_CONV_04_0811-0811
+13	kwaiwaː	kwaiwaː	NOUN	_	_	12	mod	_	AlignBegin=922172|AlignEnd=922537|Gloss=foliage|Overlap=Overlap=HAUZ_BC_CONV_04_0810-0810;HAUZ_BC_CONV_04_0811-811
 14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=922537|AlignEnd=922903|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0810-0810
@@ -8170,7 +8170,7 @@
 # text_en = To cover it.
 1	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=923622|AlignEnd=923788|Gloss=2Masc-|Overlap=HAUZ_BC_CONV_04_0808-0809|SpaceAfter=No|wordform=kà
 2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	3	mod/m	_	Gloss=Sub=
-3	r̃ufèː	r̃uf-	VERB	_	_	0	root	_	AlignBegin=923788|AlignEnd=923954|AttachTo=12@HAUZ_BC_CONV_04_0808-0809|Gloss=cover|Rel=parataxis:conj
+3	r̃ufèː	r̃uf-	VERB	_	_	0	root	_	AlignBegin=923788|AlignEnd=923954|AttachTo=12@HAUZ_BC_CONV_04_0808-0809|Gloss=cover|Rel=parataxis:mod
 4	//	//	PUNCT	_	_	3	punct	_	AlignBegin=923954|AlignEnd=924121|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0811-0811
@@ -8182,7 +8182,7 @@
 # text_en = To cover it.
 1	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=924121|AlignEnd=924307|Gloss=1Sing-|Overlap=HAUZ_BC_CONV_04_0808-0809|wordform=ìn
 2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	3	mod/m	_	Gloss=Sub=
-3	r̃ufèː	r̃uf-	VERB	_	_	0	root	_	AlignBegin=924307|AlignEnd=924493|AttachTo=12@HAUZ_BC_CONV_04_0808-0809|Gloss=cover|Rel=conj:appos
+3	r̃ufèː	r̃uf-	VERB	_	_	0	root	_	AlignBegin=924307|AlignEnd=924493|AttachTo=12@HAUZ_BC_CONV_04_0808-0809|Gloss=cover|Rel=parataxis:mod
 4	//	//	PUNCT	_	_	3	root	_	AlignBegin=924493|AlignEnd=924679|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0812-0814
