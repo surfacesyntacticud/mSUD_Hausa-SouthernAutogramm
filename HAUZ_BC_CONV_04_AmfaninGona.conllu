@@ -984,7 +984,7 @@
 2	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	1	subj	_	AlignBegin=107284|AlignEnd=107465|Gloss=some.Masc
 3	wandà	wandà	PRON	_	PronType=Rel	2	mod@relcl	_	AlignBegin=107465|AlignEnd=107646|Gloss=who.Rel|Relz=word
 4	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	AlignBegin=107646|AlignEnd=107827|Gloss=3Masc|SpaceAfter=No
-5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp	_	AlignBegin=107646|AlignEnd=107827|ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj|wordform=yakè
+5	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	3	comp:obj	_	AlignBegin=107646|AlignEnd=107827|ClauseType=Rel|Gloss=Prog.Rel|Relative=Yes|RelRole=subj|wordform=yakè
 6	yawàn	yawàː	ADJ	_	_	7	mod	_	AlignBegin=107827|AlignEnd=107917|Gloss=most|wordform=yawàː
 7	wucèːwaː	wut-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:pred	_	AlignBegin=108008|AlignEnd=108098|Gloss=pass_by.Vnoun|wordform=wucèː
 8	ta	ta	ADP	_	_	7	comp:obl	_	AlignBegin=108189|AlignEnd=108370|Gloss=via
@@ -1640,10 +1640,10 @@
 1	ciccìkaː	cik-	VERB	_	Number=Plur	3	mod	_	AlignBegin=179930|AlignEnd=180163|Gloss=fill.Plur
 2	musù	sù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	1	comp:obl	_	AlignBegin=180163|AlignEnd=180396|Gloss=3Plur.Dat
 3	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=180396|AlignEnd=180629|Gloss=there_is.Neg
-4	wandà	wandà	PRON	_	PronType=Rel	7	subj	_	AlignBegin=180629|AlignEnd=180862|Gloss=who.Rel|RelPos=Yes|Relz=Word
+4	wandà	wandà	PRON	_	PronType=Rel	3	subj	_	AlignBegin=180629|AlignEnd=180862|ClauseType=Rel|Gloss=who.Rel|Relz=Word
 5	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	7	mod/m	_	Gloss=Fut-|SpaceAfter=No
 6	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=180862|AlignEnd=181095|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
-7	iyà	iyàː	VERB	_	_	3	subj	_	AlignBegin=181095|AlignEnd=181328|ClauseType=Rel|Gloss=can
+7	iyà	iyàː	VERB	_	_	4	comp:obj	_	AlignBegin=181095|AlignEnd=181328|Gloss=can|RelRole=subj
 8	yîː	yi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	comp:obj	_	AlignBegin=181328|AlignEnd=181561|Gloss=do.Vnoun
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=181561|AlignEnd=181797|Gloss=PUNCT
 
@@ -1730,7 +1730,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 190244, 192089
 # phonetic_text = Muːsaː Yàngaː shiː maː yanàː cikin wandà sukà ɗan taɓàː à dâː //
-# text = Muːsaː Yàngaː shiː maː ya nàː cikin wandà sukà ɗan taɓàː à dâː //
+# text = Muːsaː Yàngaː shiː maː ya-nàː cikin wandà su-kà= ɗan taɓàː à dâː //
 # text_en = Musa Yanga, he's among those who used to do a little in the old days.
 1	Muːsaː	muːsaː	NOUN	_	_	6	dislocated@subj	_	AlignBegin=190244|AlignEnd=190386|Gloss=Musa
 2	Yàngaː	Yàngaː	PROPN	_	_	1	flat@name	_	AlignBegin=190386|AlignEnd=190528|Gloss=Yanga
@@ -1739,11 +1739,11 @@
 5	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=190812|AlignEnd=190954|Gloss=3Masc|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=190812|AlignEnd=190954|Gloss=Prog|wordform=yanàː
 7	cikin	cikin	ADP	_	_	6	comp:pred	_	AlignBegin=190954|AlignEnd=191096|Gloss=inside
-8	wandà	wandà	PRON	_	PronType=Rel	7	comp:obj	_	AlignBegin=191096|AlignEnd=191238|Gloss=who
+8	wandà	wandà	PRON	_	PronType=Rel	7	comp:obj	_	AlignBegin=191096|AlignEnd=191238|ClauseType=Rel|Gloss=who|Relz=Word
 9	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=191238|AlignEnd=191380|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 10	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
 11	ɗan	ɗan	ADV	_	_	12	mod	_	AlignBegin=191380|AlignEnd=191522|Gloss=DIM
-12	taɓàː	taɓ-	VERB	_	_	8	mod@relcl	_	AlignBegin=191522|AlignEnd=191664|Gloss=touch
+12	taɓàː	taɓ-	VERB	_	_	8	mod@relcl	_	AlignBegin=191522|AlignEnd=191664|Gloss=touch|RelRole=obj
 13	à	à	ADP	_	_	12	mod	_	AlignBegin=191664|AlignEnd=191806|Gloss=at
 14	dâː	dâː	ADV	_	_	13	comp:obj	_	AlignBegin=191806|AlignEnd=191948|Gloss=formerly
 15	//	//	PUNCT	_	_	6	punct	_	AlignBegin=191948|AlignEnd=192089|Gloss=PUNCT
@@ -2649,7 +2649,7 @@
 2	//	//	PUNCT	_	_	1	punct	_	AlignBegin=292241|AlignEnd=292499|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0248-0248
-# text = du' abuːbuwàn sun zoː > wandà sukà yi àbin nàn //
+# text = du' abuːbuwàn su-n= zoː > wandà su-kà= yi àbin nàn //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 292948, 294585
@@ -2660,11 +2660,11 @@
 3	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=293276|AlignEnd=293440|Gloss=3Plur-|SpaceAfter=No|wordform=sun
 4	n=	aː=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Plur
 5	zoː	zoː	VERB	_	_	0	root	_	AlignBegin=293440|AlignEnd=293604|Gloss=come
-6	>	>	PUNCT	_	_	10	punct	_	AlignBegin=293440|AlignEnd=293604|Gloss=PUNCT
-7	wandà	wandà	PRON	_	PronType=Rel	10	subj	_	AlignBegin=293604|AlignEnd=293768|Gloss=when.Rel|RelPos=Yes|Relz=word
+6	>	>	PUNCT	_	_	7	punct	_	AlignBegin=293440|AlignEnd=293604|Gloss=PUNCT
+7	wandà	wandà	PRON	_	ExtPos=SCONJ|PronType=Rel	5	mod	_	AlignBegin=293604|AlignEnd=293768|ClauseType=Rel|Gloss=when.Rel|Relz=word
 8	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=293768|AlignEnd=293932|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 9	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-10	yi	yi	VERB	_	_	5	dislocated@mod	_	AlignBegin=293932|AlignEnd=294096|ClauseType=Rel|Gloss=do
+10	yi	yi	VERB	_	_	7	comp:obj	_	AlignBegin=293932|AlignEnd=294096|Gloss=do|RelRole=mod
 11	àbin	àbù	NOUN	_	Definite=Def	10	comp:obj	_	AlignBegin=294096|AlignEnd=294178|Gloss=thing.Def|wordform=àbù
 12	nàn	nân	DET	_	Deixis=ProxS|PronType=Dem	11	det	_	AlignBegin=294260|AlignEnd=294424|Gloss=ProxS
 13	//	//	PUNCT	_	_	5	punct	_	AlignBegin=294424|AlignEnd=294585|Gloss=PUNCT
@@ -4181,16 +4181,16 @@
 18	//	//	PUNCT	_	_	13	punct	_	AlignBegin=484354|AlignEnd=484570|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0404-0404
-# text = wandà dâː mu nàː ƴan yâːraː < sai mun barìː //
+# text = wandà dâː mu-nàːƴan yâːraː < sai mu-n= barìː //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 485414, 487551
 # phonetic_text = wandà dâː munàː ƴan yâːraː < sai mun barìː //
 # text_en = When we were young, we just waited.
-1	wandà	wandà	PRON	_	PronType=Rel	11	mod	_	AlignBegin=485414|AlignEnd=485614|Gloss=when
+1	wandà	wandà	PRON	_	PronType=Rel	11	mod	_	AlignBegin=485414|AlignEnd=485614|ClauseType=Rel|Gloss=when|Relz=Word
 2	dâː	dâː	ADV	_	_	4	mod	_	AlignBegin=485614|AlignEnd=485814|Gloss=formerly
 3	mu-	mu-	PRON	_	Copula=Yes|Number=Plur|Person=1|PronType=Prs	4	subj/m	_	AlignBegin=485814|AlignEnd=486014|Gloss=1Plur|SpaceAfter=No
-4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	AlignBegin=485814|AlignEnd=486014|Gloss=Prog|SpaceAfter=No|wordform=munàː
+4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	AlignBegin=485814|AlignEnd=486014|Gloss=Prog|RelRole=subj|SpaceAfter=No|wordform=munàː
 5	ƴan	ɗan	ADJ	_	Number=Plur	6	mod	_	AlignBegin=486014|AlignEnd=486214|Gloss=small.Plur
 6	yâːraː	yaːròː	NOUN	_	Number=Plur	4	comp:pred	_	AlignBegin=486214|AlignEnd=486314|Gloss=child.Plur|wordform=yaːròː
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=486414|AlignEnd=486612|Gloss=PUNCT
@@ -6753,11 +6753,11 @@
 # phonetic_text = wandà kuma bàː shiː nèː ba //
 # text = wandà kuma bàː shiː nèː ba //
 # text_en = Which don't exist any more.
-1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=770712|AlignEnd=770865|Gloss=which|Overlap=HAUZ_BC_CONV_04_0660-0660
+1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=770712|AlignEnd=770865|ClauseType=Rel|Gloss=which|Overlap=HAUZ_BC_CONV_04_0660-0660|Relz=Word
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=770865|AlignEnd=771018|Gloss=too
 3	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=771018|AlignEnd=771171|Gloss=Neg
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	AlignBegin=771171|AlignEnd=771324|Gloss=3Masc.Nom
-5	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	mod@relcl	_	AlignBegin=771324|AlignEnd=771477|AttachTo=HAUZ_BC_CONV_04_0660-0660|Gloss=be.Masc/Plur|Rel=mod@relcl
+5	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	mod@relcl	_	AlignBegin=771324|AlignEnd=771477|AttachTo=HAUZ_BC_CONV_04_0660-0660|Gloss=be.Masc/Plur|Rel=mod@relcl|RelRole=subj
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=771477|AlignEnd=771630|Gloss=Neg
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=771630|AlignEnd=771785|Gloss=PUNCT
 
@@ -7319,11 +7319,11 @@
 # phonetic_text = in ka cêː / gaudaː -n waːkeː / sai kà ganiː tôː / in hiːr̃a akèː / niː fa inàː ganiː -n zân jeː ìn kwântaː // an faːràː gudù -n -kà kèː nan // wandà kuma bàː shiː nèː ba //
 # text = wandà kuma bàː shiː nèː ba //
 # text_en = Anyway, the one who is not concerned (who has not eaten any).
-1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=830125|AlignEnd=830236|Gloss=who
+1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=830125|AlignEnd=830236|ClauseType=Rel|Gloss=who|Relz=Word
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=830236|AlignEnd=830347|Gloss=too
 3	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=830569|AlignEnd=830680|Gloss=Neg
 4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	AlignBegin=830680|AlignEnd=830791|Gloss=3Masc.Nom
-5	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	mod@relcl	_	AlignBegin=831013|AlignEnd=831124|Gloss=be.Masc/Plur
+5	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	mod@relcl	_	AlignBegin=831013|AlignEnd=831124|Gloss=be.Masc/Plur|RelRole=subj
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=831124|AlignEnd=831235|Gloss=Neg
 7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=831457|AlignEnd=831679|Gloss=PUNCT
 
@@ -8748,12 +8748,12 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 977531, 982229
 # phonetic_text = wandà gàː ruwaː nan kòː bâi yàː sakèː -wàː à ràːfiː -n Basaːwa // Àugànan // Àugàna ràːfiː -n Basaːwa kèː nan //
-# text = wandà gàː ruwaː nan kòː baː yàː sakèːwaː à ràːfi-nBasaːwa |a Àugànân |a Àugàna ràːfi-nBasaːwa kèːnan //
+# text = wandà gàː ruwaː nan kòː baː- yàː= sakèːwaː à ràːfi-nBasaːwa |a Àugànân |a Àugàna ràːfi-nBasaːwa kèːnan //
 # text_en = The one who has water there never gives up in the Basawa valley, in Auga there, Auga in the Basawa valley.
-1	wandà	wandà	PRON	_	PronType=Rel	8	dislocated@subj	_	AlignBegin=977531|AlignEnd=977724|Gloss=who
-2	gàː	gàː	PART	_	PartType=Pred	1	mod@relcl	_	AlignBegin=977724|AlignEnd=977917|Gloss=here_is
-3	ruwaː	ruwaː	NOUN	_	_	2	subj	_	AlignBegin=977917|AlignEnd=978110|Gloss=water
-4	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	2	mod	_	AlignBegin=978110|AlignEnd=978303|Gloss=PreRef|PreRef=Yes
+1	wandà	wandà	PRON	_	PronType=Rel	8	dislocated@subj	_	AlignBegin=977531|AlignEnd=977724|ClauseType=Rel|Gloss=who|Relz=Word
+2	gàː	gàː	PART	_	ExtPos=NOUN|PartType=Pred	1	mod@relcl	_	AlignBegin=977724|AlignEnd=977917|Gloss=here_is|Idiom=Yes|RelRole=mod
+3	ruwaː	ruwaː	NOUN	_	_	2	subj	_	AlignBegin=977917|AlignEnd=978110|Gloss=water|InIdiom=Yes
+4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	AlignBegin=978110|AlignEnd=978303|Gloss=PreRef|PreRef=Yes
 5	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=978303|AlignEnd=978496|Gloss=as_for
 6	baː-	bâː-	PART	_	Aspect=Prog|PartType=TAM|Polarity=Neg	8	mod/m	_	Gloss=Neg.Prog-|wordform=baː
 7	yàː=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=978496|AlignEnd=978689|Gloss=3Masc=|wordform=baːyàː
@@ -9589,15 +9589,15 @@
 3	//+	//+	PUNCT	_	_	1	punct	_	AlignBegin=1069770|AlignEnd=1070020|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0955-0956
-# text = wandà su kè geːfen Àngàna //
+# text = wandà su-kè geːfen Àngàna //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1070304, 1072019
 # phonetic_text = wandà sukèː / geːfeː -n Àngàna //
 # text_en = Those near Angana.
-1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=107030|AlignEnd=1070610|Gloss=who|Overlap=HAUZ_BC_CONV_04_0954-0954
+1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=107030|AlignEnd=1070610|AttachTo=1@HAUZ_BC_CONV_04_0954-0954|ClauseType=Rel|Gloss=who|Overlap=HAUZ_BC_CONV_04_0954-0954|Rel=mod:appos@relcl|Relz=Word
 2	su-	su-	PRON	_	Copula=Yes|Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=1070610|AlignEnd=1070910|AttachTo=HAUZ_BC_CONV_04_0954-0954|Gloss=3Plur|Rel=mod@relcl|SpaceAfter=No
-3	kè	neː	PART	_	PartType=Pred	1	mod@relcl	_	AlignBegin=1070610|AlignEnd=1070910|AttachTo=HAUZ_BC_CONV_04_0954-0954|Gloss=be.Rel2|Rel=mod@relcl|Relative=Variante|wordform=sukè
+3	kè	neː	PART	_	PartType=Pred	1	mod@relcl	_	AlignBegin=1070610|AlignEnd=1070910|AttachTo=HAUZ_BC_CONV_04_0954-0954|Gloss=be.Rel2|Rel=mod@relcl|Relative=Variante|RelRole=subj|wordform=sukè
 4	geːfen	geːfen	ADP	_	_	3	comp:pred	_	AlignBegin=1071210|AlignEnd=1071350|Gloss=near|wordform=geːfeː
 5	Àngàna	Àngàna	PROPN	_	_	4	comp:obj	_	AlignBegin=1071480|AlignEnd=1071750|Gloss=Angana
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=1071750|AlignEnd=1072020|Gloss=PUNCT
@@ -10211,10 +10211,10 @@
 7	fa	fa	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=114160|AlignEnd=1141790|Gloss=indeed
 8	<	<	PUNCT	_	_	9	punct	_	AlignBegin=1141790|AlignEnd=1141970|Gloss=PUNCT
 9	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=1141970|AlignEnd=1142150|Gloss=there_is.Neg
-10	wandà	wandà	PRON	_	PronType=Rel	13	subj	_	AlignBegin=1142150|AlignEnd=1142320|Gloss=who.Rel|RelPos=Yes|Relz=Word
+10	wandà	wandà	PRON	_	PronType=Rel	9	mod@relcl	_	AlignBegin=1142150|AlignEnd=1142320|ClauseType=Rel|Gloss=who.Rel|Relz=Word
 11	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	13	mod/m	_	Gloss=Fut-|SpaceAfter=No
 12	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=1142320|AlignEnd=114250|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
-13	Ø	yi	PRON	_	_	9	subj	_	AlignBegin=1142320|AlignEnd=114250|ClauseType=Rel|Gloss=do
+13	Ø	yi	PRON	_	_	10	comp:obj	_	AlignBegin=1142320|AlignEnd=114250|Gloss=do|RelRole=subj
 14	wànnan	wânnan	PRON	_	PronType=Dem	13	comp:obj	_	AlignBegin=114250|AlignEnd=1142670|Gloss=PreRef|PreRef=Yes
 15	//	//	PUNCT	_	_	9	punct	_	AlignBegin=1142670|AlignEnd=1142850|Gloss=PUNCT
 
@@ -10840,8 +10840,8 @@
 7	na	na	PART	_	Case=Gen|PartType=Case	1	conj:coord	_	AlignBegin=1205060|AlignEnd=120540|Gloss=Gen
 8	Dòːmà	Dòːmà	PROPN	_	_	7	comp:obj	_	AlignBegin=120540|AlignEnd=1205730|Gloss=Doma
 9	|a	|a	PUNCT	_	_	10	punct	_	AlignBegin=1205730|AlignEnd=1206060|Gloss=PUNCT
-10	wandà	wandà	PRON	_	PronType=Rel	7	conj:appos	_	AlignBegin=1206060|AlignEnd=120640|Gloss=whose
-11	sâː	sâː	NOUN	_	_	12	subj	_	AlignBegin=120640|AlignEnd=1206730|Gloss=cow
+10	wandà	wandà	PRON	_	PronType=Rel	7	conj:appos	_	AlignBegin=1206060|AlignEnd=120640|ClauseType=Rel|Gloss=whose|Relz=Word
+11	sâː	sâː	NOUN	_	_	12	subj	_	AlignBegin=120640|AlignEnd=1206730|Gloss=cow|RelRole=mod
 12	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	mod@relcl	_	AlignBegin=1206730|AlignEnd=1207060|Gloss=Prog|SpaceAfter=No
 13	gudùː	gud-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	12	comp:pred	_	AlignBegin=1207060|AlignEnd=1207390|Gloss=run.Vnoun
 14	<	<	PUNCT	_	_	1	punct	_	AlignBegin=1207390|AlignEnd=1207730|Gloss=PUNCT
@@ -11207,15 +11207,15 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1253955, 1254817
 # phonetic_text = kâi àbù -ǹ sai wandà ya ci //
-# text = kâi àbîn sai wandà ya ci //
+# text = kâi àbîn sai wandà ya-Ø= ci //
 # text_en = It's something you had to eat.
 1	kâi	kâi	INTJ	_	_	4	discourse	_	AlignBegin=1253960|AlignEnd=1254080|Gloss=my
 2	àbîn	àbù	NOUN	_	_	4	dislocated@comp	_	AlignBegin=1254080|AlignEnd=1254140|Gloss=thing.Def|wordform=àbù
 3	sai	sai	ADV	_	_	4	mod	_	AlignBegin=125420|AlignEnd=1254320|Gloss=must
-4	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=1254320|AlignEnd=1254450|Gloss=who
+4	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=1254320|AlignEnd=1254450|ClauseType=Rel|Gloss=who|Relz=Word
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=1254450|AlignEnd=1254570|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 6	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-7	ci	ci	VERB	_	_	4	mod@relcl	_	AlignBegin=1254570|AlignEnd=1254690|Gloss=eat
+7	ci	ci	VERB	_	_	4	mod@relcl	_	AlignBegin=1254570|AlignEnd=1254690|Gloss=eat|RelRole=subj
 8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=1254690|AlignEnd=1254820|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_1122-1123
@@ -12568,7 +12568,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1.40268e+06, 1403932
 # phonetic_text = kai yànzu / kâː ganiː wânnan yaːrinyàː nèː / sôː -n koːwaː / ƙîː -n wandà ya rasàː //
-# text = sôn koːwaː //= ƙîn wandà ya rasàː //
+# text = sô-nkoːwaː //=ƙî-nwandà ya-Ø= rasàː //
 # text_en = Loving everyone and hating the poor.
 1	sô	soː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	0	root	_	AlignBegin=1402680|AlignEnd=1402770|Gloss=love.Vnoun|SpaceAfter=No|wordform=sôn
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen|SpaceAfter=No
@@ -12576,10 +12576,10 @@
 4	//=	//=	PUNCT	_	_	5	punct	_	AlignBegin=1403040|AlignEnd=1403220|Gloss=PUNCT|SpaceAfter=No
 5	ƙî	ƙi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	1	parataxis:conj	_	AlignBegin=1403220|AlignEnd=140330|Gloss=hat.Vnoun|SpaceAfter=No|wordform=ƙîn
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceAfter=No
-7	wandà	wandà	PRON	_	PronType=Rel	6	comp:obj	_	AlignBegin=1403370|AlignEnd=1403510|Gloss=who
+7	wandà	wandà	PRON	_	PronType=Rel	6	comp:obj	_	AlignBegin=1403370|AlignEnd=1403510|ClauseType=Rel|Gloss=who|Relz=Word
 8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=1403510|AlignEnd=1403650|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 9	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	10	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-10	rasàː	ras-	VERB	_	_	7	mod@relcl	_	AlignBegin=1403650|AlignEnd=1403790|Gloss=miss
+10	rasàː	ras-	VERB	_	_	7	mod@relcl	_	AlignBegin=1403650|AlignEnd=1403790|Gloss=miss|RelRole=subj
 11	//	//	PUNCT	_	_	1	comp:obj	_	AlignBegin=1403790|AlignEnd=1403930|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_1261-1262

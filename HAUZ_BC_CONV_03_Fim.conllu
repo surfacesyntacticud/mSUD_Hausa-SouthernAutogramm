@@ -2704,16 +2704,16 @@
 # phonetic_text = so wandà ya cêː mishì / zâi yàdda nèː / mêː mêː mêː mêː hakà //
 # text_en = So, the one who told him he will agree, etc. etc.
 1	sòː	sòː	INTJ	_	Foreign=Yes	12	discourse	_	AlignBegin=310889|AlignEnd=311179|Gloss=so|Lang=en
-2	wandà	wandà	PRON	_	PronType=Rel	5	subj	_	AlignBegin=311179|AlignEnd=311469|Gloss=who.Rel|RelPos=Yes|Relz=Word
+2	wandà	wandà	PRON	_	PronType=Rel	12	dislocated@top	_	AlignBegin=311179|AlignEnd=311469|Gloss=who.Rel|RelPos=Yes|Relz=Word
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=311469|AlignEnd=311759|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-5	cêː	cêː	VERB	_	_	12	dislocated@top	_	AlignBegin=311759|AlignEnd=312049|ClauseType=Rel|Gloss=say
+5	cêː	cêː	VERB	_	_	2	mod@relcl	_	AlignBegin=311759|AlignEnd=312049|ClauseType=Rel|Gloss=say|RelRole=subj
 6	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	5	comp:obl	_	AlignBegin=312049|AlignEnd=312339|Gloss=3Masc.Dat
 7	zâ-	zâː-	PART	_	PartType=TAM	9	mod/m	_	Gloss=Fut-|SpaceAfter=No
 8	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=312627|AlignEnd=312778|Gloss=3Masc=|wordform=zâi
 9	yàdda	yar̃d-	VERB	_	_	5	comp:obj	_	AlignBegin=312778|AlignEnd=312929|Gloss=agree
 10	nèː	neː	PART	_	PartType=Foc	9	discourse@foc	_	AlignBegin=312929|AlignEnd=313080|Gloss=Emph
-11	<	<	PUNCT	_	_	12	punct	_	AlignBegin=313080|AlignEnd=313230|Gloss=PUNCT
+11	<	<	PUNCT	_	_	2	punct	_	AlignBegin=313080|AlignEnd=313230|Gloss=PUNCT
 12	mêː-mêː	mêː-mêː	X	_	_	0	root	_	AlignBegin=313230|AlignEnd=313426|Gloss=etc
 13	mêː-mêː	mêː-mêː	X	_	_	12	conj:redup	_	AlignBegin=313426|AlignEnd=313622|Gloss=etc
 14	hakà	hakà	ADV	_	_	12	mod	_	AlignBegin=314014|AlignEnd=314210|Gloss=like_this
@@ -3286,7 +3286,7 @@
 26	wandà	wandà	PRON	_	PronType=Rel	25	mod@relcl	_	AlignBegin=375944|AlignEnd=376181|Gloss=which.Rel|Relz=word
 27	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	29	subj/m	_	AlignBegin=376181|AlignEnd=376418|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 28	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	29	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
-29	fi	fi	VERB	_	_	26	comp	_	AlignBegin=376418|AlignEnd=376655|ClauseType=Rel|Gloss=exceed|RelRole=subj
+29	fi	fi	VERB	_	_	26	comp:obj	_	AlignBegin=376418|AlignEnd=376655|ClauseType=Rel|Gloss=exceed|RelRole=subj
 30	wânnan	wânnan	PRON	_	Number=Plur|PronType=Dem	29	comp:obj	_	AlignBegin=376655|AlignEnd=376892|Gloss=PreRef|PreRef=Yes
 31	girmaː	girmaː	NOUN	_	_	29	mod	_	AlignBegin=376892|AlignEnd=377129|Gloss=size
 32	//	//	PUNCT	_	_	14	punct	_	AlignBegin=377129|AlignEnd=377365|Gloss=PUNCT
