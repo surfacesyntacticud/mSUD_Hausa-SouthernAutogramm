@@ -37,7 +37,7 @@
 1	dà	dà	ADP	_	_	0	root	_	AlignBegin=3070|AlignEnd=3232|Gloss=with
 2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	comp:obj	_	AlignBegin=3232|AlignEnd=3394|Gloss=1Sing.Nom
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	AlignBegin=3394|AlignEnd=3556|Gloss=4|SpaceAfter=No
-4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=3394|AlignEnd=3556|Gloss=Prog.Rel|wordform=akèː
+4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=3394|AlignEnd=3556|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akèː
 5	yîː	yi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=3556|AlignEnd=3718|Gloss=do.Vnoun
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=3718|AlignEnd=3881|Gloss=PUNCT
 
@@ -156,7 +156,7 @@
 9	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	4	comp:obj	_	AlignBegin=21537|AlignEnd=21807|Gloss=be.Masc/Plur
 10	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	12	mod/m	_	Gloss=Fut-|SpaceAfter=No
 11	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=21807|AlignEnd=21942|Gloss=3Fem=|SpaceAfter=No|wordform=zaːtà
-12	saːmoː	saːm-	VERB	_	_	9	comp:cleft	_	AlignBegin=22077|AlignEnd=22347|Gloss=get.DIR
+12	saːmoː	saːm-	VERB	_	_	9	comp:cleft	_	AlignBegin=22077|AlignEnd=22347|ClauseType=Cleft|Gloss=get.DIR
 13	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	14	det	_	AlignBegin=22347|AlignEnd=22617|Gloss=PreRef|PreRef=Yes
 14	ramàː	ramàː	NOUN	_	_	12	comp:obj	_	AlignBegin=22616|AlignEnd=22887|Gloss=hemp
 15	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=22887|AlignEnd=23160|Gloss=PUNCT
@@ -777,7 +777,7 @@
 4	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=89850|AlignEnd=90036|Gloss=say
 5	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=90036|AlignEnd=90222|Gloss=well
 6	ìnaː	ìnaː	ADV	_	PronType=Int	4	comp:obj	_	AlignBegin=90222|AlignEnd=90408|Gloss=where
-7	yâːraː	yâːraː	VERB	_	Number=Plur	6	comp:cleft	_	AlignBegin=90408|AlignEnd=90501|Gloss=child.Plur
+7	yâːraː	yâːraː	VERB	_	Number=Plur	6	comp:cleft	_	AlignBegin=90408|AlignEnd=90501|ClauseType=Int|Gloss=child.Plur
 8	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=90594|AlignEnd=90780|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_075
@@ -1137,7 +1137,7 @@
 4	yàːyàː	yàːyàː	ADV	_	PronType=Int	3	comp:obj	_	AlignBegin=128616|AlignEnd=128790|Gloss=how
 5	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	7	mod/m	_	Gloss=Fut-|SpaceAfter=No
 6	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=128790|AlignEnd=128964|Gloss=1Sing=|SpaceAfter=No|wordform=zân
-7	yi	yi	VERB	_	_	4	comp:cleft	_	AlignBegin=128964|AlignEnd=129138|Gloss=do
+7	yi	yi	VERB	_	_	4	comp:cleft	_	AlignBegin=128964|AlignEnd=129138|ClauseType=Int|Gloss=do
 8	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=129138|AlignEnd=129138|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_106
@@ -1213,7 +1213,7 @@
 4	yàːyàː	yàːyàː	ADV	_	PronType=Int	3	comp:obj	_	AlignBegin=134432|AlignEnd=134637|Gloss=how
 5	zâː-	zâː-	PART	_	PartType=TAM|Tense=Fut	7	mod/m	_	Gloss=Fut-|SpaceAfter=No
 6	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=134637|AlignEnd=134842|Gloss=1Sing=|SpaceAfter=No|wordform=zân
-7	yi	yi	VERB	_	_	4	comp:cleft	_	AlignBegin=134842|AlignEnd=135047|Gloss=do
+7	yi	yi	VERB	_	_	4	comp:cleft	_	AlignBegin=134842|AlignEnd=135047|ClauseType=Int|Gloss=do
 8	in-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	10	subj/m	_	AlignBegin=135047|AlignEnd=135252|Gloss=1Sing-|SpaceAfter=No|wordform=ìn
 9	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	10	mod/m	_	Gloss=Sub=
 10	jeː	jeː	VERB	_	_	7	mod	_	AlignBegin=135252|AlignEnd=135457|Gloss=go
@@ -1605,7 +1605,7 @@
 3	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	0	root	_	AlignBegin=176977|AlignEnd=177136|Gloss=1Sing.Nom
 4	na-	na	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=177136|AlignEnd=177295|Gloss=1Sing-|SpaceAfter=No|wordform=na
 5	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	6	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-6	jeː	jeː	VERB	_	_	3	comp:cleft	_	AlignBegin=177295|AlignEnd=177454|Gloss=go
+6	jeː	jeː	VERB	_	_	3	comp:cleft	_	AlignBegin=177295|AlignEnd=177454|ClauseType=Cleft|Gloss=go
 7	na-	na	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=177454|AlignEnd=177613|Gloss=1Sing-|SpaceAfter=No|wordform=na
 8	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	9	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
 9	saːmoː	saːm-	VERB	_	_	6	parataxis:conj	_	AlignBegin=177613|AlignEnd=177772|Gloss=get.DIR

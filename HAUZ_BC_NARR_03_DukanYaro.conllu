@@ -109,7 +109,7 @@
 4	jiːniyo	jiːniyo	ADJ	_	Foreign=Yes	5	mod	_	AlignBegin=18954|AlignEnd=19196|Gloss=junior|Lang=en
 5	kilaːs	kilaːs	NOUN	_	Foreign=Yes	3	comp:obj	_	AlignBegin=19196|AlignEnd=19438|Gloss=class|Lang=en
 6	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=19438|AlignEnd=19680|Gloss=3Masc|SpaceAfter=No
-7	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=19438|AlignEnd=19680|Gloss=Prog.Rel|wordform=yakè
+7	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	3	comp:cleft	_	AlignBegin=19438|AlignEnd=19680|ClauseType=Cleft|Gloss=Prog.Rel|wordform=yakè
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=19680|AlignEnd=19925|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_03_12-12
@@ -319,10 +319,10 @@
 9	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=51368|AlignEnd=51576|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 10	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur=
 11	cêː	cêː	VERB	_	_	0	root	_	AlignBegin=51784|AlignEnd=51992|Gloss=say
-12	mèː	mèː	PRON	_	_	11	comp:obj	_	AlignBegin=51992|AlignEnd=52200|Gloss=what
+12	mèː	mèː	PRON	_	PronType=Int	11	comp:obj	_	AlignBegin=51992|AlignEnd=52200|Gloss=what
 13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=52200|AlignEnd=52408|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 14	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-15	yi	yi	VERB	_	_	12	comp:cleft	_	AlignBegin=52408|AlignEnd=52616|Gloss=do
+15	yi	yi	VERB	_	_	12	comp:cleft	_	AlignBegin=52408|AlignEnd=52616|ClauseType=Int|Gloss=do
 16	hakà	hakà	ADV	_	_	15	mod	_	AlignBegin=52616|AlignEnd=52824|Gloss=like_this
 17	a-	a	PRON	_	Person=4|PronType=PrsSubj	19	subj/m	_	AlignBegin=52824|AlignEnd=53032|Gloss=4-|SpaceAfter=No|wordform=akà
 18	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=
