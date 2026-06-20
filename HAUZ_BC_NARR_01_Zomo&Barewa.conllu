@@ -1542,7 +1542,7 @@
 # text_en = Where he went, he lay down.
 1	indà	indà	ADV	_	ExtPos=SCONJ|PronType=Rel	7	mod	_	AlignBegin=173008|AlignEnd=173182|ClauseType=Rel|Gloss=COMP.LOC|Relz=Word
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=173182|AlignEnd=173356|Gloss=3Masc-|SpaceAfter=No|wordform=ya
-3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
+3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=_=
 4	jeː	jeː	VERB	_	_	1	mod@relcl	_	AlignBegin=173356|AlignEnd=173530|Gloss=go|RelRole=mod
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=173530|AlignEnd=173704|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
@@ -1627,7 +1627,7 @@
 12	àbin	àbù	NOUN	_	Definite=Def	11	comp:obj	_	AlignBegin=183532|AlignEnd=183604|Gloss=thing..Def|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	AlignBegin=183676|AlignEnd=183820|Gloss=CompRel|Relz=Word
 14	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	16	subj/m	_	AlignBegin=183820|AlignEnd=183964|Gloss=2Masc-|SpaceAfter=No|wordform=ka
-15	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=
+15	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	16	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix
 16	ci	ci	VERB	_	_	13	comp:obj	_	AlignBegin=183964|AlignEnd=184108|ClauseType=Rel|Gloss=eat|RelRole=obj
 17	//	//	PUNCT	_	_	7	punct	_	AlignBegin=184108|AlignEnd=184253|Gloss=PUNCT
 
@@ -1684,7 +1684,7 @@
 10	àbin	àbù	NOUN	_	Definite=Def	9	comp:obj	_	AlignBegin=188457|AlignEnd=188555|Gloss=thing..Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	AlignBegin=188654|AlignEnd=188851|Gloss=CompRel|Relz=Word
 12	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	14	subj/m	_	AlignBegin=188851|AlignEnd=189048|Gloss=2Masc-|SpaceAfter=No|wordform=ka
-13	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=
+13	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	14	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix
 14	ci	ci	VERB	_	_	11	comp:obj	_	AlignBegin=189048|AlignEnd=189245|ClauseType=Rel|Gloss=eat|RelRole=obj
 15	à	à	ADP	_	_	14	mod	_	AlignBegin=189245|AlignEnd=189442|Gloss=at
 16	hanyàː	hanyàː	NOUN	_	_	15	comp:obj	_	AlignBegin=189442|AlignEnd=189639|Gloss=road
@@ -1882,7 +1882,7 @@
 15	àbin	àbù	NOUN	_	Definite=Def	14	comp:obj	_	AlignBegin=210545|AlignEnd=210629|ClauseType=Rel|Gloss=thing..Def|RelAnt=Yes|RelRole=subj
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	AlignBegin=210712|AlignEnd=210879|Gloss=CompRel|Relz=Word
 17	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	19	subj/m	_	AlignBegin=210879|AlignEnd=211046|Gloss=2Masc-|SpaceAfter=No|wordform=ka
-18	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=
+18	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix
 19	ci	ci	VERB	_	_	16	comp:obj	_	AlignBegin=211046|AlignEnd=211213|ClauseType=Rel|Gloss=eat|RelRole=obj
 20	//	//	PUNCT	_	_	4	punct	_	AlignBegin=211213|AlignEnd=211376|Gloss=PUNCT
 

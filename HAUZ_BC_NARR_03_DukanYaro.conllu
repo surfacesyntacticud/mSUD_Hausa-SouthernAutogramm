@@ -346,7 +346,7 @@
 7	àbin	àbù	NOUN	_	Definite=Def	6	subj	_	AlignBegin=55912|AlignEnd=56038|Gloss=thing..Def|RelAnt=Yes
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	AlignBegin=56164|AlignEnd=56416|Gloss=CompRel|Relz=Word
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	11	subj/m	_	AlignBegin=56416|AlignEnd=56668|Gloss=3Masc-|SpaceAfter=No|wordform=ya
-10	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
+10	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=_=
 11	yi	yi	VERB	_	_	8	comp:obj	_	AlignBegin=56668|AlignEnd=56920|ClauseType=Rel|Gloss=do|RelRole=pred
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=56920|AlignEnd=57172|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 13	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	14	mod/m	_	Gloss=Perf.Sing
