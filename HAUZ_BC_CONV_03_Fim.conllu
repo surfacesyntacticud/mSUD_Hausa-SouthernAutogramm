@@ -2702,9 +2702,9 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_03.WAV
 # sent_timecode = 310889, 314409
 # phonetic_text = so wandà ya cêː mishì / zâi yàdda nèː / mêː mêː mêː mêː hakà //
-# text_en = So, the one who told him he will agree, etc. etc.
+# text_en = So, the one who told him he will agree, etc. etc?
 1	sòː	sòː	INTJ	_	Foreign=Yes	12	discourse	_	AlignBegin=310889|AlignEnd=311179|Gloss=so|Lang=en
-2	wandà	wandà	PRON	_	PronType=Rel	12	dislocated@top	_	AlignBegin=311179|AlignEnd=311469|Gloss=who.Rel|RelPos=Yes|Relz=Word
+2	wandà	wandà	PRON	_	ExtPos=SCONJ|PronType=Rel	12	dislocated@top	_	AlignBegin=311179|AlignEnd=311469|ClauseType=Rel|Gloss=who.Rel|Relz=Word
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=311469|AlignEnd=311759|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
 5	cêː	cêː	VERB	_	_	2	mod@relcl	_	AlignBegin=311759|AlignEnd=312049|ClauseType=Rel|Gloss=say|RelRole=subj
@@ -2712,25 +2712,25 @@
 7	zâ-	zâː-	PART	_	PartType=TAM	9	mod/m	_	Gloss=Fut-|SpaceAfter=No
 8	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=312627|AlignEnd=312778|Gloss=3Masc=|wordform=zâi
 9	yàdda	yar̃d-	VERB	_	_	5	comp:obj	_	AlignBegin=312778|AlignEnd=312929|Gloss=agree
-10	nèː	neː	PART	_	PartType=Foc	9	discourse@foc	_	AlignBegin=312929|AlignEnd=313080|Gloss=Emph
+10	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=312929|AlignEnd=313080|Gloss=Emph
 11	<	<	PUNCT	_	_	2	punct	_	AlignBegin=313080|AlignEnd=313230|Gloss=PUNCT
-12	mêː-mêː	mêː-mêː	X	_	_	0	root	_	AlignBegin=313230|AlignEnd=313426|Gloss=etc
-13	mêː-mêː	mêː-mêː	X	_	_	12	conj:redup	_	AlignBegin=313426|AlignEnd=313622|Gloss=etc
+12	mêː-mêː	mêː-mêː	PRON	_	PronType=Int	0	root	_	AlignBegin=313230|AlignEnd=313426|Gloss=what?
+13	mêː-mêː	mêː-mêː	PRON	_	_	12	conj:redup	_	AlignBegin=313426|AlignEnd=313622|Gloss=etc
 14	hakà	hakà	ADV	_	_	12	mod	_	AlignBegin=314014|AlignEnd=314210|Gloss=like_this
 15	?//	?//	PUNCT	_	_	12	punct	_	AlignBegin=314210|AlignEnd=314409|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__173
+# text = shiː nèː akà kiraː matà police / sai ta gudù //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_03.WAV
 # sent_timecode = 314956, 316979
 # phonetic_text = shiː nèː akà kiraː matà police / sai ta gudù //
-# text = shiː nèː akà kiraː matà police / sai ta gudù //
-# text_en = Then they called the police for her, then she ran away.
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	mod	_	AlignBegin=314956|AlignEnd=315149|Gloss=3Masc.Nom
+# text_en = It's then they called the police for her and she ran away.
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=314956|AlignEnd=315149|Gloss=3Masc.Nom
 2	nèː	neː	PART	_	PartType=Foc	1	discourse@foc	_	AlignBegin=315149|AlignEnd=315342|Gloss=Emph
 3	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=315342|AlignEnd=315535|Gloss=4-|SpaceAfter=No|wordform=akà
 4	kà=	kà=	PART	_	Aspect=Perf|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|Relative=Yes
-5	kiraː	kiraː	VERB	_	_	0	root	_	AlignBegin=315535|AlignEnd=315728|Gloss=call
+5	kiraː	kiraː	VERB	_	_	1	comp:cleft	_	AlignBegin=315535|AlignEnd=315728|Gloss=call
 6	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	5	comp:obl	_	AlignBegin=315728|AlignEnd=315921|Gloss=3Fem.Dat
 7	police	police	NOUN	_	Foreign=Yes	5	comp:obj	_	AlignBegin=315921|AlignEnd=316114|Gloss=police|Lang=en
 8	|c	|c	PUNCT	_	_	12	punct	_	AlignBegin=316114|AlignEnd=316304|Gloss=PUNCT
@@ -2738,7 +2738,7 @@
 10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=316473|AlignEnd=316642|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 11	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	12	mod/m	_	Gloss=Perf.Rel.Sing|Relative=Yes|wordform=_=
 12	gudù	gud-	VERB	_	_	5	conj:coord	_	AlignBegin=316642|AlignEnd=316811|Gloss=run
-13	//	//	PUNCT	_	_	5	punct	_	AlignBegin=316811|AlignEnd=316979|Gloss=PUNCT
+13	//	//	PUNCT	_	_	1	punct	_	AlignBegin=316811|AlignEnd=316979|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__174
 # speaker_id = SP2
