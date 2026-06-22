@@ -3439,11 +3439,11 @@
 # phonetic_text = shiː nèː ya sâː akà jeː akà kashèː àboːkiː -ǹ /
 # text = shiː nèː ya sâː akà jeː akà kashè àboːkîn /
 # text_en = that's why he sent people to kill the friend.
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	comp:pred	_	AlignBegin=391408|AlignEnd=391579|Gloss=3Masc.Nom
-2	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=391579|AlignEnd=391750|Gloss=be.Masc/Plur
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=391408|AlignEnd=391579|Gloss=3Masc.Nom
+2	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	1	discourse@foc	_	AlignBegin=391579|AlignEnd=391750|Gloss=Emph.Masc/Plur
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=391750|AlignEnd=391921|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-5	sâː	sâː	VERB	_	_	2	comp:cleft	_	AlignBegin=391921|AlignEnd=392092|ClauseType=Cleft|Gloss=put
+5	sâː	sâː	VERB	_	_	1	comp:cleft	_	AlignBegin=391921|AlignEnd=392092|ClauseType=Cleft|Gloss=put
 6	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	AlignBegin=392092|AlignEnd=392263|Gloss=4-|SpaceAfter=No|wordform=akà
 7	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	8	mod/m	_	Gloss=Perf.Rel.Plur=
 8	jeː	jeː	VERB	_	_	5	comp:obj	_	AlignBegin=392263|AlignEnd=392434|Gloss=go
@@ -3451,7 +3451,7 @@
 10	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur=
 11	kashè	kas-	VERB	_	_	8	parataxis:conj	_	AlignBegin=392605|AlignEnd=392776|Gloss=kill
 12	àboːkîn	àboːkiː	NOUN	_	Definite=Def	11	comp:obj	_	AlignBegin=392776|AlignEnd=392862|Gloss=friend.Def|wordform=àboːkiː
-13	//	//	PUNCT	_	_	2	punct	_	AlignBegin=392947|AlignEnd=393114|Gloss=PUNCT
+13	//	//	PUNCT	_	_	1	punct	_	AlignBegin=392947|AlignEnd=393114|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__214
 # speaker_id = SP1
@@ -3701,14 +3701,14 @@
 # phonetic_text = tòː shiː nèː fa akà jeː /
 # text = tòː shiː nèː fa akà jeː /
 # text_en = Well then they went .
-1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=417876|AlignEnd=418034|Gloss=well
-2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	comp:pred	_	AlignBegin=418034|AlignEnd=418192|Gloss=3Masc.Nom
-3	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=418192|AlignEnd=418350|Gloss=be.Masc/Plur
-4	fa	fa	PART	_	PartType=Top	3	discourse@top	_	AlignBegin=418350|AlignEnd=418508|Gloss=indeed
+1	tòː	tòː	INTJ	_	_	2	discourse	_	AlignBegin=417876|AlignEnd=418034|Gloss=well
+2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=418034|AlignEnd=418192|Gloss=3Masc.Nom
+3	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	2	discourse@foc	_	AlignBegin=418192|AlignEnd=418350|Gloss=Emph.Masc/Plur
+4	fa	fa	PART	_	PartType=Top	2	discourse@top	_	AlignBegin=418350|AlignEnd=418508|Gloss=indeed
 5	a-	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=418508|AlignEnd=418666|Gloss=4-|SpaceAfter=No|wordform=akà
 6	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=
-7	jeː	jeː	VERB	_	_	3	comp:cleft	_	AlignBegin=418666|AlignEnd=418824|ClauseType=Cleft|Gloss=go
-8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=418824|AlignEnd=418985|Gloss=PUNCT
+7	jeː	jeː	VERB	_	_	2	comp:cleft	_	AlignBegin=418666|AlignEnd=418824|ClauseType=Cleft|Gloss=go
+8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=418824|AlignEnd=418985|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__229
 # speaker_id = SP1

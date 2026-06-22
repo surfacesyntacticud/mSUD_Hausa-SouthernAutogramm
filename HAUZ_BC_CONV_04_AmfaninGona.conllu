@@ -1832,7 +1832,7 @@
 # text = saiwoːyiː nèː dâː maː >+ a-kèː ɗiːbàː |c a-kèː yîː dà shiː //
 # text_en = In the old days, there were roots they were using to do it.
 1	saiwoːyiː	sâiwaː	NOUN	_	Number=Plur	0	root	_	AlignBegin=198870|AlignEnd=198968|Gloss=root.Plur|wordform=sâiwaː
-2	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	1	discourse@foc	_	AlignBegin=199066|AlignEnd=199262|Gloss=be.Masc/Plur
+2	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	1	discourse@foc	_	AlignBegin=199066|AlignEnd=199262|Gloss=Emph.Masc/Plur
 3	dâː	dâː	ADV	_	_	1	discourse	_	AlignBegin=199262|AlignEnd=199458|Gloss=formerly
 4	maː	maː	PART	_	PartType=Top	3	discourse@top	_	AlignBegin=199458|AlignEnd=199654|Gloss=even
 5	>+	>+	PUNCT	_	_	7	punct	_	AlignBegin=199654|AlignEnd=199852|Gloss=PUNCT
@@ -3055,13 +3055,13 @@
 # text_en = You see, now, that's two thousand (naira).
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=346250|AlignEnd=346407|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 2	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	3	mod/m	_	Gloss=Perf.Sing
-3	ganiː	ganiː	VERB	_	_	5	parataxis:discourse	_	AlignBegin=346407|AlignEnd=346564|Gloss=see
-4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp:pred	_	AlignBegin=346564|AlignEnd=346721|Gloss=3Masc.Nom
-5	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=346721|AlignEnd=346878|Gloss=be.Masc/Plur
-6	dubuː	dubuː	NUM	_	_	5	comp:cleft	_	AlignBegin=346878|AlignEnd=347035|ClauseType=Cleft|Gloss=thousand
+3	ganiː	ganiː	VERB	_	_	4	parataxis:discourse	_	AlignBegin=346407|AlignEnd=346564|Gloss=see
+4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=346564|AlignEnd=346721|Gloss=3Masc.Nom
+5	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	4	discourse@foc	_	AlignBegin=346721|AlignEnd=346878|Gloss=Emph.Masc/Plur
+6	dubuː	dubuː	NUM	_	_	4	comp:cleft	_	AlignBegin=346878|AlignEnd=347035|ClauseType=Cleft|Gloss=thousand
 7	biyu	biyu	NUM	_	_	6	flat@num	_	AlignBegin=347035|AlignEnd=347192|Gloss=two
 8	kèːnan	kèːnan	PART	_	PartType=Foc	6	discourse@foc	_	AlignBegin=347192|AlignEnd=347349|Gloss=Ident.Emph|wordform=kèː
-9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=347506|AlignEnd=347661|Gloss=PUNCT
+9	//	//	PUNCT	_	_	4	punct	_	AlignBegin=347506|AlignEnd=347661|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0288-0288
 # speaker_id = SP2
@@ -3165,12 +3165,12 @@
 # phonetic_text = shiː nèː / dubuː / ɗàr̃iː -n yànzu //
 # text = shiː nèː dubuː ɗàr̃in yànzu //
 # text_en = ... that's one hundred thousand of today.
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	comp:pred	_	AlignBegin=361208|AlignEnd=361521|Gloss=3Masc.Nom
-2	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=361521|AlignEnd=361834|Gloss=be.Masc/Plur
-3	dubuː	dubuː	NUM	_	_	2	comp:cleft	_	AlignBegin=362147|AlignEnd=362511|ClauseType=Cleft|Gloss=thousand
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=361208|AlignEnd=361521|Gloss=3Masc.Nom
+2	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	1	discourse@foc	_	AlignBegin=361521|AlignEnd=361834|Gloss=Emph.Masc/Plur
+3	dubuː	dubuː	NUM	_	_	1	comp:cleft	_	AlignBegin=362147|AlignEnd=362511|ClauseType=Cleft|Gloss=thousand
 4	ɗàr̃in	ɗàr̃in	NUM	_	Definite=Def	3	flat@num	_	AlignBegin=362874|AlignEnd=363013|Gloss=hundred.Def
 5	yànzu	yànzu	ADV	_	_	3	mod	_	AlignBegin=363152|AlignEnd=363430|Gloss=now
-6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=363430|AlignEnd=363707|Gloss=PUNCT
+6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=363430|AlignEnd=363707|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0301-0301
 # speaker_id = SP2
@@ -4354,21 +4354,21 @@
 # phonetic_text = dan kaː sanìː / shiː nèː mài taːrà ribìɗiː / nan dà nan //
 # text = dan kaː san / shiː nèː mài taːrà ribìɗiː / nan dà nan //
 # text_en = Because you know, it (millet stalk) is what produces good warm ashes instantly.
-1	dan	don	SCONJ	_	_	7	discourse	_	AlignBegin=503570|AlignEnd=503693|Gloss=because
+1	dan	don	SCONJ	_	_	6	discourse	_	AlignBegin=503570|AlignEnd=503693|Gloss=because
 2	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=503693|AlignEnd=503816|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 3	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Sing
-4	sanìː	sanìː	VERB	_	_	7	parataxis:discourse	_	AlignBegin=503816|AlignEnd=503939|Gloss=know
+4	sanìː	sanìː	VERB	_	_	6	parataxis:discourse	_	AlignBegin=503816|AlignEnd=503939|Gloss=know
 5	<	<	PUNCT	_	_	4	punct	_	AlignBegin=503939|AlignEnd=504062|Gloss=PUNCT
-6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	7	comp:pred	_	AlignBegin=504062|AlignEnd=504234|Gloss=3Masc.Nom
-7	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=504234|AlignEnd=504406|Gloss=be.Masc/Plur
-8	mài	mài	PART	_	Number=Sing|PartType=Der	7	comp:cleft	_	AlignBegin=504406|AlignEnd=504578|ClauseType=Cleft|Gloss=owner_of.Sing|Linker=Yes
+6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=504062|AlignEnd=504234|Gloss=3Masc.Nom
+7	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	6	discourse@foc	_	AlignBegin=504234|AlignEnd=504406|Gloss=Emph.Masc/Plur
+8	mài	mài	PART	_	Number=Sing|PartType=Der	6	comp:cleft	_	AlignBegin=504406|AlignEnd=504578|ClauseType=Cleft|Gloss=owner_of.Sing|Linker=Yes
 9	taːrà	taːr-	VERB	_	_	8	compound	_	AlignBegin=504578|AlignEnd=504750|Gloss=gather
 10	ribìɗiː	ribìɗiː	NOUN	_	_	9	comp:obj	_	AlignBegin=504750|AlignEnd=504922|Gloss=hot_fine_ashes
 11	>	>	PUNCT	_	_	12	punct	_	AlignBegin=504922|AlignEnd=505095|Gloss=PUNCT
 12	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	9	mod	_	AlignBegin=505095|AlignEnd=505229|Gloss=PreRef|PreRef=Yes
 13	dà	dà	CCONJ	_	_	14	cc	_	AlignBegin=505229|AlignEnd=505363|Gloss=with
 14	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	12	conj:coord	_	AlignBegin=505363|AlignEnd=505497|Gloss=PreRef|PreRef=Yes
-15	//	//	PUNCT	_	_	7	punct	_	AlignBegin=505497|AlignEnd=505631|Gloss=PUNCT
+15	//	//	PUNCT	_	_	6	punct	_	AlignBegin=505497|AlignEnd=505631|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0424-0428
 # speaker_id = SP1
@@ -5380,18 +5380,18 @@
 # phonetic_text = in dai bâː ka dà shiː / shiː nèː àbù -ǹ nan /
 # text = in dai bâː ka dà shiː / shiː nèː àbîn nan /
 # text_en = If indeed you don't have anything, that's why.
-1	in	in	SCONJ	_	_	9	mod	_	AlignBegin=624903|AlignEnd=625051|Gloss=if
+1	in	in	SCONJ	_	_	8	mod	_	AlignBegin=624903|AlignEnd=625051|Gloss=if
 2	dai	dai	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=625051|AlignEnd=625199|Gloss=indeed
 3	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	1	comp:obj	_	AlignBegin=625199|AlignEnd=625347|Gloss=there_is.Neg
 4	ka	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	3	subj	_	AlignBegin=625347|AlignEnd=625495|Gloss=2Masc
 5	dà	dà	ADP	_	_	3	comp:pred	_	AlignBegin=625495|AlignEnd=625643|Gloss=with
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	comp	_	AlignBegin=625643|AlignEnd=625791|Gloss=3Masc.Nom
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=625791|AlignEnd=625940|Gloss=PUNCT
-8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	AlignBegin=625940|AlignEnd=626132|Gloss=3Masc.Nom
-9	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=626132|AlignEnd=626324|Gloss=be.Masc/Plur
-10	àbîn	àbù	NOUN	_	Definite=Def	9	comp:cleft	_	AlignBegin=626324|AlignEnd=626420|ClauseType=Cleft|Gloss=thing.Def|wordform=àbù
+8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=625940|AlignEnd=626132|Gloss=3Masc.Nom
+9	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	8	discourse@foc	_	AlignBegin=626132|AlignEnd=626324|Gloss=Emph.Masc/Plur
+10	àbîn	àbù	NOUN	_	Definite=Def	8	comp:cleft	_	AlignBegin=626324|AlignEnd=626420|ClauseType=Cleft|Gloss=thing.Def|wordform=àbù
 11	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	10	det	_	AlignBegin=626516|AlignEnd=626708|Gloss=PreRef|PreRef=Yes
-12	<	<	PUNCT	_	_	9	punct	_	AlignBegin=626708|AlignEnd=626899|Gloss=PUNCT
+12	<	<	PUNCT	_	_	8	punct	_	AlignBegin=626708|AlignEnd=626899|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0527-0527
 # speaker_id = SP2
@@ -7052,21 +7052,21 @@
 # text_en = When you dip it in "taushe", that's how you will know you've eaten "gauda".
 1	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=801998|AlignEnd=802172|Gloss=2Masc-|SpaceAfter=No|wordform=kà
 2	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	3	mod/m	_	Gloss=Sub=
-3	wàr̃feː	war̃f-	VERB	_	_	9	mod	_	AlignBegin=802172|AlignEnd=802259|Gloss=dip
+3	wàr̃feː	war̃f-	VERB	_	_	8	mod	_	AlignBegin=802172|AlignEnd=802259|Gloss=dip
 4	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=802346|AlignEnd=802520|Gloss=3Masc
 5	dà	dà	ADP	_	_	3	comp:obl	_	AlignBegin=802520|AlignEnd=802694|Gloss=with
 6	tàwsheː	tàwsheː	NOUN	_	_	5	comp	_	AlignBegin=802694|AlignEnd=802868|Gloss=sauce_sp
 7	<	<	PUNCT	_	_	3	punct	_	AlignBegin=802868|AlignEnd=803043|Gloss=PUNCT
-8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	9	comp:pred	_	AlignBegin=803043|AlignEnd=803219|Gloss=3Masc.Nom
-9	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=803219|AlignEnd=803395|Gloss=be.Masc/Plur
+8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=803043|AlignEnd=803219|Gloss=3Masc.Nom
+9	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	8	discourse@foc	_	AlignBegin=803219|AlignEnd=803395|Gloss=Emph.Masc/Plur
 10	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	12	mod/m	_	Gloss=Fut-|SpaceAfter=No
 11	kà=	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	12	subj/m	_	AlignBegin=803395|AlignEnd=803571|Gloss=2Masc=|SpaceAfter=No|wordform=zaːkà
-12	san	sanìː	VERB	_	_	9	comp:cleft	_	AlignBegin=803571|AlignEnd=803747|ClauseType=Cleft|Gloss=know
+12	san	sanìː	VERB	_	_	8	comp:cleft	_	AlignBegin=803571|AlignEnd=803747|ClauseType=Cleft|Gloss=know
 13	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	15	subj/m	_	AlignBegin=803747|AlignEnd=803923|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 14	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	15	mod/m	_	Gloss=Perf.Sing
 15	ci	ci	VERB	_	_	12	comp:obj	_	AlignBegin=803923|AlignEnd=804099|Gloss=eat
 16	gaudaː	gaudaː	NOUN	_	_	15	comp:obj	_	AlignBegin=804099|AlignEnd=804275|Gloss=cakes_sp /
-17	<	<	PUNCT	_	_	9	punct	_	AlignBegin=804275|AlignEnd=804455|Gloss=PUNCT
+17	<	<	PUNCT	_	_	8	punct	_	AlignBegin=804275|AlignEnd=804455|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0692-0692
 # speaker_id = SP1
@@ -7372,11 +7372,11 @@
 # phonetic_text = shiː nèː zaːkà sanìː kaː ci gaudaː // yà yi makà ƙaɓeƙàɓè / à cikìː //
 # text = shiː nèː zaːkà san kaː ci gaudaː |c yà yi makà ƙaɓe-ƙàɓè à cikìː //
 # text_en = That's when you will know that you have eaten "gauda' and it will satisfy your stomach.
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	comp:pred	_	AlignBegin=836726|AlignEnd=836874|Gloss=3Masc.Nom
-2	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=836874|AlignEnd=837022|Gloss=be.Masc/Plur
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=836726|AlignEnd=836874|Gloss=3Masc.Nom
+2	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	1	discourse@foc	_	AlignBegin=836874|AlignEnd=837022|Gloss=Emph.Masc/Plur
 3	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	5	mod/m	_	Gloss=Fut-|SpaceAfter=No
 4	kà=	ka	PRON	_	Gender=Masc|Number=Sing|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=837022|AlignEnd=837170|Gloss=2Masc=|SpaceAfter=No|wordform=zaːkà
-5	san	sanìː	VERB	_	_	2	comp:cleft	_	AlignBegin=837170|AlignEnd=837318|ClauseType=Cleft|Gloss=know
+5	san	sanìː	VERB	_	_	1	comp:cleft	_	AlignBegin=837170|AlignEnd=837318|ClauseType=Cleft|Gloss=know
 6	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	8	subj/m	_	AlignBegin=837318|AlignEnd=837466|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 7	aː=	aː=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	8	mod/m	_	Gloss=Perf.Sing
 8	ci	ci	VERB	_	_	5	comp:obj	_	AlignBegin=837466|AlignEnd=837614|Gloss=eat
@@ -7384,12 +7384,12 @@
 10	|c	|c	PUNCT	_	_	13	punct	_	AlignBegin=837762|AlignEnd=837906|Gloss=PUNCT
 11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=838306|AlignEnd=838491|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 12	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	13	mod/m	_	Gloss=Sub=
-13	yi	yi	VERB	_	_	5	conj:coord	_	AlignBegin=838491|AlignEnd=838676|Gloss=do
+13	yi	yi	VERB	_	_	8	conj:coord	_	AlignBegin=838491|AlignEnd=838676|Gloss=do
 14	makà	makà	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	13	comp:obl	_	AlignBegin=838676|AlignEnd=838861|Gloss=2Masc.Dat
 15	ƙaɓe-ƙàɓè	ƙaɓe-ƙàɓè	ADV	_	_	13	comp:pred	_	AlignBegin=838861|AlignEnd=839046|Gloss=satisfied
 16	à	à	ADP	_	_	13	mod	_	AlignBegin=839231|AlignEnd=839416|Gloss=at
 17	cikìː	cikìː	NOUN	_	_	16	comp	_	AlignBegin=839416|AlignEnd=839601|Gloss=belly
-18	//	//	PUNCT	_	_	2	punct	_	AlignBegin=839601|AlignEnd=839783|Gloss=PUNCT
+18	//	//	PUNCT	_	_	1	punct	_	AlignBegin=839601|AlignEnd=839783|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0727-0727
 # speaker_id = SP2

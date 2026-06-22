@@ -292,12 +292,12 @@
 # phonetic_text = shiː nèː mukà sàya~ X
 # text = shiː nèː mukà sàyaː &//
 # text_en = We then bought...
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	comp:pred	_	AlignBegin=33096|AlignEnd=33236|Gloss=3Masc.Nom
-2	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root@scrap	_	AlignBegin=33236|AlignEnd=33376|Gloss=be.Masc/Plur
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root@scrap	_	AlignBegin=33096|AlignEnd=33236|Gloss=3Masc.Nom
+2	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	1	discourse@foc	_	AlignBegin=33236|AlignEnd=33376|Gloss=Emph.Masc/Plur
 3	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=33376|AlignEnd=33516|Gloss=1Plur-|SpaceAfter=No|wordform=mukà
 4	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur
-5	sàyaː	say-	VERB	_	_	2	comp:cleft	_	AlignBegin=33516|AlignEnd=33656|ClauseType=Cleft|Gloss=buy
-6	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=33516|AlignEnd=33656|Gloss=PUNCT
+5	sàyaː	say-	VERB	_	_	1	comp:cleft	_	AlignBegin=33516|AlignEnd=33656|ClauseType=Cleft|Gloss=buy
+6	&//	&//	PUNCT	_	_	1	punct	_	AlignBegin=33516|AlignEnd=33656|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_030-030_split2
 # text = sai akà sayoː || mukà sayoː wasu ɗan dabboːbiː > muː maː > kàman àwàːkiː hakà //
@@ -547,13 +547,13 @@
 23	cêː	cêː	VERB	_	_	20	comp:obj	_	AlignBegin=55692|AlignEnd=55841|Gloss=say
 24	dâː	dâː	ADV	_	_	23	mod	_	AlignBegin=55841|AlignEnd=55990|Gloss=formerly
 25	maː	maː	PART	_	PartType=Top	24	discourse@top	_	AlignBegin=55990|AlignEnd=56139|Gloss=even
-26	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	30	dislocated	_	AlignBegin=56139|AlignEnd=56288|Gloss=farm.Vnoun
+26	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	30	dislocated@top	_	AlignBegin=56139|AlignEnd=56288|Gloss=farm.Vnoun
 27	dà	dà	CCONJ	_	_	28	cc	_	AlignBegin=56288|AlignEnd=56437|Gloss=and
 28	kiːwòː	kiːwòː	NOUN	_	_	26	conj:coord	_	AlignBegin=56437|AlignEnd=56586|Gloss=cattle_breeding
 29	<	<	PUNCT	_	_	26	punct	_	AlignBegin=56586|AlignEnd=56732|Gloss=PUNCT
-30	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	31	comp:pred	_	AlignBegin=56732|AlignEnd=56928|Gloss=3Masc.Nom
-31	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	19	comp:obj	_	AlignBegin=56928|AlignEnd=57124|Gloss=be.Masc/Plur
-32	dà	dà	ADP	_	_	31	comp:cleft	_	AlignBegin=57124|AlignEnd=57320|ClauseType=Cleft|Gloss=with
+30	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	comp:obj	_	AlignBegin=56732|AlignEnd=56928|Gloss=3Masc.Nom
+31	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	30	discourse@foc	_	AlignBegin=56928|AlignEnd=57124|Gloss=Emph.Masc/Plur
+32	dà	dà	ADP	_	_	30	comp:cleft	_	AlignBegin=57124|AlignEnd=57320|ClauseType=Cleft|Gloss=with
 33	kyâu	kyâu	NOUN	_	_	32	comp	_	AlignBegin=57320|AlignEnd=57516|Gloss=beauty
 34	//	//	PUNCT	_	_	18	punct	_	AlignBegin=57516|AlignEnd=57710|Gloss=PUNCT
 
@@ -574,15 +574,15 @@
 # phonetic_text = noːmaː dà kiːwòː / shiː nèː mùtûm eː //
 # text = noːmaː dà kiːwòː < shiː nèː mùtûm eː !//
 # text_en = Farming and rearing, that's life!
-1	noːmaː	noːm-	VERB	_	ExtPos=NOUN	6	dislocated@comp	_	AlignBegin=57104|AlignEnd=57248|Gloss=farming
+1	noːmaː	noːm-	VERB	_	ExtPos=NOUN	5	dislocated@top	_	AlignBegin=57104|AlignEnd=57248|Gloss=farming
 2	dà	dà	CCONJ	_	_	3	cc	_	AlignBegin=57248|AlignEnd=57392|Gloss=and
 3	kiːwòː	kiːwòː	NOUN	_	_	1	conj:coord	_	AlignBegin=57392|AlignEnd=57536|Gloss=cattle_breeding
 4	<	<	PUNCT	_	_	1	punct	_	AlignBegin=57536|AlignEnd=57679|Gloss=PUNCT
-5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	6	comp:pred	_	AlignBegin=57679|AlignEnd=57834|Gloss=3Masc.Nom
-6	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=57834|AlignEnd=57989|Gloss=be.Masc/Plur
-7	mùtûm	mùtûm	NOUN	_	_	6	comp:cleft	_	AlignBegin=57989|AlignEnd=58144|ClauseType=Cleft|Gloss=person
-8	eː	eː	INTJ	_	_	6	discourse	_	AlignBegin=58144|AlignEnd=58299|Gloss=yes
-9	!//	!//	PUNCT	_	_	6	punct	_	AlignBegin=58299|AlignEnd=58455|Gloss=PUNCT
+5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=57679|AlignEnd=57834|Gloss=3Masc.Nom
+6	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	5	discourse@foc	_	AlignBegin=57834|AlignEnd=57989|Gloss=Emph.Masc/Plur
+7	mùtûm	mùtûm	NOUN	_	_	5	comp:cleft	_	AlignBegin=57989|AlignEnd=58144|ClauseType=Cleft|Gloss=person
+8	eː	eː	INTJ	_	_	5	discourse	_	AlignBegin=58144|AlignEnd=58299|Gloss=yes
+9	!//	!//	PUNCT	_	_	5	punct	_	AlignBegin=58299|AlignEnd=58455|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_063-063
 # speaker_id = SP1
@@ -604,11 +604,11 @@
 # phonetic_text = shiː nèː mùtûm eː //
 # text = shiː nèː mùtûm eː !//
 # text_en = That's life indeed!
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	comp:pred	_	AlignBegin=58455|AlignEnd=58614|Gloss=3Masc.Nom
-2	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=58614|AlignEnd=58773|Gloss=be.Masc/Plur
-3	mùtûm	mùtûm	NOUN	_	_	2	dislocated@subj	_	AlignBegin=58773|AlignEnd=58932|Gloss=person
-4	eː	eː	INTJ	_	_	2	discourse	_	AlignBegin=58932|AlignEnd=59091|Gloss=yes
-5	!//	!//	PUNCT	_	_	2	punct	_	AlignBegin=59091|AlignEnd=59252|Gloss=PUNCT
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=58455|AlignEnd=58614|Gloss=3Masc.Nom
+2	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	1	discourse@foc	_	AlignBegin=58614|AlignEnd=58773|Gloss=Emph.Masc/Plur
+3	mùtûm	mùtûm	NOUN	_	_	1	comp:cleft	_	AlignBegin=58773|AlignEnd=58932|ClauseType=Cleft|Gloss=person
+4	eː	eː	INTJ	_	_	1	discourse	_	AlignBegin=58932|AlignEnd=59091|Gloss=yes
+5	!//	!//	PUNCT	_	_	1	punct	_	AlignBegin=59091|AlignEnd=59252|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_065-066
 # speaker_id = SP1
@@ -2959,14 +2959,14 @@
 # phonetic_text = shiː nèː akèː yîː -n -shì //
 # text = shiː nèː akèː yînshì //
 # text_en = That's why it is built.
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	comp:pred	_	AlignBegin=284486|AlignEnd=284676|Gloss=3Masc.Nom
-2	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=284676|AlignEnd=284866|Gloss=be.Masc/Plur
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=284486|AlignEnd=284676|Gloss=3Masc.Nom
+2	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	1	discourse@foc	_	AlignBegin=284676|AlignEnd=284866|Gloss=Emph.Masc/Plur
 3	a-	a-	PRON	_	Person=4|PronType=Prs	4	subj/m	_	AlignBegin=284866|AlignEnd=285056|Gloss=4|SpaceAfter=No
-4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	2	comp:cleft	_	AlignBegin=284866|AlignEnd=285056|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akèː
+4	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp:cleft	_	AlignBegin=284866|AlignEnd=285056|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akèː
 5	yîn	yi	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=285056|AlignEnd=285119|Gloss=do.Vnoun|SpaceAfter=No|wordform=yînshì
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceAfter=No
 7	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	6	comp	_	Gloss=3Masc.Gen
-8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=285246|AlignEnd=285437|Gloss=PUNCT
+8	//	//	PUNCT	_	_	1	punct	_	AlignBegin=285246|AlignEnd=285437|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_311-316
 # speaker_id = SP2
@@ -3837,32 +3837,32 @@
 # phonetic_text = shiː wânnan gidaː -n su bùbba / shiː kuma shiː / ainihin tsoːhoː -n -sù / shiː nèː èːʔèː / shiː nèː X / wânnan gidaː //
 # text = shiː wânnan gida-n su Bùbba < shiː kuma shiː < ainihin tsoːho-n-sù < shiː nèː èːʔèː || shiː nèː X wânnan gidaː //
 # text_en = This, Bubba's ward, this, too, the oldest of them, it's er er.. it's [...] that ward.
-1	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	18	dislocated	_	AlignBegin=358927|AlignEnd=359103|Gloss=3Masc.Nom
+1	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	17	dislocated	_	AlignBegin=358927|AlignEnd=359103|Gloss=3Masc.Nom
 2	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	3	det	_	AlignBegin=359103|AlignEnd=359279|Gloss=PreRef|PreRef=Yes
 3	gida	gidaː	NOUN	_	_	1	conj:appos	_	AlignBegin=359279|AlignEnd=359367|Compound=Yes|Gloss=house|SpaceAfter=No|wordform=gidan
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen.Fem
 5	su	su	DET	_	Number=Plur	6	det	_	AlignBegin=359455|AlignEnd=359631|Gloss=Plur
 6	Bùbba	Bùbba	PROPN	_	_	4	comp	_	AlignBegin=359631|AlignEnd=359807|Gloss=Bùbba
 7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=359807|AlignEnd=359983|Gloss=PUNCT
-8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	dislocated	_	AlignBegin=360211|AlignEnd=360349|Gloss=3Masc.Nom
+8	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	dislocated	_	AlignBegin=360211|AlignEnd=360349|Gloss=3Masc.Nom
 9	kuma	kuma	PART	_	PartType=Top	8	discourse@top	_	AlignBegin=360349|AlignEnd=360487|Gloss=too
-10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	dislocated	_	AlignBegin=360487|AlignEnd=360625|Gloss=3Masc.Nom
+10	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	dislocated	_	AlignBegin=360487|AlignEnd=360625|Gloss=3Masc.Nom
 11	<	<	PUNCT	_	_	10	punct	_	AlignBegin=360625|AlignEnd=360764|Gloss=PUNCT
 12	ainihin	ainihiː	ADJ	_	_	13	mod	_	AlignBegin=360764|AlignEnd=361083|Gloss=real
-13	tsoːho	tsoːhoː	NOUN	_	_	18	dislocated@comp	_	AlignBegin=361083|AlignEnd=361189|Gloss=old|SpaceAfter=No|wordform=tsoːhonsù
+13	tsoːho	tsoːhoː	NOUN	_	_	17	dislocated@top	_	AlignBegin=361083|AlignEnd=361189|Gloss=old|SpaceAfter=No|wordform=tsoːhonsù
 14	-n	na	PART	_	Case=Gen|PartType=Case	13	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 15	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	14	comp	_	Gloss=3Plur.Gen
 16	<	<	PUNCT	_	_	13	punct	_	AlignBegin=361402|AlignEnd=361721|Gloss=PUNCT
-17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	18	comp:pred	_	AlignBegin=361866|AlignEnd=362041|Gloss=3Masc.Nom
-18	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=362041|AlignEnd=362216|Gloss=be.Masc/Plur
-19	èːʔèː	èːʔèː	INTJ	_	_	22	discourse	_	AlignBegin=362216|AlignEnd=362391|Gloss=FILL
+17	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=361866|AlignEnd=362041|Gloss=3Masc.Nom
+18	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	17	discourse@foc	_	AlignBegin=362041|AlignEnd=362216|Gloss=Emph.Masc/Plur
+19	èːʔèː	èːʔèː	INTJ	_	_	21	discourse	_	AlignBegin=362216|AlignEnd=362391|Gloss=FILL
 20	||	||	PUNCT	_	_	19	punct	_	AlignBegin=362391|AlignEnd=362565|Gloss=PUNCT
-21	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	22	comp:pred	_	AlignBegin=362565|AlignEnd=362723|Gloss=3Masc.Nom
-22	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	18	conj:dicto	_	AlignBegin=362723|AlignEnd=362881|Gloss=be.Masc/Plur
-23	X	x	X	_	_	22	comp:cleft	_	AlignBegin=362881|AlignEnd=363039|ClauseType=Cleft|Gloss=X
+21	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	17	conj:dicto	_	AlignBegin=362565|AlignEnd=362723|Gloss=3Masc.Nom
+22	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	21	discourse@foc	_	AlignBegin=362723|AlignEnd=362881|Gloss=Emph.Masc/Plur
+23	X	x	X	_	_	21	comp:cleft	_	AlignBegin=362881|AlignEnd=363039|ClauseType=Cleft|Gloss=X
 24	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	25	det	_	AlignBegin=363199|AlignEnd=363399|Gloss=PreRef|PreRef=Yes
 25	gidaː	gidaː	NOUN	_	_	23	unk@scrap	_	AlignBegin=363399|AlignEnd=363599|Gloss=house
-26	//	//	PUNCT	_	_	18	punct	_	AlignBegin=363599|AlignEnd=363799|Gloss=PUNCT
+26	//	//	PUNCT	_	_	17	punct	_	AlignBegin=363599|AlignEnd=363799|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_404-404
 # speaker_id = SP1
