@@ -73,7 +73,7 @@
 # text_en = There they were.
 1	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=10421|AlignEnd=10636|Gloss=1Sing|SpaceAfter=No
 2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	AlignBegin=10421|AlignEnd=10636|Gloss=be
-3	naː~	X	X	_	_	2	unk@scrap	_	AlignBegin=10636|AlignEnd=10851|Gloss=X
+3	naː~	X	X	_	_	2	unk	_	AlignBegin=10636|AlignEnd=10851|Gloss=X|Scrap=Yes
 4	||	||	PUNCT	_	_	6	punct	_	AlignBegin=10851|AlignEnd=11066|Gloss=PUNCT
 5	a-	a-	PRON	_	Copula=Yes|Person=4|PronType=Prs	6	subj/m	_	AlignBegin=11066|AlignEnd=11267|Gloss=4|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:dicto	_	AlignBegin=11066|AlignEnd=11267|Gloss=Prog|wordform=a
@@ -133,8 +133,8 @@
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=18750|AlignEnd=18979|Gloss=then
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=18979|AlignEnd=19208|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-4	jeː	jeː	VERB	_	_	0	root@scrap	_	AlignBegin=19208|AlignEnd=19437|Gloss=go
-5	cikin	cikin	ADP	_	_	4	unk@scrap	_	AlignBegin=19437|AlignEnd=19666|Gloss=inside
+4	jeː	jeː	VERB	_	_	0	root	_	AlignBegin=19208|AlignEnd=19437|Gloss=go|Scrap=Yes
+5	cikin	cikin	ADP	_	_	4	unk	_	AlignBegin=19437|AlignEnd=19666|Gloss=inside|Scrap=Yes
 6	m̀	m̀	INTJ	_	_	4	discourse	_	AlignBegin=19666|AlignEnd=19895|Gloss=FILL
 7	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=19895|AlignEnd=20123|Gloss=PUNCT
 
@@ -178,7 +178,7 @@
 # phonetic_text = dà ta jeː /
 # text = dà ta jeː /
 # text_en = As she went to..
-1	dà	dà	SCONJ	_	_	0	root@scrap	_	AlignBegin=23930|AlignEnd=24326|Gloss=COMP
+1	dà	dà	SCONJ	_	_	0	root	_	AlignBegin=23930|AlignEnd=24326|Gloss=COMP|Scrap=Yes
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=24326|AlignEnd=24722|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	jeː	jeː	VERB	_	_	1	comp:obj	_	AlignBegin=24722|AlignEnd=25118|Gloss=go
@@ -211,7 +211,7 @@
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=27510|AlignEnd=27643|Gloss=then
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=27643|AlignEnd=27776|Gloss=3Fem-|SpaceAfter=No|wordform=tà
 3	_̀=	_̀=	PART	_	Mood=Sub|PartType=TAM	4	mod/m	_	Gloss=Sub=
-4	shìga	saìg-	VERB	_	_	0	root@scrap	_	AlignBegin=27776|AlignEnd=27909|Gloss=enter
+4	shìga	saìg-	VERB	_	_	0	root	_	AlignBegin=27776|AlignEnd=27909|Gloss=enter|Scrap=Yes
 5	X	X	X	_	_	4	comp:obj	_	AlignBegin=27909|AlignEnd=28042|Gloss=X
 6	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=28042|AlignEnd=28173|Gloss=PUNCT
 
@@ -467,7 +467,7 @@
 # sent_timecode = 55750, 56778
 # text = Gizò X &//
 # text_en = Gizo, [XX].
-1	Gizò	Gizò	PROPN	_	_	0	root@scrap	_	AlignBegin=55396|AlignEnd=56264|Gloss=Spider
+1	Gizò	Gizò	PROPN	_	_	0	root	_	AlignBegin=55396|AlignEnd=56264|Gloss=Spider|Scrap=Yes
 2	X	X	X	_	_	1	unk	_	AlignBegin=56264|AlignEnd=55750|Gloss=X
 3	&//	&//	PUNCT	_	_	1	punct	_	AlignBegin=56778|AlignEnd=56778|Gloss=PUNCT
 
@@ -556,7 +556,7 @@
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=65658|AlignEnd=65836|Gloss=then
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=65836|AlignEnd=66014|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-4	c~	cêː	VERB	_	_	0	root@scrap	_	AlignBegin=66014|AlignEnd=66192|Gloss=Hesit
+4	c~	cêː	VERB	_	_	0	root	_	AlignBegin=66014|AlignEnd=66192|Gloss=Hesit|Scrap=Yes
 5	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=66192|AlignEnd=66372|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_054
@@ -628,7 +628,7 @@
 8	mahaɗin	mahaɗiː	NOUN	_	Definite=Def	7	comp:obj	_	AlignBegin=74135|AlignEnd=74220|Gloss=accompaniment..Def|RelAnt=Yes
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	AlignBegin=74306|AlignEnd=74562|Gloss=CompRel|Relz=Word
 10	zaː-	zâː-	PART	_	PartType=TAM	14	mod/m	_	Gloss=Fut-|SpaceAfter=No
-11	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj@scrap/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fem=|wordform=zaːtà
+11	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fem=|Scrap=Yes|wordform=zaːtà
 12	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	10	mod/m	_	Gloss=Fut-|SpaceAfter=No
 13	'à=	a	PRON	_	Person=4|PronType=PrsSubj	14	subj/m	_	AlignBegin=75074|AlignEnd=75262|Gloss=4=|SpaceAfter=No|wordform=zaːʔà
 14	ci	ci	VERB	_	_	9	comp	_	AlignBegin=75262|AlignEnd=75450|ClauseType=Rel|Gloss=eat|RelRole=udep
@@ -675,7 +675,7 @@
 4	dakàː	dak-	VERB	_	_	1	comp:obj	_	AlignBegin=78946|AlignEnd=79065|Gloss=pound
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=79065|AlignEnd=79184|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 6	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-7	kwa~	X	X	_	_	0	root@scrap	_	AlignBegin=79184|AlignEnd=80521|Gloss=X
+7	kwa~	X	X	_	_	0	root	_	AlignBegin=79184|AlignEnd=80521|Gloss=X|Scrap=Yes
 8	ta~	X	X	_	_	7	conj:dicto	_	AlignBegin=80521|AlignEnd=81558|Gloss=X|Overlap=HAUZ_BC_NARR_02_068
 9	//+	//+	PUNCT	_	_	7	punct	_	AlignBegin=81558|AlignEnd=81558|Gloss=PUNCT|wordform=&//
 
@@ -710,7 +710,7 @@
 # phonetic_text = ta &//
 # text = ta&//
 # text_en = She..
-1	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	0	root@scrap	_	AlignBegin=83727|AlignEnd=83809|Gloss=3Fem|SpaceAfter=No|wordform=ta
+1	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	0	root	_	AlignBegin=83727|AlignEnd=83809|Gloss=3Fem|Scrap=Yes|SpaceAfter=No|wordform=ta
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	1	mod/m	_	Gloss=Perf.Rel.Sing
 3	&//	&//	PUNCT	_	_	1	punct	_	AlignBegin=83809|AlignEnd=83892|Gloss=PUNCT
 
@@ -1195,9 +1195,9 @@
 # phonetic_text = yàːyàː zaːtà &//
 # text = yàːyàː zaː- tà= &//
 # text_en = How will she..
-1	yàːyàː	yàːyàː	ADV	_	PronType=Int	0	root@scrap	_	AlignBegin=133180|AlignEnd=133461|Gloss=how
+1	yàːyàː	yàːyàː	ADV	_	PronType=Int	0	root	_	AlignBegin=133180|AlignEnd=133461|Gloss=how|Scrap=Yes
 2	zaː-	zâː-	PART	_	PartType=TAM|Tense=Fut	1	mod/m	_	AlignBegin=133461|AlignEnd=133742|Gloss=Fut-
-3	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj@scrap/m	_	AlignBegin=133461|AlignEnd=133742|Gloss=3Fem=
+3	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=133461|AlignEnd=133742|Gloss=3Fem=|Scrap=Yes
 4	&//	&//	PUNCT	_	_	1	punct	_	AlignBegin=133742|AlignEnd=134022|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_111
@@ -1328,7 +1328,7 @@
 # phonetic_text = na &//
 # text = na//
 # text_en = I..
-1	na-	ni	PRON	_	Gender=Fem|Mood=Rel|Number=Sing|Person=3|PronType=PrsSubj	0	root@scrap	_	AlignBegin=147270|AlignEnd=147418|Gloss=1Sing|SpaceAfter=No|wordform=na
+1	na-	ni	PRON	_	Gender=Fem|Mood=Rel|Number=Sing|Person=3|PronType=PrsSubj	0	root	_	AlignBegin=147270|AlignEnd=147418|Gloss=1Sing|Scrap=Yes|SpaceAfter=No|wordform=na
 2	Ø=	kà=	PART	_	Aspect=Perf|Number=Sing|PartType=TAM	1	mod/m	_	Gloss=Perf.Rel.Sing
 3	//	//	PUNCT	_	_	1	punct	_	AlignBegin=147418|AlignEnd=147565|Gloss=PUNCT|wordform=&//
 
