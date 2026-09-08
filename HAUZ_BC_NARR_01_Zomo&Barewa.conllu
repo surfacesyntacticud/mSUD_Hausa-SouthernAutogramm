@@ -95,7 +95,7 @@
 1	dà	dà	SCONJ	_	_	13	mod	_	AlignBegin=14540|AlignEnd=14786|Gloss=COMP
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=14786|AlignEnd=15032|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-4	ga	ganiː	VERB	_	_	1	comp:obj	_	AlignBegin=15032|AlignEnd=15278|Gloss=see
+4	ga	ganiː	VERB	_	_	1	comp	_	AlignBegin=15032|AlignEnd=15278|Gloss=see
 5	zoːmoː	zoːmoː	NOUN	_	_	7	subj	_	AlignBegin=15278|AlignEnd=15524|Gloss=Rabbit
 6	ya-	ya-	PRON	_	Copula=Yes|Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=15524|AlignEnd=15770|Gloss=3Masc|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	comp:obj	_	AlignBegin=15524|AlignEnd=15770|Gloss=Prog|wordform=yanàː
@@ -1408,7 +1408,7 @@
 # text = dàgà jaːwoː shì / shiː kèː nan / sai kùreːgeː / sai ya kaːmàː shi / sai ya haɗìyeː //
 # text_en = Whe he had caught him then then Squirrel then he caught him then he swallowed him.
 1	dàgà	dàgà	SCONJ	_	_	10	mod	_	AlignBegin=159450|AlignEnd=159641|Gloss=from
-2	jaːwoː	jaːwoː	VERB	_	_	1	comp:obj	_	AlignBegin=159641|AlignEnd=159832|Gloss=pull.DIR
+2	jaːwoː	jaːwoː	VERB	_	_	1	comp	_	AlignBegin=159641|AlignEnd=159832|Gloss=pull.DIR
 3	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	comp:obj	_	AlignBegin=159832|AlignEnd=160023|Gloss=3Masc
 4	shiːkèːnan	shiːkèːnaː	INTJ	_	_	10	discourse	_	AlignBegin=160214|AlignEnd=160352|Gloss=OK|wordform=shiː
 5	sai	sai	ADV	_	_	10	mod	_	AlignBegin=161107|AlignEnd=161319|Gloss=then
@@ -1879,7 +1879,7 @@
 12	yi	yi	VERB	_	_	8	comp:obj	_	AlignBegin=210044|AlignEnd=210211|Gloss=do
 13	tùnàːnin	tùnàːniː	NOUN	_	Definite=Def	12	comp:obj	_	AlignBegin=210211|AlignEnd=210295|Gloss=thinking.Def|RelAnt=Yes
 14	dà	dà	SCONJ	_	_	13	mod@relcl	_	AlignBegin=210378|AlignEnd=210545|Gloss=CompRel|Relz=Word
-15	àbin	àbù	NOUN	_	Definite=Def	14	comp:obj	_	AlignBegin=210545|AlignEnd=210629|ClauseType=Rel|Gloss=thing..Def|RelAnt=Yes|RelRole=subj
+15	àbin	àbù	NOUN	_	Definite=Def	14	comp	_	AlignBegin=210545|AlignEnd=210629|ClauseType=Rel|Gloss=thing..Def|RelAnt=Yes|RelRole=subj
 16	dà	dà	SCONJ	_	_	15	mod@relcl	_	AlignBegin=210712|AlignEnd=210879|Gloss=CompRel|Relz=Word
 17	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	19	subj/m	_	AlignBegin=210879|AlignEnd=211046|Gloss=2Masc-|SpaceAfter=No|wordform=ka
 18	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	19	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix
@@ -2259,7 +2259,7 @@
 1	dà	dà	SCONJ	_	_	0	root	_	AlignBegin=255715|AlignEnd=255966|AttachTo=HAUZ_BC_NARR_01_244-244|Gloss=COMP|Rel=mod|Scrap=Yes
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=255966|AlignEnd=256217|Gloss=3Masc-|SpaceAfter=No|wordform=ya=
 3	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	4	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-4	faːɗìn	faːɗ-	VERB	_	Definite=Def|ExtPos=NOUN|VerbForm=Vnoun	1	comp:obj	_	AlignBegin=256217|AlignEnd=256343|Gloss=fall.VnounDef
+4	faːɗìn	faːɗ-	VERB	_	Definite=Def|ExtPos=NOUN|VerbForm=Vnoun	1	comp	_	AlignBegin=256217|AlignEnd=256343|Gloss=fall.VnounDef
 5	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	4	det	_	AlignBegin=256468|AlignEnd=256719|Gloss=PreRef|PreRef=Yes
 6	dàgà	dàgà	ADP	_	_	4	comp:obl	_	AlignBegin=256968|AlignEnd=257392|AttachTo=HAUZ_BC_NARR_01_244-244|Gloss=from|Rel=mod
 7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	comp	_	AlignBegin=257392|AlignEnd=257816|Gloss=PreRef|Overlap=HAUZ_BC_NARR_01_244-244|PreRef=Yes

@@ -237,7 +237,7 @@
 2	maːlàmîn	maːlàmîː	NOUN	_	Definite=Def	5	subj	_	AlignBegin=36169|AlignEnd=36268|Gloss=teacher.Def
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=36367|AlignEnd=36565|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|wordform=_=
-5	biː	bi	VERB	_	_	1	comp:obj	_	AlignBegin=36565|AlignEnd=36763|Gloss=follow
+5	biː	bi	VERB	_	_	1	comp	_	AlignBegin=36565|AlignEnd=36763|Gloss=follow
 6	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=36763|AlignEnd=36961|Gloss=3Masc
 7	sai	sai	ADV	_	_	10	mod	_	AlignBegin=37719|AlignEnd=37988|Gloss=then
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=37988|AlignEnd=38257|Gloss=4-|SpaceAfter=No|wordform=akà
@@ -314,7 +314,7 @@
 4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
 5	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=49493|AlignEnd=49728|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 6	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	7	mod/m	_	Gloss=Perf.Rel.Plur=
-7	zoː	zoː	VERB	_	_	1	comp:obj	_	AlignBegin=49728|AlignEnd=49963|Gloss=come
+7	zoː	zoː	VERB	_	_	1	comp	_	AlignBegin=49728|AlignEnd=49963|Gloss=come
 8	sai	sai	ADV	_	_	11	mod	_	AlignBegin=51160|AlignEnd=51368|Gloss=then
 9	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	11	subj/m	_	AlignBegin=51368|AlignEnd=51576|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 10	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	11	mod/m	_	Gloss=Perf.Rel.Plur=
