@@ -2640,10 +2640,10 @@
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 11	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp:obj/m	_	Gloss=3Masc.Gen|RelPos=Yes
 12	yànzu	yànzu	ADV	_	_	6	mod	_	AlignBegin=286792|AlignEnd=286979|Gloss=now
-13	|c	|c	PUNCT	_	_	16	punct	_	AlignBegin=286979|AlignEnd=287166|Gloss=PUNCT
-14	wandà	wandà	PRON	_	PronType=Rel	16	dislocated	_	AlignBegin=287166|AlignEnd=287353|Gloss=who.Rel|Relz=word
+13	|c	|c	PUNCT	_	_	14	punct	_	AlignBegin=286979|AlignEnd=287166|Gloss=PUNCT
+14	wandà	wandà	PRON	_	PronType=Rel	4	conj:coord	_	AlignBegin=287166|AlignEnd=287353|Gloss=who.Rel|Relz=word
 15	ku-	ku-	PRON	_	Copula=Yes|Number=Plur|Person=2|PronType=Prs	16	subj/m	_	AlignBegin=287353|AlignEnd=287540|Gloss=2Plur|SpaceAfter=No
-16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	6	conj:coord	_	AlignBegin=287353|AlignEnd=287540|ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|SpaceAfter=No|wordform=kukè
+16	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	14	comp	_	AlignBegin=287353|AlignEnd=287540|ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|SpaceAfter=No|wordform=kukè
 17	wânnan	wânnan	DET	_	Number=Plur	18	det	_	AlignBegin=287540|AlignEnd=287727|Gloss=PreRef
 18	sànaː'àn	sànaː'àː	NOUN	_	_	16	comp:pred	_	AlignBegin=287727|AlignEnd=287789|Gloss=profession
 19	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	18	compound	_	AlignBegin=287914|AlignEnd=287976|Gloss=farm.Vnoun
@@ -2659,7 +2659,7 @@
 29	kùwa	kùwa	PART	_	PartType=Top	28	discourse@top	_	AlignBegin=288537|AlignEnd=288599|Gloss=else
 30	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	32	subj/m	_	AlignBegin=288599|AlignEnd=288662|Gloss=3Masc-|SpaceAfter=No|wordform=yakàn=
 31	kàn=	kàn=	PART	_	Aspect=Hab|PartType=TAM	32	mod/m	_	Gloss=Hab=
-32	yi	yi	VERB	_	_	27	conj:coord	_	AlignBegin=288756|AlignEnd=288849|Gloss=do
+32	yi	yi	VERB	_	_	23	conj:coord	_	AlignBegin=288756|AlignEnd=288849|Gloss=do
 33	wani	wani	DET	_	Definite=Spec|Gender=Masc|PronType=Ind	34	det	_	AlignBegin=288911|AlignEnd=288973|Gloss=some.Masc
 34	àbù	àbù	NOUN	_	_	32	comp:pred	_	AlignBegin=288973|AlignEnd=289036|Gloss=thing
 35	baːtin	baːtin	ADP	_	_	34	mod	_	AlignBegin=291093|AlignEnd=291155|Gloss=apart_from
