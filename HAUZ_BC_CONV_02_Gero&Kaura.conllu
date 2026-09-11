@@ -3703,7 +3703,7 @@
 # text_en = that they call Ma'azu,
 1	wandà	wandà	PRON	_	PronType=Rel	0	root	_	AlignBegin=348022|AlignEnd=348209|AttachTo=1@HAUZ_BC_CONV_02_380-380|ClauseType=Rel|Gloss=who|Overlap=HAUZ_BC_CONV_02_380-380|Rel=mod:appos@relcl|Relz=Word
 2	a-	a-	PRON	_	Person=4|PronType=Prs	3	subj/m	_	AlignBegin=348209|AlignEnd=348396|AttachTo=HAUZ_BC_CONV_02_380-380|Gloss=4|Rel=mod@relcl|SpaceAfter=No
-3	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	mod@relcl	_	AlignBegin=348209|AlignEnd=348396|AttachTo=HAUZ_BC_CONV_02_380-380|Gloss=Prog.Rel|Rel=mod@relcl|Relz=Affix|wordform=akèː
+3	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes|Mood=Rel	1	comp	_	AlignBegin=348209|AlignEnd=348396|AttachTo=HAUZ_BC_CONV_02_380-380|Gloss=Prog.Rel|Rel=mod@relcl|Relz=Affix|wordform=akèː
 4	cêː	cêː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:pred	_	AlignBegin=348396|AlignEnd=348583|Gloss=say.Vnoun
 5	mâi	mâi	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	4	comp:obl	_	AlignBegin=348583|AlignEnd=348770|Gloss=3Masc.Dat|RelPos=Yes
 6	Mà'aːzù	Mà'aːzù	PROPN	_	_	4	comp:pred	_	AlignBegin=348770|AlignEnd=348957|Gloss=Ma'azu
