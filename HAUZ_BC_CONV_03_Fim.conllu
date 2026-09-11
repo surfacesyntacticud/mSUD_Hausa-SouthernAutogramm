@@ -1307,10 +1307,10 @@
 # text = duk yandà kikà shiryàː //
 # text_en = Whenever you are ready.
 1	duk	dukà	ADV	_	PronType=Tot	2	mod	_	AlignBegin=156016|AlignEnd=156218|Gloss=all
-2	yandà	yandà	ADV	_	PronType=Rel	0	root	_	AlignBegin=156218|AlignEnd=156420|ClauseType=Rel|Gloss=how|Relz=Word
+2	yandà	yandà	ADV	_	PronType=Rel	0	root	_	AlignBegin=156218|AlignEnd=156420|Gloss=how|RelAnt=Yes|Relz=Word
 3	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=156420|AlignEnd=156622|Gloss=2Fem-|SpaceAfter=No|wordform=kikà
 4	kà=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Plur|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Plur=|Relz=Affix
-5	shiryàː	shiryàː	VERB	_	_	2	mod@relcl	_	AlignBegin=156622|AlignEnd=156824|Gloss=get_ready|RelRole=mod
+5	shiryàː	shiryàː	VERB	_	_	2	mod@relcl	_	AlignBegin=156622|AlignEnd=156824|ClauseType=Rel|Gloss=get_ready|RelRole=mod
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=156824|AlignEnd=157025|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__88
@@ -2704,7 +2704,7 @@
 # phonetic_text = so wandà ya cêː mishì / zâi yàdda nèː / mêː mêː mêː mêː hakà //
 # text_en = So, the one who told him he will agree, etc. etc?
 1	sòː	sòː	INTJ	_	Foreign=Yes	12	discourse	_	AlignBegin=310889|AlignEnd=311179|Gloss=so|Lang=en
-2	wandà	wandà	PRON	_	ExtPos=SCONJ|PronType=Rel	12	dislocated@top	_	AlignBegin=311179|AlignEnd=311469|ClauseType=Rel|Gloss=who.Rel|Relz=Word
+2	wandà	wandà	PRON	_	PronType=Rel	12	dislocated@top	_	AlignBegin=311179|AlignEnd=311469|Gloss=who.Rel|RelAnt=Yes|Relz=Word
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=311469|AlignEnd=311759|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	PART	_	Aspect=Perf|Mood=Rel|Number=Sing|PartType=TAM	5	mod/m	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=_=
 5	cêː	cêː	VERB	_	_	2	mod@relcl	_	AlignBegin=311759|AlignEnd=312049|ClauseType=Rel|Gloss=say|RelRole=subj
