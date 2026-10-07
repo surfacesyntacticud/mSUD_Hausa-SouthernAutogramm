@@ -403,7 +403,7 @@
 # phonetic_text = tòː suː maː / bàː sun ci koːmeː ba nèː /
 # text = tòː suː maː / bàː sun ci koːmeː ba nèː /
 # text_en = Well, as for them, they hadn't eaten anything..
-1	tòː	tòː	INTJ	_	_	7	discourse	_	AlignBegin=50281|AlignEnd=50392|Gloss=well
+1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=50281|AlignEnd=50392|Gloss=well
 2	suː	suː	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	6	dislocated@subj	_	AlignBegin=50392|AlignEnd=50503|Gloss=2Plur.Nom
 3	maː	maː	PART	_	PartType=Top	2	discourse@top	_	AlignBegin=50503|AlignEnd=50614|Gloss=even
 4	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=50724|AlignEnd=50862|Gloss=Neg
@@ -529,7 +529,7 @@
 # sent_timecode = 62269, 63820
 # phonetic_text = tòː hanyàː nèː yaː yi nân dà / àbù //
 # text_en = Well the way was there and there was somehing.
-1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=62269|AlignEnd=62425|Gloss=well
+1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=62269|AlignEnd=62425|Gloss=well
 2	hanyàː	hanyàː	NOUN	_	_	5	dislocated@subj	_	AlignBegin=62425|AlignEnd=62581|Gloss=road
 3	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=62581|AlignEnd=62737|Gloss=Emph
 4	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=62737|AlignEnd=62893|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
@@ -562,7 +562,7 @@
 # text = sai gàː kùreːgeː ya cêː ìnaː zâː ku ?//
 # text_en = Then Squirrel arrived and said : Where are you going?
 1	sai	sai	ADV	_	_	5	mod	_	AlignBegin=66390|AlignEnd=66542|Gloss=then
-2	gàː	gàː	PART	_	PartType=Pred	6	discourse	_	AlignBegin=66542|AlignEnd=66694|Gloss=here_is
+2	gàː	gàː	PART	_	PartType=Pred	5	discourse	_	AlignBegin=66542|AlignEnd=66694|Gloss=here_is
 3	kùreːgeː	kùreːgeː	NOUN	_	_	2	subj	_	AlignBegin=66694|AlignEnd=66846|Gloss=Squirrel
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=66846|AlignEnd=66998|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 5	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
@@ -751,7 +751,7 @@
 # phonetic_text = shiː kèː nan / ya kwântaː àbù -n -shi //
 # text = shiːkèːnan ya= kwântaː àbù-n-shi //
 # text_en = Then he lay down.
-1	shiːkèːnan	shiːkèːnaː	INTJ	_	_	4	discourse	_	AlignBegin=88535|AlignEnd=88720|Gloss=OK|wordform=shiː
+1	shiːkèːnan	shiːkèːnaː	INTJ	_	_	3	discourse	_	AlignBegin=88535|AlignEnd=88720|Gloss=OK|wordform=shiː
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=89275|AlignEnd=89488|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	kwântaː	kwant-	VERB	_	_	3	comp:aux	_	AlignBegin=89488|AlignEnd=89701|Gloss=lie_down
@@ -894,7 +894,7 @@
 # phonetic_text = àsheː yaː zoː ma- hàllakà -aː -n -shì //
 # text = àsheː yaː zoː mahallakan =shì //
 # text_en = Alas! he has come to the place of his doom.
-1	àsheː	àsheː	INTJ	_	_	4	discourse	_	AlignBegin=105210|AlignEnd=105418|Gloss=indeed
+1	àsheː	àsheː	INTJ	_	_	3	discourse	_	AlignBegin=105210|AlignEnd=105418|Gloss=indeed
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=105418|AlignEnd=105626|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	AlignBegin=105626|AlignEnd=105834|Gloss=come
@@ -910,7 +910,7 @@
 # phonetic_text = àsheː yaː zoː ma- hàllakà -aː -n -shì //
 # text = àsheː yaː zoː mahallakan =shì //
 # text_en = Alas! he has reached his place of doom.
-1	àsheː	àsheː	INTJ	_	_	4	discourse	_	AlignBegin=106250|AlignEnd=106530|Gloss=indeed
+1	àsheː	àsheː	INTJ	_	_	3	discourse	_	AlignBegin=106250|AlignEnd=106530|Gloss=indeed
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=106530|AlignEnd=106810|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	AlignBegin=106810|AlignEnd=107090|Gloss=come
@@ -1410,7 +1410,7 @@
 1	dàgà	dàgà	SCONJ	_	_	9	mod	_	AlignBegin=159450|AlignEnd=159641|Gloss=from
 2	jaːwoː	jaːwoː	VERB	_	_	1	comp	_	AlignBegin=159641|AlignEnd=159832|Gloss=pull.DIR
 3	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	comp:obj	_	AlignBegin=159832|AlignEnd=160023|Gloss=3Masc
-4	shiːkèːnan	shiːkèːnaː	INTJ	_	_	10	discourse	_	AlignBegin=160214|AlignEnd=160352|Gloss=OK|wordform=shiː
+4	shiːkèːnan	shiːkèːnaː	INTJ	_	_	9	discourse	_	AlignBegin=160214|AlignEnd=160352|Gloss=OK|wordform=shiː
 5	sai	sai	ADV	_	_	9	mod	_	AlignBegin=161107|AlignEnd=161319|Gloss=then
 6	kùreːgeː	kùreːgeː	NOUN	_	_	9	dislocated@subj	_	AlignBegin=161319|AlignEnd=161531|Gloss=Squirrel
 7	sai	sai	ADV	_	_	9	mod	_	AlignBegin=161743|AlignEnd=161869|Gloss=then
@@ -1869,7 +1869,7 @@
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=208560|AlignEnd=208680|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=208680|AlignEnd=208800|Gloss=say
-5	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=208800|AlignEnd=208920|Gloss=well
+5	tòː	tòː	INTJ	_	_	7	discourse	_	AlignBegin=208800|AlignEnd=208920|Gloss=well
 6	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=209038|AlignEnd=209248|Gloss=1Sing-|SpaceAfter=No|wordform=naː
 7	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	4	comp:obj	_	Gloss=Perf.Sing
 8	gayàː	gay-	VERB	_	_	7	comp:aux	_	AlignBegin=209248|AlignEnd=209458|Gloss=tell
@@ -2036,7 +2036,7 @@
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=225710|AlignEnd=225924|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 2	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=225924|AlignEnd=226138|Gloss=say
-4	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=226138|AlignEnd=226352|Gloss=well
+4	tòː	tòː	INTJ	_	_	7	discourse	_	AlignBegin=226138|AlignEnd=226352|Gloss=well
 5	sai	sai	ADV	_	_	7	mod	_	AlignBegin=227793|AlignEnd=228004|Gloss=then
 6	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=228004|AlignEnd=228215|Gloss=2Plur-|SpaceAfter=No|wordform=mù
 7	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	3	comp:obj	_	Gloss=Sub=
@@ -2112,7 +2112,7 @@
 4	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=234941|AlignEnd=235293|Gloss=1Sing-|SpaceAfter=No|wordform=naː
 5	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	3	comp:obj	_	Gloss=Perf.Sing
 6	sanìː	sanìː	VERB	_	_	5	comp:aux	_	AlignBegin=235293|AlignEnd=235645|Gloss=know
-7	mànà	mànà	INTJ	_	_	6	discourse	_	AlignBegin=235645|AlignEnd=235997|Gloss=indeed
+7	mànà	mànà	INTJ	_	_	5	discourse	_	AlignBegin=235645|AlignEnd=235997|Gloss=indeed
 8	!//	!//	PUNCT	_	_	2	punct	_	AlignBegin=235997|AlignEnd=236350|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_223-225
@@ -2143,7 +2143,7 @@
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	AlignBegin=237698|AlignEnd=237843|Gloss=4-|SpaceAfter=No|wordform=akà
 2	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=237843|AlignEnd=237988|Gloss=say
-4	kâi	kâi	INTJ	_	_	8	discourse	_	AlignBegin=238132|AlignEnd=238290|Gloss=wow
+4	kâi	kâi	INTJ	_	_	6	discourse	_	AlignBegin=238132|AlignEnd=238290|Gloss=wow
 5	bà	bà	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=239260|AlignEnd=239436|Gloss=Neg
 6	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	3	comp:obj	_	Gloss=Fut-|SpaceAfter=No
 7	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=239436|AlignEnd=239612|Gloss=1Sing=|SpaceAfter=No|wordform=zân

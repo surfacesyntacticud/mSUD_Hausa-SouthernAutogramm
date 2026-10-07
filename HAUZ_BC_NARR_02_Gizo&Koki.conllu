@@ -135,7 +135,7 @@
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	jeː	jeː	VERB	_	_	3	comp:aux	_	AlignBegin=19208|AlignEnd=19437|Gloss=go|Scrap=Yes
 5	cikin	cikin	ADP	_	_	4	unk	_	AlignBegin=19437|AlignEnd=19666|Gloss=inside|Scrap=Yes
-6	m̀	m̀	INTJ	_	_	4	discourse	_	AlignBegin=19666|AlignEnd=19895|Gloss=FILL
+6	m̀	m̀	INTJ	_	_	3	discourse	_	AlignBegin=19666|AlignEnd=19895|Gloss=FILL
 7	&//	&//	PUNCT	_	_	3	punct	_	AlignBegin=19895|AlignEnd=20123|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_013-014
@@ -270,7 +270,7 @@
 # phonetic_text = tòː / sai sukà baː tà // ta dafàː shiː //
 # text = tòː sai sukà baː tà //
 # text_en = Ok, then they gave her some. She cooked it.
-1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=35310|AlignEnd=35478|Gloss=well
+1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=35310|AlignEnd=35478|Gloss=well
 2	sai	sai	ADV	_	_	4	mod	_	AlignBegin=35645|AlignEnd=35783|Gloss=then
 3	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=35783|AlignEnd=35921|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 4	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur=
@@ -366,7 +366,7 @@
 6	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=44751|AlignEnd=44871|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 7	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	AlignBegin=44871|AlignEnd=44991|Gloss=say
-9	tôː	tôː	INTJ	_	_	16	discourse	_	AlignBegin=45110|AlignEnd=45318|Gloss=well
+9	tôː	tôː	INTJ	_	_	15	discourse	_	AlignBegin=45110|AlignEnd=45318|Gloss=well
 10	Gizò	Gizò	PROPN	_	_	16	vocative	_	AlignBegin=45318|AlignEnd=45526|Gloss=Spider
 11	àbin	àbù	NOUN	_	Definite=Def	15	subj	_	AlignBegin=46401|AlignEnd=46521|Gloss=thing.Def
 12	fa	fa	PART	_	PartType=Top	11	discourse@top	_	AlignBegin=46641|AlignEnd=46881|Gloss=indeed
@@ -444,7 +444,7 @@
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=52676|AlignEnd=52896|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=52896|AlignEnd=53116|Gloss=say
-5	na'àm	na'àm	INTJ	_	_	8	discourse	_	AlignBegin=53116|AlignEnd=53336|Gloss=yes
+5	na'àm	na'àm	INTJ	_	_	7	discourse	_	AlignBegin=53116|AlignEnd=53336|Gloss=yes
 6	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	7	subj/m	_	AlignBegin=53686|AlignEnd=53813|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 7	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Gender=Fem|Number=Sing	4	comp:obj	_	Gloss=Perf.Sing.Fem
 8	saːmù	saːm-	VERB	_	_	7	comp:aux	_	AlignBegin=53813|AlignEnd=54068|Gloss=get
@@ -482,7 +482,7 @@
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=56852|AlignEnd=56926|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=56926|AlignEnd=57000|Gloss=say
-5	ai	ai	INTJ	_	_	9	discourse	_	AlignBegin=57076|AlignEnd=57173|Gloss=indeed
+5	ai	ai	INTJ	_	_	8	discourse	_	AlignBegin=57076|AlignEnd=57173|Gloss=indeed
 6	kòː	kùwa	PART	_	PartType=Top	5	discourse@top	_	AlignBegin=57173|AlignEnd=57270|Gloss=as_for
 7	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=57366|AlignEnd=57586|Gloss=1Sing-|SpaceAfter=No|wordform=naː
 8	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	4	comp:obj	_	Gloss=Perf.Sing
@@ -538,7 +538,7 @@
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=63320|AlignEnd=63436|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=63436|AlignEnd=63552|Gloss=say
-5	tòː	tòː	INTJ	_	_	9	discourse	_	AlignBegin=63552|AlignEnd=63668|Gloss=well
+5	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=63552|AlignEnd=63668|Gloss=well
 6	sai	sai	ADV	_	_	8	mod	_	AlignBegin=63785|AlignEnd=64160|Gloss=then
 7	a-	a	PRON	_	Person=4|PronType=PrsSubj	8	subj/m	_	AlignBegin=64160|AlignEnd=64535|Gloss=4-|SpaceAfter=No|wordform=à
 8	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	4	comp:obj	_	Gloss=Sub=
@@ -580,7 +580,7 @@
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=66507|AlignEnd=66642|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=66642|AlignEnd=66777|Gloss=say
-5	tòː	tòː	INTJ	_	_	9	discourse	_	AlignBegin=66777|AlignEnd=66912|Gloss=well
+5	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=66777|AlignEnd=66912|Gloss=well
 6	sai	sai	ADV	_	_	8	mod	_	AlignBegin=67273|AlignEnd=67539|Gloss=then
 7	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	8	subj/m	_	AlignBegin=67539|AlignEnd=67805|Gloss=2Masc-|SpaceAfter=No|wordform=ka
 8	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	4	comp:obj	_	Gloss=Perf.Rel.Plur=
@@ -919,7 +919,7 @@
 # phonetic_text = àmmaː ita bà zâi barìː tà tà ci ba //
 # text = àmmaː ita bà zâi bar̃ tà tà ci ba //
 # text_en = But as for her, he will not let her eat.
-1	àmmaː	àmmaː	CCONJ	_	_	6	discourse	_	AlignBegin=106506|AlignEnd=106639|Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	AlignBegin=106506|AlignEnd=106639|Gloss=but
 2	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	4	dislocated@subj	_	AlignBegin=106639|AlignEnd=106772|Gloss=3Fem.Nom
 3	bà	bà	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=106772|AlignEnd=106905|Gloss=Neg
 4	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
@@ -1104,8 +1104,8 @@
 # phonetic_text = tòː kar̃ tà taɓàː wânnan / ramàː -ǹ //
 # text = hmː tòː kar̃ tà taɓà wânnan ramàn //
 # text_en = hum, well, she should not touch that hemp.
-1	hmː	hmː	INTJ	_	_	6	discourse	_	AlignBegin=125514|AlignEnd=125794|Gloss=FILL
-2	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=126073|AlignEnd=126243|Gloss=well
+1	hmː	hmː	INTJ	_	_	5	discourse	_	AlignBegin=125514|AlignEnd=125794|Gloss=FILL
+2	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=126073|AlignEnd=126243|Gloss=well
 3	kar̃	kaɗà	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=126243|AlignEnd=126413|Gloss=Neg
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=126413|AlignEnd=126583|Gloss=3Fem-|Overlap=HAUZ_BC_NARR_02_096-097|SpaceAfter=No|wordform=tà
 5	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub=
@@ -1584,7 +1584,7 @@
 # phonetic_text = tòː ita kuma ta saːmoː àbù -ǹ //
 # text = tòː ita kuma ta saːmoː àbîn //
 # text_en = As for her, she got her own.
-1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=175436|AlignEnd=175624|Gloss=well
+1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=175436|AlignEnd=175624|Gloss=well
 2	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	dislocated@subj	_	AlignBegin=175624|AlignEnd=175812|Gloss=3Fem.Nom
 3	kuma	kuma	PART	_	PartType=Top	2	discourse@top	_	AlignBegin=175812|AlignEnd=176000|Gloss=also
 4	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=176000|AlignEnd=176188|Gloss=3Fem-|SpaceAfter=No|wordform=ta
@@ -1649,7 +1649,7 @@
 # phonetic_text = kaː matsàː mîn ìn jeː ìn saːmoː tòː / naː saːmoː naː bâː kà //
 # text = tòː naː saːmoː naː baː kà //
 # text_en = Well I got it and gave it to you.
-1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=179807|AlignEnd=179962|Gloss=well
+1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=179807|AlignEnd=179962|Gloss=well
 2	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=180114|AlignEnd=180288|Gloss=1Sing-|SpaceAfter=No|wordform=naː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	saːmoː	saːm-	VERB	_	_	3	comp:aux	_	AlignBegin=180288|AlignEnd=180462|Gloss=get.DIR
@@ -1666,7 +1666,7 @@
 # phonetic_text = tòː kuma kaː cêː kaɗà ìn ci //
 # text = tòː kuma k-aː= cêː kaɗà in- _̀= ci //
 # text_en = Well and you said I should not eat it.
-1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=181706|AlignEnd=181851|Gloss=well
+1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=181706|AlignEnd=181851|Gloss=well
 2	kuma	kuma	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=181851|AlignEnd=181996|Gloss=also
 3	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=181996|AlignEnd=182141|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
@@ -1694,8 +1694,8 @@
 # phonetic_text = tòː ai kaː ganiː àlhakiː yaː kaːmàː ka //
 # text = tòː ai kaː ga àlhakiː yaː kaːmàː ka //
 # text_en = Well your sins have been visited upon you.
-1	tòː	tòː	INTJ	_	_	9	discourse	_	AlignBegin=183504|AlignEnd=183691|Gloss=well
-2	ai	ai	INTJ	_	_	9	discourse	_	AlignBegin=183691|AlignEnd=183878|Gloss=indeed
+1	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=183504|AlignEnd=183691|Gloss=well
+2	ai	ai	INTJ	_	_	8	discourse	_	AlignBegin=183691|AlignEnd=183878|Gloss=indeed
 3	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=183878|AlignEnd=184065|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	9	parataxis:discourse	_	Gloss=Perf.Sing
 5	ga	ganiː	VERB	_	_	4	comp:aux	_	AlignBegin=184065|AlignEnd=184252|Gloss=see
@@ -1713,7 +1713,7 @@
 # phonetic_text = shiː kèː nan sai ya kwântaː sai ya mutù //
 # text = shiː kèː nan sai ya kwântaː sai ya mutù //
 # text_en = Then he lay down and died.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	AlignBegin=185190|AlignEnd=185347|Gloss=OK|wordform=shiː
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	4	discourse	_	AlignBegin=185190|AlignEnd=185347|Gloss=OK|wordform=shiː
 2	sai	sai	ADV	_	_	4	mod	_	AlignBegin=185661|AlignEnd=185818|Gloss=then
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=185818|AlignEnd=185975|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
@@ -1731,7 +1731,7 @@
 # phonetic_text = shiː kèː nan sai ya kwântaː sai ya mutù //
 # text = shiː kèː nan sai ya kwântaː sai ya mutù //
 # text_en = Then he lay down and died.
-1	shiːkèːnan	shiːkèːnan	INTJ	_	_	5	discourse	_	AlignBegin=186180|AlignEnd=186347|Gloss=OK|wordform=shiː
+1	shiːkèːnan	shiːkèːnan	INTJ	_	_	4	discourse	_	AlignBegin=186180|AlignEnd=186347|Gloss=OK|wordform=shiː
 2	sai	sai	ADV	_	_	4	mod	_	AlignBegin=186681|AlignEnd=186848|Gloss=then
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=186848|AlignEnd=187015|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
@@ -1759,7 +1759,7 @@
 # phonetic_text = tòː yaː yi mà kâi -n -shì //
 # text = tòː yaː yi mà kânshì //
 # text_en = He did it to himself.
-1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=189312|AlignEnd=189493|Gloss=well
+1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=189312|AlignEnd=189493|Gloss=well
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=189493|AlignEnd=189674|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	yi	yi	VERB	_	_	3	comp:aux	_	AlignBegin=189674|AlignEnd=189855|Gloss=do

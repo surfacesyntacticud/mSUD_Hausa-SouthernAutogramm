@@ -67,7 +67,7 @@
 # phonetic_text = dâː maː bâi jîː -n shigoː -wàː kilaːs ɗîn //
 # text = dâː maː bâ- i= jî-nshigôːwaː kilaːs ɗîn //
 # text_en = He never intended to go to into the classroom.
-1	dâː	dâː	ADV	_	_	5	discourse	_	AlignBegin=9340|AlignEnd=9556|Gloss=formerly
+1	dâː	dâː	ADV	_	_	3	discourse	_	AlignBegin=9340|AlignEnd=9556|Gloss=formerly
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=9556|AlignEnd=9772|Gloss=even
 3	bâ-	bâ-	AUX	_	Aspect=Prog|Copula=No|Polarity=Neg	0	root	_	AlignBegin=9772|AlignEnd=9988|Gloss=Neg.Prog
 4	i=	ya=	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=3Masc=
@@ -325,7 +325,7 @@
 # phonetic_text = aːʔàː niː dai bàn cêː ba //
 # text = aːʔàː niː dai bàn= cêː ba //
 # text_en = Ah, I didn't say anything.
-1	aːʔàː	aːʔàː	INTJ	_	_	6	discourse	_	AlignBegin=37110|AlignEnd=37297|Gloss=no
+1	aːʔàː	aːʔàː	INTJ	_	_	4	discourse	_	AlignBegin=37110|AlignEnd=37297|Gloss=no
 2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	dislocated@subj	_	AlignBegin=37297|AlignEnd=37484|Gloss=1Sing.Nom
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	AlignBegin=37484|AlignEnd=37671|Gloss=indeed
 4	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
@@ -372,7 +372,7 @@
 # phonetic_text = tòː zaːkì zoː makar̃antaː gòːbe //
 # text = tòː zaːkì zoː makar̃antaː gòːbe ?//
 # text_en = Well will you go to school tomorrow?
-1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=42290|AlignEnd=42562|Gloss=well
+1	tòː	tòː	INTJ	_	_	2	discourse	_	AlignBegin=42290|AlignEnd=42562|Gloss=well
 2	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
 3	kì=	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=42562|AlignEnd=42834|Gloss=2Fem=|SpaceAfter=No|wordform=zaːkì
 4	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=42834|AlignEnd=43106|Gloss=come
@@ -421,8 +421,8 @@
 # phonetic_text = ai sabòːdà maːlàmiː -n chemistry taː cêː à zoː //
 # text = ai sabòːdà maːlàmin chemistry taː cèː à zoː //
 # text_en = It's because the chemistry teacher said we should go.
-1	ai	ai	INTJ	_	_	8	discourse	_	AlignBegin=47311|AlignEnd=47592|Gloss=indeed
-2	sabòːdà	sabòːdà	ADV	_	_	8	discourse	_	AlignBegin=47592|AlignEnd=47873|Gloss=because
+1	ai	ai	INTJ	_	_	7	discourse	_	AlignBegin=47311|AlignEnd=47592|Gloss=indeed
+2	sabòːdà	sabòːdà	ADV	_	_	7	discourse	_	AlignBegin=47592|AlignEnd=47873|Gloss=because
 3	maːlàmi	maːlàmiː	NOUN	_	_	7	subj	_	AlignBegin=47873|AlignEnd=48013|Gloss=teacher|SpaceAfter=No|wordform=maːlàmin
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod/m	_	Gloss=Gen|SpaceAfter=No
 5	chemistry	chemistry	NOUN	_	Foreign=Yes	4	comp	_	AlignBegin=48154|AlignEnd=48435|Gloss=chemistry|Lang=en
@@ -587,7 +587,7 @@
 # phonetic_text = eː / zân jeː mànà //
 # text = eː / zân jeː mànà !//
 # text_en = Yes I will go, of course!
-1	eː	eː	INTJ	_	_	5	discourse	_	AlignBegin=65690|AlignEnd=66008|Gloss=FILL
+1	eː	eː	INTJ	_	_	3	discourse	_	AlignBegin=65690|AlignEnd=66008|Gloss=FILL
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=66008|AlignEnd=66327|Gloss=PUNCT
 3	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
 4	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=66327|AlignEnd=66575|Gloss=1Sing=|SpaceAfter=No|wordform=zân
@@ -612,7 +612,7 @@
 # phonetic_text = tòː / in kin jeː / in kin jeː / keː ìsìlàːmiyàː -ǹ / kin kaːwoː àbù -n dà akà cêː mù kaːwoː //
 # text = tòː < in ki-n= jeː || in ki-n= jeː < keː Ìsìlàːmiyàn < ki-n= kaːwoː àbin dà a-kà= cêː mu-_̀= kaːwoː ?//
 # text_en = Well, when you went ... when you went you, to the Islamic school, did you bring what they told us to bring?
-1	tòː	tòː	INTJ	_	_	18	discourse	_	AlignBegin=69440|AlignEnd=69595|Gloss=well
+1	tòː	tòː	INTJ	_	_	17	discourse	_	AlignBegin=69440|AlignEnd=69595|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=69595|AlignEnd=69750|Gloss=PUNCT
 3	in	in	SCONJ	_	_	17	mod	_	AlignBegin=69750|AlignEnd=69900|Gloss=if
 4	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	5	subj/m	_	AlignBegin=69900|AlignEnd=70050|Gloss=2Fem-|SpaceAfter=No|wordform=kin
@@ -673,7 +673,7 @@
 # phonetic_text = hm̀ː / naː kaːwoː ayàː bìyar̃ //
 # text = hm̀ː < naː kaːwoː ayàː bìyar̃ //
 # text_en = Er... I brought five verses.
-1	hm̀ː	hm̀ː	INTJ	_	_	5	discourse	_	AlignBegin=76122|AlignEnd=76312|Gloss=hm̀ː
+1	hm̀ː	hm̀ː	INTJ	_	_	4	discourse	_	AlignBegin=76122|AlignEnd=76312|Gloss=hm̀ː
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=76312|AlignEnd=76502|Gloss=PUNCT
 3	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=76502|AlignEnd=76752|Gloss=1Sing-|SpaceAfter=No|wordform=naː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
@@ -689,7 +689,7 @@
 # phonetic_text = ayàː nawà kikà kaːwoː // tòː niː bà zân jeː ba tundà bàn yi ba //
 # text = tòː niː bà zân= jeː ba tundà bàn= yi ba //
 # text_en = Well, I won't go because I didn't do anything.
-1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=77750|AlignEnd=77895|Gloss=well
+1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=77750|AlignEnd=77895|Gloss=well
 2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	dislocated@subj	_	AlignBegin=77895|AlignEnd=78040|Gloss=1Sing.Nom
 3	bà	bà	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=78040|AlignEnd=78185|Gloss=Neg
 4	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
@@ -710,7 +710,7 @@
 # phonetic_text = tòː kyâː hàɗu dà maːlàmiː -ǹ dai //
 # text = tòː kyâː hàɗu dà maːlàmîn dai //
 # text_en = Well, sooner or later you will see the teacher indeed!
-1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=80060|AlignEnd=80276|Gloss=well
+1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=80060|AlignEnd=80276|Gloss=well
 2	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=80276|AlignEnd=80492|Gloss=2Fem-|SpaceAfter=No|wordform=kyâː
 3	âː=	âː=	AUX	_	Copula=No|Mood=Pot	0	root	_	Gloss=Pot=
 4	hàɗu	hàɗu	VERB	_	_	3	comp:aux	_	AlignBegin=80492|AlignEnd=80708|Gloss=gather
@@ -855,7 +855,7 @@
 # phonetic_text = ʔm / bàː sai yà yi ta yîː -n -shì ba //
 # text = ʔm / bàː sai yà yi ta yînshi ba //
 # text_en = Ah, he can never stop!
-1	ʔm	ʔm	INTJ	_	_	7	discourse	_	AlignBegin=102413|AlignEnd=102531|Gloss=ʔm
+1	ʔm	ʔm	INTJ	_	_	6	discourse	_	AlignBegin=102413|AlignEnd=102531|Gloss=ʔm
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=102531|AlignEnd=102649|Gloss=PUNCT
 3	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=102789|AlignEnd=102912|Gloss=Neg
 4	sai	sai	ADV	_	_	6	mod	_	AlignBegin=102912|AlignEnd=103035|Gloss=must
@@ -912,12 +912,12 @@
 # phonetic_text = tòː yà ci gàba mànà //
 # text = tòː yà ci gàba mànà !//
 # text_en = Well, let him continue!
-1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=108722|AlignEnd=108902|Gloss=well
+1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=108722|AlignEnd=108902|Gloss=well
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=108902|AlignEnd=109082|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 3	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub=
 4	ci	ci	VERB	_	_	3	comp:aux	_	AlignBegin=109082|AlignEnd=109262|Gloss=eat
 5	gàba	gàba	ADV	_	_	4	mod	_	AlignBegin=109262|AlignEnd=109442|Gloss=up_front
-6	mànà	mànà	INTJ	_	_	4	discourse	_	AlignBegin=109442|AlignEnd=109622|Gloss=indeed
+6	mànà	mànà	INTJ	_	_	3	discourse	_	AlignBegin=109442|AlignEnd=109622|Gloss=indeed
 7	!//	!//	PUNCT	_	_	3	punct	_	AlignBegin=109622|AlignEnd=109800|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__62
@@ -958,7 +958,7 @@
 # phonetic_text = àmmaː kin san naː mishì lâifiː //
 # text = àmmaː kin= san naː= mishì lâifiː ?//
 # text_en = But do you know that I did him wrong?
-1	àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	AlignBegin=115294|AlignEnd=115489|Gloss=but
+1	àmmaː	àmmaː	CCONJ	_	_	3	discourse	_	AlignBegin=115294|AlignEnd=115489|Gloss=but
 2	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=115489|AlignEnd=115684|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 3	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Gender=Fem|Number=Sing	0	root	_	Gloss=Perf.Sing.Fem
 4	san	sanìː	VERB	_	_	3	comp:aux	_	AlignBegin=115684|AlignEnd=115879|Gloss=know
@@ -1008,7 +1008,7 @@
 # phonetic_text = tòː / kyâː gàmu dà shiː //
 # text = tòː / kyâː gàmu dà shiː //
 # text_en = Well, sooner or later you will meet him.
-1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=120458|AlignEnd=120613|Gloss=well
+1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=120458|AlignEnd=120613|Gloss=well
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=120613|AlignEnd=120768|Gloss=PUNCT
 3	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=120768|AlignEnd=120923|Gloss=2Fem-|SpaceAfter=No|wordform=kyâː
 4	âː=	âː=	AUX	_	Copula=No|Mood=Pot	0	root	_	Gloss=Pot=
@@ -1177,7 +1177,7 @@
 1	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
 2	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=136103|AlignEnd=136337|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
 3	hàƙurà	haƙur-	VERB	_	_	1	comp:aux	_	AlignBegin=136337|AlignEnd=136571|Gloss=be_patient
-4	mànà	mànà	INTJ	_	_	3	discourse	_	AlignBegin=136571|AlignEnd=136805|Gloss=indeed
+4	mànà	mànà	INTJ	_	_	1	discourse	_	AlignBegin=136571|AlignEnd=136805|Gloss=indeed
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=136805|AlignEnd=137040|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__78
@@ -1197,7 +1197,7 @@
 # phonetic_text = ai yaː zoː gidaː -n sauƙiː //
 # text = ai yaː zoː gidan sauƙiː //
 # text_en = Eh, it's easy.
-1	ai	ai	INTJ	_	_	4	discourse	_	AlignBegin=138130|AlignEnd=138338|Gloss=indeed
+1	ai	ai	INTJ	_	_	3	discourse	_	AlignBegin=138130|AlignEnd=138338|Gloss=indeed
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=138338|AlignEnd=138546|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 3	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 4	zoː	zoː	VERB	_	_	3	comp:aux	_	AlignBegin=138546|AlignEnd=138754|Gloss=come
@@ -1265,12 +1265,12 @@
 # phonetic_text = mː / zân jeː eː //
 # text = mː / zân jeː eː //
 # text_en = Er... I'll go, yes.
-1	mː	mː	INTJ	_	_	5	discourse	_	AlignBegin=150281|AlignEnd=150884|Gloss=BKL
+1	mː	mː	INTJ	_	_	3	discourse	_	AlignBegin=150281|AlignEnd=150884|Gloss=BKL
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=150884|AlignEnd=151487|Gloss=PUNCT
 3	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
 4	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=151668|AlignEnd=151828|Gloss=1Sing=|SpaceAfter=No|wordform=zân
 5	jeː	jeː	VERB	_	_	3	comp:aux	_	AlignBegin=151828|AlignEnd=151988|Gloss=go
-6	eː	eː	INTJ	_	_	5	discourse	_	AlignBegin=151988|AlignEnd=152148|Gloss=yes
+6	eː	eː	INTJ	_	_	3	discourse	_	AlignBegin=151988|AlignEnd=152148|Gloss=yes
 7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=152148|AlignEnd=152310|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__85
@@ -1423,7 +1423,7 @@
 # phonetic_text = wai wâː ya sâː à kashèː bàːba -n -shì //
 # text = wai wâː ya sâː à kashè bàːbanshì //
 # text_en = The elder brother had his father killed.
-1	wai	wai	PART	_	Evident=Nfh|PartType=Evident	5	discourse	_	AlignBegin=172530|AlignEnd=172840|Gloss=reportedly
+1	wai	wai	PART	_	Evident=Nfh|PartType=Evident	4	discourse	_	AlignBegin=172530|AlignEnd=172840|Gloss=reportedly
 2	wâː	wâː	NOUN	_	_	4	subj	_	AlignBegin=172840|AlignEnd=173150|Gloss=elder_brother
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=173150|AlignEnd=173460|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
@@ -1498,7 +1498,7 @@
 # phonetic_text = ai ƙanèː -n yaː gudù //
 # text = ai ƙanèn yaː gudù //
 # text_en = Eh, the younger brother had run away.
-1	ai	ai	INTJ	_	_	5	discourse	_	AlignBegin=180933|AlignEnd=181115|Gloss=indeed
+1	ai	ai	INTJ	_	_	4	discourse	_	AlignBegin=180933|AlignEnd=181115|Gloss=indeed
 2	ƙanèn	ƙanèː	NOUN	_	Definite=Def	4	subj	_	AlignBegin=181115|AlignEnd=181206|Gloss=younger_brother.Def|wordform=ƙanèː
 3	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=181297|AlignEnd=181479|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
@@ -1552,7 +1552,7 @@
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	AlignBegin=185652|AlignEnd=185850|Gloss=4-|SpaceAfter=No|wordform=an
 2	n=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur
 3	kaːmàː	kaːmàː	VERB	_	_	2	comp:aux	_	AlignBegin=185850|AlignEnd=186048|Gloss=catch
-4	mànà	mànà	INTJ	_	_	3	discourse	_	AlignBegin=186048|AlignEnd=186246|Gloss=indeed
+4	mànà	mànà	INTJ	_	_	2	discourse	_	AlignBegin=186048|AlignEnd=186246|Gloss=indeed
 5	!//	!//	PUNCT	_	_	2	punct	_	AlignBegin=186246|AlignEnd=186443|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__106
@@ -1959,7 +1959,7 @@
 6	masù	masù	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	comp:obl	_	AlignBegin=229954|AlignEnd=230155|Gloss=3Plur.Dat
 7	àbinci	àbinci	NOUN	_	_	5	comp:obj	_	AlignBegin=230155|AlignEnd=230356|Gloss=food
 8	<	<	PUNCT	_	_	1	punct	_	AlignBegin=230356|AlignEnd=230559|Gloss=PUNCT
-9	tòː	tòː	INTJ	_	_	27	discourse	_	AlignBegin=230559|AlignEnd=230676|Gloss=well
+9	tòː	tòː	INTJ	_	_	26	discourse	_	AlignBegin=230559|AlignEnd=230676|Gloss=well
 10	<	<	PUNCT	_	_	9	punct	_	AlignBegin=230676|AlignEnd=230793|Gloss=PUNCT
 11	dàyakè	dàyakè	SCONJ	_	_	26	mod	_	AlignBegin=230793|AlignEnd=230925|Gloss=since
 12	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	13	subj/m	_	AlignBegin=230925|AlignEnd=231057|Gloss=2Fem-|SpaceAfter=No|wordform=kin
@@ -1972,7 +1972,7 @@
 19	dà	dà	ADP	_	_	18	comp:pred	_	AlignBegin=231796|AlignEnd=232034|Gloss=with
 20	kyâu	kyâu	NOUN	_	_	18	comp:obj	_	AlignBegin=232034|AlignEnd=232272|Gloss=beauty
 21	<	<	PUNCT	_	_	11	punct	_	AlignBegin=232272|AlignEnd=232510|Gloss=PUNCT
-22	eː	eː	INTJ	_	_	27	discourse	_	AlignBegin=232510|AlignEnd=232748|Gloss=FILL
+22	eː	eː	INTJ	_	_	26	discourse	_	AlignBegin=232510|AlignEnd=232748|Gloss=FILL
 23	màːsu	mài	PART	_	Number=Plur|PartType=Der	26	subj	_	AlignBegin=232748|AlignEnd=232986|Gloss=having.Plur|Linker=Yes
 24	gaːdìn	gaːdìː	VERB	_	Definite=Def	23	compound	_	AlignBegin=232986|AlignEnd=233105|Gloss=security.Def|wordform=gaːdìː
 25	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	26	subj/m	_	AlignBegin=233224|AlignEnd=233462|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
@@ -2044,7 +2044,7 @@
 # phonetic_text = bà zaːtà baːdàː àbù -ǹ nan / sai sukà kòːraː -eː tà //
 # text = bà zaːtà baːdàː àbîn nan X |c sai sukà kòːreː tà !//
 # text_en = Just as she was going to give the thing [...], they drove her away.
-1	bà	bà	PART	_	PartType=Neg|Polarity=Neg	4	discourse	_	AlignBegin=238050|AlignEnd=238255|Gloss=Neg
+1	bà	bà	PART	_	PartType=Neg|Polarity=Neg	2	discourse	_	AlignBegin=238050|AlignEnd=238255|Gloss=Neg
 2	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
 3	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=238255|AlignEnd=238460|Gloss=3Fem=|SpaceAfter=No|wordform=zaːtà
 4	baːdàː	baː	VERB	_	_	2	comp:aux	_	AlignBegin=238460|AlignEnd=238665|Gloss=give.Cau
@@ -2281,7 +2281,7 @@
 # phonetic_text = tòː shiː sai ya jeː ya sâː mà bàːba -n -shì poison nèː //
 # text = tòː shiː sai ya jeː ya sâː mà bàːbanshì poison nèː //
 # text_en = Well then he went to poison his father.
-1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=268166|AlignEnd=268328|Gloss=well
+1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=268166|AlignEnd=268328|Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	dislocated@subj	_	AlignBegin=268328|AlignEnd=268490|Gloss=3Masc.Nom
 3	sai	sai	ADV	_	_	5	mod	_	AlignBegin=268490|AlignEnd=268652|Gloss=then
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=268652|AlignEnd=268814|Gloss=3Masc-|SpaceAfter=No|wordform=ya
@@ -2305,7 +2305,7 @@
 # phonetic_text = tòː dâːmaː yaː daːwoː dà wânnan bùdurwaː -ǹ naː -shì / dà yanàː ƙauyèː //
 # text = tòː dâːmaː yaː daːwoː dà wânnan bùdurwân naːshì dà yanàː ƙauyèː //
 # text_en = Well originally he had come back with that girlfriend of his, who was in the village.
-1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=270921|AlignEnd=271118|Gloss=well
+1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=270921|AlignEnd=271118|Gloss=well
 2	dâːmaː	dâːmaː	ADV	_	_	4	mod	_	AlignBegin=271118|AlignEnd=271315|Gloss=originally
 3	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=271315|AlignEnd=271512|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 4	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
@@ -2539,7 +2539,7 @@
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=297706|AlignEnd=297806|Gloss=say
 5	wai	wai	SCONJ	_	Evident=Nfh	4	comp:obj	_	AlignBegin=297806|AlignEnd=297906|Gloss=reportedly
-6	tòː	tòː	INTJ	_	_	9	discourse	_	AlignBegin=297906|AlignEnd=298006|Gloss=well
+6	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=297906|AlignEnd=298006|Gloss=well
 7	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=298103|AlignEnd=298282|Gloss=3Fem-|SpaceAfter=No|wordform=tà
 8	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	5	comp	_	Gloss=Sub=
 9	kaːwoː	kai	VERB	_	_	8	comp:aux	_	AlignBegin=298282|AlignEnd=298461|Gloss=carry.DIR
@@ -2800,7 +2800,7 @@
 # text = ìnaː tòː ta jeː ?//
 # text_en = Where did she go?
 1	ìnaː	ìnaː	ADV	_	PronType=Int	0	root	_	AlignBegin=322170|AlignEnd=322345|Gloss=where
-2	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=322345|AlignEnd=322520|Gloss=well
+2	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=322345|AlignEnd=322520|Gloss=well
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=322520|AlignEnd=322695|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	jeː	jeː	VERB	_	_	4	comp:aux	_	AlignBegin=322695|AlignEnd=322870|ClauseType=Int|Gloss=go
@@ -3015,7 +3015,7 @@
 # phonetic_text = sai wâː -ǹ / ƙanèː -ǹ nàː cikin kalloː -n ƙwalloː / sai / kashèː TV ɗîn / wai yà tattàːraː kaːyaː -n -shì yà barìː mishì gidaː -n -shì //
 # text = wai yà tattàːrà kaːyan =shì yà bar̃ mishì gidan =shì //
 # text_en = Let him gather his things and leave the house to him.
-1	wai	wai	PART	_	Evident=Nfh|PartType=Evident	4	discourse	_	AlignBegin=346046|AlignEnd=346263|Gloss=reportedly
+1	wai	wai	PART	_	Evident=Nfh|PartType=Evident	3	discourse	_	AlignBegin=346046|AlignEnd=346263|Gloss=reportedly
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=346263|AlignEnd=346480|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 3	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub=
 4	tattàːrà	tattaːr-	VERB	_	Number=Plur	3	comp:aux	_	AlignBegin=346480|AlignEnd=346697|Gloss=gather.Plur
@@ -3038,7 +3038,7 @@
 # phonetic_text = tòː yà jeː ìnaː //
 # text = tòː yà jeː ìnaː ?//
 # text_en = Well, to go where?
-1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=348000|AlignEnd=348174|Gloss=well
+1	tòː	tòː	INTJ	_	_	3	discourse	_	AlignBegin=348000|AlignEnd=348174|Gloss=well
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=348174|AlignEnd=348348|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 3	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub=
 4	jeː	jeː	VERB	_	_	3	comp:aux	_	AlignBegin=348348|AlignEnd=348522|Gloss=go
@@ -3098,7 +3098,7 @@
 # phonetic_text = wai bà / tundà bàːba -ǹ yaː mutù / yà barìː gidaː -ǹ //
 # text = wai bà / tundà bàːbân yaː mutù / yà bar̃ gidân //
 # text_en = He said since the father had died let him leave the house.
-1	wai	wai	PART	_	Evident=Nfh|PartType=Evident	12	discourse	_	AlignBegin=353430|AlignEnd=353520|Gloss=reportedly
+1	wai	wai	PART	_	Evident=Nfh|PartType=Evident	11	discourse	_	AlignBegin=353430|AlignEnd=353520|Gloss=reportedly
 2	bà	bà	PART	_	PartType=Neg|Polarity=Neg	1	discourse	_	AlignBegin=353520|AlignEnd=353610|Gloss=indeed
 3	<	<	PUNCT	_	_	1	punct	_	AlignBegin=353610|AlignEnd=353701|Gloss=PUNCT
 4	tundà	tundà	SCONJ	_	_	11	mod	_	AlignBegin=353701|AlignEnd=353872|Gloss=since
@@ -3135,7 +3135,7 @@
 # phonetic_text = so / dà ya barìː gidaː -ǹ / sai ya jeː ya ɗan kaːmàː hòːtêl mài / sauƙiː -n kuɗiː ya zaunàː //
 # text = sòː < dà ya bar̃ gidân < sai ya jeː ya ɗan kaːmà hòːtêl mài sauƙin kuɗiː ya zaunàː //
 # text_en = So after he had left the house, he went and found a cheap hotel and he stayed there.
-1	sòː	sòː	INTJ	_	Foreign=Yes	12	discourse	_	AlignBegin=356514|AlignEnd=356637|Gloss=so|Lang=en
+1	sòː	sòː	INTJ	_	Foreign=Yes	11	discourse	_	AlignBegin=356514|AlignEnd=356637|Gloss=so|Lang=en
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=356637|AlignEnd=356760|Gloss=PUNCT
 3	dà	dà	SCONJ	_	_	11	mod	_	AlignBegin=356760|AlignEnd=356916|Gloss=as
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=356916|AlignEnd=357072|Gloss=3Masc-|SpaceAfter=No|wordform=ya
@@ -3308,7 +3308,7 @@
 # phonetic_text = tòː shiː nèː ya &//
 # text = tòː shiː nèː ya&//
 # text_en = Well then he...
-1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=377980|AlignEnd=378068|Gloss=well
+1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=377980|AlignEnd=378068|Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	mod	_	AlignBegin=378068|AlignEnd=378156|Gloss=3Masc.Nom
 3	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=378156|AlignEnd=378244|Gloss=Emph
 4	ya-	ya	PRON	_	Gender=Masc|Mood=Rel|Person=3|PronType=PrsSubj	5	comp:aux	_	AlignBegin=378244|AlignEnd=378332|Gloss=3Masc|Scrap=Yes|SpaceAfter=No|wordform=ya
@@ -3341,7 +3341,7 @@
 # phonetic_text = eː ya cêː &//
 # text = eː ya cêː &//
 # text_en = Yes, he said...
-1	eː	eː	INTJ	_	_	4	discourse	_	AlignBegin=381079|AlignEnd=381175|Gloss=yes
+1	eː	eː	INTJ	_	_	3	discourse	_	AlignBegin=381079|AlignEnd=381175|Gloss=yes
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=381175|AlignEnd=381271|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 3	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=381271|AlignEnd=381367|Gloss=say|Scrap=Yes
@@ -3460,8 +3460,8 @@
 # phonetic_text = tòː but / bàʼà sàːmaː -eː shi ba ham //
 # text = tòː but < bàʼà sàːmeː shì ba à X //
 # text_en = Well but they did not find him X.
-1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=393114|AlignEnd=393281|Gloss=well
-2	but	but	CCONJ	_	Foreign=Yes	6	discourse	_	AlignBegin=393281|AlignEnd=393448|Gloss=but|Lang=en
+1	tòː	tòː	INTJ	_	_	4	discourse	_	AlignBegin=393114|AlignEnd=393281|Gloss=well
+2	but	but	CCONJ	_	Foreign=Yes	4	discourse	_	AlignBegin=393281|AlignEnd=393448|Gloss=but|Lang=en
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=393448|AlignEnd=393614|Gloss=PUNCT
 4	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf-|SpaceAfter=No
 5	'à=	a	PRON	_	Person=4|PronType=PrsSubj	4	subj/m	_	AlignBegin=393614|AlignEnd=393838|Gloss=4=|wordform=bàʼà
@@ -3550,13 +3550,13 @@
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=402440|AlignEnd=402639|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	AlignBegin=402639|AlignEnd=402838|Gloss=say
-6	kâi	kâi	INTJ	_	_	16	discourse	_	AlignBegin=403037|AlignEnd=403143|Gloss=my
+6	kâi	kâi	INTJ	_	_	14	discourse	_	AlignBegin=403037|AlignEnd=403143|Gloss=my
 7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=403143|AlignEnd=403250|Gloss=PUNCT
 8	iyàː	iyàː	VERB	_	_	14	dislocated	_	AlignBegin=403250|AlignEnd=403448|Gloss=can
-9	lalleː	lalleː	INTJ	_	_	16	discourse	_	AlignBegin=403448|AlignEnd=403646|Gloss=certainly
+9	lalleː	lalleː	INTJ	_	_	14	discourse	_	AlignBegin=403448|AlignEnd=403646|Gloss=certainly
 10	wannàn	nân	PRON	_	Deixis=ProxS|Gender=Masc|PronType=Dem	14	dislocated@subj	_	AlignBegin=403646|AlignEnd=403844|Gloss=ProxS.Masc
 11	<	<	PUNCT	_	_	10	punct	_	AlignBegin=403844|AlignEnd=404040|Gloss=PUNCT
-12	wai	wai	PART	_	Evident=Nfh|PartType=Evident	16	discourse	_	AlignBegin=404040|AlignEnd=404244|Gloss=reportedly
+12	wai	wai	PART	_	Evident=Nfh|PartType=Evident	14	discourse	_	AlignBegin=404040|AlignEnd=404244|Gloss=reportedly
 13	<	<	PUNCT	_	_	12	punct	_	AlignBegin=404244|AlignEnd=404448|Gloss=PUNCT
 14	baː-	bâː-	AUX	_	Aspect=Prog|Copula=No|Polarity=Neg	5	comp:obj	_	Gloss=Neg.Prog-|wordform=baː
 15	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=404861|AlignEnd=405055|Gloss=3Fem=|wordform=baːtà
