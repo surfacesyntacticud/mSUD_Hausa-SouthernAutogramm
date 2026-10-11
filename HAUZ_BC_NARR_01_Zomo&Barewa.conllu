@@ -44,14 +44,14 @@
 # phonetic_text = sukà kaːmàː hanyàː zaːsù tàfi // neːmaː -n / àbù -ǹ dà zaːsù ci // à cikin daːjìː //
 # text = zaː-sù=tàfi neːma-nàbin dà zaː-sù=ci à cikin daːjìː //
 # text_en = They were going, looking for something to eat In the bush.
-1	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
+1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 2	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=4475|AlignEnd=4762|Gloss=3Plur=|SpaceAfter=No|wordform=zaːsù
 3	tàfi	tàf-	VERB	_	_	1	comp:aux	_	AlignBegin=4762|AlignEnd=5049|Gloss=go
 4	neːma	neːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:obj@G	_	AlignBegin=5702|AlignEnd=5848|Gloss=look_for.Vnoun|SpaceAfter=No|wordform=neːman
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen|SpaceAfter=No
 6	àbin	àbù	NOUN	_	Definite=Def	5	comp	_	AlignBegin=6285|AlignEnd=6375|Gloss=thing..Def|RelAnt=Yes
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	AlignBegin=6465|AlignEnd=6645|Gloss=CompRel|Relz=Word
-8	zaː-	zâː-	AUX	_	Copula=No|Tense=Fut	7	comp	_	Gloss=Fut-|SpaceAfter=No
+8	zâː	zâː	AUX	_	Copula=No|Tense=Fut	7	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
 9	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=6645|AlignEnd=6825|Gloss=3Plur=|SpaceAfter=No|wordform=zaːsù
 10	ci	ci	VERB	_	_	8	comp:aux	_	AlignBegin=6825|AlignEnd=7005|ClauseType=Rel|Gloss=eat|RelRole=obj
 11	à	à	ADP	_	_	4	mod	_	AlignBegin=7920|AlignEnd=8200|Gloss=at
@@ -360,8 +360,8 @@
 11	a-	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=46360|AlignEnd=46555|Gloss=4-|SpaceAfter=No|wordform=à
 12	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	10	comp	_	Gloss=Sub=
 13	cêː	cêː	VERB	_	_	12	comp:aux	_	AlignBegin=46360|AlignEnd=46555|Gloss=say
-14	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	13	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-15	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=46750|AlignEnd=46899|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
+14	zâː	zâː	AUX	_	Copula=No|Tense=Fut	13	comp:obj	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+15	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=46750|AlignEnd=46899|Gloss=3Masc|wordform=zâi
 16	biː	bi	VERB	_	_	14	comp:aux	_	AlignBegin=46899|AlignEnd=47048|Gloss=follow
 17	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	16	comp:obj	_	AlignBegin=47048|AlignEnd=47197|Gloss=3Fem
 18	//	//	PUNCT	_	_	8	punct	_	AlignBegin=47197|AlignEnd=47347|Gloss=PUNCT
@@ -381,8 +381,8 @@
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceAfter=No
 7	àbin	àbù	NOUN	_	Definite=Def	6	comp	_	AlignBegin=48768|AlignEnd=48854|Gloss=thing..Def|RelAnt=Yes|wordform=àbù
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	AlignBegin=48941|AlignEnd=49114|Gloss=CompRel|Relz=Word
-9	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	8	comp	_	Gloss=Fut-|SpaceAfter=No
-10	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=49114|AlignEnd=49287|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
+9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	8	comp	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+10	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=49114|AlignEnd=49287|Gloss=3Masc|wordform=zâi
 11	ci	ci	VERB	_	_	9	comp:aux	_	AlignBegin=49287|AlignEnd=49460|ClauseType=Rel|Gloss=eat|RelRole=obj
 12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=49460|AlignEnd=49630|Gloss=PUNCT
 
@@ -686,8 +686,8 @@
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	dislocated@subj	_	AlignBegin=80070|AlignEnd=80323|Gloss=3Masc.Nom
 2	kòː	kùwa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=80323|AlignEnd=80576|Gloss=as_for
 3	nân	nân	ADV	_	Deixis=ProxS|PronType=Dem	0	root	_	AlignBegin=80576|AlignEnd=80829|Gloss=ProxS
-4	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	3	comp:cleft	_	Gloss=Fut-|SpaceAfter=No
-5	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=80829|AlignEnd=81082|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
+4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	comp:cleft	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+5	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=80829|AlignEnd=81082|Gloss=3Masc|wordform=zâi
 6	yi	yi	VERB	_	_	4	comp:aux	_	AlignBegin=81082|AlignEnd=81335|ClauseType=Cleft|Gloss=do
 7	kwànciya	kwant-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	6	comp:obj	_	AlignBegin=81335|AlignEnd=81419|Gloss=lie.Vnoun|SpaceAfter=No|wordform=kwànciyaː|wordfrom=kwànciyanshì
 8	-n	na	PART	_	Case=Gen|PartType=Case	7	udep/m	_	Gloss=Gen|SpaceAfter=No
@@ -1128,8 +1128,8 @@
 # phonetic_text = zâi tàfi / yà jeː yà shaː ruwaː //
 # text = zâi tàfi / yà jeː yà shaː ruwaː //
 # text_en = he will leave to go and drink water.
-1	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
-2	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=130562|AlignEnd=130710|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
+1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+2	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=130562|AlignEnd=130710|Gloss=3Masc|wordform=zâi
 3	tàfi	taf-	VERB	_	_	1	comp:aux	_	AlignBegin=130710|AlignEnd=130858|Gloss=go
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=131006|AlignEnd=131263|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 5	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	1	conj:coord	_	Gloss=Sub=
@@ -1334,8 +1334,8 @@
 2	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 3	rasà	ras-	VERB	_	_	2	comp:aux	_	AlignBegin=152141|AlignEnd=152304|Gloss=miss
 4	yaddà	yaddà	ADV	_	PronType=Rel	3	comp:obj	_	AlignBegin=152304|AlignEnd=152467|Gloss=how|RelAnt=Yes|Relz=Word
-5	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	4	mod@relcl	_	Gloss=Fut-|SpaceAfter=No
-6	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=152467|AlignEnd=152630|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
+5	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	mod@relcl	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+6	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=152467|AlignEnd=152630|Gloss=3Masc|wordform=zâi
 7	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=152630|AlignEnd=152793|ClauseType=Rel|Gloss=do|RelRole=mod
 8	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=152793|AlignEnd=152956|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 9	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	7	mod	_	Gloss=Sub=
@@ -1591,8 +1591,8 @@
 2	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 3	rasà	ras-	VERB	_	_	2	comp:aux	_	AlignBegin=177930|AlignEnd=178212|Gloss=miss
 4	yaddà	yaddà	ADV	_	PronType=Rel	3	comp:obj	_	AlignBegin=178212|AlignEnd=178494|Gloss=how|RelAnt=Yes|Relz=Word
-5	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	4	mod@relcl	_	Gloss=Fut-|SpaceAfter=No
-6	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=178494|AlignEnd=178776|Gloss=3Masc=|SpaceAfter=No|wordform=zâi
+5	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	mod@relcl	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
+6	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=178494|AlignEnd=178776|Gloss=3Masc|wordform=zâi
 7	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=178776|AlignEnd=179058|ClauseType=Rel|Gloss=do|RelRole=mod
 8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=179058|AlignEnd=179340|Gloss=PUNCT
 
@@ -2145,8 +2145,8 @@
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=237843|AlignEnd=237988|Gloss=say
 4	kâi	kâi	INTJ	_	_	6	discourse	_	AlignBegin=238132|AlignEnd=238290|Gloss=wow
 5	bà	bà	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=239260|AlignEnd=239436|Gloss=Neg
-6	zâː-	zâː-	AUX	_	Copula=No|Tense=Fut	3	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-7	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=239436|AlignEnd=239612|Gloss=1Sing=|SpaceAfter=No|wordform=zân
+6	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zân
+7	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=239436|AlignEnd=239612|Gloss=1Sing
 8	iyà	iyàː	VERB	_	_	6	comp:aux	_	AlignBegin=239612|AlignEnd=239788|Gloss=can
 9	kâiwaː	kai	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:obj	_	AlignBegin=239788|AlignEnd=239876|Gloss=reach.Vnoun
 10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=239964|AlignEnd=240140|Gloss=Neg
