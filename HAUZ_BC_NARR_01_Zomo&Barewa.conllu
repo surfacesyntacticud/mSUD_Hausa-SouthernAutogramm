@@ -44,15 +44,15 @@
 # phonetic_text = sukà kaːmàː hanyàː zaːsù tàfi // neːmaː -n / àbù -ǹ dà zaːsù ci // à cikin daːjìː //
 # text = zaː-sù=tàfi neːma-nàbin dà zaː-sù=ci à cikin daːjìː //
 # text_en = They were going, looking for something to eat In the bush.
-1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-2	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=4475|AlignEnd=4762|Gloss=3Plur=|SpaceAfter=No|wordform=zaːsù
+1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+2	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=4475|AlignEnd=4762|Gloss=3Plur|SpaceAfter=No|wordform=zaːsù
 3	tàfi	tàf-	VERB	_	_	1	comp:aux	_	AlignBegin=4762|AlignEnd=5049|Gloss=go
 4	neːma	neːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:obj@G	_	AlignBegin=5702|AlignEnd=5848|Gloss=look_for.Vnoun|SpaceAfter=No|wordform=neːman
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen|SpaceAfter=No
 6	àbin	àbù	NOUN	_	Definite=Def	5	comp	_	AlignBegin=6285|AlignEnd=6375|Gloss=thing..Def|RelAnt=Yes
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	AlignBegin=6465|AlignEnd=6645|Gloss=CompRel|Relz=Word
-8	zâː	zâː	AUX	_	Copula=No|Tense=Fut	7	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-9	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=6645|AlignEnd=6825|Gloss=3Plur=|SpaceAfter=No|wordform=zaːsù
+8	zâː	zâː	AUX	_	Copula=No|Tense=Fut	7	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+9	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=6645|AlignEnd=6825|Gloss=3Plur|SpaceAfter=No|wordform=zaːsù
 10	ci	ci	VERB	_	_	8	comp:aux	_	AlignBegin=6825|AlignEnd=7005|ClauseType=Rel|Gloss=eat|RelRole=obj
 11	à	à	ADP	_	_	4	mod	_	AlignBegin=7920|AlignEnd=8200|Gloss=at
 12	cikin	cikin	ADP	_	_	11	comp	_	AlignBegin=8200|AlignEnd=8480|Gloss=inside
@@ -633,13 +633,13 @@
 # phonetic_text = suːnaː -n ràːfiː -ǹ naːsù mân# / mângajàː //
 # text = suːnan ràːfîn naːsù Mân~ / Mângajàː //
 # text_en = The name of their river is Man.. Mangaja.
-1	suːna	suːnaː	NOUN	_	_	5	subj	_	AlignBegin=73986|AlignEnd=74128|Gloss=name|SpaceAfter=No|wordform=suːnan
+1	suːna	suːnaː	NOUN	_	_	6	subj	_	AlignBegin=73986|AlignEnd=74128|Gloss=name|SpaceAfter=No|wordform=suːnan
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	udep/m	_	Gloss=Gen
 3	ràːfîn	ràːfiː	NOUN	_	Definite=Def	2	comp	_	AlignBegin=74270|AlignEnd=74412|Gloss=river.Def
 4	naːsù	naːsù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	3	mod@poss	_	AlignBegin=74554|AlignEnd=74838|Gloss=3PlurGen
-5	Mân~	Mângajàː	PROPN	_	_	0	root	_	AlignBegin=74838|AlignEnd=75122|Gloss=Mangaja
-6	Mângajàː	Mângajàː	PROPN	_	_	5	conj:dicto	_	AlignBegin=75406|AlignEnd=75548|Gloss=Mangaja
-7	//	//	PUNCT	_	_	5	punct	_	AlignBegin=75548|AlignEnd=75690|Gloss=PUNCT
+5	Mân~	Mângajàː	PROPN	_	_	6	reparandum	_	AlignBegin=74838|AlignEnd=75122|Gloss=Mangaja
+6	Mângajàː	Mângajàː	PROPN	_	_	0	root	_	AlignBegin=75406|AlignEnd=75548|Gloss=Mangaja
+7	//	//	PUNCT	_	_	6	punct	_	AlignBegin=75548|AlignEnd=75690|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_069-069
 # speaker_id = SP2

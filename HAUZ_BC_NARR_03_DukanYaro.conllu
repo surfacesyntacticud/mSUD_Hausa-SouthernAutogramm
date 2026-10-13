@@ -58,9 +58,9 @@
 # text_en = Then somebody .. heard that they said the pupils of SS should go into their class.
 1	sai	sai	ADV	_	_	6	mod	_	AlignBegin=11947|AlignEnd=12143|Gloss=then
 2	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	6	subj	_	AlignBegin=12143|AlignEnd=12339|Gloss=some.Masc
-3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	comp:aux	_	=|AlignBegin=12339|AlignEnd=12535|Gloss=3Masc-|SpaceAfter=No
-4	Ø=	kà=	AUX	_	Copula=No|Number=Sing	6	subj/m	_	Gloss=Perf.Rel.Sing=|wordform=_=
-5	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	conj:dicto	_	AlignBegin=12733|AlignEnd=12980|Gloss=3Masc-|SpaceAfter=No
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	=|AlignBegin=12339|AlignEnd=12535|Gloss=3Masc-|SpaceAfter=No
+4	Ø=	kà=	AUX	_	Copula=No|Number=Sing	6	reparandum	_	Gloss=Perf.Rel.Sing=|wordform=_=
+5	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=12733|AlignEnd=12980|Gloss=3Masc-|SpaceAfter=No
 6	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	AlignBegin=12733|AlignEnd=12980|Gloss=Perf.Rel.Sing=|wordform=_=
 7	ga	ganiː	VERB	_	_	6	comp:aux	_	AlignBegin=12980|AlignEnd=13227|Gloss=see
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	AlignBegin=13227|AlignEnd=13474|Gloss=4-|SpaceAfter=No|wordform=an
@@ -133,11 +133,11 @@
 2	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=22936|AlignEnd=23161|Gloss=4-|SpaceAfter=No|wordform=akà
 3	kà=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=23161|AlignEnd=23386|Gloss=say
-5	mut~	X	X	_	_	4	comp:obj	_	AlignBegin=23386|AlignEnd=23611|Gloss=X
-6	saurân	saurâː	NOUN	_	Definite=Def	9	dislocated	_	AlignBegin=23836|AlignEnd=23968|Gloss=remainder.Def
-7	dus	dukà	DET	_	PronType=Tot	6	det	_	AlignBegin=24101|AlignEnd=24366|Gloss=all
+5	mut~	X	X	_	_	6	reparandum	_	AlignBegin=23386|AlignEnd=23611|Gloss=X
+6	saurân	saurâː	NOUN	_	Definite=Def	4	comp:obj@R	_	AlignBegin=23836|AlignEnd=23968|Gloss=remainder.Def
+7	dus	dukà	PRON	_	PronType=Tot	9	subj	_	AlignBegin=24101|AlignEnd=24366|Gloss=all
 8	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=24366|AlignEnd=24631|Gloss=3Plur-|SpaceAfter=No|wordform=sù
-9	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	5	conj:dicto	_	Gloss=Sub=
+9	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	4	comp:obj@T	_	Gloss=Sub=
 10	tàttàfi	taf-	VERB	_	Number=Plur	9	comp:aux	_	AlignBegin=24631|AlignEnd=24896|Gloss=go.Plur
 11	ajìː	ajìː	NOUN	_	_	10	comp:obj@G	_	AlignBegin=24896|AlignEnd=25161|Gloss=classroom
 12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=25161|AlignEnd=25428|Gloss=PUNCT

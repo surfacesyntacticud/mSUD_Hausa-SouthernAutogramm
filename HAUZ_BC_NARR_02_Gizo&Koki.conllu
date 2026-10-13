@@ -72,13 +72,13 @@
 # text = i- nàː naː~ || a- nàː nan //
 # text_en = There they were.
 1	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=10421|AlignEnd=10636|Gloss=1Sing|SpaceAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	AlignBegin=10421|AlignEnd=10636|Gloss=be
-3	naː~	X	X	_	_	2	unk	_	AlignBegin=10636|AlignEnd=10851|Gloss=X|Scrap=Yes
-4	||	||	PUNCT	_	_	6	punct	_	AlignBegin=10851|AlignEnd=11066|Gloss=PUNCT
+2	nàː	nàː	AUX	_	Copula=Yes	6	reparandum	_	AlignBegin=10421|AlignEnd=10636|Gloss=be
+3	naː~	X	X	_	_	6	reparandum	_	AlignBegin=10636|AlignEnd=10851|Gloss=X|Scrap=Yes
+4	||	||	PUNCT	_	_	3	punct	_	AlignBegin=10851|AlignEnd=11066|Gloss=PUNCT
 5	a-	a-	PRON	_	Copula=Yes|Person=4|PronType=Prs	6	subj/m	_	AlignBegin=11066|AlignEnd=11267|Gloss=4|SpaceAfter=No
-6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	2	conj:dicto	_	AlignBegin=11066|AlignEnd=11267|Gloss=Prog|wordform=a
+6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=11066|AlignEnd=11267|Gloss=Prog|wordform=a
 7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	comp:pred	_	AlignBegin=11267|AlignEnd=11468|Gloss=PreRef|PreRef=Yes
-8	//	//	PUNCT	_	_	2	punct	_	AlignBegin=11468|AlignEnd=11670|Gloss=PUNCT
+8	//	//	PUNCT	_	_	6	punct	_	AlignBegin=11468|AlignEnd=11670|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_008
 # speaker_id = SP2
@@ -154,8 +154,8 @@
 7	kòː	kùwa	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=21085|AlignEnd=21176|Gloss=as_for
 8	ìnaː	ìnaː	ADV	_	PronType=Int	9	comp:pred	_	AlignBegin=21267|AlignEnd=21537|Gloss=where
 9	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	4	comp:obj	_	AlignBegin=21537|AlignEnd=21807|Gloss=be.Masc/Plur
-10	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp:cleft	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-11	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=21807|AlignEnd=21942|Gloss=3Fem=|SpaceAfter=No|wordform=zaːtà
+10	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp:cleft	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+11	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=21807|AlignEnd=21942|Gloss=3Fem|SpaceAfter=No|wordform=zaːtà
 12	saːmoː	saːm-	VERB	_	_	10	comp:aux	_	AlignBegin=22077|AlignEnd=22347|ClauseType=Cleft|Gloss=get.DIR
 13	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	14	det	_	AlignBegin=22347|AlignEnd=22617|Gloss=PreRef|PreRef=Yes
 14	ramàː	ramàː	NOUN	_	_	12	comp:obj	_	AlignBegin=22616|AlignEnd=22887|Gloss=hemp
@@ -253,7 +253,7 @@
 11	saːmoː	saːm-	VERB	_	_	10	comp:aux	_	AlignBegin=32295|AlignEnd=32570|Gloss=get.DIR
 12	sai	sai	ADV	_	_	14	mod	_	AlignBegin=32845|AlignEnd=32983|Gloss=then
 13	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=32983|AlignEnd=33120|Gloss=3Fem-|SpaceAfter=No|wordform=ta
-14	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	11	conj:dicto	_	Gloss=Perf.Rel.Sing|wordform=_=
+14	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	10	conj:reform	_	Gloss=Perf.Rel.Sing|wordform=_=
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	AlignBegin=33395|AlignEnd=33533|Gloss=say
 16	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	17	subj/m	_	AlignBegin=33945|AlignEnd=34083|Gloss=3Fem|SpaceAfter=No
 17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	comp:obj	_	AlignBegin=33945|AlignEnd=34083|Gloss=Prog|wordform=tanàː
@@ -587,8 +587,8 @@
 9	kaːwoː	kai	VERB	_	_	8	comp:aux	_	AlignBegin=67805|AlignEnd=68071|Gloss=carry.DIR
 10	àbin	àbù	NOUN	_	Definite=Def	9	comp:obj	_	AlignBegin=68736|AlignEnd=68846|Gloss=thing..Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	AlignBegin=68955|AlignEnd=69174|Gloss=CompRel|Relz=Word
-12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	11	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-13	à=	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=69174|AlignEnd=69393|Gloss=4=|SpaceAfter=No|wordform=zaː'à
+12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	11	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+13	-'à	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=69174|AlignEnd=69393|Gloss=4|SpaceAfter=No|wordform=zaː'à
 14	neːmoː	neːmoː	VERB	_	_	12	comp:aux	_	AlignBegin=69393|AlignEnd=69612|ClauseType=Rel|Gloss=look_for.DIR|RelRole=obj
 15	//	//	PUNCT	_	_	3	punct	_	AlignBegin=69393|AlignEnd=69612|Gloss=PUNCT
 
@@ -628,9 +628,9 @@
 8	mahaɗin	mahaɗiː	NOUN	_	Definite=Def	7	comp:obj	_	AlignBegin=74135|AlignEnd=74220|Gloss=accompaniment..Def|RelAnt=Yes
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	AlignBegin=74306|AlignEnd=74562|Gloss=CompRel|Relz=Word
 10	zaː-	zâː-	AUX	_	Copula=No	12	comp:aux	_	Gloss=Fut-|SpaceAfter=No
-11	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fem=|Scrap=Yes|wordform=zaːtà
-12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-13	'à=	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=75074|AlignEnd=75262|Gloss=4=|SpaceAfter=No|wordform=zaːʔà
+11	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fem|Scrap=Yes|wordform=zaːtà
+12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+13	-'à	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=75074|AlignEnd=75262|Gloss=4|SpaceAfter=No|wordform=zaːʔà
 14	ci	ci	VERB	_	_	10	comp:aux	_	AlignBegin=75262|AlignEnd=75450|ClauseType=Rel|Gloss=eat|RelRole=udep
 15	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	16	comp:obj	_	AlignBegin=75450|AlignEnd=75638|Gloss=PreRef|PreRef=Yes
 16	ramàn	ramàː	NOUN	_	Definite=Def	14	comp:obj	_	AlignBegin=75638|AlignEnd=75732|Gloss=hemp.Def
@@ -651,16 +651,15 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_02.WAV
 # sent_timecode = 76446, 78219
 # phonetic_text = sai akà &// ta dakà: shi //
-# text = sai a-kà= tadakà: shi //
+# text = sai a-kà= ta dakà: shi //
 # text_en = then they.. she pounded it.
-1	sai	sai	ADV	_	_	5	mod	_	AlignBegin=76446|AlignEnd=76676|Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	comp:aux	_	AlignBegin=76676|AlignEnd=76906|Gloss=4-|SpaceAfter=No|wordform=akà=
-3	kà=	kà=	AUX	_	Copula=No|Number=Plur	5	subj/m	_	Gloss=Perf.Rel.Plur=
-4	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=PrsSubj	2	conj:dicto	_	AlignBegin=77543|AlignEnd=77712|Gloss=3Fem|SpaceAfter=No|wordform=ta
-5	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing
-6	dakà:	dak-	VERB	_	_	5	comp:aux	_	AlignBegin=77712|AlignEnd=77881|Gloss=pound
-7	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=77881|AlignEnd=78050|Gloss=3Masc
-8	//	//	PUNCT	_	_	5	punct	_	AlignBegin=78050|AlignEnd=78219|Gloss=PUNCT
+1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=76446|AlignEnd=76676|Gloss=then
+2	a-	a	PRON	_	Person=4|PronType=PrsSubj	3	subj/m	_	AlignBegin=76676|AlignEnd=76906|Gloss=4-|SpaceAfter=No|wordform=akà=
+3	kà=	kà=	AUX	_	Copula=No|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur=
+4	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	3	compound:prt	_	AlignBegin=77543|AlignEnd=77712|Gloss=Iter
+5	dakà:	dak-	VERB	_	_	3	comp:aux	_	AlignBegin=77712|AlignEnd=77881|Gloss=pound
+6	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=77881|AlignEnd=78050|Gloss=3Masc
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=78050|AlignEnd=78219|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_065-067
 # speaker_id = SP1
@@ -675,8 +674,8 @@
 4	dakàː	dak-	VERB	_	_	3	comp:aux	_	AlignBegin=78946|AlignEnd=79065|Gloss=pound
 5	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=79065|AlignEnd=79184|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 6	Ø=	kà=	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
-7	kwa~	X	X	_	_	6	comp:aux	_	AlignBegin=79184|AlignEnd=80521|Gloss=X|Scrap=Yes
-8	ta~	X	X	_	_	7	conj:dicto	_	AlignBegin=80521|AlignEnd=81558|Gloss=X|Overlap=HAUZ_BC_NARR_02_068
+7	kwa~	X	X	_	_	6	unk@scrap	_	AlignBegin=79184|AlignEnd=80521|Gloss=X|Scrap=Yes
+8	ta~	X	X	_	_	7	unk@scrap	_	AlignBegin=80521|AlignEnd=81558|Gloss=X|Overlap=HAUZ_BC_NARR_02_068
 9	//+	//+	PUNCT	_	_	6	punct	_	AlignBegin=81558|AlignEnd=81558|Gloss=PUNCT|wordform=&//
 
 # sent_id = HAUZ_BC_NARR_02_068
@@ -1198,8 +1197,8 @@
 # text = yàːyàː zaː- tà= &//
 # text_en = How will she..
 1	yàːyàː	yàːyàː	ADV	_	PronType=Int	2	comp:aux	_	AlignBegin=133180|AlignEnd=133461|Gloss=how|Scrap=Yes
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	AlignBegin=133461|AlignEnd=133742|Gloss=Fut-|wordform=zaː-
-3	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=133461|AlignEnd=133742|Gloss=3Fem=|Scrap=Yes
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	AlignBegin=133461|AlignEnd=133742|Gloss=Fut|wordform=zaː-
+3	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=133461|AlignEnd=133742|Gloss=3Fem|Scrap=Yes|wordform=tà=
 4	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=133742|AlignEnd=134022|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_111
@@ -1259,8 +1258,8 @@
 # text = bà zaːkì ci ba //
 # text_en = (He said,) you will not eat.
 1	bà	bà	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=138918|AlignEnd=139039|Gloss=Neg
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No|wordform=zaː-
-3	kì=	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=139039|AlignEnd=139160|Gloss=2Fem=|SpaceAfter=No|wordform=zaːkì
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+3	-kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=139039|AlignEnd=139160|Gloss=2Fem|SpaceAfter=No|wordform=zaːkì
 4	ci	ci	VERB	_	_	2	comp:aux	_	AlignBegin=139160|AlignEnd=139281|Gloss=eat
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=139281|AlignEnd=139402|Gloss=Neg
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=139402|AlignEnd=139524|Gloss=PUNCT
@@ -1558,19 +1557,19 @@
 9	!//	!//	PUNCT	_	_	3	punct	_	AlignBegin=172469|AlignEnd=172608|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_142-144
+# text = n-aː= cêː zâː-n ǹ zâː-n ci k-aː= hanàː ni //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_02.WAV
 # sent_timecode = 172795, 174516
 # phonetic_text = naː cêː zân ǹ / zân ci / ka hanàː ni //
-# text = naː cêː zân ǹ / zân ci / kaː hanàː ni //
-# text_en = I said I would eat, and you refused. I said I would eat, and you refused. you refused.
+# text_en = I said I would...  I would eat, and you refused. you refused.
 1	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=172795|AlignEnd=172935|Gloss=1Sing-|SpaceAfter=No|wordform=naː
 2	aː=	aː=	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=172935|AlignEnd=173075|Gloss=say
-4	zâ-	zâː-	AUX	_	Copula=No	3	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-5	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=173075|AlignEnd=173215|Gloss=1Sing=|wordform=zân
-6	ǹ	ǹ	INTJ	_	_	4	comp:aux	_	AlignBegin=173215|AlignEnd=173355|Gloss=FS
-7	zâː	zâː	AUX	_	Copula=No|Tense=Fut	6	conj:dicto	_	Gloss=Fut|SpaceAfter=No|wordform=zân
+4	zâː	zâː	AUX	_	Copula=No	7	reparandum	_	Gloss=Fut|SpaceAfter=No
+5	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=173075|AlignEnd=173215|Gloss=1Sing
+6	ǹ	ǹ	INTJ	_	_	7	discourse	_	AlignBegin=173215|AlignEnd=173355|Gloss=FS
+7	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zân
 8	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=173496|AlignEnd=173606|Gloss=1Sing
 9	ci	ci	VERB	_	_	7	comp:aux	_	AlignBegin=173606|AlignEnd=173716|Gloss=eat
 10	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	11	subj/m	_	AlignBegin=173827|AlignEnd=173999|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
