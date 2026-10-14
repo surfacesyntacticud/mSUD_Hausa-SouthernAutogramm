@@ -2548,12 +2548,12 @@
 8	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	5	comp	_	Gloss=Sub=
 9	kaːwoː	kai	VERB	_	_	8	comp:aux	_	AlignBegin=298282|AlignEnd=298461|Gloss=carry.DIR
 10	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	9	comp:obl	_	AlignBegin=298461|AlignEnd=298640|Gloss=3Masc.Dat
-11	zaː-	zâː-	AUX	_	Copula=No	14	comp:aux	_	Gloss=Fut-|SpaceAfter=No
-12	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=298640|AlignEnd=298819|Gloss=3Fem=|Scrap=Yes|wordform=zaːtà
-13	||	||	PUNCT	_	_	14	punct	_	AlignBegin=298819|AlignEnd=299000|Gloss=PUNCT
-14	zâ-	zâː-	AUX	_	Copula=No	8	conj:coord	_	Gloss=Fut-|SpaceAfter=No
+11	zaː-	zâː-	AUX	_	Copula=No	14	reparandum	_	Gloss=Fut-|SpaceAfter=No
+12	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	comp:aux	_	AlignBegin=298640|AlignEnd=298819|Gloss=3Fem=|Scrap=Yes|wordform=zaːtà
+13	||	||	PUNCT	_	_	11	punct	_	AlignBegin=298819|AlignEnd=299000|Gloss=PUNCT
+14	zâ-	zâː-	AUX	_	Copula=No	9	parataxis@mod	_	Gloss=Fut-|SpaceAfter=No
 15	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=299000|AlignEnd=299162|Gloss=3Masc=|wordform=zâi
-16	shaː	shaː	VERB	_	_	11	comp:aux	_	AlignBegin=299162|AlignEnd=299324|Gloss=drink
+16	shaː	shaː	VERB	_	_	14	comp:aux	_	AlignBegin=299162|AlignEnd=299324|Gloss=drink
 17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=299324|AlignEnd=299485|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__162

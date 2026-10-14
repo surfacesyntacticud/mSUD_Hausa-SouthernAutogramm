@@ -14446,12 +14446,12 @@
 4	biyu	biyu	NUM	_	_	2	conj:coord	_	AlignBegin=1604480|AlignEnd=1604730|Gloss=two
 5	<	<	PUNCT	_	_	2	punct	_	AlignBegin=1604730|AlignEnd=1604980|Gloss=PUNCT
 6	kunːyaː	kunːyaː	NOUN	_	_	10	dislocated@comp	_	AlignBegin=1606670|AlignEnd=1606840|Gloss=ridges
-7	baː-	bâː-	AUX	_	Aspect=Prog|Copula=No|Polarity=Neg	10	comp:aux	_	Gloss=Neg.Prog-|wordform=baː
-8	à=	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=1606840|AlignEnd=1607020|Gloss=4=|Scrap=Yes|wordform=baː'àː
-9	||	||	PUNCT	_	_	10	punct	_	AlignBegin=1607020|AlignEnd=160720|Gloss=PUNCT
+7	baː-	bâː-	AUX	_	Aspect=Prog|Copula=No|Polarity=Neg	10	reparandum	_	Gloss=Neg.Prog-|wordform=baː
+8	à=	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=1606840|AlignEnd=1607020|Gloss=4=|Scrap=Yes|wordform=baː'àː
+9	||	||	PUNCT	_	_	7	punct	_	AlignBegin=1607020|AlignEnd=160720|Gloss=PUNCT
 10	baː-	bâː-	AUX	_	Aspect=Prog|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Prog-|wordform=baː
 11	àː=	a	PRON	_	Person=1|PronType=PrsSubj	10	subj/m	_	AlignBegin=160720|AlignEnd=1607390|Gloss=4=|Overlap=HAUZ_BC_CONV_04_1440-1440|wordform=baː'àː
-12	sâː	saː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=1607390|AlignEnd=1607580|Gloss=put.Vnoun
+12	sâː	saː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	10	comp:aux	_	AlignBegin=1607390|AlignEnd=1607580|Gloss=put.Vnoun
 13	kàdaːdaː	kàdaːdaː	NOUN	_	_	12	comp:obj	_	AlignBegin=1607580|AlignEnd=1607760|Gloss=transverse_ridge|Overlap=HAUZ_BC_CONV_04_1440-1440
 14	//+	//+	PUNCT	_	_	10	punct	_	AlignBegin=1607760|AlignEnd=1607950|Gloss=PUNCT
 
