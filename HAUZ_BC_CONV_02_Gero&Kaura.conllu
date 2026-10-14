@@ -1152,7 +1152,7 @@
 6	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
 7	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=117396|AlignEnd=117463|Gloss=3Masc|wordform=zâi
 8	yi	yi	VERB	_	_	6	comp:aux	_	AlignBegin=117463|AlignEnd=117530|Gloss=do
-9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=117530|AlignEnd=117597|Gloss=Neg
+9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=117530|AlignEnd=117597|Gloss=Neg
 10	>	>	PUNCT	_	_	11	punct	_	AlignBegin=117597|AlignEnd=117664|Gloss=PUNCT
 11	tundà	tundà	SCONJ	_	_	8	mod	_	AlignBegin=117664|AlignEnd=117802|Gloss=since
 12	bàː	bàː	PART	_	PartType=Neg|Polarity=Neg	13	mod	_	AlignBegin=117802|AlignEnd=117940|Gloss=Neg

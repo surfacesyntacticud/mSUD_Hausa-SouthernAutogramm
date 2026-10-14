@@ -2149,11 +2149,11 @@
 7	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=239436|AlignEnd=239612|Gloss=1Sing
 8	iyà	iyàː	VERB	_	_	6	comp:aux	_	AlignBegin=239612|AlignEnd=239788|Gloss=can
 9	kâiwaː	kai	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:obj	_	AlignBegin=239788|AlignEnd=239876|Gloss=reach.Vnoun
-10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=239964|AlignEnd=240140|Gloss=Neg
+10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=239964|AlignEnd=240140|Gloss=Neg
 11	gàri	gàriː	NOUN	_	_	6	dislocated@comp	_	AlignBegin=240313|AlignEnd=240423|Compound=Yes|Gloss=town|SpaceAfter=No|wordform=gàrin
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
 13	Gwànjoː	Gwànjoː	PROPN	_	_	12	comp	_	AlignBegin=240534|AlignEnd=240755|Gloss=Gwanjo
-14	ba	ba	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=240755|AlignEnd=240976|Gloss=Neg
+14	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=240755|AlignEnd=240976|Gloss=Neg
 15	//	//	PUNCT	_	_	2	punct	_	AlignBegin=240976|AlignEnd=241198|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_230-233

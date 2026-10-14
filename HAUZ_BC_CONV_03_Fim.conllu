@@ -479,7 +479,7 @@
 5	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=53431|AlignEnd=53571|Gloss=1Sing
 6	sàːmi	saːm-	VERB	_	_	4	comp:aux	_	AlignBegin=53571|AlignEnd=53641|Gloss=get
 7	zuwàː	zoː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:obj	_	AlignBegin=53711|AlignEnd=53851|Gloss=go.Vnoun
-8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=53851|AlignEnd=53991|Gloss=Neg
+8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=53851|AlignEnd=53991|Gloss=Neg
 9	//	//	PUNCT	_	_	4	punct	_	AlignBegin=53991|AlignEnd=54128|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__34
@@ -695,7 +695,7 @@
 4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zân
 5	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=78185|AlignEnd=78330|Gloss=1Sing
 6	jeː	jeː	VERB	_	_	4	comp:aux	_	AlignBegin=78330|AlignEnd=78475|Gloss=go
-7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=78475|AlignEnd=78620|Gloss=Neg
+7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=78475|AlignEnd=78620|Gloss=Neg
 8	tundà	tundà	SCONJ	_	_	6	mod	_	AlignBegin=78620|AlignEnd=78765|Gloss=since
 9	bà-	bà-	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	8	comp	_	Gloss=Neg.Perf-|SpaceAfter=No
 10	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=78765|AlignEnd=78910|Gloss=1Sing=|wordform=bàn=
@@ -1166,7 +1166,7 @@
 3	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
 4	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=135498|AlignEnd=135649|Gloss=3Masc|wordform=zâi
 5	hàƙurà	haƙur-	VERB	_	_	3	comp:aux	_	AlignBegin=135649|AlignEnd=135800|Gloss=be_patient
-6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=135800|AlignEnd=135951|Gloss=Neg
+6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=135800|AlignEnd=135951|Gloss=Neg
 7	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=135951|AlignEnd=136103|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__77
@@ -3334,8 +3334,8 @@
 6	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	comp:obj	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
 7	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=379665|AlignEnd=379881|Gloss=3Masc|wordform=zâi=
 8	saːmar̃	saːm-	VERB	_	_	6	comp:aux	_	AlignBegin=379881|AlignEnd=380097|Gloss=give_out.Cau
-9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=380097|AlignEnd=380313|Gloss=Neg
-10	sam	sam	ADV	_	_	8	mod	_	AlignBegin=380313|AlignEnd=380529|Gloss=at_all|Ideo=Yes
+9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=380097|AlignEnd=380313|Gloss=Neg
+10	sam	sam	ADV	_	_	6	mod	_	AlignBegin=380313|AlignEnd=380529|Gloss=at_all|Ideo=Yes
 11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=380529|AlignEnd=380741|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__207

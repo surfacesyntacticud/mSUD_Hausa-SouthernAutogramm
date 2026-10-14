@@ -930,7 +930,7 @@
 8	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=107304|AlignEnd=107437|Gloss=3Fem-|SpaceAfter=No|wordform=tà
 9	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	6	mod	_	Gloss=Sub=
 10	ci	ci	VERB	_	_	9	comp:aux	_	AlignBegin=107437|AlignEnd=107570|Gloss=eat
-11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=107570|AlignEnd=107703|Gloss=Neg
+11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=107570|AlignEnd=107703|Gloss=Neg
 12	//	//	PUNCT	_	_	4	punct	_	AlignBegin=107703|AlignEnd=107835|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_088
@@ -950,7 +950,7 @@
 8	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=108474|AlignEnd=108603|Gloss=3Fem-|SpaceAfter=No|wordform=tà
 9	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	6	mod	_	Gloss=Sub=
 10	ci	ci	VERB	_	_	9	comp:aux	_	AlignBegin=108603|AlignEnd=108732|Gloss=eat
-11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=108732|AlignEnd=108861|Gloss=Neg
+11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=108732|AlignEnd=108861|Gloss=Neg
 12	//	//	PUNCT	_	_	4	punct	_	AlignBegin=108861|AlignEnd=108989|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_089-090
@@ -1247,7 +1247,7 @@
 10	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=138356|AlignEnd=138497|Gloss=1Sing-|wordform=ìn
 11	_̀=	_̀=	AUX	_	Copula=No|Mood=Sub	7	parataxis:conj	_	Gloss=Sub=
 12	ci	ci	VERB	_	_	11	comp:aux	_	AlignBegin=138497|AlignEnd=138638|Gloss=eat
-13	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	AlignBegin=138638|AlignEnd=138779|Gloss=Neg
+13	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=138638|AlignEnd=138779|Gloss=Neg
 14	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=138779|AlignEnd=138918|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_113
@@ -1261,7 +1261,7 @@
 2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
 3	-kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=139039|AlignEnd=139160|Gloss=2Fem|SpaceAfter=No|wordform=zaːkì
 4	ci	ci	VERB	_	_	2	comp:aux	_	AlignBegin=139160|AlignEnd=139281|Gloss=eat
-5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=139281|AlignEnd=139402|Gloss=Neg
+5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=139281|AlignEnd=139402|Gloss=Neg
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=139402|AlignEnd=139524|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_114
