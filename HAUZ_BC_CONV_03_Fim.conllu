@@ -54,12 +54,12 @@
 # phonetic_text = bài shìga ba //
 # text = bài shìga ba //
 # text_en = He didn't.
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=7076|AlignEnd=7260|Gloss=-3Masc|wordform=bài
-4	shìga	shig-	VERB	_	_	2	comp:aux	_	AlignBegin=7260|AlignEnd=7444|Gloss=enter
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=7076|AlignEnd=7260|Gloss=-3Masc|wordform=bài
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	shìga	shig-	VERB	_	_	3	comp:aux	_	AlignBegin=7260|AlignEnd=7444|Gloss=enter
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=7444|AlignEnd=7628|Gloss=Neg
-6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=7628|AlignEnd=7810|Gloss=PUNCT
+6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=7628|AlignEnd=7810|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__5
 # speaker_id = SP1
@@ -68,17 +68,17 @@
 # phonetic_text = dâː maː bâi jîː -n shigoː -wàː kilaːs ɗîn //
 # text = dâː maː bâ- i= jî-nshigôːwaː kilaːs ɗîn //
 # text_en = He never intended to go to into the classroom.
-1	dâː	dâː	ADV	_	_	4	discourse	_	AlignBegin=9340|AlignEnd=9556|Gloss=formerly
+1	dâː	dâː	ADV	_	_	5	discourse	_	AlignBegin=9340|AlignEnd=9556|Gloss=formerly
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=9556|AlignEnd=9772|Gloss=even
-3	bâ-	bâ-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=Neg.Perf
-4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-5	-i	ya=	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=-3Masc|wordform=i=
-6	jî	ji	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:aux	_	AlignBegin=9988|AlignEnd=10096|Gloss=hear.Vnoun|SpaceAfter=No|wordform=jîn
+3	bâ-	bâ-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=Neg.Perf
+4	i-	ya=	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=-3Masc|wordform=i=
+5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+6	jî	ji	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:aux	_	AlignBegin=9988|AlignEnd=10096|Gloss=hear.Vnoun|SpaceAfter=No|wordform=jîn
 7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen|SpaceAfter=No
 8	shigôːwaː	shig-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	comp	_	AlignBegin=10204|AlignEnd=10312|Gloss=enter.DIR.Vnoun|wordform=shigoː
 9	kilaːs	kilaːs	NOUN	_	Foreign=Yes	8	comp:obj@G	_	AlignBegin=10420|AlignEnd=10636|Gloss=class|Lang=en
 10	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	9	det	_	AlignBegin=10636|AlignEnd=10852|Gloss=Def
-11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=10852|AlignEnd=11069|Gloss=PUNCT
+11	//	//	PUNCT	_	_	5	punct	_	AlignBegin=10852|AlignEnd=11069|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__6
 # speaker_id = SP1
@@ -238,14 +238,14 @@
 # phonetic_text = ita maː bàtà shìga ba //
 # text = ita maː bàtà shìga ba //
 # text_en = She did not come either.
-1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	4	dislocated@subj	_	AlignBegin=28141|AlignEnd=28288|Gloss=3Fem.Nom
+1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	5	dislocated@subj	_	AlignBegin=28141|AlignEnd=28288|Gloss=3Fem.Nom
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=28288|AlignEnd=28435|Gloss=even
-3	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-5	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=28435|AlignEnd=28582|Gloss=-3Fem|wordform=bàtà
-6	shìga	shig-	VERB	_	_	4	comp:aux	_	AlignBegin=28582|AlignEnd=28729|Gloss=enter
+3	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+4	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=28435|AlignEnd=28582|Gloss=-3Fem|wordform=bàtà
+5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+6	shìga	shig-	VERB	_	_	5	comp:aux	_	AlignBegin=28582|AlignEnd=28729|Gloss=enter
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=28729|AlignEnd=28876|Gloss=Neg
-8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=28876|AlignEnd=29023|Gloss=PUNCT
+8	//	//	PUNCT	_	_	5	punct	_	AlignBegin=28876|AlignEnd=29023|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__18
 # speaker_id = SP1
@@ -254,12 +254,12 @@
 # phonetic_text = bàtà shigoː ba //
 # text = bàtà shigoː ba ?//
 # text_en = Didn't she come?
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=29244|AlignEnd=29408|Gloss=-3Fem|wordform=bàtà
-4	shigoː	shig-	VERB	_	_	2	comp:aux	_	AlignBegin=29408|AlignEnd=29572|Gloss=enter.DIR
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=29244|AlignEnd=29408|Gloss=-3Fem|wordform=bàtà
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	shigoː	shig-	VERB	_	_	3	comp:aux	_	AlignBegin=29408|AlignEnd=29572|Gloss=enter.DIR
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=29572|AlignEnd=29736|Gloss=Neg
-6	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=29736|AlignEnd=29898|Gloss=PUNCT
+6	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=29736|AlignEnd=29898|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__19
 # speaker_id = SP1
@@ -329,15 +329,15 @@
 # phonetic_text = aːʔàː niː dai bàn cêː ba //
 # text = aːʔàː niː dai bàn= cêː ba //
 # text_en = Ah, I didn't say anything.
-1	aːʔàː	aːʔàː	INTJ	_	_	5	discourse	_	AlignBegin=37110|AlignEnd=37297|Gloss=no
-2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	dislocated@subj	_	AlignBegin=37297|AlignEnd=37484|Gloss=1Sing.Nom
+1	aːʔàː	aːʔàː	INTJ	_	_	6	discourse	_	AlignBegin=37110|AlignEnd=37297|Gloss=no
+2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	dislocated@subj	_	AlignBegin=37297|AlignEnd=37484|Gloss=1Sing.Nom
 3	dai	dai	PART	_	PartType=Top	2	discourse@top	_	AlignBegin=37484|AlignEnd=37671|Gloss=indeed
-4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=37671|AlignEnd=37858|Gloss=-1Sing|wordform=bàn=
-7	cêː	cêː	VERB	_	_	5	comp:aux	_	AlignBegin=37858|AlignEnd=38045|Gloss=say
+4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+5	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=37671|AlignEnd=37858|Gloss=-1Sing|wordform=bàn=
+6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+7	cêː	cêː	VERB	_	_	6	comp:aux	_	AlignBegin=37858|AlignEnd=38045|Gloss=say
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=38045|AlignEnd=38232|Gloss=Neg
-9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=38232|AlignEnd=38422|Gloss=PUNCT
+9	//	//	PUNCT	_	_	6	punct	_	AlignBegin=38232|AlignEnd=38422|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__24
 # speaker_id = SP2
@@ -702,10 +702,10 @@
 6	jeː	jeː	VERB	_	_	4	comp:aux	_	AlignBegin=78330|AlignEnd=78475|Gloss=go
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=78475|AlignEnd=78620|Gloss=Neg
 8	tundà	tundà	SCONJ	_	_	6	mod	_	AlignBegin=78620|AlignEnd=78765|Gloss=since
-9	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	10	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-10	_̀	_̀	AUX	_	Mood=Sub	8	comp	_	wordform=Ø̀
-11	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	10	subj/m	_	AlignBegin=78765|AlignEnd=78910|Gloss=-1Sing|wordform=bàn=
-12	yi	yi	VERB	_	_	10	comp:aux	_	AlignBegin=78910|AlignEnd=79055|Gloss=do
+9	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	11	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+10	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=78765|AlignEnd=78910|Gloss=-1Sing|wordform=bàn=
+11	_̀	_̀	AUX	_	Mood=Sub	8	comp	_	wordform=Ø̀
+12	yi	yi	VERB	_	_	11	comp:aux	_	AlignBegin=78910|AlignEnd=79055|Gloss=do
 13	ba	ba	PART	_	PartType=Neg|Polarity=Neg	12	mod	_	AlignBegin=79055|AlignEnd=79200|Gloss=Neg
 14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=79200|AlignEnd=79340|Gloss=PUNCT
 
@@ -1083,14 +1083,14 @@
 # phonetic_text = kuma bàkì saːwoː sàːfaː ba //
 # text = kuma bàkì saːwoː sàːfaː ba //
 # text_en = Because you did not wear socks.
-1	kuma	kuma	CCONJ	_	_	3	cc	_	AlignBegin=128330|AlignEnd=128582|Gloss=too
-2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	-kì	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=128582|AlignEnd=128834|Gloss=-2Fem|wordform=bàkì
-5	saːwoː	saː	VERB	_	_	3	comp:aux	_	AlignBegin=128834|AlignEnd=129086|Gloss=put.DIR
+1	kuma	kuma	CCONJ	_	_	4	cc	_	AlignBegin=128330|AlignEnd=128582|Gloss=too
+2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+3	kì-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=128582|AlignEnd=128834|Gloss=-2Fem|wordform=bàkì
+4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+5	saːwoː	saː	VERB	_	_	4	comp:aux	_	AlignBegin=128834|AlignEnd=129086|Gloss=put.DIR
 6	sàːfaː	sàːfaː	NOUN	_	_	5	comp:obj	_	AlignBegin=129086|AlignEnd=129338|Gloss=socks
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=129338|AlignEnd=129590|Gloss=Neg
-8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=129590|AlignEnd=129841|Gloss=PUNCT
+8	//	//	PUNCT	_	_	4	punct	_	AlignBegin=129590|AlignEnd=129841|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__72
 # speaker_id = SP1
@@ -1099,13 +1099,13 @@
 # phonetic_text = bàn saːwoː sàːfaː ba /
 # text = bàn saːwoː sàːfaː ba /
 # text_en = I did not wear socks.
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=129841|AlignEnd=130028|Gloss=-1Sing|wordform=bàn
-4	saːwoː	saːw-	VERB	_	_	2	comp:aux	_	AlignBegin=130028|AlignEnd=130215|Gloss=put.DIR
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=129841|AlignEnd=130028|Gloss=-1Sing|wordform=bàn
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	saːwoː	saːw-	VERB	_	_	3	comp:aux	_	AlignBegin=130028|AlignEnd=130215|Gloss=put.DIR
 5	sàːfaː	sàːfaː	NOUN	_	_	4	comp:obj	_	AlignBegin=130215|AlignEnd=130402|Gloss=socks
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=130402|AlignEnd=130589|Gloss=Neg
-7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=130589|AlignEnd=130776|Gloss=PUNCT
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=130589|AlignEnd=130776|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__73
 # speaker_id = SP2
@@ -1383,12 +1383,12 @@
 # phonetic_text = bàkì kàllaː ba ?//
 # text = bàkì kàllaː ba ?//
 # text_en = Didn't you watch it?
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-kì	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=167820|AlignEnd=168006|Gloss=-2Fem|wordform=bàkì
-4	kàllaː	kall-	VERB	_	_	2	comp:aux	_	AlignBegin=168006|AlignEnd=168192|Gloss=watch
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	kì-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=167820|AlignEnd=168006|Gloss=-2Fem|wordform=bàkì
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	kàllaː	kall-	VERB	_	_	3	comp:aux	_	AlignBegin=168006|AlignEnd=168192|Gloss=watch
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=168192|AlignEnd=168378|Gloss=Neg
-6	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=168378|AlignEnd=168565|Gloss=PUNCT
+6	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=168378|AlignEnd=168565|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__93
 # speaker_id = SP2
@@ -2079,13 +2079,13 @@
 # phonetic_text = sai bàsù àmsaː ba //
 # text = sai bàsù= àmsaː ba //
 # text_en = Then they refused to take it.
-1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=240904|AlignEnd=241101|Gloss=then
-2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=241101|AlignEnd=241298|Gloss=-3Plur|wordform=bàsù=
-5	àmsaː	ams-	VERB	_	_	3	comp:aux	_	AlignBegin=241298|AlignEnd=241495|Gloss=collect
+1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=240904|AlignEnd=241101|Gloss=then
+2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+3	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=241101|AlignEnd=241298|Gloss=-3Plur|wordform=bàsù=
+4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+5	àmsaː	ams-	VERB	_	_	4	comp:aux	_	AlignBegin=241298|AlignEnd=241495|Gloss=collect
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=241495|AlignEnd=241692|Gloss=Neg
-7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=241692|AlignEnd=241887|Gloss=PUNCT
+7	//	//	PUNCT	_	_	4	punct	_	AlignBegin=241692|AlignEnd=241887|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__137
 # speaker_id = SP1
@@ -2688,13 +2688,13 @@
 # phonetic_text = ƙanèː -n bài yàdda ba //
 # text = ƙanèn bài yàdda ba //
 # text_en = The younger brother did not agree.
-1	ƙanèn	ƙanèː	NOUN	_	Definite=Def	3	subj	_	AlignBegin=309229|AlignEnd=309333|Gloss=younger_brother.Def|wordform=ƙanèː
-2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=309437|AlignEnd=309645|Gloss=-3Masc|wordform=bài
-5	yàdda	yar̃d-	VERB	_	_	3	comp:aux	_	AlignBegin=309645|AlignEnd=309853|Gloss=agree
+1	ƙanèn	ƙanèː	NOUN	_	Definite=Def	4	subj	_	AlignBegin=309229|AlignEnd=309333|Gloss=younger_brother.Def|wordform=ƙanèː
+2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+3	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=309437|AlignEnd=309645|Gloss=-3Masc|wordform=bài
+4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+5	yàdda	yar̃d-	VERB	_	_	4	comp:aux	_	AlignBegin=309645|AlignEnd=309853|Gloss=agree
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=309853|AlignEnd=310061|Gloss=Neg
-7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=309853|AlignEnd=310061|Gloss=PUNCT
+7	//	//	PUNCT	_	_	4	punct	_	AlignBegin=309853|AlignEnd=310061|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__171
 # speaker_id = SP1
@@ -3475,18 +3475,18 @@
 # phonetic_text = tòː but / bàʼà sàːmaː -eː shi ba ham //
 # text = tòː but < bàʼà sàːmeː shì ba à X //
 # text_en = Well but they did not find him X.
-1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=393114|AlignEnd=393281|Gloss=well
-2	but	but	CCONJ	_	Foreign=Yes	5	discourse	_	AlignBegin=393281|AlignEnd=393448|Gloss=but|Lang=en
+1	tòː	tòː	INTJ	_	_	6	discourse	_	AlignBegin=393114|AlignEnd=393281|Gloss=well
+2	but	but	CCONJ	_	Foreign=Yes	6	discourse	_	AlignBegin=393281|AlignEnd=393448|Gloss=but|Lang=en
 3	<	<	PUNCT	_	_	2	punct	_	AlignBegin=393448|AlignEnd=393614|Gloss=PUNCT
-4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-6	-'à	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=393614|AlignEnd=393838|Gloss=-4|wordform=bàʼà
-7	sàːmeː	saːm-	VERB	_	_	5	comp:aux	_	AlignBegin=393838|AlignEnd=393950|Gloss=find
+4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+5	'à-	a	PRON	_	Person=4|PronType=PrsSubj	6	subj/m	_	AlignBegin=393614|AlignEnd=393838|Gloss=-4|wordform=bàʼà
+6	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+7	sàːmeː	saːm-	VERB	_	_	6	comp:aux	_	AlignBegin=393838|AlignEnd=393950|Gloss=find
 8	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp:obj	_	AlignBegin=394062|AlignEnd=394286|Gloss=3Masc
 9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=394286|AlignEnd=394510|Gloss=Neg
 10	à	à	ADP	_	_	7	mod	_	AlignBegin=394286|AlignEnd=394510|Gloss=at
 11	X	X	X	_	_	10	unk	_	AlignBegin=394510|AlignEnd=394734|Gloss=X|Scrap=Yes
-12	//	//	PUNCT	_	_	5	punct	_	AlignBegin=394734|AlignEnd=394956|Gloss=PUNCT
+12	//	//	PUNCT	_	_	6	punct	_	AlignBegin=394734|AlignEnd=394956|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__215
 # speaker_id = SP1
@@ -3566,18 +3566,18 @@
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=402440|AlignEnd=402639|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 4	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	AlignBegin=402639|AlignEnd=402838|Gloss=say
-6	kâi	kâi	INTJ	_	_	15	discourse	_	AlignBegin=403037|AlignEnd=403143|Gloss=my
+6	kâi	kâi	INTJ	_	_	16	discourse	_	AlignBegin=403037|AlignEnd=403143|Gloss=my
 7	<	<	PUNCT	_	_	6	punct	_	AlignBegin=403143|AlignEnd=403250|Gloss=PUNCT
-8	iyàː	iyàː	VERB	_	_	15	dislocated	_	AlignBegin=403250|AlignEnd=403448|Gloss=can
-9	lalleː	lalleː	INTJ	_	_	15	discourse	_	AlignBegin=403448|AlignEnd=403646|Gloss=certainly
-10	wannàn	nân	PRON	_	Deixis=ProxS|Gender=Masc|PronType=Dem	15	dislocated@subj	_	AlignBegin=403646|AlignEnd=403844|Gloss=ProxS.Masc
+8	iyàː	iyàː	VERB	_	_	16	dislocated	_	AlignBegin=403250|AlignEnd=403448|Gloss=can
+9	lalleː	lalleː	INTJ	_	_	16	discourse	_	AlignBegin=403448|AlignEnd=403646|Gloss=certainly
+10	wannàn	nân	PRON	_	Deixis=ProxS|Gender=Masc|PronType=Dem	16	dislocated@subj	_	AlignBegin=403646|AlignEnd=403844|Gloss=ProxS.Masc
 11	<	<	PUNCT	_	_	10	punct	_	AlignBegin=403844|AlignEnd=404040|Gloss=PUNCT
-12	wai	wai	PART	_	Evident=Nfh|PartType=Evident	15	discourse	_	AlignBegin=404040|AlignEnd=404244|Gloss=reportedly
+12	wai	wai	PART	_	Evident=Nfh|PartType=Evident	16	discourse	_	AlignBegin=404040|AlignEnd=404244|Gloss=reportedly
 13	<	<	PUNCT	_	_	12	punct	_	AlignBegin=404244|AlignEnd=404448|Gloss=PUNCT
-14	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	15	mod/m	_	Gloss=Neg.Perf|wordform=baː
-15	_̀	_̀	AUX	_	Mood=Sub	5	comp:obj	_	wordform=Ø̀
-16	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=404861|AlignEnd=405055|Gloss=-3Fem|wordform=baːtà
-17	iyàː	iyàː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	15	comp:aux	_	AlignBegin=405055|AlignEnd=405249|Gloss=can.Vnoun
+14	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	16	mod/m	_	Gloss=Neg.Perf|wordform=baː
+15	tà-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=404861|AlignEnd=405055|Gloss=-3Fem|wordform=baːtà
+16	_̀	_̀	AUX	_	Mood=Sub	5	comp:obj	_	wordform=Ø̀
+17	iyàː	iyàː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	16	comp:aux	_	AlignBegin=405055|AlignEnd=405249|Gloss=can.Vnoun
 18	ba	ba	PART	_	PartType=Neg|Polarity=Neg	17	mod	_	AlignBegin=405249|AlignEnd=405443|Gloss=Neg
 19	//	//	PUNCT	_	_	4	punct	_	AlignBegin=405443|AlignEnd=405636|Gloss=PUNCT
 
@@ -3591,10 +3591,10 @@
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=406475|AlignEnd=406548|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 2	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=406548|AlignEnd=406621|Gloss=say
-4	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|wordform=baː
-5	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
-6	-tà	ta	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=406694|AlignEnd=406878|Gloss=-3Fem|wordform=baːtà
-7	iyàː	iyàː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:aux	_	AlignBegin=406878|AlignEnd=407062|Gloss=can.Vnoun
+4	baː-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|wordform=baː
+5	tà-	ta	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=406694|AlignEnd=406878|Gloss=-3Fem|wordform=baːtà
+6	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
+7	iyàː	iyàː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:aux	_	AlignBegin=406878|AlignEnd=407062|Gloss=can.Vnoun
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=407062|AlignEnd=407246|Gloss=Neg
 9	<	<	PUNCT	_	_	2	punct	_	AlignBegin=407246|AlignEnd=407428|Gloss=PUNCT
 

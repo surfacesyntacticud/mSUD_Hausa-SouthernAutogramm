@@ -145,12 +145,12 @@
 # phonetic_text = bài tankàː ba //
 # text = bài tankàː ba //
 # text_en = He did not answer.
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=24470|AlignEnd=24740|Gloss=-3Masc|wordform=bài
-4	tankàː	tank-	VERB	_	_	2	comp:aux	_	AlignBegin=24740|AlignEnd=25010|Gloss=answer
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=24470|AlignEnd=24740|Gloss=-3Masc|wordform=bài
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	tankàː	tank-	VERB	_	_	3	comp:aux	_	AlignBegin=24740|AlignEnd=25010|Gloss=answer
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=25010|AlignEnd=25280|Gloss=Neg
-6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=25280|AlignEnd=25550|Gloss=PUNCT
+6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=25280|AlignEnd=25550|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_016-017
 # speaker_id = SP1
@@ -176,12 +176,12 @@
 # phonetic_text = bài tankàː ba //
 # text = bài tankàː ba //
 # text_en = he did not answer.
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=27180|AlignEnd=27423|Gloss=-3Masc|wordform=bài
-4	tankàː	tank-	VERB	_	_	2	comp:aux	_	AlignBegin=27423|AlignEnd=27666|Gloss=answer
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=27180|AlignEnd=27423|Gloss=-3Masc|wordform=bài
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	tankàː	tank-	VERB	_	_	3	comp:aux	_	AlignBegin=27423|AlignEnd=27666|Gloss=answer
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=27666|AlignEnd=27909|Gloss=Neg
-6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=27909|AlignEnd=28151|Gloss=PUNCT
+6	//	//	PUNCT	_	_	3	punct	_	AlignBegin=27909|AlignEnd=28151|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_019-019
 # speaker_id = SP1
@@ -424,13 +424,13 @@
 # phonetic_text = bàsù ci koːmeː ba //
 # text = bàsù ci koːmeː ba //
 # text_en = They hadn't eaten anything.
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=51690|AlignEnd=51876|Gloss=-3Plur|wordform=bàsù
-4	ci	ci	VERB	_	_	2	comp:aux	_	AlignBegin=51876|AlignEnd=52062|Gloss=eat
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=51690|AlignEnd=51876|Gloss=-3Plur|wordform=bàsù
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	ci	ci	VERB	_	_	3	comp:aux	_	AlignBegin=51876|AlignEnd=52062|Gloss=eat
 5	koːmeː	koːmeː	PRON	_	PronType=Ind	4	comp:obj	_	AlignBegin=52062|AlignEnd=52248|Gloss=anything
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=52248|AlignEnd=52434|Gloss=Neg
-7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=52434|AlignEnd=52620|Gloss=PUNCT
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=52434|AlignEnd=52620|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_044-044
 # speaker_id = SP1
@@ -479,10 +479,10 @@
 13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	conj:redup	_	AlignBegin=56681|AlignEnd=56875|Gloss=Prog|wordform=sunàː
 14	tàfe	taf-	VERB	_	ExtPos=ADV|VerbForm=Part	13	comp:pred	_	AlignBegin=56875|AlignEnd=57069|Gloss=go.Part
 15	dai	dai	PART	_	PartType=Top	14	discourse@top	_	AlignBegin=57069|AlignEnd=57263|Gloss=indeed
-16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	17	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-17	_̀	_̀	AUX	_	Mood=Sub	13	parataxis:conj	_	wordform=Ø̀
-18	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	17	subj/m	_	AlignBegin=58029|AlignEnd=58249|Gloss=-3Plur|wordform=bàsù
-19	ga	ganiː	VERB	_	_	17	comp:aux	_	AlignBegin=58249|AlignEnd=58469|Gloss=see
+16	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	18	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+17	sù-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	18	subj/m	_	AlignBegin=58029|AlignEnd=58249|Gloss=-3Plur|wordform=bàsù
+18	_̀	_̀	AUX	_	Mood=Sub	13	parataxis:conj	_	wordform=Ø̀
+19	ga	ganiː	VERB	_	_	18	comp:aux	_	AlignBegin=58249|AlignEnd=58469|Gloss=see
 20	hanyà	hanyàː	NOUN	_	_	19	comp:obj	_	AlignBegin=58469|AlignEnd=58579|Gloss=road|SpaceAfter=No|wordform=hanyàn
 21	-n	na	PART	_	Case=Gen|PartType=Case	20	udep/m	_	Gloss=Gen
 22	ràːfiː	ràːfiː	NOUN	_	_	21	comp	_	AlignBegin=58689|AlignEnd=58909|Gloss=river
@@ -1471,13 +1471,13 @@
 # phonetic_text = bài zama naːmàː -ǹ ba //
 # text = bài zama naːmàn ba //
 # text_en = he did not turn into meat!
-1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	2	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-2	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-3	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=166469|AlignEnd=166663|Gloss=-3Masc|wordform=bài
-4	zama	zama	VERB	_	_	2	comp:aux	_	AlignBegin=166663|AlignEnd=166857|Gloss=become
+1	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+2	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=166469|AlignEnd=166663|Gloss=-3Masc|wordform=bài
+3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+4	zama	zama	VERB	_	_	3	comp:aux	_	AlignBegin=166663|AlignEnd=166857|Gloss=become
 5	naːmàn	naːmàː	NOUN	_	_	4	comp:pred	_	AlignBegin=166857|AlignEnd=166954|Gloss=meat.Def
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=167051|AlignEnd=167245|Gloss=Neg
-7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=167245|AlignEnd=167441|Gloss=PUNCT
+7	//	//	PUNCT	_	_	3	punct	_	AlignBegin=167245|AlignEnd=167441|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_158-158
 # speaker_id = SP1
@@ -1646,10 +1646,10 @@
 1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=184772|AlignEnd=184875|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 2	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=184875|AlignEnd=184978|Gloss=say
-4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-5	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
-6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=185080|AlignEnd=185230|Gloss=-1Sing|wordform=bàn
-7	ci	ci	VERB	_	_	5	comp:aux	_	AlignBegin=185230|AlignEnd=185380|Gloss=eat
+4	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+5	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=185080|AlignEnd=185230|Gloss=-1Sing|wordform=bàn
+6	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
+7	ci	ci	VERB	_	_	6	comp:aux	_	AlignBegin=185230|AlignEnd=185380|Gloss=eat
 8	koːmeː	koːmeː	PRON	_	PronType=Ind	7	comp:obj	_	AlignBegin=185380|AlignEnd=185530|Gloss=anything
 9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=185530|AlignEnd=185680|Gloss=Neg
 10	//	//	PUNCT	_	_	2	punct	_	AlignBegin=185680|AlignEnd=185828|Gloss=PUNCT
@@ -1760,17 +1760,17 @@
 # phonetic_text = shiː / bài ci koːmeː ba / à ruwaː ba //
 # text = shiː / bài ci koːmeː ba / à ruwaː ba //
 # text_en = As for him, he did not eat anything in the water.
-1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	dislocated@subj	_	AlignBegin=193656|AlignEnd=193754|Gloss=3Masc.Nom
-2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=193853|AlignEnd=194004|Gloss=-3Masc|wordform=bài
-5	ci	ci	VERB	_	_	3	comp:aux	_	AlignBegin=194004|AlignEnd=194155|Gloss=eat
+1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	4	dislocated@subj	_	AlignBegin=193656|AlignEnd=193754|Gloss=3Masc.Nom
+2	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+3	ì-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=193853|AlignEnd=194004|Gloss=-3Masc|wordform=bài
+4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
+5	ci	ci	VERB	_	_	4	comp:aux	_	AlignBegin=194004|AlignEnd=194155|Gloss=eat
 6	koːmeː	koːmeː	PRON	_	PronType=Ind	5	comp:obj	_	AlignBegin=194155|AlignEnd=194306|Gloss=anything
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=194306|AlignEnd=194457|Gloss=Neg
 8	à	à	ADP	_	_	6	mod	_	AlignBegin=194610|AlignEnd=194741|Gloss=at
 9	ruwaː	ruwaː	NOUN	_	_	8	comp	_	AlignBegin=194741|AlignEnd=194872|Gloss=water
 10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=194872|AlignEnd=195003|Gloss=Neg
-11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=195003|AlignEnd=195135|Gloss=PUNCT
+11	//	//	PUNCT	_	_	4	punct	_	AlignBegin=195003|AlignEnd=195135|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_188-189
 # speaker_id = SP1
@@ -2084,10 +2084,10 @@
 2	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=232917|AlignEnd=233014|Gloss=say
 4	kai	kai	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	vocative	_	AlignBegin=233111|AlignEnd=233325|Gloss=2Masc.Nom
-5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	6	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
-6	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
-7	-kà	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	6	subj/m	_	AlignBegin=233325|AlignEnd=233539|Gloss=-2Masc|wordform=bàkà
-8	san	sanìː	VERB	_	_	6	comp:aux	_	AlignBegin=233539|AlignEnd=233753|Gloss=know
+5	bà-	bà-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	7	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No
+6	kà-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	7	subj/m	_	AlignBegin=233325|AlignEnd=233539|Gloss=-2Masc|wordform=bàkà
+7	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	wordform=Ø̀
+8	san	sanìː	VERB	_	_	7	comp:aux	_	AlignBegin=233539|AlignEnd=233753|Gloss=know
 9	gàri	gàriː	NOUN	_	_	8	comp:obj	_	AlignBegin=233753|AlignEnd=233860|Compound=Yes|Gloss=town|SpaceAfter=No|wordform=gàrin
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen.Fem
 11	Gwànjoː	Gwànjoː	PROPN	_	_	10	comp	_	AlignBegin=233967|AlignEnd=234181|Gloss=Gwanjo
