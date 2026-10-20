@@ -54,11 +54,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_03.WAV
 # sent_timecode = 11947, 15447
 # phonetic_text = sai wani ya / ya ganiː an cêː ƴaː -n esʔès hakà sù shìga ajìː //
-# text = sai wani ya-_= ya-_= ga a-n= cêː ƴa-n es-ès hakà sù=shìga ajìː //
+# text = sai wani ya- _ ya- _ ga a- n cêː ƴa-n es-ès hakà su- _̀ shìga ajìː //
 # text_en = Then somebody .. heard that they said the pupils of SS should go into their class.
 1	sai	sai	ADV	_	_	6	mod	_	AlignBegin=11947|AlignEnd=12143|Gloss=then
 2	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	6	subj	_	AlignBegin=12143|AlignEnd=12339|Gloss=some.Masc
-3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	=|AlignBegin=12339|AlignEnd=12535|Gloss=3Masc-|SpaceAfter=No
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=12339|AlignEnd=12535|Gloss=3Masc-|SpaceAfter=No
 4	_	kà	AUX	_	Copula=No|Number=Sing	6	reparandum	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=12733|AlignEnd=12980|Gloss=3Masc-|SpaceAfter=No
 6	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	AlignBegin=12733|AlignEnd=12980|Gloss=Perf.Rel.Sing|wordform=_=
@@ -66,8 +66,8 @@
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	AlignBegin=13227|AlignEnd=13474|Gloss=4-|SpaceAfter=No|wordform=an
 9	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	7	comp:obj	_	Gloss=Perf.Plur|wordform=n=
 10	cêː	cêː	VERB	_	_	9	comp:aux	_	AlignBegin=13474|AlignEnd=13721|Gloss=say
-11	ƴa	ɗaː	NOUN	_	Number=Plur	16	subj	_	AlignBegin=13721|AlignEnd=13845|Compound=Yes|Gloss=child.Plur|SpaceAfter=No|wordform=ƴan
-12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem
+11	ƴa	ɗaː	NOUN	_	Number=Plur	16	subj	_	AlignBegin=13721|AlignEnd=13845|Compound=Yes|Gloss=child.Plur|wordform=ƴan
+12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
 13	es-ès	es-ès	PROPN	_	_	12	comp	_	AlignBegin=13968|AlignEnd=14215|Gloss=SS|Lang=en
 14	hakà	hakà	ADV	_	_	11	mod	_	AlignBegin=14215|AlignEnd=14462|Gloss=like_this
 15	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=14462|AlignEnd=14709|Gloss=3Plur-|SpaceAfter=No|wordform=sù
@@ -176,8 +176,8 @@
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	AlignBegin=28627|AlignEnd=28789|Gloss=3Masc.Nom
 6	maː	maː	PART	_	PartType=Top	5	discourse@top	_	AlignBegin=28789|AlignEnd=28951|Gloss=even
 7	bà	bà	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=29112|AlignEnd=29274|Gloss=Neg
-8	zâ	zâː	AUX	_	Copula=No	3	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
-9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=29274|AlignEnd=29436|Gloss=3Masc|wordform=zâi
+8	zâ	zâː	AUX	_	Copula=No	3	comp:obj	_	Gloss=Fut|wordform=zâ-
+9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=29274|AlignEnd=29436|Gloss=3Masc|SpaceBefore=No|wordform=zâi
 10	yàr̃da	yar̃d-	VERB	_	_	8	comp:aux	_	AlignBegin=29436|AlignEnd=29598|Gloss=agree
 11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	AlignBegin=29598|AlignEnd=29760|Gloss=Neg
 12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=29760|AlignEnd=29923|Gloss=PUNCT
@@ -275,9 +275,9 @@
 3	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 4	yi	yi	VERB	_	_	3	comp:aux	_	AlignBegin=43088|AlignEnd=43301|Gloss=do
 5	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	6	mod	_	AlignBegin=43301|AlignEnd=43514|Gloss=Iter
-6	duːkà	doːk-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=43514|AlignEnd=43585|Gloss=beat.Vnoun|SpaceAfter=No|wordform=duːkàː|wordfrom=duːkànshì
-7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen|SpaceAfter=No
-8	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen
+6	duːkà	doːk-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=43514|AlignEnd=43585|Gloss=beat.Vnoun|wordform=duːkàː|wordfrom=duːkànshì
+7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen|SpaceBefore=No
+8	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 9	a-	a	PRON	_	Person=4|PronType=PrsSubj	10	subj/m	_	AlignBegin=44170|AlignEnd=44400|Gloss=4-|SpaceAfter=No|wordform=akà
 10	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	3	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=kà=
 11	ji	ji	VERB	_	_	10	comp:aux	_	AlignBegin=44400|AlignEnd=44630|Gloss=feel
@@ -293,9 +293,9 @@
 # text = sai iyàːyen -shì sukà zoː //
 # text_en = Then his parents came.
 1	sai	sai	ADV	_	_	6	mod	_	AlignBegin=46007|AlignEnd=46276|Gloss=then
-2	iyàːye	iyàːyeː	NOUN	_	_	6	dislocated@subj	_	AlignBegin=46276|AlignEnd=46366|Gloss=relatives|SpaceAfter=No|wordform=iyàːyen|wordfrom=iyàːyenshì
-3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
+2	iyàːye	iyàːyeː	NOUN	_	_	6	dislocated@subj	_	AlignBegin=46276|AlignEnd=46366|Gloss=relatives|wordform=iyàːyen|wordfrom=iyàːyenshì
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 5	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	6	subj/m	_	AlignBegin=46545|AlignEnd=46814|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 6	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	AlignBegin=46814|AlignEnd=47083|Gloss=come
@@ -309,9 +309,9 @@
 # text = dà iyàːyen -shì sukà zoː / sai sukà / cêː mèː ya yi hakà akà dòːkeː -eː shì ?//
 # text_en = When his parents arrived, then they asked why are they beating him like this?
 1	dà	dà	SCONJ	_	_	10	mod	_	AlignBegin=49023|AlignEnd=49258|Gloss=as
-2	iyàːye	iyàːyeː	NOUN	_	_	6	subj	_	AlignBegin=49258|AlignEnd=49336|Gloss=relatives|SpaceAfter=No|wordform=iyàːyen|wordfrom=iyàːyenshì
-3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
+2	iyàːye	iyàːyeː	NOUN	_	_	6	subj	_	AlignBegin=49258|AlignEnd=49336|Gloss=relatives|wordform=iyàːyen|wordfrom=iyàːyenshì
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 5	su-	su	PRON	_	Number=Plur|Person=4|PronType=PrsSubj	6	subj/m	_	AlignBegin=49493|AlignEnd=49728|Gloss=3Plur-|SpaceAfter=No|wordform=sukà
 6	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=kà=
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	AlignBegin=49728|AlignEnd=49963|Gloss=come
@@ -351,8 +351,8 @@
 12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=56920|AlignEnd=57172|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
 13	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	6	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=
 14	yi	yi	VERB	_	_	13	comp:aux	_	AlignBegin=57172|AlignEnd=57424|Gloss=do
-15	rashì	ras-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=57424|AlignEnd=57550|Gloss=lack.Vnoun|SpaceAfter=No|wordform=rashìn
-16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen|SpaceAfter=No
+15	rashì	ras-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=57424|AlignEnd=57550|Gloss=lack.Vnoun|wordform=rashìn
+16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen|SpaceBefore=No
 17	tar̃biyyàː	tar̃biyyàː	NOUN	_	_	16	comp	_	AlignBegin=57676|AlignEnd=57928|Gloss=obedience
 18	//	//	PUNCT	_	_	4	punct	_	AlignBegin=57928|AlignEnd=58176|Gloss=PUNCT
 

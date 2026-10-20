@@ -6,9 +6,9 @@
 # text = gàːtànan gàːtana-n-kù //
 # text_en = Gatanan gatananku. [formula initiating a tale]
 1	gàːtànan	gàːtànaː	X	_	_	0	root	_	AlignBegin=239|AlignEnd=478|Gloss=X
-2	gàːtana	gàːtanankù	X	_	Gender=Masc	1	unk	_	AlignBegin=717|AlignEnd=956|Gloss=X|SpaceAfter=No|wordform=gàːtanankù
-3	-n	na	PART	_	Case=Gen|PartType=Case	2	udep/m	_	Gloss=Gen|SpaceAfter=No
-4	-kù	-kù	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	comp	_	Gloss=1Plur.Gen
+2	gàːtana	gàːtanankù	X	_	Gender=Masc	1	unk	_	AlignBegin=717|AlignEnd=956|Gloss=X|wordform=gàːtanankù
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	udep/m	_	Gloss=Gen|SpaceBefore=No
+4	-kù	-kù	PRON	_	Case=Gen|Number=Plur|Person=2|PronType=Prs	3	comp	_	Gloss=1Plur.Gen|SpaceBefore=No
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=1434|AlignEnd=1670|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_002
@@ -105,8 +105,8 @@
 6	Ƙoːƙì	Ƙoːƙì	PROPN	_	_	5	comp	_	AlignBegin=14656|AlignEnd=15097|Gloss=Manta
 7	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	8	subj/m	_	AlignBegin=15538|AlignEnd=15979|Gloss=1Sing|SpaceAfter=No
 8	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	comp:obj	_	AlignBegin=15538|AlignEnd=15979|Gloss=Prog|wordform=inàː
-9	sô	soː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:pred	_	AlignBegin=15979|AlignEnd=16199|Gloss=want.Vnoun|SpaceAfter=No|wordform=sôn
-10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen|SpaceAfter=No
+9	sô	soː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:pred	_	AlignBegin=15979|AlignEnd=16199|Gloss=want.Vnoun|wordform=sôn
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	udep/m	_	Gloss=Gen|SpaceBefore=No
 11	in-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	12	subj/m	_	AlignBegin=16420|AlignEnd=16861|Gloss=1Sing-|SpaceAfter=No|wordform=ìn
 12	_̀	_̀	AUX	_	Copula=No|Mood=Sub	10	comp	_	Gloss=Sub|wordform=_̀=
 13	ci	ci	VERB	_	_	12	comp:aux	_	AlignBegin=16861|AlignEnd=17302|Gloss=eat
@@ -154,8 +154,8 @@
 7	kòː	kùwa	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=21085|AlignEnd=21176|Gloss=as_for
 8	ìnaː	ìnaː	ADV	_	PronType=Int	9	comp:pred	_	AlignBegin=21267|AlignEnd=21537|Gloss=where
 9	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	4	comp:obj	_	AlignBegin=21537|AlignEnd=21807|Gloss=be.Masc/Plur
-10	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp:cleft	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
-11	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=21807|AlignEnd=21942|Gloss=3Fem|SpaceAfter=No|wordform=zaːtà
+10	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp:cleft	_	Gloss=Fut|wordform=zaː-
+11	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=21807|AlignEnd=21942|Gloss=3Fem|SpaceBefore=No|wordform=zaːtà
 12	saːmoː	saːm-	VERB	_	_	10	comp:aux	_	AlignBegin=22077|AlignEnd=22347|ClauseType=Cleft|Gloss=get.DIR
 13	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	14	det	_	AlignBegin=22347|AlignEnd=22617|Gloss=PreRef|PreRef=Yes
 14	ramàː	ramàː	NOUN	_	_	12	comp:obj	_	AlignBegin=22616|AlignEnd=22887|Gloss=hemp
@@ -228,9 +228,9 @@
 4	jeː	jeː	VERB	_	_	3	comp:aux	_	AlignBegin=28595|AlignEnd=28806|Gloss=go
 5	gidaː	gidaː	NOUN	_	_	4	comp:obj@G	_	AlignBegin=28806|AlignEnd=29017|Gloss=home
 6	à	à	ADP	_	_	4	mod	_	AlignBegin=29017|AlignEnd=29228|Gloss=at
-7	gàri	gàriː	NOUN	_	_	6	comp	_	AlignBegin=29228|AlignEnd=29298|Gloss=town|SpaceAfter=No|wordform=gàrinsù
-8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-9	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	comp	_	Gloss=3Plur.Gen
+7	gàri	gàriː	NOUN	_	_	6	comp	_	AlignBegin=29228|AlignEnd=29298|Gloss=town|wordform=gàrinsù
+8	-n	na	PART	_	Case=Gen|PartType=Case	7	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+9	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	comp	_	Gloss=3Plur.Gen|SpaceBefore=No
 10	//	//	PUNCT	_	_	3	punct	_	AlignBegin=29439|AlignEnd=29652|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_021
@@ -244,9 +244,9 @@
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=30645|AlignEnd=30920|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	comp	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	jeː	jeː	VERB	_	_	3	comp:aux	_	AlignBegin=30920|AlignEnd=31195|Gloss=go
-5	gàri	gàriː	NOUN	_	Person=3	4	comp:obj@G	_	AlignBegin=31195|AlignEnd=31287|Gloss=town|SpaceAfter=No|wordform=gàrinsù
-6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceAfter=No
-7	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	comp	_	Gloss=3Plur.Gen
+5	gàri	gàriː	NOUN	_	Person=3	4	comp:obj@G	_	AlignBegin=31195|AlignEnd=31287|Gloss=town|wordform=gàrinsù
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceBefore=No
+7	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	6	comp	_	Gloss=3Plur.Gen|SpaceBefore=No
 8	sai	sai	ADV	_	_	10	mod	_	AlignBegin=31745|AlignEnd=32020|Gloss=then
 9	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=32020|AlignEnd=32295|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 10	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
@@ -257,8 +257,8 @@
 15	cêː	cêː	VERB	_	_	14	comp:aux	_	AlignBegin=33395|AlignEnd=33533|Gloss=say
 16	ta-	ta-	PRON	_	Gender=Fem|Person=3|PronType=Prs	17	subj/m	_	AlignBegin=33945|AlignEnd=34083|Gloss=3Fem|SpaceAfter=No
 17	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	15	comp:obj	_	AlignBegin=33945|AlignEnd=34083|Gloss=Prog|wordform=tanàː
-18	neːma	neːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	17	comp:pred	_	AlignBegin=34083|AlignEnd=34220|Gloss=look_for|SpaceAfter=No|wordform=neːman
-19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen|SpaceAfter=No
+18	neːma	neːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	17	comp:pred	_	AlignBegin=34083|AlignEnd=34220|Gloss=look_for|wordform=neːman
+19	-n	na	PART	_	Case=Gen|PartType=Case	18	udep/m	_	Gloss=Gen|SpaceBefore=No
 20	ramàː	ramàː	NOUN	_	_	19	comp	_	AlignBegin=34358|AlignEnd=34495|Gloss=hemp
 21	nèː	neː	PART	_	PartType=Foc	20	discourse@foc	_	AlignBegin=34770|AlignEnd=34908|Gloss=Emph
 22	//	//	PUNCT	_	_	10	punct	_	AlignBegin=34908|AlignEnd=35045|Gloss=PUNCT
@@ -396,7 +396,7 @@
 1	gàː	gàː	PART	_	PartType=Pred	0	root	_	AlignBegin=48800|AlignEnd=48984|Gloss=here_is
 2	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	1	subj	_	AlignBegin=48984|AlignEnd=49168|Gloss=3Masc
 3	fa	fa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=49168|AlignEnd=49352|Gloss=indeed
-4	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=49168|AlignEnd=49352|Gloss=PUNCT|SpaceAfter=No
+4	//=	//=	PUNCT	_	_	11	punct	_	AlignBegin=49168|AlignEnd=49352|Gloss=PUNCT
 5	àbin	àbù	NOUN	_	Definite=Def	11	dislocated@comp	_	AlignBegin=49352|AlignEnd=49444|Gloss=thing..Def|RelAnt=Yes
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	AlignBegin=49536|AlignEnd=49720|Gloss=CompRel|Relz=Word
 7	ka-	ka-	PRON	_	Gender=Masc|Person=2|PronType=Prs	8	subj/m	_	AlignBegin=49720|AlignEnd=49904|Gloss=2Masc|SpaceAfter=No
@@ -587,8 +587,8 @@
 9	kaːwoː	kai	VERB	_	_	8	comp:aux	_	AlignBegin=67805|AlignEnd=68071|Gloss=carry.DIR
 10	àbin	àbù	NOUN	_	Definite=Def	9	comp:obj	_	AlignBegin=68736|AlignEnd=68846|Gloss=thing..Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	AlignBegin=68955|AlignEnd=69174|Gloss=CompRel|Relz=Word
-12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	11	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
-13	-'à	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=69174|AlignEnd=69393|Gloss=4|SpaceAfter=No|wordform=zaː'à
+12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	11	comp	_	Gloss=Fut|wordform=zaː-
+13	-'à	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=69174|AlignEnd=69393|Gloss=4|SpaceBefore=No|wordform=zaː'à
 14	neːmoː	neːmoː	VERB	_	_	12	comp:aux	_	AlignBegin=69393|AlignEnd=69612|ClauseType=Rel|Gloss=look_for.DIR|RelRole=obj
 15	//	//	PUNCT	_	_	3	punct	_	AlignBegin=69393|AlignEnd=69612|Gloss=PUNCT
 
@@ -627,10 +627,10 @@
 7	sayoː	say-	VERB	_	_	6	comp:aux	_	AlignBegin=73230|AlignEnd=73425|Gloss=sell.DIR
 8	mahaɗin	mahaɗiː	NOUN	_	Definite=Def	7	comp:obj	_	AlignBegin=74135|AlignEnd=74220|Gloss=accompaniment..Def|RelAnt=Yes
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	AlignBegin=74306|AlignEnd=74562|Gloss=CompRel|Relz=Word
-10	zaː	zâː	AUX	_	Copula=No	12	reparandum	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
-11	--t	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fe|Scrap=Yes|wordform=zaːtà
-12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
-13	-'à	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=75074|AlignEnd=75262|Gloss=4|SpaceAfter=No|wordform=zaːʔà
+10	zaː	zâː	AUX	_	Copula=No	12	reparandum	_	Gloss=Fut|wordform=zaː-
+11	--t	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fe|Scrap=Yes|SpaceBefore=No|wordform=zaːtà
+12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp	_	Gloss=Fut|wordform=zaː-
+13	-'à	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=75074|AlignEnd=75262|Gloss=4|SpaceBefore=No|wordform=zaːʔà
 14	ci	ci	VERB	_	_	12	comp:aux	_	AlignBegin=75262|AlignEnd=75450|ClauseType=Rel|Gloss=eat|RelRole=udep
 15	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	16	comp:obj	_	AlignBegin=75450|AlignEnd=75638|Gloss=PreRef|PreRef=Yes
 16	ramàn	ramàː	NOUN	_	Definite=Def	14	comp:obl	_	AlignBegin=75638|AlignEnd=75732|Gloss=hemp.Def
@@ -786,8 +786,8 @@
 # phonetic_text = zâi matà tsìyaː kuma kùwa //
 # text = zâː-i matà tsìyaː kuma kùwa //
 # text_en = Now he will prevent her from eating!
-1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-|SpaceAfter=No
-2	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=90780|AlignEnd=91019|Gloss=3Masc=
+1	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut-
+2	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=90780|AlignEnd=91019|Gloss=3Masc=|SpaceBefore=No
 3-4	matà	_	_	_	_	_	_	_	_
 3	_	yi	VERB	_	_	1	comp:aux	_	AlignBegin=91019|AlignEnd=91258|Gloss=do|wordform=Ø
 4	matà	matà	PRON	_	Case=Dat|Gender=Fem|Person=3|PronType=Prs	3	comp:obl	_	AlignBegin=91019|AlignEnd=91258|Gloss=3Fem.Dat
@@ -847,9 +847,9 @@
 1	a-	a	PRON	_	Person=4|PronType=PrsSubj	2	subj/m	_	AlignBegin=96090|AlignEnd=96360|Gloss=4-|SpaceAfter=No|wordform=akà
 2	kà	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 3	kira	kiraː	VERB	_	_	2	comp:aux	_	AlignBegin=96360|AlignEnd=96630|Gloss=call
-4	ƴaːƴa	ɗaː	NOUN	_	_	3	comp:obj	_	AlignBegin=96630|AlignEnd=96698|Gloss=child.Plur|SpaceAfter=No|wordform=ƴaːƴansù
-5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-6	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	comp	_	Gloss=3Plur.Gen
+4	ƴaːƴa	ɗaː	NOUN	_	_	3	comp:obj	_	AlignBegin=96630|AlignEnd=96698|Gloss=child.Plur|wordform=ƴaːƴansù
+5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+6	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	5	comp	_	Gloss=3Plur.Gen|SpaceBefore=No
 7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=96900|AlignEnd=97170|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_081
@@ -859,9 +859,9 @@
 # phonetic_text = ƴaː \Plur -n -sù gùdaː bìyar̃ //
 # text = ƴaːƴan -sù gùdaː bìyar̃ //
 # text_en = They have five children.
-1	ƴaːƴa	ɗaː	NOUN	_	_	4	subj	_	AlignBegin=97944|AlignEnd=98017|Gloss=child.Plur|SpaceAfter=No|wordform=ƴaːƴansù
-2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-3	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	comp	_	Gloss=3Plur.Gen
+1	ƴaːƴa	ɗaː	NOUN	_	_	4	subj	_	AlignBegin=97944|AlignEnd=98017|Gloss=child.Plur|wordform=ƴaːƴansù
+2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+3	-sù	-sù	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	comp	_	Gloss=3Plur.Gen|SpaceBefore=No
 4	gùdaː	gùdaː	NUM	_	_	0	root	_	AlignBegin=98236|AlignEnd=98528|Gloss=unit
 5	bìyar̃	bìyar̃	NUM	_	_	4	flat@num	_	AlignBegin=98528|AlignEnd=98820|Gloss=five
 6	//	//	PUNCT	_	_	4	punct	_	AlignBegin=98820|AlignEnd=99110|Gloss=PUNCT
@@ -923,8 +923,8 @@
 1	àmmaː	àmmaː	CCONJ	_	_	4	discourse	_	AlignBegin=106506|AlignEnd=106639|Gloss=but
 2	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	4	dislocated@subj	_	AlignBegin=106639|AlignEnd=106772|Gloss=3Fem.Nom
 3	bà	bà	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=106772|AlignEnd=106905|Gloss=Neg
-4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
-5	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=106905|AlignEnd=107038|Gloss=3Masc|wordform=zâi
+4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceForm=zâi|wordform=zâː-
+5	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=106905|AlignEnd=107038|Gloss=3Masc|SpaceBefore=No|wordform=zâi
 6	bar̃	barìː	VERB	_	_	4	comp:aux	_	AlignBegin=107038|AlignEnd=107171|Gloss=leave
 7	tà	ta	PRON	_	Gender=Fem|Person=3	6	comp:obj	_	AlignBegin=107171|AlignEnd=107304|Gloss=3Fem
 8	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=107304|AlignEnd=107437|Gloss=3Fem-|SpaceAfter=No|wordform=tà
@@ -943,8 +943,8 @@
 1	ita	ita	PRON	_	Case=Nom|Gender=Fem|Person=3|PronType=Prs	4	dislocated@subj	_	AlignBegin=107700|AlignEnd=107829|Gloss=3Fem.Nom
 2	fa	fa	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=107829|AlignEnd=107958|Gloss=indeed
 3	bà	bà	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=107958|AlignEnd=108087|Gloss=Neg
-4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
-5	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=108087|AlignEnd=108216|Gloss=3Masc|wordform=zâi
+4	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceForm=zâi|wordform=zâː-
+5	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=108087|AlignEnd=108216|Gloss=3Masc|SpaceBefore=No|wordform=zâi
 6	bar̃	barìː	VERB	_	_	4	comp:aux	_	AlignBegin=108216|AlignEnd=108345|Gloss=leave
 7	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=108345|AlignEnd=108474|Gloss=3Fem
 8	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=108474|AlignEnd=108603|Gloss=3Fem-|SpaceAfter=No|wordform=tà
@@ -997,9 +997,9 @@
 # text = ai tsìyan =shì dà yawàː !//
 # text_en = He is really quarrelsome!
 1	ai	ai	INTJ	_	_	5	discourse	_	AlignBegin=115008|AlignEnd=115203|Gloss=indeed
-2	tsìya	tsìyaː	NOUN	_	_	5	subj	_	AlignBegin=115203|AlignEnd=115398|Gloss=quarrel|SpaceAfter=No|wordform=tsìyan|wordfrom=tsìyanshì
-3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen
+2	tsìya	tsìyaː	NOUN	_	_	5	subj	_	AlignBegin=115203|AlignEnd=115398|Gloss=quarrel|wordform=tsìyan|wordfrom=tsìyanshì
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
 5	dà	dà	ADP	_	_	0	root	_	AlignBegin=115398|AlignEnd=115593|Gloss=with
 6	yawàː	yawàː	NOUN	_	_	5	comp	_	AlignBegin=115593|AlignEnd=115788|Gloss=quantity
 7	!//	!//	PUNCT	_	_	5	punct	_	AlignBegin=115788|AlignEnd=115985|Gloss=PUNCT
@@ -1012,8 +1012,8 @@
 # text = tsìyaː zâi taːshì //
 # text_en = ... there will be trouble.
 1	tsìyaː	tsìyaː	NOUN	_	_	2	subj	_	AlignBegin=115985|AlignEnd=116192|Gloss=quarelling
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
-3	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=116192|AlignEnd=116399|Gloss=3Masc|Overlap=HAUZ_BC_NARR_02_092|wordform=zâi
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceForm=zâi|wordform=zâː-
+3	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=116192|AlignEnd=116399|Gloss=3Masc|Overlap=HAUZ_BC_NARR_02_092|SpaceBefore=No|wordform=zâi
 4	taːshì	taːs-	VERB	_	_	2	comp:aux	_	AlignBegin=116399|AlignEnd=116606|Gloss=rise
 5	//	//	PUNCT	_	_	2	punct	_	AlignBegin=116606|AlignEnd=116814|Gloss=PUNCT
 
@@ -1136,8 +1136,8 @@
 2	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=128442|AlignEnd=128616|Gloss=say
 4	yàːyàː	yàːyàː	ADV	_	PronType=Int	3	comp:obj	_	AlignBegin=128616|AlignEnd=128790|Gloss=how
-5	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	comp:cleft	_	Gloss=Fut|SpaceAfter=No|wordform=zân
-6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=128790|AlignEnd=128964|Gloss=1Sing
+5	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	comp:cleft	_	Gloss=Fut|wordform=zân
+6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=128790|AlignEnd=128964|Gloss=1Sing|SpaceBefore=No
 7	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=128964|AlignEnd=129138|ClauseType=Int|Gloss=do
 8	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=129138|AlignEnd=129138|Gloss=PUNCT
 
@@ -1152,11 +1152,11 @@
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=128564|AlignEnd=128866|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	comp	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	taɓàː	taɓ-	VERB	_	_	3	comp:aux	_	AlignBegin=128866|AlignEnd=129168|Gloss=touch
-5	hankàli	hankàliː	NOUN	_	_	4	comp:obj	_	AlignBegin=129168|AlignEnd=129269|Gloss=mind|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
-6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
-8	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
-9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=129470|AlignEnd=129772|Gloss=3Masc|wordform=zâi
+5	hankàli	hankàliː	NOUN	_	_	4	comp:obj	_	AlignBegin=129168|AlignEnd=129269|Gloss=mind|wordform=hankàliː|wordfrom=hankàlintà
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen|SpaceBefore=No
+8	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|wordform=zâ-
+9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=129470|AlignEnd=129772|Gloss=3Masc|SpaceBefore=No|wordform=zâi
 10	ɓaːcì	ɓaːt-	VERB	_	_	8	comp:aux	_	AlignBegin=129772|AlignEnd=130074|Gloss=get_spoilt
 11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=130074|AlignEnd=130374|Gloss=PUNCT
 
@@ -1170,11 +1170,11 @@
 2	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=130031|AlignEnd=130204|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 3	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	comp	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	taɓà	taɓ-	VERB	_	_	3	comp:aux	_	AlignBegin=130376|AlignEnd=130671|Gloss=touch
-5	hankàli	hankàliː	NOUN	_	_	8	subj	_	AlignBegin=130671|AlignEnd=130769|Gloss=mind|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
-6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
-8	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
-9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=130966|AlignEnd=131261|Gloss=3Masc|wordform=zâi
+5	hankàli	hankàliː	NOUN	_	_	8	subj	_	AlignBegin=130671|AlignEnd=130769|Gloss=mind|wordform=hankàliː|wordfrom=hankàlintà
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen|SpaceBefore=No
+8	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|wordform=zâ-
+9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=130966|AlignEnd=131261|Gloss=3Masc|SpaceBefore=No|wordform=zâi
 10	ɓaːcì	ɓaːt-	VERB	_	_	8	comp:aux	_	AlignBegin=131261|AlignEnd=131556|Gloss=get_spoilt
 11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=131556|AlignEnd=131850|Gloss=PUNCT
 
@@ -1198,7 +1198,7 @@
 # text_en = How will she..
 1	yàːyàː	yàːyàː	ADV	_	PronType=Int	2	comp:aux	_	AlignBegin=133180|AlignEnd=133461|Gloss=how|Scrap=Yes
 2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	AlignBegin=133461|AlignEnd=133742|Gloss=Fut|wordform=zaː-
-3	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=133461|AlignEnd=133742|Gloss=3Fem|Scrap=Yes|wordform=tà=
+3	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=133461|AlignEnd=133742|Gloss=3Fem|Scrap=Yes|SpaceBefore=No|wordform=tà=
 4	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=133742|AlignEnd=134022|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_111
@@ -1212,8 +1212,8 @@
 2	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=134227|AlignEnd=134432|Gloss=say
 4	yàːyàː	yàːyàː	ADV	_	PronType=Int	3	comp:obj	_	AlignBegin=134432|AlignEnd=134637|Gloss=how
-5	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	comp:cleft	_	Gloss=Fut|SpaceAfter=No|wordform=zân
-6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=134637|AlignEnd=134842|Gloss=1Sing
+5	zâː	zâː	AUX	_	Copula=No|Tense=Fut	4	comp:cleft	_	Gloss=Fut|wordform=zân
+6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=134637|AlignEnd=134842|Gloss=1Sing|SpaceBefore=No
 7	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=134842|AlignEnd=135047|ClauseType=Int|Gloss=do
 8	in-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=135047|AlignEnd=135252|Gloss=1Sing-|SpaceAfter=No|wordform=ìn
 9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	7	mod	_	Gloss=Sub|wordform=_̀=
@@ -1223,9 +1223,9 @@
 13	saːmoː	saːm-	VERB	_	_	12	comp:aux	_	AlignBegin=135662|AlignEnd=135867|Gloss=get.DIR
 14	àbîn	àbù	NOUN	_	Definite=Def	13	comp:obj	_	AlignBegin=135867|AlignEnd=135969|Gloss=thing.Def
 15	dà	dà	ADP	_	_	13	comp:obl	_	AlignBegin=136072|AlignEnd=136277|Gloss=with
-16	hannuː	hannuː	NOUN	_	_	15	comp	_	AlignBegin=136277|AlignEnd=136379|Gloss=hand|SpaceAfter=No
-17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-18	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	comp:obj/m	_	Gloss=1Sing.Gen
+16	hannuː	hannuː	NOUN	_	_	15	comp	_	AlignBegin=136277|AlignEnd=136379|Gloss=hand
+17	-n	na	PART	_	Case=Gen|PartType=Case	16	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+18	-aː	-aː	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	17	comp:obj/m	_	Gloss=1Sing.Gen|SpaceBefore=No
 19	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=137228|AlignEnd=137298|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_112
@@ -1241,10 +1241,10 @@
 4	_̀	_̀	AUX	_	Copula=No|Mood=Sub	0	root	_	Gloss=Sub|wordform=_̀=
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	AlignBegin=137792|AlignEnd=137933|Gloss=say
 6	bà	bà	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=137933|AlignEnd=138074|Gloss=Neg
-7	zâː	zâː	AUX	_	Copula=No|Tense=Fut	5	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zân
-8	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=138074|AlignEnd=138215|Gloss=1Sing
+7	zâː	zâː	AUX	_	Copula=No|Tense=Fut	5	comp:obj	_	Gloss=Fut|wordform=zân
+8	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=138074|AlignEnd=138215|Gloss=1Sing|SpaceBefore=No
 9	taɓàː	taɓ-	VERB	_	_	7	comp:aux	_	AlignBegin=138215|AlignEnd=138356|Gloss=touch
-10	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=138356|AlignEnd=138497|Gloss=1Sing-|wordform=ìn
+10	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	11	subj/m	_	AlignBegin=138356|AlignEnd=138497|Gloss=1Sing-|SpaceAfter=No|wordform=ìn
 11	_̀	_̀	AUX	_	Copula=No|Mood=Sub	7	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 12	ci	ci	VERB	_	_	11	comp:aux	_	AlignBegin=138497|AlignEnd=138638|Gloss=eat
 13	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=138638|AlignEnd=138779|Gloss=Neg
@@ -1258,8 +1258,8 @@
 # text = bà zaːkì ci ba //
 # text_en = (He said,) you will not eat.
 1	bà	bà	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=138918|AlignEnd=139039|Gloss=Neg
-2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
-3	-kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=139039|AlignEnd=139160|Gloss=2Fem|SpaceAfter=No|wordform=zaːkì
+2	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
+3	-kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=139039|AlignEnd=139160|Gloss=2Fem|SpaceBefore=No|wordform=zaːkì
 4	ci	ci	VERB	_	_	2	comp:aux	_	AlignBegin=139160|AlignEnd=139281|Gloss=eat
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=139281|AlignEnd=139402|Gloss=Neg
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=139402|AlignEnd=139524|Gloss=PUNCT
@@ -1286,11 +1286,11 @@
 3	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=PrsSubj	4	subj/m	_	AlignBegin=140852|AlignEnd=140946|Gloss=2Fem-|SpaceAfter=No|wordform=kin
 4	n	aː	AUX	_	Aspect=Perf|Copula=No|Gender=Fem|Number=Sing	1	comp	_	Gloss=Perf.Sing.Fem|wordform=n=
 5	ci	ci	VERB	_	_	4	comp:aux	_	AlignBegin=141039|AlignEnd=141226|Gloss=eat
-6	hankàli	hankàliː	NOUN	_	_	9	subj	_	AlignBegin=141961|AlignEnd=142074|GenderAf=Fem|Gloss=mind|SpaceAfter=No|wordform=hankàliː
-7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-8	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	7	comp:obj/m	_	Gloss=2Fem.Gen
-9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceAfter=No|SpaceForm=zâi|wordform=zâː-
-10	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=142300|AlignEnd=142639|Gloss=3Masc|wordform=zâi
+6	hankàli	hankàliː	NOUN	_	_	9	subj	_	AlignBegin=141961|AlignEnd=142074|GenderAf=Fem|Gloss=mind|wordform=hankàliː
+7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+8	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	7	comp:obj/m	_	Gloss=2Fem.Gen|SpaceBefore=No
+9	zâː	zâː	AUX	_	Copula=No|Tense=Fut	0	root	_	Gloss=Fut|SpaceForm=zâi|wordform=zâː-
+10	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=142300|AlignEnd=142639|Gloss=3Masc|SpaceBefore=No|wordform=zâi
 11	taːshì	taːs-	VERB	_	_	9	comp:aux	_	AlignBegin=142639|AlignEnd=142978|Gloss=rise
 12	//	//	PUNCT	_	_	9	punct	_	AlignBegin=142978|AlignEnd=143316|Gloss=PUNCT
 
@@ -1470,9 +1470,9 @@
 3	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=160100|AlignEnd=160200|Gloss=say
 5	Ƙoːƙì	Ƙoːƙì	PROPN	_	_	10	mod	_	AlignBegin=160298|AlignEnd=160527|Gloss=Manta
-6	àlhaki	àlhakiː	NOUN	_	_	10	subj	_	AlignBegin=161642|AlignEnd=161742|GenderAf=Fem|Gloss=sin|SpaceAfter=No|wordform=àlhakiː
-7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
-8	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	7	comp:obj/m	_	Gloss=2Fem.Gen
+6	àlhaki	àlhakiː	NOUN	_	_	10	subj	_	AlignBegin=161642|AlignEnd=161742|GenderAf=Fem|Gloss=sin|wordform=àlhakiː
+7	-n	na	PART	_	Case=Gen|PartType=Case	6	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
+8	-kì	-kì	PRON	_	Case=Gen|Gender=Fem|Person=2|PronType=Prs	7	comp:obj/m	_	Gloss=2Fem.Gen|SpaceBefore=No
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=161943|AlignEnd=162244|Gloss=3Masc-|SpaceAfter=No|wordform=ya
 10	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	4	comp:obj	_	Gloss=Perf.Rel.Sing|wordform=_=
 11	kaːmàː	kaːm-	VERB	_	_	10	comp:aux	_	AlignBegin=162244|AlignEnd=162545|Gloss=catch
@@ -1566,11 +1566,11 @@
 1	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=172795|AlignEnd=172935|Gloss=1Sing-|SpaceAfter=No|wordform=naː
 2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=172935|AlignEnd=173075|Gloss=say
-4	zâː	zâː	AUX	_	Copula=No	7	reparandum	_	Gloss=Fut|SpaceAfter=No
-5	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=173075|AlignEnd=173215|Gloss=1Sing
+4	zâː	zâː	AUX	_	Copula=No	7	reparandum	_	Gloss=Fut
+5	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=173075|AlignEnd=173215|Gloss=1Sing|SpaceBefore=No
 6	ǹ	ǹ	INTJ	_	_	7	discourse	_	AlignBegin=173215|AlignEnd=173355|Gloss=FS
-7	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zân
-8	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=173496|AlignEnd=173606|Gloss=1Sing
+7	zâː	zâː	AUX	_	Copula=No|Tense=Fut	3	comp:obj	_	Gloss=Fut|wordform=zân
+8	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	7	subj/m	_	AlignBegin=173496|AlignEnd=173606|Gloss=1Sing|SpaceBefore=No
 9	ci	ci	VERB	_	_	7	comp:aux	_	AlignBegin=173606|AlignEnd=173716|Gloss=eat
 10	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	11	subj/m	_	AlignBegin=173827|AlignEnd=173999|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
 11	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	2	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=
@@ -1635,10 +1635,10 @@
 2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 3	matsàː	mats-	VERB	_	_	2	comp:aux	_	AlignBegin=178877|AlignEnd=179032|Gloss=force
 4	mîn	mîn	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	comp:obl	_	AlignBegin=179032|AlignEnd=179187|Gloss=1Sing.Dat
-5	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=179187|AlignEnd=179342|Gloss=1Sing-|wordform=ìn
+5	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=179187|AlignEnd=179342|Gloss=1Sing-|SpaceAfter=No|wordform=ìn
 6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	3	parataxis:mod	_	Gloss=Sub|wordform=_̀=
 7	jeː	jeː	VERB	_	_	6	comp:aux	_	AlignBegin=179342|AlignEnd=179497|Gloss=go
-8	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=179497|AlignEnd=179652|Gloss=1Sing-|wordform=ìn
+8	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	9	subj/m	_	AlignBegin=179497|AlignEnd=179652|Gloss=1Sing-|SpaceAfter=No|wordform=ìn
 9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	6	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 10	saːmoː	saːmoː	VERB	_	_	9	comp:aux	_	AlignBegin=179652|AlignEnd=179807|Gloss=get.DIR
 11	//	//	PUNCT	_	_	2	punct	_	AlignBegin=179807|AlignEnd=179807|Gloss=PUNCT
@@ -1673,7 +1673,7 @@
 4	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	0	root	_	Gloss=Perf.Sing|wordform=aː=
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	AlignBegin=182141|AlignEnd=182286|Gloss=say
 6	kaɗà	kaɗà	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=182286|AlignEnd=182431|Gloss=Neg
-7	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=182431|AlignEnd=182576|Gloss=1Sing-|wordform=ìn
+7	in-	in	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	8	subj/m	_	AlignBegin=182431|AlignEnd=182576|Gloss=1Sing-|SpaceAfter=No|wordform=ìn
 8	_̀	_̀	AUX	_	Copula=No|Mood=Sub	5	comp:obj	_	Gloss=Sub|wordform=_̀=
 9	ci	ci	VERB	_	_	8	comp:aux	_	AlignBegin=182576|AlignEnd=182721|Gloss=eat
 10	//	//	PUNCT	_	_	4	punct	_	AlignBegin=182721|AlignEnd=182865|Gloss=PUNCT
@@ -1776,8 +1776,8 @@
 # phonetic_text = kùr̃ùngùn kâi -n kuːsùː //
 # text_en = Kurungun kan kusu. [formula closing a tale]
 1	kùr̃ùngùn	kùr̃ùngùn	IDEO	_	_	2	mod	_	AlignBegin=189984|AlignEnd=190284|Gloss=fast|Ideo=Yes
-2	kâ	kâi	NOUN	_	_	0	root	_	AlignBegin=190284|AlignEnd=190434|Gloss=head|SpaceAfter=No|wordform=kân
-3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod/m	_	Gloss=Gen|SpaceAfter=No
+2	kâ	kâi	NOUN	_	_	0	root	_	AlignBegin=190284|AlignEnd=190434|Gloss=head|wordform=kân
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod/m	_	Gloss=Gen|SpaceBefore=No
 4	kuːsùː	kuːsùː	NOUN	_	_	3	comp	_	AlignBegin=190584|AlignEnd=190884|Gloss=rat
 5	//	//	PUNCT	_	_	2	punct	_	AlignBegin=190884|AlignEnd=191184|Gloss=PUNCT
 
