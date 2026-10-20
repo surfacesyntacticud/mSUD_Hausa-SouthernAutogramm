@@ -1268,10 +1268,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 147598, 148664
 # phonetic_text = munàː gudù munàː ɓoːyèː -waː //
-# text = baːmàː iyà zamaː ai //
+# text = baː -màː iyà zamaː ai //
 # text_en = We could not stay. .
 1	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
-2	-màː	ma	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	1	subj/m	_	AlignBegin=146995|AlignEnd=147116|Gloss=-1Plur|wordform=baːmàː
+2	-màː	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	1	subj/m	_	AlignBegin=146995|AlignEnd=147116|Gloss=-1Plur|wordform=baːmàː
 3	iyà	iyàː	VERB	_	_	1	comp:pred	_	AlignBegin=147116|AlignEnd=147237|Gloss=can
 4	zamaː	zaun-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:obj	_	AlignBegin=147237|AlignEnd=147358|Gloss=stay.Vnoun
 5	ai	ai	INTJ	_	_	1	discourse	_	AlignBegin=147358|AlignEnd=147479|Gloss=indeed
@@ -2853,7 +2853,7 @@
 # text_en = Because you know now we don't do millet at that place.
 1	tundà	tundà	SCONJ	_	_	7	discourse	_	AlignBegin=317593|AlignEnd=317806|Gloss=since
 2	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=317806|AlignEnd=318019|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
-3	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	9	parataxis:discourse	_	Gloss=Perf.Sing|wordform=aː=
+3	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	7	parataxis:discourse	_	Gloss=Perf.Sing|wordform=aː=
 4	san	san-	VERB	_	_	3	comp:aux	_	AlignBegin=318019|AlignEnd=318232|Gloss=know
 5	yànzu	yànzu	ADV	_	_	7	mod	_	AlignBegin=318232|AlignEnd=318445|Gloss=now
 6	<	<	PUNCT	_	_	5	punct	_	AlignBegin=318445|AlignEnd=318658|Gloss=PUNCT
@@ -2864,7 +2864,7 @@
 11	geːroː	geːroː	NOUN	_	_	10	comp	_	AlignBegin=319297|AlignEnd=319510|Gloss=millet
 12	à	à	ADP	_	_	9	mod	_	AlignBegin=319723|AlignEnd=319936|Gloss=at
 13	wajèːjên	wajeː	NOUN	_	Definite=Def|Number=Plur	12	comp	_	AlignBegin=319936|AlignEnd=320007|Gloss=place.Plur.Def
-14	//	//	PUNCT	_	_	9	comp:obj	_	AlignBegin=320149|AlignEnd=320363|Gloss=PUNCT
+14	//	//	PUNCT	_	_	7	punct	_	AlignBegin=320149|AlignEnd=320363|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_121-121
 # speaker_id = SP2
@@ -3442,7 +3442,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 394442, 396720
 # phonetic_text = duk noːmaː -n raːniː -ǹ / baːmàː màː yîː -n -shi dà yawàː sòːsai //
-# text = duk noːman raːnîn < baːmàː= yî-nshi dà yawàː sòːsai //
+# text = duk noːma-n raːnîn < baː -màː yî-nshi dà yawàː sòːsai //
 # text_en = All dry season farming, we don't do much.
 1	duk	dukà	DET	_	PronType=Tot	2	det	_	AlignBegin=394442|AlignEnd=394649|Gloss=all
 2	noːma	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	dislocated@comp	_	AlignBegin=394649|AlignEnd=394753|Compound=Yes|Gloss=farm.Vnoun|SpaceAfter=No|wordform=noːman
@@ -3450,7 +3450,7 @@
 4	raːnîn	raːniː	NOUN	_	Definite=Def	3	comp	_	AlignBegin=394856|AlignEnd=394960|Gloss=dry_season.Def
 5	<	<	PUNCT	_	_	2	punct	_	AlignBegin=395063|AlignEnd=395270|Gloss=PUNCT
 6	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
-7	-màː	ma	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=395270|AlignEnd=395477|Gloss=-1Plur|wordform=baːmàː
+7	-màː	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=395270|AlignEnd=395477|Gloss=-1Plur|wordform=baːmàː
 8	yî	yîː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:pred	_	AlignBegin=395684|AlignEnd=395753|Gloss=do.Vnoun|SpaceAfter=No|wordform=yînshi
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	udep/m	_	AlignBegin=395684|AlignEnd=395753|Gloss=Gen|SpaceAfter=No
 10	shi	shi	PRON	_	Case=Acc|Gender=Masc|Person=3|PronType=Prs	9	comp	_	AlignBegin=395684|AlignEnd=395753|Gloss=3Masc.Acc|wordform=yînshi

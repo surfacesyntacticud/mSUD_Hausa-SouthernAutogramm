@@ -3343,7 +3343,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 380252, 383039
 # phonetic_text = tundà yànzu zaːkà iyàː bâː shi kuɗiː -ǹ yà &// yà yà &// yà kashèː nan dà nan //
-# text = tundà yànzu zaːkà iyà baː shì kuɗîn yà yà yà yà kashèː nan dà nan //
+# text = tundà yànzu zâː-kàiyà baː shì kuɗîn ya- ya- ya- ya-_̀ _̀ _̀ _̀ kashèː nan dà nan //
 # text_en = Because now you will give him money to... to to... to spend on the spot.
 1	tundà	tundà	SCONJ	_	_	3	discourse	_	AlignBegin=380252|AlignEnd=380425|Gloss=since
 2	yànzu	yànzu	ADV	_	_	3	mod	_	AlignBegin=380425|AlignEnd=380598|Gloss=now
@@ -3353,13 +3353,13 @@
 6	baː	baː	VERB	_	_	5	comp:obj	_	AlignBegin=380944|AlignEnd=381117|Gloss=give
 7	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	comp:obj@R	_	AlignBegin=381117|AlignEnd=381290|Gloss=3Masc
 8	kuɗîn	kuɗiː-ǹ	NOUN	_	_	6	comp:obj@T	_	AlignBegin=381290|AlignEnd=381376|Gloss=money.Def|wordform=kuɗiː
-9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	13	subj/m	_	AlignBegin=381463|AlignEnd=381636|Gloss=3Masc-|wordform=yà
-10	a--	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=381808|AlignEnd=381943|Gloss=3Masc-|wordform=yà
-11	---	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=381943|AlignEnd=382078|Gloss=3Masc-|wordform=yà
-12	---	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=382212|AlignEnd=382350|Gloss=3Masc-|SpaceAfter=No|wordform=yà
-13	_̀	_̀	AUX	_	Copula=No|Mood=Sub	14	reparandum	_	Gloss=Sub|wordform=_̀=
-14	_̀	_̀	AUX	_	Copula=No|Mood=Sub	15	reparandum	_	Gloss=Sub|wordform=_̀=
-15	_̀	_̀	AUX	_	Copula=No|Mood=Sub	16	reparandum	_	Gloss=Sub|wordform=_̀=
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=381463|AlignEnd=381636|Gloss=3Masc-|wordform=yà
+10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	12	reparandum	_	Gloss=Sub|wordform=_̀=
+11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=381808|AlignEnd=381943|Gloss=3Masc-|wordform=yà
+12	_̀	_̀	AUX	_	Copula=No|Mood=Sub	14	reparandum	_	Gloss=Sub|wordform=_̀=
+13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=381943|AlignEnd=382078|Gloss=3Masc-|wordform=yà
+14	_̀	_̀	AUX	_	Copula=No|Mood=Sub	16	reparandum	_	Gloss=Sub|wordform=_̀=
+15	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=382212|AlignEnd=382350|Gloss=3Masc-|SpaceAfter=No|wordform=yà
 16	_̀	_̀	AUX	_	Copula=No|Mood=Sub	6	parataxis@mod	_	Gloss=Sub|wordform=_̀=
 17	kashèː	kash-	VERB	_	_	16	comp:aux	_	AlignBegin=382350|AlignEnd=382488|Gloss=kill
 18	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	17	mod	_	AlignBegin=382488|AlignEnd=382626|Gloss=PreRef|PreRef=Yes

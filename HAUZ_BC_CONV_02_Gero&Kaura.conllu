@@ -926,7 +926,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 94315, 98692
 # phonetic_text = tundà -ːːː / àːwò àːwò X bàːr̃a maː dà ya wucèː / gàbaː ɗaya / inàː / bâː X maː X hùːɗaː dà hannuː //
-# text = tundà àːwò àːwò bàːr̃a maː dà ya= wucèː < gàbaː ɗaya < i- nàː || baːmàː= hùːɗaː dà hannuː //
+# text = tundà àːwò àːwò bàːr̃a maː dà ya-_ wucèː < gàbaː ɗaya < i-nàː || baː -màː hùːɗaː dà hannuː //
 # text_en = Since... er... even last year, absolutely, I... there was no... billowing by hand.
 1	tundà	tundà	SCONJ	_	_	17	discourse	_	AlignBegin=94315|AlignEnd=94405|Gloss=since
 2	àːwò	àːwò	INTJ	_	_	17	discourse	_	AlignBegin=94674|AlignEnd=94843|Gloss=FILL
@@ -945,7 +945,7 @@
 15	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	17	reparandum	_	AlignBegin=96854|AlignEnd=97059|Gloss=Prog|wordform=inàː
 16	||	||	PUNCT	_	_	15	punct	_	AlignBegin=97059|AlignEnd=97264|Gloss=PUNCT
 17	baː	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog
-18	-màː	ma	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	17	subj/m	_	AlignBegin=97264|AlignEnd=97454|Gloss=-1Plur|wordform=baːmàː
+18	-màː	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	17	subj/m	_	AlignBegin=97264|AlignEnd=97454|Gloss=-1Plur|wordform=baːmàː
 19	hùːɗaː	huːɗ-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	17	comp:pred	_	AlignBegin=98261|AlignEnd=98369|Gloss=billow.Vnoun
 20	dà	dà	ADP	_	_	19	comp:obl	_	AlignBegin=98369|AlignEnd=98477|Gloss=with
 21	hannuː	hannuː	NOUN	_	_	20	comp	_	AlignBegin=98477|AlignEnd=98585|Gloss=hand
@@ -1260,7 +1260,7 @@
 4	-n	na	PART	_	Case=Gen|Gender=Masc|PartType=Case	3	udep/m	_	Gloss=Gen.Masc/Plur
 5	taːkìː	taːkìː	NOUN	_	_	4	comp	_	AlignBegin=130002|AlignEnd=130151|Gloss=manure
 6	sòːsai	sòːsai	ADV	_	_	3	mod	_	AlignBegin=130151|AlignEnd=130300|Gloss=quite
-7	//	//	PUNCT	_	_	3	comp:obj	_	AlignBegin=130300|AlignEnd=130451|Gloss=PUNCT
+7	//	//	PUNCT	_	_	1	punct	_	AlignBegin=130300|AlignEnd=130451|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_148-148
 # speaker_id = SP1
