@@ -2883,14 +2883,14 @@
 # phonetic_text = kuma in ta koːmàː ƙauyèː -ǹ zaːʼà kashèː ta //
 # text = kuma in ta-Ø= koːmàː ƙauyèn zaː-'à= kashèː ta //
 # text_en = And if she went back to the village, they would kill her.
-1	kuma	kuma	PART	_	PartType=Top	9	discourse@top	_	AlignBegin=327549|AlignEnd=327738|Gloss=too
+1	kuma	kuma	PART	_	PartType=Top	7	discourse	_	AlignBegin=327549|AlignEnd=327738|Gloss=too
 2	in	in	SCONJ	_	_	7	mod	_	AlignBegin=327738|AlignEnd=327927|Gloss=if
 3	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=327927|AlignEnd=328116|Gloss=3Fem-|SpaceAfter=No|wordform=ta
 4	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	2	comp	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	koːmàː	koːm-	VERB	_	_	4	comp:aux	_	AlignBegin=328116|AlignEnd=328305|Gloss=go_back
 6	ƙauyèn	ƙauyèː	NOUN	_	Definite=Def	5	comp:obj@G	_	AlignBegin=328305|AlignEnd=328399|Gloss=village.Def|wordform=ƙauyèː
-7	zaː-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-8	'à=	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=328494|AlignEnd=328683|Gloss=4=|wordform=zaːʼà
+7	zaː	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+8	-'à	a	PRON	_	Person=4|PronType=PrsSubj	7	subj/m	_	AlignBegin=328494|AlignEnd=328683|Gloss=4|wordform=zaːʼà
 9	kashèː	kas-	VERB	_	_	7	comp:aux	_	AlignBegin=328683|AlignEnd=328872|Gloss=kill
 10	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	9	mod	_	AlignBegin=328872|AlignEnd=329061|Gloss=3Fem
 11	//	//	PUNCT	_	_	7	punct	_	AlignBegin=329061|AlignEnd=329247|Gloss=PUNCT

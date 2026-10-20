@@ -1764,8 +1764,8 @@
 11	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	10	comp	_	Gloss=3Masc.Gen
 12	àƙallà	àƙallà	ADV	_	_	14	mod	_	AlignBegin=170086|AlignEnd=170339|Gloss=at_least
 13	hakà	hakà	ADV	_	_	12	mod	_	AlignBegin=170339|AlignEnd=170592|Gloss=like_this
-14	zaː-	zâː-	AUX	_	Copula=No	8	comp	_	Gloss=Fut-|SpaceAfter=No
-15	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=170592|AlignEnd=170845|Gloss=3Plur=|wordform=zaːsù
+14	zaː	zâː	AUX	_	Copula=No	8	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+15	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=170592|AlignEnd=170845|Gloss=3Plur|wordform=zaːsù
 16	kai	kai	VERB	_	_	14	comp:aux	_	AlignBegin=170845|AlignEnd=171098|Gloss=reach
 17	wajen	wajen	ADP	_	_	16	comp:obl	_	AlignBegin=171098|AlignEnd=171351|Gloss=around
 18	sàbà'in	sàbà'in	NUM	_	_	17	comp	_	AlignBegin=171351|AlignEnd=171604|Gloss=seventy

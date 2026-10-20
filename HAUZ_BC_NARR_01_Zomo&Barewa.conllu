@@ -224,7 +224,7 @@
 2	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=32101|AlignEnd=32333|Gloss=say
 4	dàke	dak-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obj	_	AlignBegin=32333|AlignEnd=32565|Gloss=pound.Part
-5	na=	na=	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=32565|AlignEnd=32797|Gloss=1Sing=|wordform=na
+5	na-	na	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=32565|AlignEnd=32797|Gloss=1Sing|wordform=na
 6	kèː	nàː	AUX	_	Aspect=Prog|Copula=Yes	4	comp:cleft	_	AlignBegin=32565|AlignEnd=32797|ClauseType=Cleft|Gloss=Prog.Rel2|Relative=Variante
 7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=32797|AlignEnd=33030|Gloss=PUNCT
 

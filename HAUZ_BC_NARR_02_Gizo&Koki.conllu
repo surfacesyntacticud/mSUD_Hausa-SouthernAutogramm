@@ -627,13 +627,13 @@
 7	sayoː	say-	VERB	_	_	6	comp:aux	_	AlignBegin=73230|AlignEnd=73425|Gloss=sell.DIR
 8	mahaɗin	mahaɗiː	NOUN	_	Definite=Def	7	comp:obj	_	AlignBegin=74135|AlignEnd=74220|Gloss=accompaniment..Def|RelAnt=Yes
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	AlignBegin=74306|AlignEnd=74562|Gloss=CompRel|Relz=Word
-10	zaː-	zâː-	AUX	_	Copula=No	12	comp:aux	_	Gloss=Fut-|SpaceAfter=No
-11	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	12	subj/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fem|Scrap=Yes|wordform=zaːtà
+10	zaː	zâː	AUX	_	Copula=No	12	reparandum	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+11	--t	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fe|Scrap=Yes|wordform=zaːtà
 12	zâː	zâː	AUX	_	Copula=No|Tense=Fut	9	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
 13	-'à	a	PRON	_	Person=4|PronType=PrsSubj	12	subj/m	_	AlignBegin=75074|AlignEnd=75262|Gloss=4|SpaceAfter=No|wordform=zaːʔà
-14	ci	ci	VERB	_	_	10	comp:aux	_	AlignBegin=75262|AlignEnd=75450|ClauseType=Rel|Gloss=eat|RelRole=udep
+14	ci	ci	VERB	_	_	12	comp:aux	_	AlignBegin=75262|AlignEnd=75450|ClauseType=Rel|Gloss=eat|RelRole=udep
 15	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	16	comp:obj	_	AlignBegin=75450|AlignEnd=75638|Gloss=PreRef|PreRef=Yes
-16	ramàn	ramàː	NOUN	_	Definite=Def	14	comp:obj	_	AlignBegin=75638|AlignEnd=75732|Gloss=hemp.Def
+16	ramàn	ramàː	NOUN	_	Definite=Def	14	comp:obl	_	AlignBegin=75638|AlignEnd=75732|Gloss=hemp.Def
 17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=75826|AlignEnd=76014|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_062

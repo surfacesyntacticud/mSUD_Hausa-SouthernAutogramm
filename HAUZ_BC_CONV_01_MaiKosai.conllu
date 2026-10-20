@@ -3038,7 +3038,7 @@
 # text = k-aː= san ìdan àbù ya-Ø= zoː dàwuri |c tsuntsàːyeː su-nàː yinwàː < zaː-sù= dingà cînyè wânnan àbù //
 # text_en = You know if the thing grows quickly birds are hungry they will keep on eating the thing.
 1	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	2	subj/m	_	AlignBegin=344138|AlignEnd=344360|Gloss=2Masc-|SpaceAfter=No|wordform=kaː
-2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	18	parataxis:discourse	_	Gloss=Perf.Sing|wordform=aː=
+2	aː	aː	AUX	_	Aspect=Perf|Copula=No|Number=Sing	16	parataxis:discourse	_	Gloss=Perf.Sing|wordform=aː=
 3	san	sanìː	VERB	_	_	2	comp:aux	_	AlignBegin=344360|AlignEnd=344582|Gloss=know
 4	ìdan	ìdan	SCONJ	_	_	16	mod	_	AlignBegin=344582|AlignEnd=344804|Gloss=if
 5	àbù	àbù	NOUN	_	_	7	subj	_	AlignBegin=344804|AlignEnd=345026|Gloss=thing
@@ -3052,8 +3052,8 @@
 13	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	7	conj:coord	_	AlignBegin=346136|AlignEnd=346358|Gloss=Prog|wordform=sunàː
 14	yinwàː	yinwàː	NOUN	_	_	13	comp:pred	_	AlignBegin=346358|AlignEnd=346580|Gloss=hunger
 15	<	<	PUNCT	_	_	16	punct	_	AlignBegin=346580|AlignEnd=346802|Gloss=PUNCT
-16	zaː-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-17	sù=	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=346802|AlignEnd=347024|Gloss=3Plur=|wordform=zaːsù
+16	zaː	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zaː-
+17	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=346802|AlignEnd=347024|Gloss=3Plur|wordform=zaːsù
 18	dingà	dingàː	VERB	_	_	16	comp:aux	_	AlignBegin=347024|AlignEnd=347246|Gloss=keep_on
 19	cînyè	cînyeː	VERB	_	_	18	comp:obj	_	AlignBegin=347246|AlignEnd=347468|Gloss=eat_up
 20	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	21	det	_	AlignBegin=347468|AlignEnd=347690|Gloss=PreRef|PreRef=Yes
