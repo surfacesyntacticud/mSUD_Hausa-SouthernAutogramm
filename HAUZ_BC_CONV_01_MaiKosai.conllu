@@ -3710,8 +3710,8 @@
 1	dan	don	SCONJ	_	_	4	discourse	_	AlignBegin=427788|AlignEnd=428006|Gloss=because
 2	à	at	ADP	_	_	4	mod	_	AlignBegin=428006|AlignEnd=428224|Gloss=at
 3	wajên	wajeː	NOUN	_	Definite=Def	2	comp	_	AlignBegin=428224|AlignEnd=428333|Gloss=place.Def
-4	zâ-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-5	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=428442|AlignEnd=428660|Gloss=1Sing=|wordform=zân
+4	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+5	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=428442|AlignEnd=428660|Gloss=1Sing|wordform=zân
 6	iyà	iyàː	VERB	_	_	4	comp:aux	_	AlignBegin=428660|AlignEnd=428878|Gloss=can
 7	tunàːwaː	tun-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp:obj	_	AlignBegin=428878|AlignEnd=428987|Gloss=think.Vnoun
 8	loːkàci	loːkàciː	NOUN	_	_	7	comp:obj	_	AlignBegin=429096|AlignEnd=429205|Gloss=time|SpaceAfter=No|wordform=loːkàcin

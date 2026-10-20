@@ -2183,8 +2183,8 @@
 9	mântaː	mant-	VERB	_	_	4	comp:aux	_	AlignBegin=207590|AlignEnd=207752|Gloss=forget
 10	ba	ba	PART	_	PartType=Neg|Polarity=Neg	9	mod	_	AlignBegin=207752|AlignEnd=207914|Gloss=Neg
 11	<	<	PUNCT	_	_	1	punct	_	AlignBegin=207914|AlignEnd=208076|Gloss=PUNCT
-12	zâ-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-13	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	12	subj/m	_	AlignBegin=208076|AlignEnd=208276|Gloss=1Sing=|wordform=zân
+12	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+13	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	12	subj/m	_	AlignBegin=208076|AlignEnd=208276|Gloss=1Sing|wordform=zân
 14	soː	soː	VERB	_	_	12	comp:aux	_	AlignBegin=208276|AlignEnd=208476|Gloss=want
 15	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	16	subj/m	_	AlignBegin=208476|AlignEnd=208676|Gloss=2Plur-|SpaceAfter=No|wordform=mù
 16	_̀	_̀	AUX	_	Copula=No|Mood=Sub	14	comp:obj	_	Gloss=Sub|wordform=_̀=

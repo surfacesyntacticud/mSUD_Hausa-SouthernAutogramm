@@ -2043,8 +2043,8 @@
 2	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	3	subj/m	_	AlignBegin=226870|AlignEnd=227062|Gloss=2Masc-|SpaceAfter=No|wordform=kà
 3	_̀	_̀	AUX	_	Copula=No|Mood=Sub	5	mod	_	Gloss=Sub|wordform=_̀=
 4	sâː	sâː	VERB	_	_	3	comp:aux	_	AlignBegin=227062|AlignEnd=227254|Gloss=put
-5	zâ-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-6	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=227254|AlignEnd=227446|Gloss=3Masc=|wordform=zâi
+5	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+6	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=227254|AlignEnd=227446|Gloss=3Masc|wordform=zâi
 7	canzàː	canz-	VERB	_	_	5	comp:aux	_	AlignBegin=227446|AlignEnd=227638|Gloss=change
 8	//	//	PUNCT	_	_	5	punct	_	AlignBegin=227638|AlignEnd=227828|Gloss=PUNCT
 
@@ -6252,8 +6252,8 @@
 2	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=709080|AlignEnd=709230|Gloss=well
 3	ai	ai	INTJ	_	_	5	discourse	_	AlignBegin=709230|AlignEnd=709380|Gloss=indeed
 4	bà	bà	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=709380|AlignEnd=709530|Gloss=Neg
-5	zâ-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-6	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=709530|AlignEnd=709680|Gloss=3Masc=|wordform=zâi
+5	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+6	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=709530|AlignEnd=709680|Gloss=3Masc|wordform=zâi
 7	dainàː	dain-	VERB	_	_	5	comp:aux	_	AlignBegin=709680|AlignEnd=709830|Gloss=cease
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=709830|AlignEnd=709980|Gloss=Neg
 9	//	//	PUNCT	_	_	5	punct	_	AlignBegin=709980|AlignEnd=710128|Gloss=PUNCT

@@ -176,8 +176,8 @@
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	AlignBegin=28627|AlignEnd=28789|Gloss=3Masc.Nom
 6	maː	maː	PART	_	PartType=Top	5	discourse@top	_	AlignBegin=28789|AlignEnd=28951|Gloss=even
 7	bà	bà	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=29112|AlignEnd=29274|Gloss=Neg
-8	zâ-	zâː-	AUX	_	Copula=No	3	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-9	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=29274|AlignEnd=29436|Gloss=3Masc=|wordform=zâi
+8	zâ	zâː	AUX	_	Copula=No	3	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=29274|AlignEnd=29436|Gloss=3Masc|wordform=zâi
 10	yàr̃da	yar̃d-	VERB	_	_	8	comp:aux	_	AlignBegin=29436|AlignEnd=29598|Gloss=agree
 11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	AlignBegin=29598|AlignEnd=29760|Gloss=Neg
 12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=29760|AlignEnd=29923|Gloss=PUNCT

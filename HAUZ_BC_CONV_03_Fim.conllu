@@ -130,8 +130,8 @@
 3	yi	yi	VERB	_	_	2	comp:aux	_	AlignBegin=15137|AlignEnd=15376|Gloss=do
 4	iyàːkân	iyàːkaː	NOUN	_	Definite=Def	3	comp:pred	_	AlignBegin=15376|AlignEnd=15496|Gloss=limitDef|RelAnt=Yes|wordform=iyàːkaː
 5	wandà	wandà	PRON	_	ExtPos=SCONJ|PronType=Rel	4	mod@relcl	_	AlignBegin=15615|AlignEnd=15854|Gloss=which.Rel|Relz=Word
-6	zâ-	zâː-	AUX	_	Copula=No	5	comp	_	Gloss=Fut-|SpaceAfter=No
-7	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=15854|AlignEnd=16093|Gloss=1Sing=|wordform=zân
+6	zâ	zâː	AUX	_	Copula=No	5	comp	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+7	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=15854|AlignEnd=16093|Gloss=1Sing|wordform=zân
 8	iyàː	iyàː	VERB	_	_	6	comp:aux	_	AlignBegin=16093|AlignEnd=16332|ClauseType=Rel|Gloss=can|RelRole=obj
 9	//	//	PUNCT	_	_	2	punct	_	AlignBegin=16332|AlignEnd=16570|Gloss=PUNCT
 
@@ -1141,8 +1141,8 @@
 2	na-	na	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=132516|AlignEnd=132676|Gloss=1Sing-|SpaceAfter=No|wordform=na
 3	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	1	comp	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	jeː	jeː	VERB	_	_	3	comp:aux	_	AlignBegin=132676|AlignEnd=132836|Gloss=go
-5	zâ-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-6	n=	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=132836|AlignEnd=132996|Gloss=1Sing=|wordform=zân
+5	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=132836|AlignEnd=132996|Gloss=1Sing|wordform=zân
 7	ròːƙeː	roːƙ-	VERB	_	_	5	comp:aux	_	AlignBegin=132996|AlignEnd=133076|Gloss=beg
 8	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp:obj@R	_	AlignBegin=133156|AlignEnd=133316|Gloss=3Masc
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=133316|AlignEnd=133476|Gloss=3Masc-|SpaceAfter=No|wordform=yà
@@ -2561,8 +2561,8 @@
 11	zaː-	zâː-	AUX	_	Copula=No	14	reparandum	_	Gloss=Fut-|SpaceAfter=No
 12	tà=	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	11	comp:aux	_	AlignBegin=298640|AlignEnd=298819|Gloss=3Fem=|Scrap=Yes|wordform=zaːtà
 13	||	||	PUNCT	_	_	11	punct	_	AlignBegin=298819|AlignEnd=299000|Gloss=PUNCT
-14	zâ-	zâː-	AUX	_	Copula=No	9	parataxis@mod	_	Gloss=Fut-|SpaceAfter=No
-15	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=299000|AlignEnd=299162|Gloss=3Masc=|wordform=zâi
+14	zâ	zâː	AUX	_	Copula=No	9	parataxis@mod	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+15	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	14	subj/m	_	AlignBegin=299000|AlignEnd=299162|Gloss=3Masc|wordform=zâi
 16	shaː	shaː	VERB	_	_	14	comp:aux	_	AlignBegin=299162|AlignEnd=299324|Gloss=drink
 17	//	//	PUNCT	_	_	3	punct	_	AlignBegin=299324|AlignEnd=299485|Gloss=PUNCT
 
@@ -2724,8 +2724,8 @@
 4	_	kà	AUX	_	Aspect=Perf|Copula=No|Mood=Rel|Number=Sing	2	mod@relcl	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=_=
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	AlignBegin=311759|AlignEnd=312049|ClauseType=Rel|Gloss=say|RelRole=subj
 6	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	5	comp:obl	_	AlignBegin=312049|AlignEnd=312339|Gloss=3Masc.Dat
-7	zâ-	zâː-	AUX	_	Copula=No	5	comp:obj	_	Gloss=Fut-|SpaceAfter=No
-8	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=312627|AlignEnd=312778|Gloss=3Masc=|wordform=zâi
+7	zâ	zâː	AUX	_	Copula=No	5	comp:obj	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+8	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	7	subj/m	_	AlignBegin=312627|AlignEnd=312778|Gloss=3Masc|wordform=zâi
 9	yàdda	yar̃d-	VERB	_	_	7	comp:aux	_	AlignBegin=312778|AlignEnd=312929|Gloss=agree
 10	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=312929|AlignEnd=313080|Gloss=Emph
 11	<	<	PUNCT	_	_	2	punct	_	AlignBegin=313080|AlignEnd=313230|Gloss=PUNCT

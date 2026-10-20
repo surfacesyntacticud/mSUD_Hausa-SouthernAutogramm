@@ -1155,8 +1155,8 @@
 5	hankàli	hankàliː	NOUN	_	_	4	comp:obj	_	AlignBegin=129168|AlignEnd=129269|Gloss=mind|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
-8	zâ-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-9	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=129470|AlignEnd=129772|Gloss=3Masc=|wordform=zâi
+8	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=129470|AlignEnd=129772|Gloss=3Masc|wordform=zâi
 10	ɓaːcì	ɓaːt-	VERB	_	_	8	comp:aux	_	AlignBegin=129772|AlignEnd=130074|Gloss=get_spoilt
 11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=130074|AlignEnd=130374|Gloss=PUNCT
 
@@ -1173,8 +1173,8 @@
 5	hankàli	hankàliː	NOUN	_	_	8	subj	_	AlignBegin=130671|AlignEnd=130769|Gloss=mind|SpaceAfter=No|wordform=hankàliː|wordfrom=hankàlintà
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	mod@poss/m	_	Gloss=Gen|SpaceAfter=No
 7	-tà	-tà	PRON	_	Case=Gen|Gender=Fem|Person=3|PronType=Prs	6	comp:obj/m	_	Gloss=3Fem.Gen
-8	zâ-	zâː-	AUX	_	Copula=No	0	root	_	Gloss=Fut-|SpaceAfter=No
-9	i=	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=130966|AlignEnd=131261|Gloss=3Masc=|wordform=zâi
+8	zâ	zâː	AUX	_	Copula=No	0	root	_	Gloss=Fut|SpaceAfter=No|wordform=zâ-
+9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=130966|AlignEnd=131261|Gloss=3Masc|wordform=zâi
 10	ɓaːcì	ɓaːt-	VERB	_	_	8	comp:aux	_	AlignBegin=131261|AlignEnd=131556|Gloss=get_spoilt
 11	//	//	PUNCT	_	_	8	punct	_	AlignBegin=131556|AlignEnd=131850|Gloss=PUNCT
 
