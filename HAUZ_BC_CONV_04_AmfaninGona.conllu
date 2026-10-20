@@ -9924,11 +9924,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1100936, 1101785
 # phonetic_text = à ìnaː shi kèː //
-# text = à ìnaː shi= kè ?//
+# text = à ìnaː shi- kè ?//
 # text_en = Where is it?
 1	à	à	ADP	_	_	0	root	_	AlignBegin=1100940|AlignEnd=1101110|Gloss=at
 2	ìnaː	ìnaː	ADV	_	PronType=Int	1	comp	_	AlignBegin=1101110|AlignEnd=1101280|Gloss=where
-3	shi-	sh	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=1101450|AlignEnd=1101620|Gloss=3Masc|wordform=shi=
+3	shi-	shi	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=1101450|AlignEnd=1101620|Gloss=3Masc|wordform=shi=
 4	kè	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	comp:cleft	_	AlignBegin=1101450|AlignEnd=1101620|ClauseType=Cleft|Gloss=Prog.Rel2|Relative=Variante|wordform=kèː
 5	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=1101620|AlignEnd=1101780|Gloss=PUNCT
 
