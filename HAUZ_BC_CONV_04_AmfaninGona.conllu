@@ -3623,20 +3623,20 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 415185, 418907
 # phonetic_text = iyàːyen =mù sun manà || sun manà gaːtaː //
-# text = iyàːye-n-mù su-n= manà || su-n= manà gaːtaː //
+# text = iyàːye -n -mù su-n= manà || su-n= manà gaːtaː //
 # text_en = Our parents have... they have spoilt us...
 1	iyàːye	iyàːyeː	NOUN	_	_	10	subj	_	AlignBegin=417320|AlignEnd=417395|Gloss=relative.Plur|wordform=iyàːyenmù
 2	-n	na	PART	_	Case=Gen|PartType=Case	1	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
 3	-mù	-mù	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	comp	_	Gloss=1Plur.Gen|SpaceBefore=No
-4	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=417545|AlignEnd=417770|Gloss=3Plur-|SpaceAfter=No|wordform=sun=
+4	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=417545|AlignEnd=417770|Gloss=3Plur-|SpaceAfter=No
 5-6	n=	_	_	_	_	_	_	_	_
-5	n	n	AUX	_	Aspect=Perf|Copula=No|Number=Plur	10	reparandum	_	Gloss=Perf.Plur|wordform=n=
+5	n	n	AUX	_	Aspect=Perf|Copula=No|Number=Plur	10	reparandum	_	Gloss=Perf.Plur|wordform=sun
 6	_	yi	VERB	_	_	5	comp:aux	_	Gloss=do|wordform=Ø
 7	manà	manà	PRON	_	Case=Dat|ExtPos=VERB|Number=Plur|Person=1|PronType=Prs	6	comp:obl	_	AlignBegin=417770|AlignEnd=417995|Gloss=1Plur.Dat
 8	||	||	PUNCT	_	_	10	punct	_	AlignBegin=417995|AlignEnd=418221|Gloss=PUNCT
 9	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=418221|AlignEnd=418393|Gloss=3Plur-|SpaceAfter=No|wordform=sun=
 10-11	n=	_	_	_	_	_	_	_	_
-10	n	n	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
+10	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=sun
 11	_	yi	VERB	_	_	10	comp:aux	_	Gloss=do|wordform=Ø
 12	manà	manà	PRON	_	Case=Dat|ExtPos=VERB|Number=Plur|Person=1|PronType=Prs	11	comp:obl	_	AlignBegin=418393|AlignEnd=418565|Gloss=1Plur.Dat
 13	gaːtaː	gaːta	NOUN	_	_	11	comp:pred	_	AlignBegin=418565|AlignEnd=418737|Gloss=pampering
@@ -3649,9 +3649,9 @@
 # phonetic_text = sun manà gaːtaː //
 # text = su-n= manà gaːtaː //
 # text_en = They have spoilt us.
-1	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=418777|AlignEnd=419003|Gloss=3Plur-|SpaceAfter=No|wordform=sun=
+1	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=418777|AlignEnd=419003|Gloss=3Plur-|SpaceAfter=No
 2-3	n=	_	_	_	_	_	_	_	_
-2	n	n	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=n=
+2	n	aː	AUX	_	Aspect=Perf|Copula=No|Number=Plur	0	root	_	Gloss=Perf.Plur|wordform=sun
 3	_	yi	VERB	_	_	2	comp:aux	_	Gloss=do|wordform=Ø
 4	manà	manà	PRON	_	Case=Dat|ExtPos=VERB|Number=Plur|Person=1|PronType=Prs	3	comp:obl	_	AlignBegin=419003|AlignEnd=419229|Gloss=1Plur.Dat
 5	gaːtaː	gaːtaː	NOUN	_	_	3	comp:pred	_	AlignBegin=419229|AlignEnd=419455|Gloss=pampering
@@ -7037,10 +7037,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 799419, 800911
 # phonetic_text = bàʼà yi makà dà tàwsheː ba -Q //
-# text = bàʼà yi makà dà tàwsheː bâ ?//
+# text = bà -'à yi makà dà tàwsheː bâ ?//
 # text_en = Don't they serve it with "*taushe*? (* any soup apart from draw-soup)
-1	bà	bà	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-2	-'a	a	PRON	_	Person=4|PronType=PrsSubj	1	subj/m	_	AlignBegin=799419|AlignEnd=799632|Gloss=-4|SpaceBefore=No|wordform=bàʼà
+1	bà	bà	AUX	_	Aspect=Perf|Copula=No|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà'à
+2	-'à	a	PRON	_	Person=4|PronType=PrsSubj	1	subj/m	_	AlignBegin=799419|AlignEnd=799632|Gloss=-4|SpaceBefore=No|wordform=bàʼà
 3	yi	yi	VERB	_	_	1	comp:aux	_	AlignBegin=799632|AlignEnd=799845|Gloss=do
 4	makà	makà	PRON	_	Case=Dat|Gender=Masc|Person=1|PronType=Prs	3	comp:obl	_	AlignBegin=799845|AlignEnd=800058|Gloss=2Masc.Dat
 5	dà	dà	ADP	_	_	3	mod	_	AlignBegin=800058|AlignEnd=800271|Gloss=with
@@ -9417,21 +9417,20 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1046733, 1050150
 # phonetic_text = tundà bân taɓàː mântaː -wàː / nan / goːnaː -n daːjìː //
-# text = tundà bâ n taɓà mântaːwàː > nan |a goːna-ndaːjìː //
+# text = tundà bâ -n taɓà mântaːwàː > nan |a goːna -n daːjìː //
 # text_en = I have not forgotten, there, the bush farm.
-1	tundà	tundà	SCONJ	_	_	4	discourse	_	AlignBegin=1046730|AlignEnd=1047070|Gloss=since
-2	bâ-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	4	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=bâ
-3	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=1047070|AlignEnd=104740|Gloss=-1Sing|SpaceAfter=No|wordform=bân
-4	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-5	taɓà	taɓ-	VERB	_	_	4	comp:aux	_	AlignBegin=104740|AlignEnd=1047730|Gloss=have_already
-6	mântaːwàː	mant-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:obj	_	AlignBegin=1047730|AlignEnd=104790|Gloss=forget.Vnoun|wordform=mântaː
-7	>	>	PUNCT	_	_	8	punct	_	AlignBegin=1048060|AlignEnd=104840|Gloss=PUNCT
-8	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	dislocated@mod	_	AlignBegin=104840|AlignEnd=1048610|Gloss=PreRef|PreRef=Yes
-9	|a	|a	PUNCT	_	_	8	punct	_	AlignBegin=1048610|AlignEnd=1048820|Gloss=PUNCT
-10	goːna	goːnaː	NOUN	_	_	8	conj:appos	_	AlignBegin=1049110|AlignEnd=1049280|Gloss=field|wordform=goːnan
-11	-n	na	PART	_	Case=Gen|PartType=Case	10	mod/m	_	Gloss=Gen|SpaceBefore=No
-12	daːjìː	daːjìː	NOUN	_	_	11	comp	_	AlignBegin=1049460|AlignEnd=104980|Gloss=bush
-13	//	//	PUNCT	_	_	4	punct	_	AlignBegin=104980|AlignEnd=1050150|Gloss=PUNCT
+1	tundà	tundà	SCONJ	_	_	2	discourse	_	AlignBegin=1046730|AlignEnd=1047070|Gloss=since
+2	bâ	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|wordform=bân
+3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=1047070|AlignEnd=104740|Gloss=-1Sing|SpaceBefore=No|wordform=bân
+4	taɓà	taɓ-	VERB	_	_	2	comp:pred	_	AlignBegin=104740|AlignEnd=1047730|Gloss=have_already
+5	mântaːwàː	mant-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:obj	_	AlignBegin=1047730|AlignEnd=104790|Gloss=forget.Vnoun|wordform=mântaː
+6	>	>	PUNCT	_	_	7	punct	_	AlignBegin=1048060|AlignEnd=104840|Gloss=PUNCT
+7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	dislocated@comp	_	AlignBegin=104840|AlignEnd=1048610|Gloss=PreRef|PreRef=Yes
+8	|a	|a	PUNCT	_	_	9	punct	_	AlignBegin=1048610|AlignEnd=1048820|Gloss=PUNCT
+9	goːna	goːnaː	NOUN	_	_	7	conj:reform	_	AlignBegin=1049110|AlignEnd=1049280|Gloss=field|wordform=goːnan
+10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod/m	_	Gloss=Gen|SpaceBefore=No
+11	daːjìː	daːjìː	NOUN	_	_	10	comp	_	AlignBegin=1049460|AlignEnd=104980|Gloss=bush
+12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=104980|AlignEnd=1050150|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0939-0939
 # speaker_id = SP1
@@ -14402,13 +14401,12 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1600850, 1601653
 # phonetic_text = bân mântaː -wàː //
-# text = bâ n mântaːwàː //
+# text = bâ -nmântaːwàː //
 # text_en = I haven't forgotten.
-1	bâ-	bâː-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	3	mod/m	_	Gloss=Neg.Perf|SpaceAfter=No|wordform=bâ
-2	n-	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	3	subj/m	_	AlignBegin=1600850|AlignEnd=1601120|Gloss=-1Sing|SpaceAfter=No|wordform=bân
-3	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-4	mântaːwàː	mant-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=1601120|AlignEnd=1601250|Gloss=forget.Vnoun|wordform=mântaː
-5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=1601390|AlignEnd=1601650|Gloss=PUNCT
+1	bâ	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=Neg.Prog|wordform=bân
+2	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	1	subj/m	_	AlignBegin=1600850|AlignEnd=1601120|Gloss=-1Sing|SpaceAfter=No|wordform=bân
+3	mântaːwàː	mant-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	1	comp:pred	_	AlignBegin=1601120|AlignEnd=1601250|Gloss=forget.Vnoun|wordform=mântaː
+4	//	//	PUNCT	_	_	1	punct	_	AlignBegin=1601390|AlignEnd=1601650|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_1435-1435
 # speaker_id = SP2

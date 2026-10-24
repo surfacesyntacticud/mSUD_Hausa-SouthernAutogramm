@@ -65,19 +65,18 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_03.WAV
 # sent_timecode = 9340, 11069
 # phonetic_text = dâː maː bâi jîː -n shigoː -wàː kilaːs ɗîn //
-# text = dâː maː bâ- i= jî-nshigôːwaː kilaːs ɗîn //
+# text = dâː maː bâ -i jî -n shigôːwaː kilaːs ɗîn //
 # text_en = He never intended to go to into the classroom.
-1	dâː	dâː	ADV	_	_	5	discourse	_	AlignBegin=9340|AlignEnd=9556|Gloss=formerly
+1	dâː	dâː	ADV	_	_	3	mod	_	AlignBegin=9340|AlignEnd=9556|Gloss=formerly
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=9556|AlignEnd=9772|Gloss=even
-3	bâ-	bâ-	PART	_	Copula=No|PartType=Neg|Polarity=Neg	5	mod/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=Neg.Perf|SpaceAfter=No
-4	i-	ya=	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	5	subj/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=-3Masc|SpaceAfter=No|wordform=i=
-5	_̀	_̀	AUX	_	Mood=Sub	0	root	_	wordform=Ø̀
-6	jî	ji	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp:aux	_	AlignBegin=9988|AlignEnd=10096|Gloss=hear.Vnoun|wordform=jîn
-7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen|SpaceBefore=No
-8	shigôːwaː	shig-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	comp	_	AlignBegin=10204|AlignEnd=10312|Gloss=enter.DIR.Vnoun|wordform=shigoː
-9	kilaːs	kilaːs	NOUN	_	Foreign=Yes	8	comp:obj@G	_	AlignBegin=10420|AlignEnd=10636|Gloss=class|Lang=en
-10	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	9	det	_	AlignBegin=10636|AlignEnd=10852|Gloss=Def
-11	//	//	PUNCT	_	_	5	punct	_	AlignBegin=10852|AlignEnd=11069|Gloss=PUNCT
+3	bâ	baːbù	PART	_	Copula=No|PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=9772|AlignEnd=9988|Gloss=Neg.Perf|wordform=bâi
+4	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	3	subj/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=3Masc|SpaceBefore=No
+5	jî	ji	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:pred	_	AlignBegin=9988|AlignEnd=10096|Gloss=hear.Vnoun|wordform=jîn
+6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpaceBefore=No
+7	shigôːwaː	shig-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	6	comp	_	AlignBegin=10204|AlignEnd=10312|Gloss=enter.DIR.Vnoun|wordform=shigoː
+8	kilaːs	kilaːs	NOUN	_	Foreign=Yes	7	comp:obj@G	_	AlignBegin=10420|AlignEnd=10636|Gloss=class|Lang=en
+9	ɗîn	ɗin	DET	_	Definite=Def|PronType=Dem	8	det	_	AlignBegin=10636|AlignEnd=10852|Gloss=Def
+10	//	//	PUNCT	_	_	3	punct	_	AlignBegin=10852|AlignEnd=11069|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_03__6
 # speaker_id = SP1
