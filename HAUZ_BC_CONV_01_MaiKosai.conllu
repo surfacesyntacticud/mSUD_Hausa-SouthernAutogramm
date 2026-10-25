@@ -1808,11 +1808,11 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 195072, 196436
 # phonetic_text = / yànzu inàː ma- tsayàː -iː\H -n yaːròː -n -shi nèː //
-# text = yànzu inàː matsayin yaːròn -shì nèː //
+# text = yànzu i-nàː matsayi -n yaːrò -n -shì nèː //
 # text_en = Now I stand for his son.
 1	yànzu	yànzu	ADV	_	_	3	mod	_	AlignBegin=195267|AlignEnd=195462|Gloss=now
 2	i-	i	PRON	_	Copula=Yes|Number=Sing|Person=1|PronType=Prs	3	subj/m	_	AlignBegin=195462|AlignEnd=195657|Gloss=1Sing|SpaceAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=195462|AlignEnd=195657|Gloss=Prog|wordform=i
+3	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=195462|AlignEnd=195657|Gloss=Prog|wordform=i
 4	matsayi	matsayiː	NOUN	_	_	3	comp:pred	_	AlignBegin=195657|AlignEnd=195706|Gloss=position|wordform=matsayin
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	mod/m	_	Gloss=Gen|SpaceBefore=No
 6	yaːrò	yaːròː	NOUN	_	_	5	comp	_	AlignBegin=195852|AlignEnd=195917|Gloss=boy|wordform=yaːròː|wordfrom=yaːrònshì
@@ -1845,10 +1845,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 198142, 198860
 # phonetic_text = inàː hannuː -n -shi //=
-# text = i-nàː hannu-n-shi //
+# text = i-nàː hannu -n -shi //
 # text_en = I am in his hands,
 1	i-	i	PRON	_	Copula=Yes|Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=198142|AlignEnd=198381|Gloss=1Sing|SpaceAfter=No
-2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=198142|AlignEnd=198381|Gloss=Prog|wordform=i
+2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=198142|AlignEnd=198381|Gloss=Prog|wordform=i
 3	hannu	hannuː	NOUN	_	Person=3	2	comp:pred	_	AlignBegin=198381|AlignEnd=198461|Gloss=hand|wordform=hannunshi
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	mod/m	_	Gloss=Gen|SpaceBefore=No
 5	-shi	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	4	comp	_	Gloss=3Masc.Gen|SpaceBefore=No

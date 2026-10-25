@@ -2889,10 +2889,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 319569, 323661
 # phonetic_text = inàː ajìː biyu / munàː &// jar̃r̃àbâːwaː akà aikoː yaː ràsu //
-# text = i-nàː ajìː biyu mu-nàːjar̃r̃àbâːwaː a-kà= aikoː y-aː= ràsu //
+# text = i-nàː ajìː biyu mu-nàː jar̃r̃àbâːwaː a-kà aikoː y-aː ràsu //
 # text_en = I was in second grade, we were... taking the exams when they told me he had died.
 1	i-	i	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=319569|AlignEnd=319805|Gloss=1Sing.Nom|SpaceAfter=No|wordform=i
-2	nàː	nàː	AUX	_	Aspect=Prog	9	parataxis:mod	_	AlignBegin=319569|AlignEnd=319805|Gloss=Prog
+2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	parataxis:mod	_	AlignBegin=319569|AlignEnd=319805|Gloss=Prog
 3	ajìː	ajìː	NOUN	_	_	2	comp:pred	_	AlignBegin=319805|AlignEnd=320041|Gloss=classroom
 4	biyu	biyu	NUM	_	_	3	det	_	AlignBegin=320041|AlignEnd=320277|Gloss=two
 5	mu-	mu	PRON	_	Copula=Yes|Number=Plur|Person=1|PronType=Prs	6	subj/m	_	AlignBegin=321939|AlignEnd=322197|Gloss=1Plur|SpaceAfter=No
@@ -4187,7 +4187,7 @@
 18	//	//	PUNCT	_	_	12	punct	_	AlignBegin=484354|AlignEnd=484570|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0404-0404
-# text = wandà dâː mu-nàːƴan yâːraː < sai mu-n= barìː //
+# text = wandà dâː mu-nàː ƴan yâːraː < sai mu-n barìː //
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 485414, 487551
@@ -4196,7 +4196,7 @@
 1	wandà	wandà	PRON	_	PronType=Rel	10	mod	_	AlignBegin=485414|AlignEnd=485614|Gloss=when|RelAnt=Yes|Relz=Word
 2	dâː	dâː	ADV	_	_	4	mod	_	AlignBegin=485614|AlignEnd=485814|Gloss=formerly
 3	mu-	mu	PRON	_	Copula=Yes|Number=Plur|Person=1|PronType=Prs	4	subj/m	_	AlignBegin=485814|AlignEnd=486014|Gloss=1Plur|SpaceAfter=No
-4	nàː	nàː	AUX	_	Aspect=Prog	1	mod@relcl	_	AlignBegin=485814|AlignEnd=486014|ClauseType=Rel|Gloss=Prog|RelRole=subj|wordform=munàː
+4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	AlignBegin=485814|AlignEnd=486014|ClauseType=Rel|Gloss=Prog|RelRole=subj|wordform=munàː
 5	ƴan	ɗan	ADJ	_	Number=Plur	6	mod	_	AlignBegin=486014|AlignEnd=486214|Gloss=small.Plur
 6	yâːraː	yaːròː	NOUN	_	Number=Plur	4	comp:pred	_	AlignBegin=486214|AlignEnd=486314|Gloss=child.Plur|wordform=yaːròː
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=486414|AlignEnd=486612|Gloss=PUNCT
@@ -12669,7 +12669,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 1414042, 1415944
 # phonetic_text = wânnan kawài / à cêː yaːrinyàː -n nan / tanàː ɗaːkìː -n mijìː -n -tà //
-# text = wânnan kawài < à cêː yaːrinyàn nan < ta nàː ɗaːkìn mijìn =tà //
+# text = wânnan kawài < a-_̀ cêː yaːrinyàn nan < ta-nàː ɗaːkì -n mijì -n -tà //
 # text_en = That one, it's as if that girl is married.
 1	wânnan	wânnan	PRON	_	Number=Plur|PronType=Dem	5	dislocated	_	AlignBegin=1414040|AlignEnd=141420|Gloss=PreRef|PreRef=Yes
 2	kawài	kawài	ADV	_	_	1	mod	_	AlignBegin=141420|AlignEnd=1414360|Gloss=only
@@ -12681,7 +12681,7 @@
 8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	AlignBegin=1414880|AlignEnd=14150|Gloss=PreRef|PreRef=Yes
 9	<	<	PUNCT	_	_	7	punct	_	AlignBegin=14150|AlignEnd=1415120|Gloss=PUNCT
 10	ta-	ta	PRON	_	Copula=Yes|Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=1415120|AlignEnd=1415320|Gloss=3Fem|SpaceAfter=No
-11	nàː	nàː	AUX	_	Aspect=Prog	6	comp:obj	_	AlignBegin=1415120|AlignEnd=1415320|Gloss=Prog|wordform=tanàː
+11	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	AlignBegin=1415120|AlignEnd=1415320|Gloss=Prog|wordform=tanàː
 12	ɗaːkì	ɗaːkìː	NOUN	_	_	11	comp:pred	_	AlignBegin=1415320|AlignEnd=1415430|Gloss=hut|wordform=ɗaːkìn
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen|SpaceBefore=No
 14	mijì	mijìː	NOUN	_	_	13	comp	_	AlignBegin=1415530|AlignEnd=141560|Gloss=husband|wordform=mijìː|wordfrom=mijìntà
