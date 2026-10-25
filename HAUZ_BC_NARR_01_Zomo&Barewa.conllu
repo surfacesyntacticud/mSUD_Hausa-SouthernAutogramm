@@ -2169,10 +2169,10 @@
 4	tàfiyàː	tàfiy-	VERB	_	_	3	comp:aux	_	AlignBegin=242782|AlignEnd=243006|Gloss=going
 5	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=243230|AlignEnd=243543|Gloss=3Plur|SpaceAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog	3	conj:redup	_	AlignBegin=243230|AlignEnd=243543|Gloss=Prog|wordform=sunàː
-7	tàfiyàː	tàfiyàː	NOUN	_	_	6	comp:pred	_	AlignBegin=243543|AlignEnd=243856|Gloss=going
+7	tàfiyàː	tàfiyàː	NOUN	_	_	6	comp:aux	_	AlignBegin=243543|AlignEnd=243856|Gloss=going
 8	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=244168|AlignEnd=244390|Gloss=3Plur|SpaceAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	6	conj:redup	_	AlignBegin=244168|AlignEnd=244390|Gloss=Prog|wordform=sunàː
-10	tàfiyàː	tàfiyàː	NOUN	_	_	9	comp:pred	_	AlignBegin=244390|AlignEnd=244612|Gloss=going
+10	tàfiyàː	tàfiyàː	NOUN	_	_	9	comp:aux	_	AlignBegin=244390|AlignEnd=244612|Gloss=going
 11	//	//	PUNCT	_	_	3	punct	_	AlignBegin=244390|AlignEnd=244612|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_234-234

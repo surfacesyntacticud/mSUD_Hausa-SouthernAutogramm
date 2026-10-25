@@ -170,7 +170,7 @@
 # text_en = I think we did like ..
 1	i-	i-	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=17392|AlignEnd=17628|Gloss=1Sing|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=17392|AlignEnd=17628|Gloss=Prog|Scrap=Yes|wordform=inàː
-3	tùnàːni	tùnàːniː	NOUN	_	_	2	comp:pred	_	AlignBegin=17628|AlignEnd=17746|Gloss=thinking|wordform=tùnàːnin
+3	tùnàːni	tùnàːniː	NOUN	_	_	2	comp:aux	_	AlignBegin=17628|AlignEnd=17746|Gloss=thinking|wordform=tùnàːnin
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen|SpaceBefore=No
 5	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	6	subj/m	_	AlignBegin=17864|AlignEnd=18100|Gloss=1Plur-|SpaceAfter=No|wordform=mun
 6	n	aː	AUX	_	Aspect=Perf|Number=Plur	4	comp	_	Gloss=Perf.Plur|wordform=n=
@@ -1078,7 +1078,7 @@
 9	sai	sai	ADV	_	_	11	mod	_	AlignBegin=130482|AlignEnd=130673|Gloss=then
 10	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	11	subj/m	_	AlignBegin=130673|AlignEnd=130864|Gloss=1Plur|SpaceAfter=No
 11	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=130673|AlignEnd=130864|Gloss=Prog|wordform=munàː
-12	ƙòːƙari	ƙòːƙariː	NOUN	_	_	11	comp:pred	_	AlignBegin=130864|AlignEnd=130960|Gloss=effort|wordform=ƙòːƙarin
+12	ƙòːƙari	ƙòːƙariː	NOUN	_	_	11	comp:aux	_	AlignBegin=130864|AlignEnd=130960|Gloss=effort|wordform=ƙòːƙarin
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	udep/m	_	Gloss=Gen|SpaceBefore=No
 14	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=PrsSubj	15	subj/m	_	AlignBegin=131055|AlignEnd=131246|Gloss=2Plur-|SpaceAfter=No|wordform=mù
 15	_̀	_̀	AUX	_	Mood=Sub	13	comp	_	Gloss=Sub|wordform=_̀=
@@ -1108,7 +1108,7 @@
 # text_en = we tried to run away.
 1	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=133071|AlignEnd=133283|Gloss=1Plur|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=133071|AlignEnd=133283|Gloss=Prog|wordform=munàː
-3	ƙòːƙari	ƙòːƙariː	NOUN	_	_	2	comp:pred	_	AlignBegin=133283|AlignEnd=133389|Gloss=effort|wordform=ƙòːƙarin
+3	ƙòːƙari	ƙòːƙariː	NOUN	_	_	2	comp:aux	_	AlignBegin=133283|AlignEnd=133389|Gloss=effort|wordform=ƙòːƙarin
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen|SpaceBefore=No
 5	gudùwaː	gud-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp	_	AlignBegin=133495|AlignEnd=133601|Gloss=run.Vnoun
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=133707|AlignEnd=133920|Gloss=PUNCT
@@ -1614,7 +1614,7 @@
 5	<	<	PUNCT	_	_	2	punct	_	AlignBegin=179082|AlignEnd=179243|Gloss=PUNCT
 6	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	7	subj/m	_	AlignBegin=179243|AlignEnd=179404|Gloss=2Plur|SpaceAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=179243|AlignEnd=179404|Gloss=Prog|wordform=kunàː
-8	sànaː'àn	sànaː'àː	NOUN	_	_	7	comp:pred	_	AlignBegin=179404|AlignEnd=179484|Gloss=profession
+8	sànaː'àn	sànaː'àː	NOUN	_	_	7	comp:aux	_	AlignBegin=179404|AlignEnd=179484|Gloss=profession
 9	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	mod	_	AlignBegin=179565|AlignEnd=179726|Gloss=farm.Vnoun
 10	tàːre	tàːre	ADV	_	_	8	mod	_	AlignBegin=179726|AlignEnd=179887|Gloss=together
 11	dà	dà	ADP	_	_	10	mod	_	AlignBegin=179887|AlignEnd=180048|Gloss=with
@@ -1633,7 +1633,7 @@
 # text_en = I am farming with him as a job.
 1	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=181588|AlignEnd=181768|Gloss=1Plur|SpaceAfter=No
 2	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=181588|AlignEnd=181768|Gloss=Prog|wordform=munàː
-3	sànaː'à	sànaː'àː	NOUN	_	_	2	comp:pred	_	AlignBegin=181768|AlignEnd=181858|Gloss=profession|wordform=sànaː'àn
+3	sànaː'à	sànaː'àː	NOUN	_	_	2	comp:aux	_	AlignBegin=181768|AlignEnd=181858|Gloss=profession|wordform=sànaː'àn
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen|SpaceBefore=No
 5	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp	_	AlignBegin=181948|AlignEnd=182128|Gloss=farm.Vnoun
 6	tàːre	tàːre	ADV	_	_	2	mod	_	AlignBegin=182128|AlignEnd=182308|Gloss=together
@@ -1693,7 +1693,7 @@
 1	tàːre	tàːre	ADV	_	_	0	root	_	AlignBegin=186883|AlignEnd=187065|Gloss=together
 2	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	3	subj/m	_	AlignBegin=187065|AlignEnd=187247|Gloss=2Plur|SpaceAfter=No
 3	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	AlignBegin=187065|AlignEnd=187247|ClauseType=Cleft|Gloss=Prog.Rel|wordform=kukèː
-4	sànaː'à	sànaː'àː	NOUN	_	_	3	comp:pred	_	AlignBegin=187247|AlignEnd=187338|Gloss=profession|wordform=sànaː'àn
+4	sànaː'à	sànaː'àː	NOUN	_	_	3	comp:aux	_	AlignBegin=187247|AlignEnd=187338|Gloss=profession|wordform=sànaː'àn
 5	-n	na	PART	_	Case=Gen|PartType=Case	4	udep/m	_	Gloss=Gen|SpaceBefore=No
 6	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	5	comp	_	AlignBegin=187429|AlignEnd=187611|Gloss=farm.Vnoun
 7	dà	dà	ADP	_	_	4	mod	_	AlignBegin=187611|AlignEnd=187793|Gloss=with
@@ -3045,7 +3045,7 @@
 11	tsuntsàːyeː	tsuntsuː	NOUN	_	Number=Plur	13	subj	_	AlignBegin=345914|AlignEnd=346025|Gloss=bird.Plur
 12	su-	su-	PRON	_	Number=Plur|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=346136|AlignEnd=346358|Gloss=3Plur|SpaceAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	7	conj:coord	_	AlignBegin=346136|AlignEnd=346358|Gloss=Prog|wordform=sunàː
-14	yinwàː	yinwàː	NOUN	_	_	13	comp:pred	_	AlignBegin=346358|AlignEnd=346580|Gloss=hunger
+14	yinwàː	yinwàː	NOUN	_	_	13	comp:aux	_	AlignBegin=346358|AlignEnd=346580|Gloss=hunger
 15	<	<	PUNCT	_	_	16	punct	_	AlignBegin=346580|AlignEnd=346802|Gloss=PUNCT
 16	zaː	zâː	AUX	_	_	0	root	_	Gloss=Fut|wordform=zaː-
 17	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=346802|AlignEnd=347024|Gloss=3Plur|SpaceBefore=No|wordform=zaːsù
@@ -3627,7 +3627,7 @@
 19	indà	indà	ADV	_	_	18	comp	_	AlignBegin=418854|AlignEnd=418998|Gloss=COMP.LOC
 20	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	21	subj/m	_	AlignBegin=418998|AlignEnd=419142|Gloss=2Plur|SpaceAfter=No
 21	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	19	mod@relcl	_	AlignBegin=418998|AlignEnd=419142|Gloss=Prog.Rel|Relz=Affix|wordform=kukèː
-22	noːmân	noːmaː	NOUN	_	_	21	comp:pred	_	AlignBegin=419142|AlignEnd=419214|Gloss=farming
+22	noːmân	noːmaː	NOUN	_	_	21	comp:aux	_	AlignBegin=419142|AlignEnd=419214|Gloss=farming
 23	//	//	PUNCT	_	_	11	punct	_	AlignBegin=419286|AlignEnd=419430|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_152-152
@@ -3773,7 +3773,7 @@
 14	indà	indà	ADV	_	PronType=Rel	13	comp	_	AlignBegin=436641|AlignEnd=436800|Gloss=COMP.LOC|RelAnt=Yes|Relz=Word
 15	a-	a-	PRON	_	Person=4|PronType=Prs	16	subj/m	_	AlignBegin=436800|AlignEnd=436959|Gloss=4|SpaceAfter=No
 16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	14	mod@relcl	_	AlignBegin=436800|AlignEnd=436959|ClauseType=Rel|Gloss=Prog.Rel|RelRole=mod|Relz=Affix|wordform=akèː
-17	àbin	àbù	NOUN	_	Definite=Def	16	comp:pred	_	AlignBegin=436959|AlignEnd=437039|Gloss=thing.Def
+17	àbin	àbù	NOUN	_	Definite=Def	16	comp:aux	_	AlignBegin=436959|AlignEnd=437039|Gloss=thing.Def
 18	nàn	nân	DET	_	Deixis=ProxS|PronType=Dem	17	det	_	AlignBegin=437118|AlignEnd=437277|Gloss=ProxS
 19	//	//	PUNCT	_	_	3	punct	_	AlignBegin=437277|AlignEnd=437436|Gloss=PUNCT
 
@@ -4684,7 +4684,7 @@
 8	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	0	root	_	AlignBegin=543346|AlignEnd=543502|Gloss=be.Masc/Plur
 9	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	10	subj/m	_	AlignBegin=543502|AlignEnd=543658|Gloss=1Plur|SpaceAfter=No
 10	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	8	comp:cleft	_	AlignBegin=543502|AlignEnd=543658|ClauseType=Cleft|Gloss=Prog.Rel|wordform=mukèː
-11	àmfàːniː	àmfàːniː	NOUN	_	_	10	comp:pred	_	AlignBegin=543658|AlignEnd=543814|Gloss=using
+11	àmfàːniː	àmfàːniː	NOUN	_	_	10	comp:aux	_	AlignBegin=543658|AlignEnd=543814|Gloss=using
 12	|c	|c	PUNCT	_	_	14	punct	_	AlignBegin=543814|AlignEnd=543967|Gloss=PUNCT
 13	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	14	subj/m	_	AlignBegin=543967|AlignEnd=544156|Gloss=1Plur|SpaceAfter=No
 14	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	10	conj:coord	_	AlignBegin=543967|AlignEnd=544156|ClauseType=Cleft|Gloss=Prog.Rel|wordform=mukèː

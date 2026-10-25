@@ -21,7 +21,7 @@
 14	kasàncè	kasànceː	VERB	_	_	13	comp:aux	_	AlignBegin=4230|AlignEnd=4442|Gloss=become
 15	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	16	subj/m	_	AlignBegin=4442|AlignEnd=4654|Gloss=2Plur|SpaceAfter=No
 16	nàː	nàː	AUX	_	Aspect=Prog	14	comp:obj	_	AlignBegin=4442|AlignEnd=4654|Gloss=Prog|wordform=kunàː
-17	noːmân	noːm-	NOUN	_	Definite=Def|ExtPos=NOUN	16	comp:pred	_	AlignBegin=4654|AlignEnd=4760|Gloss=farming.Def
+17	noːmân	noːm-	NOUN	_	Definite=Def|ExtPos=NOUN	16	comp:aux	_	AlignBegin=4654|AlignEnd=4760|Gloss=farming.Def
 18	ku-	ku-	PRON	_	Number=Plur|Person=2|PronType=Prs	19	subj/m	_	AlignBegin=4866|AlignEnd=5078|Gloss=2Plur|SpaceAfter=No
 19	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=4866|AlignEnd=5078|Gloss=Prog|wordform=kunàː
 20	saːmù	saːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	19	comp:aux	_	AlignBegin=5078|AlignEnd=5184|Gloss=get.Vnoun|wordform=saːmùn
@@ -734,7 +734,7 @@
 25	kânmù	kânmù	PRON	_	Number=Plur|Person=1|PronType=Prs|Reflex=Yes	24	comp	_	AlignBegin=75047|AlignEnd=75104|Gloss=1Plur.Ref
 26	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	27	subj/m	_	AlignBegin=75219|AlignEnd=75391|Gloss=1Plur|SpaceAfter=No
 27	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	24	comp:cleft	_	AlignBegin=75219|AlignEnd=75391|ClauseType=Cleft|Gloss=Prog.Rel|wordform=mukèː
-28	aikìː	aikìː	NOUN	_	_	27	comp:pred	_	AlignBegin=75391|AlignEnd=75563|Gloss=work
+28	aikìː	aikìː	NOUN	_	_	27	comp:aux	_	AlignBegin=75391|AlignEnd=75563|Gloss=work
 29	//	//	PUNCT	_	_	19	punct	_	AlignBegin=75563|AlignEnd=75736|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_02_079-079
@@ -824,7 +824,7 @@
 28	àː	àː	INTJ	_	_	30	discourse	_	AlignBegin=86821|AlignEnd=86868|Gloss=FILL
 29	mu-	mu-	PRON	_	Number=Plur|Person=1|PronType=Prs	30	subj/m	_	AlignBegin=87008|AlignEnd=87197|Gloss=1Plur|SpaceAfter=No
 30	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	27	comp	_	AlignBegin=87008|AlignEnd=87197|ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=mukèː
-31	àmfàːniː	àmfàːniː	NOUN	_	_	30	comp:pred	_	AlignBegin=87197|AlignEnd=87386|Gloss=using
+31	àmfàːniː	àmfàːniː	NOUN	_	_	30	comp:aux	_	AlignBegin=87197|AlignEnd=87386|Gloss=using
 32	dà	dà	ADP	_	_	31	comp:obl	_	AlignBegin=87386|AlignEnd=87575|Gloss=with
 33	suː	suː	PRON	_	Number=Plur|Person=2|PronType=Prs	32	comp	_	AlignBegin=87575|AlignEnd=87764|Gloss=2Plur.Nom|RelPos=Yes
 34	wajen	wajen	ADP	_	_	31	comp:obl	_	AlignBegin=88133|AlignEnd=88396|Gloss=around
@@ -3227,7 +3227,7 @@
 7	dà	dà	SCONJ	_	_	5	mod@relcl	_	AlignBegin=307829|AlignEnd=308025|Gloss=CompRel|Relz=Word
 8	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=PrsSubj	9	subj/m	_	AlignBegin=308025|AlignEnd=308221|Gloss=2Masc-|SpaceAfter=No|wordform=kakèː
 9	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	7	comp	_	ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix
-10	màganàː	màganàː	NOUN	_	_	9	comp:pred	_	AlignBegin=308221|AlignEnd=308417|Gloss=speech|RelRole=udep
+10	màganàː	màganàː	NOUN	_	_	9	comp:aux	_	AlignBegin=308221|AlignEnd=308417|Gloss=speech|RelRole=udep
 11	wandà	wandà	PRON	_	PronType=Rel	5	mod@relcl	_	AlignBegin=308417|AlignEnd=308613|Gloss=which.Rel|Relz=Word
 12	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	13	det	_	AlignBegin=308613|AlignEnd=308809|Gloss=PreRef|PreRef=Yes
 13	kàːkaː	kàːkaː	NOUN	_	_	16	subj	_	AlignBegin=308809|AlignEnd=309005|Gloss=grand-parent
