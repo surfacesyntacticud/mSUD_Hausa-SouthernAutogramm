@@ -59,7 +59,7 @@
 1	sai	sai	ADV	_	_	6	mod	_	AlignBegin=11947|AlignEnd=12143|Gloss=then
 2	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	6	subj	_	AlignBegin=12143|AlignEnd=12339|Gloss=some.Masc
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=12339|AlignEnd=12535|Gloss=3Masc-|SpaceAfter=No
-4	Ø	kà	AUX	_	Copula=No|Number=Sing	6	reparandum	_	Gloss=Perf.Rel.Sing|wordform=_=
+4	Ø	kà	AUX	_	Number=Sing	6	reparandum	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	ya-	ya-	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=12733|AlignEnd=12980|Gloss=3Masc-|SpaceAfter=No
 6	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	AlignBegin=12733|AlignEnd=12980|Gloss=Perf.Rel.Sing|wordform=_=
 7	ga	ganiː	VERB	_	_	6	comp:aux	_	AlignBegin=12980|AlignEnd=13227|Gloss=see
@@ -71,7 +71,7 @@
 13	es-ès	es-ès	PROPN	_	_	12	comp	_	AlignBegin=13968|AlignEnd=14215|Gloss=SS|Lang=en
 14	hakà	hakà	ADV	_	_	11	mod	_	AlignBegin=14215|AlignEnd=14462|Gloss=like_this
 15	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=14462|AlignEnd=14709|Gloss=3Plur-|SpaceAfter=No|wordform=sù
-16	_̀	_̀	AUX	_	Copula=No|Mood=Sub	10	comp:obj	_	Gloss=Sub|wordform=_̀=
+16	_̀	_̀	AUX	_	Mood=Sub	10	comp:obj	_	Gloss=Sub|wordform=_̀=
 17	shìga	shìg-	VERB	_	_	16	comp:aux	_	AlignBegin=14709|AlignEnd=14956|Gloss=enter
 18	ajìː	ajìː	NOUN	_	_	17	comp:obj@G	_	AlignBegin=14956|AlignEnd=15203|Gloss=classroom
 19	//	//	PUNCT	_	_	6	punct	_	AlignBegin=15203|AlignEnd=15447|Gloss=PUNCT
@@ -92,7 +92,7 @@
 7	maː	maː	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=17473|AlignEnd=17661|Gloss=even
 8	bàri	barìː	VERB	_	_	4	comp:obj	_	AlignBegin=17661|AlignEnd=17849|Gloss=let.Jus
 9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	10	subj/m	_	AlignBegin=17849|AlignEnd=18037|Gloss=3Masc-|SpaceAfter=No|wordform=yà
-10	_̀	_̀	AUX	_	Copula=No|Mood=Sub	8	comp:obj	_	Gloss=Sub|wordform=_̀=
+10	_̀	_̀	AUX	_	Mood=Sub	8	comp:obj	_	Gloss=Sub|wordform=_̀=
 11	tàfi	tàfi	VERB	_	_	10	comp:aux	_	AlignBegin=18037|AlignEnd=18228|Gloss=go
 12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=18037|AlignEnd=18228|Gloss=PUNCT
 
@@ -137,7 +137,7 @@
 6	saurân	saurâː	NOUN	_	Definite=Def	4	comp:obj@R	_	AlignBegin=23836|AlignEnd=23968|Gloss=remainder.Def
 7	dus	dukà	PRON	_	PronType=Tot	9	subj	_	AlignBegin=24101|AlignEnd=24366|Gloss=all
 8	su-	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	9	subj/m	_	AlignBegin=24366|AlignEnd=24631|Gloss=3Plur-|SpaceAfter=No|wordform=sù
-9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	comp:obj@T	_	Gloss=Sub|wordform=_̀=
+9	_̀	_̀	AUX	_	Mood=Sub	4	comp:obj@T	_	Gloss=Sub|wordform=_̀=
 10	tàttàfi	taf-	VERB	_	Number=Plur	9	comp:aux	_	AlignBegin=24631|AlignEnd=24896|Gloss=go.Plur
 11	ajìː	ajìː	NOUN	_	_	10	comp:obj@G	_	AlignBegin=24896|AlignEnd=25161|Gloss=classroom
 12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=25161|AlignEnd=25428|Gloss=PUNCT
@@ -154,10 +154,10 @@
 3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=26148|AlignEnd=26339|Gloss=say
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=26339|AlignEnd=26530|Gloss=3Masc-|SpaceAfter=No|wordform=yà
-6	_̀	_̀	AUX	_	Copula=No|Mood=Sub	4	comp:obj	_	Gloss=Sub|wordform=_̀=
+6	_̀	_̀	AUX	_	Mood=Sub	4	comp:obj	_	Gloss=Sub|wordform=_̀=
 7	tsayàː	tsayàː	VERB	_	_	6	comp:aux	_	AlignBegin=26530|AlignEnd=26721|Gloss=stop
 8	a-	a	PRON	_	Person=4|PronType=PrsSubj	9	subj/m	_	AlignBegin=26910|AlignEnd=27102|Gloss=4-|SpaceAfter=No|wordform=à
-9	_̀	_̀	AUX	_	Copula=No|Mood=Sub	6	parataxis:conj	_	Gloss=Sub|wordform=_̀=
+9	_̀	_̀	AUX	_	Mood=Sub	6	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 10	dòːkeː	doːk-	VERB	_	_	9	comp:aux	_	AlignBegin=27102|AlignEnd=27198|Gloss=beat
 11	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=27294|AlignEnd=27486|Gloss=3Masc
 12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=27486|AlignEnd=27679|Gloss=PUNCT
@@ -176,7 +176,7 @@
 5	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	AlignBegin=28627|AlignEnd=28789|Gloss=3Masc.Nom
 6	maː	maː	PART	_	PartType=Top	5	discourse@top	_	AlignBegin=28789|AlignEnd=28951|Gloss=even
 7	bà	bà	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=29112|AlignEnd=29274|Gloss=Neg
-8	zâ	zâː	AUX	_	Copula=No	3	comp:obj	_	Gloss=Fut|wordform=zâ-
+8	zâ	zâː	AUX	_	_	3	comp:obj	_	Gloss=Fut|wordform=zâ-
 9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	8	subj/m	_	AlignBegin=29274|AlignEnd=29436|Gloss=3Masc|SpaceBefore=No|wordform=zâi
 10	yàr̃da	yar̃d-	VERB	_	_	8	comp:aux	_	AlignBegin=29436|AlignEnd=29598|Gloss=agree
 11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	AlignBegin=29598|AlignEnd=29760|Gloss=Neg
@@ -257,7 +257,7 @@
 2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 3	sâː	sâː	VERB	_	_	2	comp:aux	_	AlignBegin=40103|AlignEnd=40372|Gloss=put
 4	a-	a	PRON	_	Person=4|PronType=PrsSubj	5	subj/m	_	AlignBegin=40372|AlignEnd=40641|Gloss=4-|SpaceAfter=No|wordform=à
-5	_̀	_̀	AUX	_	Copula=No|Mood=Sub	3	comp:obj	_	Gloss=Sub|wordform=_̀=
+5	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	Gloss=Sub|wordform=_̀=
 6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=40641|AlignEnd=40910|Gloss=do
 7	laːyi	laːyi	NOUN	_	_	6	comp:obj	_	AlignBegin=40910|AlignEnd=41179|Gloss=line|Lang=en
 8	hakà	hakà	ADV	_	_	6	mod	_	AlignBegin=41761|AlignEnd=41941|Gloss=like_this
