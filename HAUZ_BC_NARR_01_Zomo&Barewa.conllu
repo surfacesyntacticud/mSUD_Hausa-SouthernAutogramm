@@ -146,7 +146,7 @@
 # text = bài tankàː ba //
 # text_en = He did not answer.
 1	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-2	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=24470|AlignEnd=24740|Gloss=-3Masc|SpaceBefore=No|wordform=bài
+2	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=24470|AlignEnd=24740|Gloss=-3Masc|SpaceBefore=No|wordform=bài
 3	tankàː	tank-	VERB	_	_	1	comp:aux	_	AlignBegin=24740|AlignEnd=25010|Gloss=answer
 4	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=25010|AlignEnd=25280|Gloss=Neg
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=25280|AlignEnd=25550|Gloss=PUNCT
@@ -176,7 +176,7 @@
 # text = bài tankàː ba //
 # text_en = he did not answer.
 1	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-2	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=27180|AlignEnd=27423|Gloss=-3Masc|SpaceBefore=No|wordform=bài
+2	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=27180|AlignEnd=27423|Gloss=-3Masc|SpaceBefore=No|wordform=bài
 3	tankàː	tank-	VERB	_	_	1	comp:aux	_	AlignBegin=27423|AlignEnd=27666|Gloss=answer
 4	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=27666|AlignEnd=27909|Gloss=Neg
 5	//	//	PUNCT	_	_	1	punct	_	AlignBegin=27909|AlignEnd=28151|Gloss=PUNCT
@@ -423,7 +423,7 @@
 # text = bàsù ci koːmeː ba //
 # text_en = They hadn't eaten anything.
 1	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-2	-su	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=51690|AlignEnd=51876|Gloss=-3Plur|SpaceBefore=No|wordform=bàsù
+2	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=51690|AlignEnd=51876|Gloss=-3Plur|SpaceBefore=No|wordform=bàsù
 3	ci	ci	VERB	_	_	1	comp:aux	_	AlignBegin=51876|AlignEnd=52062|Gloss=eat
 4	koːmeː	koːmeː	PRON	_	PronType=Ind	3	comp:obj	_	AlignBegin=52062|AlignEnd=52248|Gloss=anything
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=52248|AlignEnd=52434|Gloss=Neg
@@ -477,7 +477,7 @@
 14	tàfe	taf-	VERB	_	ExtPos=ADV|VerbForm=Part	13	comp:pred	_	AlignBegin=56875|AlignEnd=57069|Gloss=go.Part
 15	dai	dai	PART	_	PartType=Top	14	discourse@top	_	AlignBegin=57069|AlignEnd=57263|Gloss=indeed
 16	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	13	parataxis:conj	_	Gloss=Neg.Perf|wordform=bà-
-17	-su	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=58029|AlignEnd=58249|Gloss=-3Plur|SpaceBefore=No|wordform=bàsù
+17	-sù	su	PRON	_	Number=Plur|Person=3|PronType=PrsSubj	16	subj/m	_	AlignBegin=58029|AlignEnd=58249|Gloss=-3Plur|SpaceBefore=No|wordform=bàsù
 18	ga	ganiː	VERB	_	_	16	comp:aux	_	AlignBegin=58249|AlignEnd=58469|Gloss=see
 19	hanyà	hanyàː	NOUN	_	_	18	comp:obj	_	AlignBegin=58469|AlignEnd=58579|Gloss=road|wordform=hanyàn
 20	-n	na	PART	_	Case=Gen|PartType=Case	19	udep/m	_	Gloss=Gen|SpaceBefore=No
@@ -1468,7 +1468,7 @@
 # text = bài zama naːmàn ba //
 # text_en = he did not turn into meat!
 1	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-2	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=166469|AlignEnd=166663|Gloss=-3Masc|SpaceBefore=No|wordform=bài
+2	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	1	subj/m	_	AlignBegin=166469|AlignEnd=166663|Gloss=-3Masc|SpaceBefore=No|wordform=bài
 3	zama	zama	VERB	_	_	1	comp:aux	_	AlignBegin=166663|AlignEnd=166857|Gloss=become
 4	naːmàn	naːmàː	NOUN	_	_	3	comp:pred	_	AlignBegin=166857|AlignEnd=166954|Gloss=meat.Def
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	3	mod	_	AlignBegin=167051|AlignEnd=167245|Gloss=Neg
@@ -1642,7 +1642,7 @@
 2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=184875|AlignEnd=184978|Gloss=say
 4	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	3	comp:obj	_	Gloss=Neg.Perf|wordform=bà-
-5	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=185080|AlignEnd=185230|Gloss=-1Sing|SpaceBefore=No|wordform=bàn
+5	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	4	subj/m	_	AlignBegin=185080|AlignEnd=185230|Gloss=-1Sing|SpaceBefore=No|wordform=bàn
 6	ci	ci	VERB	_	_	4	comp:aux	_	AlignBegin=185230|AlignEnd=185380|Gloss=eat
 7	koːmeː	koːmeː	PRON	_	PronType=Ind	6	comp:obj	_	AlignBegin=185380|AlignEnd=185530|Gloss=anything
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=185530|AlignEnd=185680|Gloss=Neg
@@ -1756,7 +1756,7 @@
 # text_en = As for him, he did not eat anything in the water.
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	2	dislocated@subj	_	AlignBegin=193656|AlignEnd=193754|Gloss=3Masc.Nom
 2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-3	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=193853|AlignEnd=194004|Gloss=-3Masc|SpaceBefore=No|wordform=bài
+3	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	2	subj/m	_	AlignBegin=193853|AlignEnd=194004|Gloss=-3Masc|SpaceBefore=No|wordform=bài
 4	ci	ci	VERB	_	_	2	comp:aux	_	AlignBegin=194004|AlignEnd=194155|Gloss=eat
 5	koːmeː	koːmeː	PRON	_	PronType=Ind	4	comp:obj	_	AlignBegin=194155|AlignEnd=194306|Gloss=anything
 6	ba	ba	PART	_	PartType=Neg|Polarity=Neg	5	mod	_	AlignBegin=194306|AlignEnd=194457|Gloss=Neg

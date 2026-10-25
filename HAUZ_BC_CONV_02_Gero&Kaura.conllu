@@ -181,7 +181,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 23244, 30050
 # phonetic_text = wânnan kàːwuː -ǹ nàːwa //
-# text = tòː shiː wânnan àmfàːnîn dà na-Ø= saːmù || dà mu-kà= saːmù |c koː in- _̀= cêː dà mu-kà= saːmù tun niː nèː dà ainihin Àlhajì wandà nikèː zàune à waje-n-shì |a wânnan kàːwûn nàːwa //
+# text = tòː shiː wânnan àmfàːnîn dà na-Ø saːmù || dà mu-kà saːmù |c koː in-_̀ cêː dà mu-kà saːmù tun niː nèː dà ainihin Àlhajì wandà ni kèː zàune à waje -n -shì |a wânnan kàːwûn nàːwa //
 # text_en = Well those crops that I got, that we got, or should I say that we got since.. it was me and.. the very Alhaji with whom I am staying, that uncle of mine.
 1	tòː	tòː	INTJ	_	_	2	discourse	_	AlignBegin=23244|AlignEnd=23451|Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=23451|AlignEnd=23658|Gloss=3Masc.Nom|Scrap=Yes
@@ -212,7 +212,7 @@
 27	ainihin	ainihiː	ADJ	_	_	28	mod	_	AlignBegin=27661|AlignEnd=27767|Gloss=real
 28	Àlhajì	Àlhajì	PROPN	_	_	24	conj:coord	_	AlignBegin=27873|AlignEnd=28085|Gloss=Alhaji
 29	wandà	wandà	PRON	_	PronType=Rel	28	mod@relcl	_	AlignBegin=28085|AlignEnd=28297|Gloss=who.Rel|Relz=Word
-30	ni	ni	PRON	_	Aspect=Prog|Copula=Yes|Mood=Rel|Number=Sing|Person=1	31	subj	_	AlignBegin=28297|AlignEnd=28509|Gloss=1Sing.Prog.Rel2=
+30	ni	ni	PRON	_	Number=Sing|Person=1	31	subj	_	AlignBegin=28297|AlignEnd=28509|Gloss=1Sing
 31	kèː	nàː	AUX	_	Aspect=Prog	29	comp	_	AlignBegin=28297|AlignEnd=28509|ClauseType=Rel|Gloss=Prog.Rel2|Relative=Variante
 32	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	31	comp:pred	_	AlignBegin=28509|AlignEnd=28721|Gloss=stay.Part
 33	à	à	ADP	_	_	32	comp:obl	_	AlignBegin=28721|AlignEnd=28933|Gloss=at
@@ -1589,7 +1589,7 @@
 13	shuːkàː	shuːk-	VERB	_	_	12	comp:aux	_	AlignBegin=154791|AlignEnd=154964|Gloss=harvest
 14	wannàn	nân	PRON	_	Deixis=ProxS|Gender=Masc|PronType=Dem	13	comp:obj	_	AlignBegin=154964|AlignEnd=155137|Gloss=ProxS.Masc
 15	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	12	parataxis:conj	_	Gloss=Neg.Perf|wordform=bà-
-16	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=155311|AlignEnd=155484|Gloss=-3Masc|SpaceBefore=No|wordform=bài
+16	-ì	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	15	subj/m	_	AlignBegin=155311|AlignEnd=155484|Gloss=-3Masc|SpaceBefore=No|wordform=bài
 17	sâː	sâː	VERB	_	_	15	comp:aux	_	AlignBegin=155484|AlignEnd=155657|Gloss=put
 18	dà	dà	ADP	_	_	17	mod	_	AlignBegin=155657|AlignEnd=155830|Gloss=with
 19	àbîn	àbù	NOUN	_	Definite=Def	18	comp	_	AlignBegin=155830|AlignEnd=155916|Gloss=thing.Def|wordform=àbù
@@ -2171,10 +2171,10 @@
 # text_en = If I ... I remember well, I would like to go back to the origins of the village that you told me we got. from ... Basawa.
 1	ìdan	ìdan	SCONJ	_	_	10	mod	_	AlignBegin=206797|AlignEnd=207007|Gloss=if
 2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	5	comp:aux	_	Gloss=Neg.Perf|wordform=bà-
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=207007|AlignEnd=207217|Gloss=-1Sing|Scrap=Yes|SpaceBefore=No|wordform=bàn=
+3	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=207007|AlignEnd=207217|Gloss=-1Sing|Scrap=Yes|SpaceBefore=No|wordform=bàn=
 4	||	||	PUNCT	_	_	5	punct	_	AlignBegin=207217|AlignEnd=207428|Gloss=X
 5	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	1	comp	_	Gloss=Neg.Perf|wordform=bà-
-6	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=207428|AlignEnd=207590|Gloss=-1Sing|SpaceBefore=No|wordform=bàn
+6	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	5	subj/m	_	AlignBegin=207428|AlignEnd=207590|Gloss=-1Sing|SpaceBefore=No|wordform=bàn
 7	mântaː	mant-	VERB	_	_	2	comp:aux	_	AlignBegin=207590|AlignEnd=207752|Gloss=forget
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	7	mod	_	AlignBegin=207752|AlignEnd=207914|Gloss=Neg
 9	<	<	PUNCT	_	_	1	punct	_	AlignBegin=207914|AlignEnd=208076|Gloss=PUNCT

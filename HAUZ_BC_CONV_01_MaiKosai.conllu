@@ -1541,7 +1541,7 @@
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=171915|AlignEnd=172138|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_063-063
-# text = shiː < bâː wandà y-aː= &//
+# text = shiː < bâː wandà y-aː &//
 # speaker_id = SP2
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 173385, 174126
@@ -1549,10 +1549,10 @@
 # text_en = He, there isn't anybody who...
 1	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	3	dislocated	_	AlignBegin=173385|AlignEnd=173509|Gloss=3Masc.Nom
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=173509|AlignEnd=173633|Gloss=PUNCT
-3	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=173633|AlignEnd=173757|Gloss=there_is.Neg|Scrap=Yes
+3	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root@scrap	_	AlignBegin=173633|AlignEnd=173757|Gloss=there_is.Neg|Scrap=Yes
 4	wandà	wandà	PRON	_	PronType=Rel	3	subj	_	AlignBegin=173757|AlignEnd=173881|Gloss=who|RelAnt=Yes|Relz=Word
 5	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=PrsSubj	6	subj/m	_	AlignBegin=173881|AlignEnd=174005|Gloss=3Masc-|SpaceAfter=No|wordform=yaː
-6	aː	aː	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	4	mod@relcl	_	ClauseType=Rel|Gloss=Perf.Rel.Sing|RelRole=subj|Relz=Affix|wordform=aː=
+6	aː	aː	AUX	_	Aspect=Perf|Number=Sing	4	mod@relcl	_	ClauseType=Rel|Gloss=Perf.Sing|RelRole=subj|wordform=aː=
 7	&//	&//	PUNCT	_	_	3	punct	_	AlignBegin=174005|AlignEnd=174126|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_064-064
@@ -2240,7 +2240,7 @@
 # text_en = At that time, I didn't ...
 1	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	2	mod	_	AlignBegin=248426|AlignEnd=248524|Gloss=time.Def
 2	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	AlignBegin=248622|AlignEnd=248818|Gloss=Neg.Perf|Scrap=Yes|wordform=bà-
-3	-n	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=248622|AlignEnd=248818|Gloss=-1Sing|Scrap=Yes|SpaceBefore=No|wordform=n=
+3	-ǹ	ni	PRON	_	Number=Sing|Person=1|PronType=PrsSubj	2	subj/m	_	AlignBegin=248622|AlignEnd=248818|Gloss=-1Sing|Scrap=Yes|SpaceBefore=No|wordform=n=
 4	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=248818|AlignEnd=249014|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_01_SP2_094-094_split2_split2
@@ -2338,7 +2338,7 @@
 2	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	4	mod	_	AlignBegin=256832|AlignEnd=256924|Gloss=time.Def
 3	<	<	PUNCT	_	_	4	punct	_	AlignBegin=257017|AlignEnd=257202|Gloss=PUNCT
 4	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	0	root	_	Gloss=Neg.Perf|wordform=bà-
-5	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=257202|AlignEnd=257387|Gloss=-3Fem|SpaceBefore=No|wordform=bàtà
+5	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=PrsSubj	4	subj/m	_	AlignBegin=257202|AlignEnd=257387|Gloss=-3Fem|SpaceBefore=No|wordform=bàtà
 6	cìka	cik-	VERB	_	_	4	comp:aux	_	AlignBegin=257387|AlignEnd=257572|Gloss=fill
 7	hakà	hakà	ADV	_	_	6	mod	_	AlignBegin=257572|AlignEnd=257757|Gloss=like_this
 8	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=257757|AlignEnd=257942|Gloss=Neg
