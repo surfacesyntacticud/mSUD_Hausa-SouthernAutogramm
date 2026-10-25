@@ -2319,8 +2319,8 @@
 8	bùdurwân	bùdurwaː	NOUN	_	Definite=Def	6	comp	_	AlignBegin=272103|AlignEnd=272201|Gloss=girlfriend.Def|RelAnt=Yes|wordform=bùdurwaː
 9	naːshì	naːshì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	8	mod@poss	_	AlignBegin=272300|AlignEnd=272398|Gloss=3MascGen
 10	dà	dà	SCONJ	_	_	8	mod@relcl	_	AlignBegin=272694|AlignEnd=272873|Gloss=CompRel|Relz=Word
-11	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	12	subj/m	_	AlignBegin=272873|AlignEnd=273052|Gloss=3Masc|SpaceAfter=No
-12	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	10	comp	_	AlignBegin=272873|AlignEnd=273052|ClauseType=Rel|Gloss=Prog|RelRole=subj|wordform=yanàː
+11	ya	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	12	subj	_	AlignBegin=272873|AlignEnd=273052|Gloss=3Masc
+12	nàː	nàː	AUX	_	Copula=Yes	10	comp	_	AlignBegin=272873|AlignEnd=273052|ClauseType=Rel|Gloss=Prog|RelRole=subj
 13	ƙauyèː	ƙauyèː	NOUN	_	_	12	comp:pred	_	AlignBegin=273052|AlignEnd=273231|Gloss=village
 14	//	//	PUNCT	_	_	4	punct	_	AlignBegin=273231|AlignEnd=273411|Gloss=PUNCT
 

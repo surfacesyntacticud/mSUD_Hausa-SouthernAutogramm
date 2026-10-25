@@ -2889,10 +2889,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 319569, 323661
 # phonetic_text = inàː ajìː biyu / munàː &// jar̃r̃àbâːwaː akà aikoː yaː ràsu //
-# text = i-nàː ajìː biyu mu-nàː jar̃r̃àbâːwaː a-kà aikoː y-aː ràsu //
+# text = i nàː ajìː biyu mu-nàː jar̃r̃àbâːwaː a-kà aikoː y-aː ràsu //
 # text_en = I was in second grade, we were... taking the exams when they told me he had died.
-1	i-	i	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=319569|AlignEnd=319805|Gloss=1Sing.Nom|SpaceAfter=No|wordform=i
-2	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	9	parataxis:mod	_	AlignBegin=319569|AlignEnd=319805|Gloss=Prog
+1	i	ni	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=ProSubj	2	subj	_	AlignBegin=319569|AlignEnd=319805|Gloss=1Sing.Nom
+2	nàː	nàː	AUX	_	Copula=Yes	9	parataxis:mod	_	AlignBegin=319569|AlignEnd=319805|Gloss=be.Pred/Loc
 3	ajìː	ajìː	NOUN	_	_	2	comp:pred	_	AlignBegin=319805|AlignEnd=320041|Gloss=classroom
 4	biyu	biyu	NUM	_	_	3	det	_	AlignBegin=320041|AlignEnd=320277|Gloss=two
 5	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=Prs	6	subj/m	_	AlignBegin=321939|AlignEnd=322197|Gloss=1Plur|SpaceAfter=No
@@ -4195,8 +4195,8 @@
 # text_en = When we were young, we just waited.
 1	wandà	wandà	PRON	_	PronType=Rel	10	mod	_	AlignBegin=485414|AlignEnd=485614|Gloss=when|RelAnt=Yes|Relz=Word
 2	dâː	dâː	ADV	_	_	4	mod	_	AlignBegin=485614|AlignEnd=485814|Gloss=formerly
-3	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=Prs	4	subj/m	_	AlignBegin=485814|AlignEnd=486014|Gloss=1Plur|SpaceAfter=No
-4	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	1	mod@relcl	_	AlignBegin=485814|AlignEnd=486014|ClauseType=Rel|Gloss=Prog|RelRole=subj|wordform=munàː
+3	mu	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	4	subj	_	AlignBegin=485814|AlignEnd=486014|Gloss=1Plur
+4	nàː	nàː	AUX	_	Copula=Yes	1	mod@relcl	_	AlignBegin=485814|AlignEnd=486014|ClauseType=Rel|Gloss=Prog|RelRole=subj
 5	ƴan	ɗan	ADJ	_	Number=Plur	6	mod	_	AlignBegin=486014|AlignEnd=486214|Gloss=small.Plur
 6	yâːraː	yaːròː	NOUN	_	Number=Plur	4	comp:pred	_	AlignBegin=486214|AlignEnd=486314|Gloss=child.Plur|wordform=yaːròː
 7	<	<	PUNCT	_	_	1	punct	_	AlignBegin=486414|AlignEnd=486612|Gloss=PUNCT
@@ -12680,8 +12680,8 @@
 7	yaːrinyàn	yaːrinyàː	NOUN	_	_	11	dislocated@subj	_	AlignBegin=1414760|AlignEnd=1414820|Gloss=girl.Def|wordform=yaːrinyàː
 8	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	7	det	_	AlignBegin=1414880|AlignEnd=14150|Gloss=PreRef|PreRef=Yes
 9	<	<	PUNCT	_	_	7	punct	_	AlignBegin=14150|AlignEnd=1415120|Gloss=PUNCT
-10	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=1415120|AlignEnd=1415320|Gloss=3Fem|SpaceAfter=No
-11	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	6	comp:obj	_	AlignBegin=1415120|AlignEnd=1415320|Gloss=Prog|wordform=tanàː
+10	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	11	subj	_	AlignBegin=1415120|AlignEnd=1415320|Gloss=3Fem
+11	nàː	nàː	AUX	_	Copula=Yes	6	comp:obj	_	AlignBegin=1415120|AlignEnd=1415320|Gloss=Prog
 12	ɗaːkì	ɗaːkìː	NOUN	_	_	11	comp:pred	_	AlignBegin=1415320|AlignEnd=1415430|Gloss=hut|wordform=ɗaːkìn
 13	-n	na	PART	_	Case=Gen|PartType=Case	12	mod/m	_	Gloss=Gen|SpaceBefore=No
 14	mijì	mijìː	NOUN	_	_	13	comp	_	AlignBegin=1415530|AlignEnd=141560|Gloss=husband|wordform=mijìː|wordfrom=mijìntà
