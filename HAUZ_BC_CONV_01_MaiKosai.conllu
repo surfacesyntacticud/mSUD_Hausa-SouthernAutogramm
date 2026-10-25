@@ -2645,7 +2645,7 @@
 15	ku-	ku-	PRON	_	Copula=Yes|Number=Plur|Person=2|PronType=Prs	16	subj/m	_	AlignBegin=287353|AlignEnd=287540|Gloss=2Plur|SpaceAfter=No
 16	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	14	comp	_	AlignBegin=287353|AlignEnd=287540|ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=kukè
 17	wânnan	wânnan	DET	_	Number=Plur	18	det	_	AlignBegin=287540|AlignEnd=287727|Gloss=PreRef
-18	sànaː'àn	sànaː'àː	NOUN	_	_	16	comp:pred	_	AlignBegin=287727|AlignEnd=287789|Gloss=profession
+18	sànaː'àn	sànaː'àː	NOUN	_	_	16	comp:aux	_	AlignBegin=287727|AlignEnd=287789|Gloss=profession
 19	noːmaː	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	18	compound	_	AlignBegin=287914|AlignEnd=287976|Gloss=farm.Vnoun
 20	dà	dà	ADP	_	_	18	comp:obl	_	AlignBegin=287851|AlignEnd=287914|Gloss=with
 21	shiː	shiː	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	comp	_	AlignBegin=287851|AlignEnd=287914|Gloss=3Masc.Sing|RelPos=Yes
