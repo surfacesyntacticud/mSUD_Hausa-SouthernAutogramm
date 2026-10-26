@@ -8863,7 +8863,7 @@
 # text_en = Hasn't it...
 1	bà	bà	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=989537|AlignEnd=989679|Gloss=Neg
 2	duy	dukà	PRON	_	Case=Nom|PronType=Tot	4	subj	_	AlignBegin=989679|AlignEnd=989821|Gloss=all
-3	ya-	ya	PRON	_	Gender=Masc|Mood=Rel|Person=3|PronType=ProSubj	4	comp:aux	_	AlignBegin=989962|AlignEnd=990116|Gloss=3Masc|Scrap=Yes|SpaceAfter=No|wordform=ya
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	comp:aux	_	AlignBegin=989962|AlignEnd=990116|Gloss=3Masc|Scrap=Yes|SpaceAfter=No|wordform=ya
 4	Ø	kà	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=Ø=
 5	&//	&//	PUNCT	_	_	4	punct	_	AlignBegin=990116|AlignEnd=990269|Gloss=PUNCT
 

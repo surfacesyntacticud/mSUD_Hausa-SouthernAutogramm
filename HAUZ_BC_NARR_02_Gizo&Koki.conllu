@@ -709,7 +709,7 @@
 # phonetic_text = ta &//
 # text = ta&//
 # text_en = She..
-1	ta-	ta	PRON	_	Gender=Fem|Mood=Rel|Person=3|PronType=ProSubj	2	comp:aux	_	AlignBegin=83727|AlignEnd=83809|Gloss=3Fem|Scrap=Yes|SpaceAfter=No|wordform=ta
+1	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	2	comp:aux	_	AlignBegin=83727|AlignEnd=83809|Gloss=3Fem|Scrap=Yes|SpaceAfter=No|wordform=ta
 2	Ø	kà	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=Ø=
 3	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=83809|AlignEnd=83892|Gloss=PUNCT
 
@@ -1329,7 +1329,7 @@
 # phonetic_text = na &//
 # text = na//
 # text_en = I..
-1	na-	ni	PRON	_	Gender=Fem|Mood=Rel|Number=Sing|Person=3|PronType=ProSubj	2	comp:aux	_	AlignBegin=147270|AlignEnd=147418|Gloss=1Sing|Scrap=Yes|SpaceAfter=No|wordform=na
+1	na-	ni	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=ProSubj	2	comp:aux	_	AlignBegin=147270|AlignEnd=147418|Gloss=1Sing|Scrap=Yes|SpaceAfter=No|wordform=na
 2	Ø	kà	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=Ø=
 3	//	//	PUNCT	_	_	2	punct	_	AlignBegin=147418|AlignEnd=147565|Gloss=PUNCT|wordform=&//
 

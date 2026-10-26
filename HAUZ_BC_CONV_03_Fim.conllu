@@ -2929,7 +2929,7 @@
 3	wâ	wâː	NOUN	_	_	1	conj:appos	_	AlignBegin=333527|AlignEnd=333607|Gloss=elder_brother|wordform=wân
 4	-n	na	PART	_	Case=Gen|PartType=Case	3	udep/m	_	Gloss=Gen|SpaceBefore=No
 5	dà	dà	SCONJ	_	_	9	reparandum	_	AlignBegin=333687|AlignEnd=333847|Gloss=COMP
-6	ya-	ya	PRON	_	Gender=Masc|Mood=Rel|Person=3|PronType=ProSubj	7	subj/m	_	AlignBegin=333847|AlignEnd=334007|Gloss=3Masc|Scrap=Yes|SpaceAfter=No|wordform=ya
+6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	7	subj/m	_	AlignBegin=333847|AlignEnd=334007|Gloss=3Masc|Scrap=Yes|SpaceAfter=No|wordform=ya
 7	Ø	kà	AUX	_	Aspect=Perf|Number=Sing	5	comp	_	Gloss=Perf.Rel.Sing|Scrap=Yes|wordform=Ø=
 8	||	||	PUNCT	_	_	5	punct	_	AlignBegin=334007|AlignEnd=334168|Gloss=PUNCT
 9	dà	dà	SCONJ	_	_	4	comp	_	AlignBegin=334168|AlignEnd=334326|Gloss=COMP
@@ -3315,7 +3315,7 @@
 1	tòː	tòː	INTJ	_	_	5	discourse	_	AlignBegin=377980|AlignEnd=378068|Gloss=well
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	5	mod	_	AlignBegin=378068|AlignEnd=378156|Gloss=3Masc.Nom
 3	nèː	neː	PART	_	PartType=Foc	2	discourse@foc	_	AlignBegin=378156|AlignEnd=378244|Gloss=Emph
-4	ya-	ya	PRON	_	Gender=Masc|Mood=Rel|Person=3|PronType=ProSubj	5	comp:aux	_	AlignBegin=378244|AlignEnd=378332|Gloss=3Masc|Scrap=Yes|SpaceAfter=No|wordform=ya
+4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	5	comp:aux	_	AlignBegin=378244|AlignEnd=378332|Gloss=3Masc|Scrap=Yes|SpaceAfter=No|wordform=ya
 5	Ø	kà	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=Ø=
 6	&//	&//	PUNCT	_	_	5	punct	_	AlignBegin=378332|AlignEnd=378420|Gloss=PUNCT
 

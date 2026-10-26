@@ -1910,7 +1910,7 @@
 2	tun	tun	ADP	_	_	28	mod	_	AlignBegin=204448|AlignEnd=204669|Gloss=since
 3	loːkàcin	loːkàciː	NOUN	_	Definite=Def	2	comp	_	AlignBegin=204669|AlignEnd=204779|Gloss=time..Def|RelAnt=Yes
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	AlignBegin=204890|AlignEnd=205111|Gloss=CompRel|Relz=Word
-5	na	na	PRON	_	Mood=Rel|Number=Sing|Person=1|PronType=Prs	6	subj	_	AlignBegin=205111|AlignEnd=205332|Gloss=1Sing
+5	na	na	PRON	_	Number=Sing|Person=1|PronType=Prs	6	subj	_	AlignBegin=205111|AlignEnd=205332|Gloss=1Sing
 6	kè	nàː	AUX	_	Aspect=Prog	4	comp	_	AlignBegin=205111|AlignEnd=205332|ClauseType=Rel|Gloss=Prog.Rel2|Relative=Variante|RelRole=mod|wordform=na
 7	wajen	wajen	ADP	_	_	6	comp:pred	_	AlignBegin=205332|AlignEnd=205553|Gloss=around
 8	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	9	det	_	AlignBegin=205553|AlignEnd=205774|Gloss=PreRef|PreRef=Yes
@@ -3000,7 +3000,7 @@
 4	kaɗai	kaɗai	ADV	_	_	3	mod	_	AlignBegin=340817|AlignEnd=341039|Gloss=only
 5	nèː	neː	PART	_	Gender=Masc|Number=Plur|PartType=Foc	2	discourse@foc	_	AlignBegin=341039|AlignEnd=341261|Gloss=Emph.Masc/Plur
 6	>+	>+	PUNCT	_	_	11	punct	_	AlignBegin=341261|AlignEnd=341483|Gloss=PUNCT
-7	ya-	ya	PRON	_	Gender=Masc|Mood=Rel|Person=3|PronType=ProSubj	8	subj/m	_	AlignBegin=341483|AlignEnd=341705|Gloss=3Masc|SpaceAfter=No|wordform=ya
+7	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	8	subj/m	_	AlignBegin=341483|AlignEnd=341705|Gloss=3Masc|SpaceAfter=No|wordform=ya
 8	Ø	kà	AUX	_	Number=Sing	11	reparandum	_	Gloss=Perf.Rel.Sing|wordform=Ø=
 9	||	||	PUNCT	_	_	8	punct	_	AlignBegin=341705|AlignEnd=341927|Gloss=PUNCT
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	11	subj/m	_	AlignBegin=341927|AlignEnd=342149|Gloss=3Masc|SpaceAfter=No|wordform=ya
