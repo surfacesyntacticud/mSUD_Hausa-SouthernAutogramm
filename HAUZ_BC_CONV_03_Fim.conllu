@@ -69,7 +69,7 @@
 # text_en = He never intended to go to into the classroom.
 1	dâː	dâː	ADV	_	_	3	mod	_	AlignBegin=9340|AlignEnd=9556|Gloss=formerly
 2	maː	maː	PART	_	PartType=Top	1	discourse@top	_	AlignBegin=9556|AlignEnd=9772|Gloss=even
-3	bâ	bâː	AUX	_	Aspect=Prog|Polarity=Neg	0	root	_	AlignBegin=9772|AlignEnd=9988|Gloss=Neg.Perf|wordform=bâi
+3	bâ	bâː	AUX	_	Aspect=Prog|Polarity=Neg	0	root	_	AlignBegin=9772|AlignEnd=9988|Gloss=Neg.Prog|wordform=bâi
 4	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	3	subj/m	_	AlignBegin=9772|AlignEnd=9988|Gloss=3Masc|SpacesBefore=No
 5	jî	ji	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	3	comp:aux	_	AlignBegin=9988|AlignEnd=10096|Gloss=hear.Vnoun|wordform=jîn
 6	-n	na	PART	_	Case=Gen|PartType=Case	5	udep/m	_	Gloss=Gen|SpacesBefore=No
