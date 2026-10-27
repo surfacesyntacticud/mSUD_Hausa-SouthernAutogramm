@@ -9,7 +9,7 @@
 2	àkwai	àkwai	PART	_	PartType=Pred	0	root	_	AlignBegin=1472|AlignEnd=1739|Gloss=there_is
 3	wata	wata	DET	_	Definite=Spec|Gender=Fem|PronType=Ind	4	det	_	AlignBegin=1739|AlignEnd=2006|Gloss=some.Fem
 4	raːnaː	raːnaː	NOUN	_	_	2	subj	_	AlignBegin=2006|AlignEnd=2273|Gloss=day
-5	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	6	subj/m	_	AlignBegin=3816|AlignEnd=4112|Gloss=1Plur|SpaceAfter=No|wordform=mukà
+5	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	6	subj/m	_	AlignBegin=3816|AlignEnd=4112|Gloss=1Plur|SpacesAfter=No|wordform=mukà
 6	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	2	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=kà=
 7	yiwoː	yi	VERB	_	_	6	comp:aux	_	AlignBegin=4112|AlignEnd=4408|Gloss=do.DIR
 8	lettìː	lettìː	NOUN	_	_	7	comp:pred	_	AlignBegin=4408|AlignEnd=4704|Gloss=late|Lang=en
@@ -23,7 +23,7 @@
 # text = sai akà tsarèː mu lettìː hakà //
 # text_en = Then they blocked us for being late.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=5850|AlignEnd=6123|Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=6123|AlignEnd=6396|Gloss=4|SpaceAfter=No|wordform=akà
+2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=6123|AlignEnd=6396|Gloss=4|SpacesAfter=No|wordform=akà
 3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 4	tsarèː	tsar-	VERB	_	_	3	comp:aux	_	AlignBegin=6396|AlignEnd=6669|Gloss=block
 5	mu	mu	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	comp:obj	_	AlignBegin=6669|AlignEnd=6942|Gloss=1Plur
@@ -40,10 +40,10 @@
 # text_en = Then.. the teacher came and beat us.
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=8749|AlignEnd=9581|Gloss=then
 2	maːlàmîn	maːlàmiː	NOUN	_	Definite=Def	4	subj	_	AlignBegin=9581|AlignEnd=9703|Gloss=teacher.Def
-3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=9825|AlignEnd=10069|Gloss=3Masc|SpaceAfter=No|wordform=ya
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=9825|AlignEnd=10069|Gloss=3Masc|SpacesAfter=No|wordform=ya
 4	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	zoː	zoː	VERB	_	_	4	comp:aux	_	AlignBegin=10069|AlignEnd=10313|Gloss=come
-6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	7	subj/m	_	AlignBegin=10313|AlignEnd=10557|Gloss=3Masc|SpaceAfter=No|wordform=ya
+6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	7	subj/m	_	AlignBegin=10313|AlignEnd=10557|Gloss=3Masc|SpacesAfter=No|wordform=ya
 7	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	4	parataxis:conj	_	Gloss=Perf.Rel.Sing|wordform=_=
 8	dòːkeː	doːk-	VERB	_	_	7	comp:aux	_	AlignBegin=10557|AlignEnd=10679|Gloss=beat
 9	mù	mù	PRON	_	Number=Plur|Person=1|PronType=Prs	8	mod	_	AlignBegin=10801|AlignEnd=11045|Gloss=1Plur
@@ -58,19 +58,19 @@
 # text_en = Then somebody .. heard that they said the pupils of SS should go into their class.
 1	sai	sai	ADV	_	_	6	mod	_	AlignBegin=11947|AlignEnd=12143|Gloss=then
 2	wani	wani	PRON	_	Definite=Spec|Gender=Masc|PronType=Ind	6	subj	_	AlignBegin=12143|AlignEnd=12339|Gloss=some.Masc
-3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=12339|AlignEnd=12535|Gloss=3Masc|SpaceAfter=No
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=12339|AlignEnd=12535|Gloss=3Masc|SpacesAfter=No
 4	Ø	kà	AUX	_	Number=Sing	6	reparandum	_	Gloss=Perf.Rel.Sing|wordform=_=
-5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	6	subj/m	_	AlignBegin=12733|AlignEnd=12980|Gloss=3Masc|SpaceAfter=No
+5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	6	subj/m	_	AlignBegin=12733|AlignEnd=12980|Gloss=3Masc|SpacesAfter=No
 6	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	AlignBegin=12733|AlignEnd=12980|Gloss=Perf.Rel.Sing|wordform=_=
 7	ga	ganiː	VERB	_	_	6	comp:aux	_	AlignBegin=12980|AlignEnd=13227|Gloss=see
-8	a-	a	PRON	_	Person=4|PronType=ProSubj	9	subj/m	_	AlignBegin=13227|AlignEnd=13474|Gloss=4|SpaceAfter=No|wordform=an
+8	a-	a	PRON	_	Person=4|PronType=ProSubj	9	subj/m	_	AlignBegin=13227|AlignEnd=13474|Gloss=4|SpacesAfter=No|wordform=an
 9	n	aː	AUX	_	Aspect=Perf|Number=Plur	7	comp:obj	_	Gloss=Perf.Plur|wordform=n=
 10	cêː	cêː	VERB	_	_	9	comp:aux	_	AlignBegin=13474|AlignEnd=13721|Gloss=say
 11	ƴa	ɗaː	NOUN	_	Number=Plur	16	subj	_	AlignBegin=13721|AlignEnd=13845|Compound=Yes|Gloss=child.Plur|wordform=ƴan
-12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem|SpaceBefore=No
+12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
 13	es-ès	es-ès	PROPN	_	_	12	comp	_	AlignBegin=13968|AlignEnd=14215|Gloss=SS|Lang=en
 14	hakà	hakà	ADV	_	_	11	mod	_	AlignBegin=14215|AlignEnd=14462|Gloss=like_this
-15	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	16	subj/m	_	AlignBegin=14462|AlignEnd=14709|Gloss=3Plur|SpaceAfter=No|wordform=sù
+15	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	16	subj/m	_	AlignBegin=14462|AlignEnd=14709|Gloss=3Plur|SpacesAfter=No|wordform=sù
 16	_̀	_̀	AUX	_	Mood=Sub	10	comp:obj	_	Gloss=Sub|wordform=_̀=
 17	shìga	shìg-	VERB	_	_	16	comp:aux	_	AlignBegin=14709|AlignEnd=14956|Gloss=enter
 18	ajìː	ajìː	NOUN	_	_	17	comp:obj@G	_	AlignBegin=14956|AlignEnd=15203|Gloss=classroom
@@ -84,14 +84,14 @@
 # text = sai ya cêː tòː shiː maː bàri yà tàfi //
 # text_en = Then he said well he should go.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=16328|AlignEnd=16584|Gloss=then
-2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	3	subj/m	_	AlignBegin=16584|AlignEnd=16840|Gloss=3Masc|SpaceAfter=No|wordform=ya
+2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	3	subj/m	_	AlignBegin=16584|AlignEnd=16840|Gloss=3Masc|SpacesAfter=No|wordform=ya
 3	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=16840|AlignEnd=17097|Gloss=say
 5	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=17097|AlignEnd=17285|Gloss=well
 6	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated	_	AlignBegin=17285|AlignEnd=17473|Gloss=3Masc.Nom
 7	maː	maː	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=17473|AlignEnd=17661|Gloss=even
 8	bàri	barìː	VERB	_	_	4	comp:obj	_	AlignBegin=17661|AlignEnd=17849|Gloss=let.Jus
-9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	10	subj/m	_	AlignBegin=17849|AlignEnd=18037|Gloss=3Masc|SpaceAfter=No|wordform=yà
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	10	subj/m	_	AlignBegin=17849|AlignEnd=18037|Gloss=3Masc|SpacesAfter=No|wordform=yà
 10	_̀	_̀	AUX	_	Mood=Sub	8	comp:obj	_	Gloss=Sub|wordform=_̀=
 11	tàfi	tàfi	VERB	_	_	10	comp:aux	_	AlignBegin=18037|AlignEnd=18228|Gloss=go
 12	//	//	PUNCT	_	_	3	punct	_	AlignBegin=18037|AlignEnd=18228|Gloss=PUNCT
@@ -108,7 +108,7 @@
 3	à	à	ADP	_	_	0	root	_	AlignBegin=18712|AlignEnd=18954|Gloss=at
 4	jiːniyo	jiːniyo	ADJ	_	Foreign=Yes	5	mod	_	AlignBegin=18954|AlignEnd=19196|Gloss=junior|Lang=en
 5	kilaːs	kilaːs	NOUN	_	Foreign=Yes	3	comp	_	AlignBegin=19196|AlignEnd=19438|Gloss=class|Lang=en
-6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=19438|AlignEnd=19680|Gloss=3Masc|SpaceAfter=No
+6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=19438|AlignEnd=19680|Gloss=3Masc|SpacesAfter=No
 7	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp:cleft	_	AlignBegin=19438|AlignEnd=19680|ClauseType=Cleft|Gloss=Prog.Rel|wordform=yakè
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=19680|AlignEnd=19925|Gloss=PUNCT
 
@@ -130,13 +130,13 @@
 # text = sai akà cêː mut~~ XX saurân duk sù tàttàfi ajìː //
 # text_en = Then they told us t.. all the others should go to their class.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=22711|AlignEnd=22936|Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=22936|AlignEnd=23161|Gloss=4|SpaceAfter=No|wordform=akà
+2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=22936|AlignEnd=23161|Gloss=4|SpacesAfter=No|wordform=akà
 3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=23161|AlignEnd=23386|Gloss=say
 5	mut~	X	X	_	_	6	reparandum	_	AlignBegin=23386|AlignEnd=23611|Gloss=X
 6	saurân	saurâː	NOUN	_	Definite=Def	4	comp:obj@R	_	AlignBegin=23836|AlignEnd=23968|Gloss=remainder.Def
 7	dus	dukà	PRON	_	PronType=Tot	9	subj	_	AlignBegin=24101|AlignEnd=24366|Gloss=all
-8	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	9	subj/m	_	AlignBegin=24366|AlignEnd=24631|Gloss=3Plur|SpaceAfter=No|wordform=sù
+8	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	9	subj/m	_	AlignBegin=24366|AlignEnd=24631|Gloss=3Plur|SpacesAfter=No|wordform=sù
 9	_̀	_̀	AUX	_	Mood=Sub	4	comp:obj@T	_	Gloss=Sub|wordform=_̀=
 10	tàttàfi	taf-	VERB	_	Number=Plur	9	comp:aux	_	AlignBegin=24631|AlignEnd=24896|Gloss=go.Plur
 11	ajìː	ajìː	NOUN	_	_	10	comp:obj@G	_	AlignBegin=24896|AlignEnd=25161|Gloss=classroom
@@ -150,13 +150,13 @@
 # text = sai akà cêː yà tsayàː Xc à dòːkeː shì //
 # text_en = Then they said he should stay, they will beat him.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=25766|AlignEnd=25957|Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=25957|AlignEnd=26148|Gloss=4|SpaceAfter=No|wordform=akà
+2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=25957|AlignEnd=26148|Gloss=4|SpacesAfter=No|wordform=akà
 3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=26148|AlignEnd=26339|Gloss=say
-5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	6	subj/m	_	AlignBegin=26339|AlignEnd=26530|Gloss=3Masc|SpaceAfter=No|wordform=yà
+5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	6	subj/m	_	AlignBegin=26339|AlignEnd=26530|Gloss=3Masc|SpacesAfter=No|wordform=yà
 6	_̀	_̀	AUX	_	Mood=Sub	4	comp:obj	_	Gloss=Sub|wordform=_̀=
 7	tsayàː	tsayàː	VERB	_	_	6	comp:aux	_	AlignBegin=26530|AlignEnd=26721|Gloss=stop
-8	a-	a	PRON	_	Person=4|PronType=ProSubj	9	subj/m	_	AlignBegin=26910|AlignEnd=27102|Gloss=4|SpaceAfter=No|wordform=à
+8	a-	a	PRON	_	Person=4|PronType=ProSubj	9	subj/m	_	AlignBegin=26910|AlignEnd=27102|Gloss=4|SpacesAfter=No|wordform=à
 9	_̀	_̀	AUX	_	Mood=Sub	6	parataxis:conj	_	Gloss=Sub|wordform=_̀=
 10	dòːkeː	doːk-	VERB	_	_	9	comp:aux	_	AlignBegin=27102|AlignEnd=27198|Gloss=beat
 11	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=27294|AlignEnd=27486|Gloss=3Masc
@@ -169,7 +169,7 @@
 # phonetic_text = ya cêː tòː / shiː maː / bà zâi yàr̃da ba //
 # text = ya cêː tòː / shiː maː / bà zâi yàr̃da ba //
 # text_en = He said well, he himself, he did not agree.
-1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	2	subj/m	_	AlignBegin=28197|AlignEnd=28305|Gloss=3Masc|SpaceAfter=No|wordform=ya
+1	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	2	subj/m	_	AlignBegin=28197|AlignEnd=28305|Gloss=3Masc|SpacesAfter=No|wordform=ya
 2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=28305|AlignEnd=28413|Gloss=say
 4	tòː	tòː	INTJ	_	_	8	discourse	_	AlignBegin=28413|AlignEnd=28521|Gloss=well
@@ -177,7 +177,7 @@
 6	maː	maː	PART	_	PartType=Top	5	discourse@top	_	AlignBegin=28789|AlignEnd=28951|Gloss=even
 7	bà	bà	PART	_	PartType=Neg|Polarity=Neg	8	mod	_	AlignBegin=29112|AlignEnd=29274|Gloss=Neg
 8	zâ	zâː	AUX	_	_	3	comp:obj	_	Gloss=Fut|wordform=zâ-
-9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	8	subj/m	_	AlignBegin=29274|AlignEnd=29436|Gloss=3Masc|SpaceBefore=No|wordform=zâi
+9	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	8	subj/m	_	AlignBegin=29274|AlignEnd=29436|Gloss=3Masc|SpacesBefore=No|wordform=zâi
 10	yàr̃da	yar̃d-	VERB	_	_	8	comp:aux	_	AlignBegin=29436|AlignEnd=29598|Gloss=agree
 11	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	AlignBegin=29598|AlignEnd=29760|Gloss=Neg
 12	//	//	PUNCT	_	_	2	punct	_	AlignBegin=29760|AlignEnd=29923|Gloss=PUNCT
@@ -190,7 +190,7 @@
 # text = sai sukà faːrà faɗàː dà maːlàm //
 # text_en = Then he started arguing with the teacher.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=30446|AlignEnd=30691|Gloss=then
-2	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=30691|AlignEnd=30936|Gloss=3Plur|SpaceAfter=No|wordform=sukà
+2	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=30691|AlignEnd=30936|Gloss=3Plur|SpacesAfter=No|wordform=sukà
 3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 4	faːrà	faːr-	VERB	_	_	3	comp:aux	_	AlignBegin=30936|AlignEnd=31181|Gloss=begin
 5	faɗàː	faɗàː	NOUN	_	_	4	comp:obj	_	AlignBegin=31181|AlignEnd=31426|Gloss=fighting
@@ -206,7 +206,7 @@
 # text = sai ya gudù //
 # text_en = Then he ran away.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=32890|AlignEnd=33103|Gloss=then
-2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	3	subj/m	_	AlignBegin=33103|AlignEnd=33316|Gloss=3Masc|SpaceAfter=No|wordform=ya
+2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	3	subj/m	_	AlignBegin=33103|AlignEnd=33316|Gloss=3Masc|SpacesAfter=No|wordform=ya
 3	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 4	gudù	gudù	VERB	_	_	3	comp:aux	_	AlignBegin=33316|AlignEnd=33529|Gloss=run
 5	//	//	PUNCT	_	_	3	punct	_	AlignBegin=33529|AlignEnd=33741|Gloss=PUNCT
@@ -220,7 +220,7 @@
 # text_en = Then the teacher followed him.
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=34151|AlignEnd=34355|Gloss=then
 2	maːlàmîn	maːlàmiː	NOUN	_	Definite=Def	4	subj	_	AlignBegin=34355|AlignEnd=34457|Gloss=teacher.Def
-3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=34559|AlignEnd=34763|Gloss=3Masc|SpaceAfter=No|wordform=ya
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=34559|AlignEnd=34763|Gloss=3Masc|SpacesAfter=No|wordform=ya
 4	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	biː	biː	VERB	_	_	4	comp:aux	_	AlignBegin=34763|AlignEnd=34967|Gloss=follow
 6	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=34967|AlignEnd=35171|Gloss=3Masc
@@ -235,12 +235,12 @@
 # text_en = When the teacher followed him, then they caught him.
 1	dà	dà	SCONJ	_	_	9	mod	_	AlignBegin=35971|AlignEnd=36169|Gloss=as
 2	maːlàmîn	maːlàmîː	NOUN	_	Definite=Def	4	subj	_	AlignBegin=36169|AlignEnd=36268|Gloss=teacher.Def
-3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=36367|AlignEnd=36565|Gloss=3Masc|SpaceAfter=No|wordform=ya
+3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=36367|AlignEnd=36565|Gloss=3Masc|SpacesAfter=No|wordform=ya
 4	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	1	comp	_	Gloss=Perf.Rel.Sing|wordform=_=
 5	biː	bi	VERB	_	_	4	comp:aux	_	AlignBegin=36565|AlignEnd=36763|Gloss=follow
 6	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=36763|AlignEnd=36961|Gloss=3Masc
 7	sai	sai	ADV	_	_	9	mod	_	AlignBegin=37719|AlignEnd=37988|Gloss=then
-8	a-	a	PRON	_	Person=4|PronType=ProSubj	9	subj/m	_	AlignBegin=37988|AlignEnd=38257|Gloss=4|SpaceAfter=No|wordform=akà
+8	a-	a	PRON	_	Person=4|PronType=ProSubj	9	subj/m	_	AlignBegin=37988|AlignEnd=38257|Gloss=4|SpacesAfter=No|wordform=akà
 9	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 10	kaːmoː	kaːm-	VERB	_	_	9	comp:aux	_	AlignBegin=38257|AlignEnd=38526|Gloss=catch.DIR
 11	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=38526|AlignEnd=38795|Gloss=3Masc
@@ -253,10 +253,10 @@
 # phonetic_text = akà sâː à yi laːyi // hakà //
 # text = akà sâː à yi laːyi // hakà //
 # text_en = They.. they formed a line Like this.
-1	a-	a	PRON	_	Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=39834|AlignEnd=40103|Gloss=4|SpaceAfter=No|wordform=akà
+1	a-	a	PRON	_	Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=39834|AlignEnd=40103|Gloss=4|SpacesAfter=No|wordform=akà
 2	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 3	sâː	sâː	VERB	_	_	2	comp:aux	_	AlignBegin=40103|AlignEnd=40372|Gloss=put
-4	a-	a	PRON	_	Person=4|PronType=ProSubj	5	subj/m	_	AlignBegin=40372|AlignEnd=40641|Gloss=4|SpaceAfter=No|wordform=à
+4	a-	a	PRON	_	Person=4|PronType=ProSubj	5	subj/m	_	AlignBegin=40372|AlignEnd=40641|Gloss=4|SpacesAfter=No|wordform=à
 5	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	Gloss=Sub|wordform=_̀=
 6	yi	yi	VERB	_	_	5	comp:aux	_	AlignBegin=40641|AlignEnd=40910|Gloss=do
 7	laːyi	laːyi	NOUN	_	_	6	comp:obj	_	AlignBegin=40910|AlignEnd=41179|Gloss=line|Lang=en
@@ -271,14 +271,14 @@
 # text = sai akà ji ta duːkàn =shì akà yi mishì ciːwòː //
 # text_en = Then they kept beating him until he was wounded.
 1	sai	sai	ADV	_	_	3	mod	_	AlignBegin=42662|AlignEnd=42875|Gloss=then
-2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=42875|AlignEnd=43088|Gloss=4|SpaceAfter=No|wordform=akà
+2	a-	a	PRON	_	Person=4|PronType=ProSubj	3	subj/m	_	AlignBegin=42875|AlignEnd=43088|Gloss=4|SpacesAfter=No|wordform=akà
 3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 4	yi	yi	VERB	_	_	3	comp:aux	_	AlignBegin=43088|AlignEnd=43301|Gloss=do
 5	ta	ta	PART	_	Aspect=Iter|PartType=Aspect	6	mod	_	AlignBegin=43301|AlignEnd=43514|Gloss=Iter
 6	duːkà	doːk-	VERB	_	ExtPos=NOUN|Person=3|VerbForm=Vnoun	4	comp:pred	_	AlignBegin=43514|AlignEnd=43585|Gloss=beat.Vnoun|wordform=duːkàː|wordfrom=duːkànshì
-7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen|SpaceBefore=No
-8	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
-9	a-	a	PRON	_	Person=4|PronType=ProSubj	10	subj/m	_	AlignBegin=44170|AlignEnd=44400|Gloss=4|SpaceAfter=No|wordform=akà
+7	-n	na	PART	_	Case=Gen|PartType=Case	6	udep/m	_	Gloss=Gen|SpacesBefore=No
+8	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	7	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
+9	a-	a	PRON	_	Person=4|PronType=ProSubj	10	subj/m	_	AlignBegin=44170|AlignEnd=44400|Gloss=4|SpacesAfter=No|wordform=akà
 10	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	3	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=kà=
 11	ji	ji	VERB	_	_	10	comp:aux	_	AlignBegin=44400|AlignEnd=44630|Gloss=feel
 12	mishì	mishì	PRON	_	Case=Dat|Gender=Masc|Person=3|PronType=Prs	11	comp:obl	_	AlignBegin=44630|AlignEnd=44860|Gloss=3Masc.Dat
@@ -294,9 +294,9 @@
 # text_en = Then his parents came.
 1	sai	sai	ADV	_	_	6	mod	_	AlignBegin=46007|AlignEnd=46276|Gloss=then
 2	iyàːye	iyàːyeː	NOUN	_	_	6	dislocated@subj	_	AlignBegin=46276|AlignEnd=46366|Gloss=relatives|wordform=iyàːyen|wordfrom=iyàːyenshì
-3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
-4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
-5	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	6	subj/m	_	AlignBegin=46545|AlignEnd=46814|Gloss=3Plur|SpaceAfter=No|wordform=sukà
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpacesBefore=No
+4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
+5	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	6	subj/m	_	AlignBegin=46545|AlignEnd=46814|Gloss=3Plur|SpacesAfter=No|wordform=sukà
 6	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	AlignBegin=46814|AlignEnd=47083|Gloss=come
 8	//	//	PUNCT	_	_	6	punct	_	AlignBegin=47083|AlignEnd=47350|Gloss=PUNCT
@@ -310,21 +310,21 @@
 # text_en = When his parents arrived, then they asked why are they beating him like this?
 1	dà	dà	SCONJ	_	_	10	mod	_	AlignBegin=49023|AlignEnd=49258|Gloss=as
 2	iyàːye	iyàːyeː	NOUN	_	_	6	subj	_	AlignBegin=49258|AlignEnd=49336|Gloss=relatives|wordform=iyàːyen|wordfrom=iyàːyenshì
-3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpaceBefore=No
-4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpaceBefore=No
-5	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	6	subj/m	_	AlignBegin=49493|AlignEnd=49728|Gloss=3Plur|SpaceAfter=No|wordform=sukà
+3	-n	na	PART	_	Case=Gen|PartType=Case	2	mod@poss/m	_	Gloss=Gen|SpacesBefore=No
+4	-shì	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	3	comp:obj/m	_	Gloss=3Masc.Gen|SpacesBefore=No
+5	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	6	subj/m	_	AlignBegin=49493|AlignEnd=49728|Gloss=3Plur|SpacesAfter=No|wordform=sukà
 6	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	1	comp	_	Gloss=Perf.Rel.Plur|wordform=kà=
 7	zoː	zoː	VERB	_	_	6	comp:aux	_	AlignBegin=49728|AlignEnd=49963|Gloss=come
 8	sai	sai	ADV	_	_	10	mod	_	AlignBegin=51160|AlignEnd=51368|Gloss=then
-9	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	10	subj/m	_	AlignBegin=51368|AlignEnd=51576|Gloss=3Plur|SpaceAfter=No|wordform=sukà
+9	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	10	subj/m	_	AlignBegin=51368|AlignEnd=51576|Gloss=3Plur|SpacesAfter=No|wordform=sukà
 10	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 11	cêː	cêː	VERB	_	_	10	comp:aux	_	AlignBegin=51784|AlignEnd=51992|Gloss=say
 12	mèː	mèː	PRON	_	PronType=Int	11	comp:obj	_	AlignBegin=51992|AlignEnd=52200|Gloss=what
-13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	14	subj/m	_	AlignBegin=52200|AlignEnd=52408|Gloss=3Masc|SpaceAfter=No|wordform=ya
+13	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	14	subj/m	_	AlignBegin=52200|AlignEnd=52408|Gloss=3Masc|SpacesAfter=No|wordform=ya
 14	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	12	comp:cleft	_	Gloss=Perf.Rel.Sing|wordform=_=
 15	yi	yi	VERB	_	_	14	comp:aux	_	AlignBegin=52408|AlignEnd=52616|ClauseType=Int|Gloss=do
 16	hakà	hakà	ADV	_	_	15	mod	_	AlignBegin=52616|AlignEnd=52824|Gloss=like_this
-17	a-	a	PRON	_	Person=4|PronType=ProSubj	18	subj/m	_	AlignBegin=52824|AlignEnd=53032|Gloss=4|SpaceAfter=No|wordform=akà
+17	a-	a	PRON	_	Person=4|PronType=ProSubj	18	subj/m	_	AlignBegin=52824|AlignEnd=53032|Gloss=4|SpacesAfter=No|wordform=akà
 18	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	14	parataxis:conj	_	Gloss=Perf.Rel.Plur|wordform=kà=
 19	dòːkeː	doːk-	VERB	_	_	18	comp:aux	_	AlignBegin=53032|AlignEnd=53136|Gloss=beat
 20	shì	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	19	comp:obj	_	AlignBegin=53240|AlignEnd=53448|Gloss=3Masc
@@ -339,20 +339,20 @@
 # text_en = Then the teachers said here is what he did, he was insolent.
 1	sai	sai	ADV	_	_	4	mod	_	AlignBegin=54652|AlignEnd=54904|Gloss=then
 2	màːlàmân	maːlàmiː	NOUN	_	Definite=Def|Number=Plur	4	dislocated@subj	_	AlignBegin=54904|AlignEnd=54988|Gloss=teacher.Plur.Def
-3	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	4	subj/m	_	AlignBegin=55156|AlignEnd=55408|Gloss=3Plur|SpaceAfter=No|wordform=sukà
+3	su-	su	PRON	_	Number=Plur|Person=4|PronType=ProSubj	4	subj/m	_	AlignBegin=55156|AlignEnd=55408|Gloss=3Plur|SpacesAfter=No|wordform=sukà
 4	kà	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Plur	0	root	_	Gloss=Perf.Rel.Plur|wordform=kà=
 5	cêː	cêː	VERB	_	_	4	comp:aux	_	AlignBegin=55408|AlignEnd=55660|Gloss=say
 6	gàː	gàː	PART	_	PartType=Pred	5	comp:obj	_	AlignBegin=55660|AlignEnd=55912|Gloss=here_is
 7	àbin	àbù	NOUN	_	Definite=Def	6	subj	_	AlignBegin=55912|AlignEnd=56038|Gloss=thing..Def|RelAnt=Yes
 8	dà	dà	SCONJ	_	_	7	mod@relcl	_	AlignBegin=56164|AlignEnd=56416|Gloss=CompRel|Relz=Word
-9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	10	subj/m	_	AlignBegin=56416|AlignEnd=56668|Gloss=3Masc|SpaceAfter=No|wordform=ya
+9	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	10	subj/m	_	AlignBegin=56416|AlignEnd=56668|Gloss=3Masc|SpacesAfter=No|wordform=ya
 10	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	8	comp	_	Gloss=Perf.Rel.Sing|Relz=Affix|wordform=_=
 11	yi	yi	VERB	_	_	10	comp:aux	_	AlignBegin=56668|AlignEnd=56920|ClauseType=Rel|Gloss=do|RelRole=pred
-12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	13	subj/m	_	AlignBegin=56920|AlignEnd=57172|Gloss=3Masc|SpaceAfter=No|wordform=yaː
+12	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	13	subj/m	_	AlignBegin=56920|AlignEnd=57172|Gloss=3Masc|SpacesAfter=No|wordform=yaː
 13	aː	aː	AUX	_	Aspect=Perf|Number=Sing	6	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=
 14	yi	yi	VERB	_	_	13	comp:aux	_	AlignBegin=57172|AlignEnd=57424|Gloss=do
 15	rashì	ras-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	comp:pred	_	AlignBegin=57424|AlignEnd=57550|Gloss=lack.Vnoun|wordform=rashìn
-16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen|SpaceBefore=No
+16	-n	na	PART	_	Case=Gen|PartType=Case	15	udep/m	_	Gloss=Gen|SpacesBefore=No
 17	tar̃biyyàː	tar̃biyyàː	NOUN	_	_	16	comp	_	AlignBegin=57676|AlignEnd=57928|Gloss=obedience
 18	//	//	PUNCT	_	_	4	punct	_	AlignBegin=57928|AlignEnd=58176|Gloss=PUNCT
 
