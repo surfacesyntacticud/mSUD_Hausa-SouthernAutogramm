@@ -3865,7 +3865,7 @@
 6	dai	dai	PART	_	PartType=Top	5	discourse@top	_	AlignBegin=448980|AlignEnd=449165|Gloss=indeed
 7	in	in	SCONJ	_	_	16	mod	_	AlignBegin=449165|AlignEnd=449350|Gloss=if
 8	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	9	subj/m	_	AlignBegin=449350|AlignEnd=449535|Gloss=2Plur|SpacesAfter=No
-9	kà	kèː	AUX	_	Aspect=Perf|Mood=Rel	7	comp	_	AlignBegin=449350|AlignEnd=449535|Gloss=Prog.Rel|wordform=kukà
+9	kà	kà	AUX	_	Aspect=Perf|Mood=Rel	7	comp	_	AlignBegin=449350|AlignEnd=449535|Gloss=Prog.Rel|wordform=kukà
 10	gamà	gamàː	VERB	_	_	9	comp:aux	_	AlignBegin=449535|AlignEnd=449720|Gloss=finish
 11	noːma	noːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	10	comp:obj	_	AlignBegin=449720|AlignEnd=449812|Compound=Yes|Gloss=farm.Vnoun|wordform=noːman
 12	-n	na	PART	_	Case=Gen|PartType=Case	11	udep/m	_	Gloss=Gen.Fem|SpacesBefore=No
@@ -3890,7 +3890,7 @@
 # text_en = When you finished rain season farming, you did dry season farming which brought money.
 1	ìdan	ìdan	SCONJ	_	_	8	mod	_	AlignBegin=451761|AlignEnd=451953|Gloss=if
 2	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	3	subj/m	_	AlignBegin=451953|AlignEnd=452145|Gloss=2Plur|SpacesAfter=No
-3	kà	kèː	AUX	_	Aspect=Perf|Mood=Rel	1	comp	_	AlignBegin=451953|AlignEnd=452145|Gloss=Prog.Rel|wordform=kukà
+3	kà	kà	AUX	_	Aspect=Perf|Mood=Rel	1	comp	_	AlignBegin=451953|AlignEnd=452145|Gloss=Perf.Rel|wordform=kukà
 4	gamà	gamàː	VERB	_	_	3	comp:aux	_	AlignBegin=452145|AlignEnd=452337|Gloss=finish
 5	noːman	noːmaː	NOUN	_	_	4	comp:obj	_	AlignBegin=452337|AlignEnd=452433|Gloss=farming
 6	kàːkaː	kàːkaː	NOUN	_	_	5	compound	_	AlignBegin=452529|AlignEnd=452721|Gloss=rain_season
