@@ -37,7 +37,7 @@
 1	dà	dà	ADP	_	_	0	root	_	AlignBegin=3070|AlignEnd=3232|Gloss=with
 2	niː	niː	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	1	comp	_	AlignBegin=3232|AlignEnd=3394|Gloss=1Sing.Nom
 3	a-	a	PRON	_	Person=4|PronType=Prs	4	subj/m	_	AlignBegin=3394|AlignEnd=3556|Gloss=4|SpacesAfter=No
-4	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	AlignBegin=3394|AlignEnd=3556|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akèː
+4	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	1	comp:cleft	_	AlignBegin=3394|AlignEnd=3556|ClauseType=Cleft|Gloss=Prog.Rel|wordform=akèː
 5	yîː	yi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:aux	_	AlignBegin=3556|AlignEnd=3718|Gloss=do.Vnoun
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=3718|AlignEnd=3881|Gloss=PUNCT
 
@@ -400,7 +400,7 @@
 5	àbin	àbù	NOUN	_	Definite=Def	11	dislocated@comp	_	AlignBegin=49352|AlignEnd=49444|Gloss=thing..Def|RelAnt=Yes
 6	dà	dà	SCONJ	_	_	5	mod@relcl	_	AlignBegin=49536|AlignEnd=49720|Gloss=CompRel|Relz=Word
 7	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	8	subj/m	_	AlignBegin=49720|AlignEnd=49904|Gloss=2Masc|SpacesAfter=No
-8	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp	_	AlignBegin=49720|AlignEnd=49904|ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=kakèː
+8	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	6	comp	_	AlignBegin=49720|AlignEnd=49904|ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=kakèː
 9	sôː	soː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:aux	_	AlignBegin=49904|AlignEnd=50088|Gloss=want.Vnoun|RelRole=obj
 10	k-	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	11	subj/m	_	AlignBegin=50088|AlignEnd=50272|Gloss=2Masc|SpacesAfter=No|wordform=kaː
 11	aː	aː	AUX	_	Aspect=Perf|Number=Sing	1	parataxis:conj	_	Gloss=Perf.Sing|wordform=aː=

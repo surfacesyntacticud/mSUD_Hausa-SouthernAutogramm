@@ -250,7 +250,7 @@
 5	keː	keː	PRON	_	Gender=Fem|Person=2|PronType=Prs	6	vocative	_	AlignBegin=33852|AlignEnd=34080|Gloss=2Fem.Nom
 6	mèː	mèː	PRON	_	PronType=Int	4	comp:obj	_	AlignBegin=34309|AlignEnd=34535|Gloss=what
 7	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=Prs	8	subj/m	_	AlignBegin=34535|AlignEnd=34761|Gloss=2Fem|SpacesAfter=No
-8	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:cleft	_	AlignBegin=34535|AlignEnd=34761|ClauseType=Int|Gloss=Prog.Rel|wordform=kikèː
+8	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	6	comp:cleft	_	AlignBegin=34535|AlignEnd=34761|ClauseType=Int|Gloss=Prog.Rel|wordform=kikèː
 9	neːmaː	neːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	8	comp:aux	_	AlignBegin=34761|AlignEnd=34987|Gloss=look_for.Vnoun
 10	?//	?//	PUNCT	_	_	3	punct	_	AlignBegin=34987|AlignEnd=35214|Gloss=PUNCT
 
@@ -1117,7 +1117,7 @@
 1	tàfiyàː	taf-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	2	dislocated@top	_	AlignBegin=129437|AlignEnd=129671|Gloss=go.Vnoun
 2	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	0	root	_	AlignBegin=129904|AlignEnd=130068|Gloss=3Masc.Nom
 3	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	4	subj/m	_	AlignBegin=130068|AlignEnd=130232|Gloss=3Masc|SpacesAfter=No
-4	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	2	comp:cleft	_	AlignBegin=130068|AlignEnd=130232|ClauseType=Cleft|Gloss=Prog.Rel|wordform=yakèː
+4	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	2	comp:cleft	_	AlignBegin=130068|AlignEnd=130232|ClauseType=Cleft|Gloss=Prog.Rel|wordform=yakèː
 5	sôː	sôː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:aux	_	AlignBegin=130232|AlignEnd=130396|Gloss=want.Vnoun
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=130396|AlignEnd=130562|Gloss=PUNCT
 

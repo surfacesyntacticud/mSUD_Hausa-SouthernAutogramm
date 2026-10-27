@@ -109,7 +109,7 @@
 4	jiːniyo	jiːniyo	ADJ	_	Foreign=Yes	5	mod	_	AlignBegin=18954|AlignEnd=19196|Gloss=junior|Lang=en
 5	kilaːs	kilaːs	NOUN	_	Foreign=Yes	3	comp	_	AlignBegin=19196|AlignEnd=19438|Gloss=class|Lang=en
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=19438|AlignEnd=19680|Gloss=3Masc|SpacesAfter=No
-7	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	3	comp:cleft	_	AlignBegin=19438|AlignEnd=19680|ClauseType=Cleft|Gloss=Prog.Rel|wordform=yakè
+7	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	3	comp:cleft	_	AlignBegin=19438|AlignEnd=19680|ClauseType=Cleft|Gloss=Prog.Rel|wordform=yakè
 8	//	//	PUNCT	_	_	3	punct	_	AlignBegin=19680|AlignEnd=19925|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_03_12-12

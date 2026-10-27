@@ -313,7 +313,7 @@
 4	dan	don	ADP	_	_	0	root	_	AlignBegin=35313|AlignEnd=35544|Gloss=because
 5	Allàː	Allàː	PROPN	_	_	4	comp	_	AlignBegin=35544|AlignEnd=35775|Gloss=God|wordform=allàː
 6	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=35775|AlignEnd=36006|Gloss=3Plur|SpacesAfter=No
-7	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	AlignBegin=35775|AlignEnd=36006|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukèː
+7	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	AlignBegin=35775|AlignEnd=36006|ClauseType=Cleft|Gloss=Prog.Rel|wordform=sukèː
 8	yîː	yi	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	7	comp:aux	_	AlignBegin=36006|AlignEnd=36237|Gloss=do.Vnoun
 9	ba	ba	PART	_	PartType=Neg|Polarity=Neg	4	mod	_	AlignBegin=36237|AlignEnd=36468|Gloss=Neg
 10	//	//	PUNCT	_	_	4	punct	_	AlignBegin=36468|AlignEnd=36700|Gloss=PUNCT
@@ -2389,7 +2389,7 @@
 4	cêː	cêː	VERB	_	_	3	comp:aux	_	AlignBegin=280542|AlignEnd=280654|Gloss=say
 5	mèː	mèː	PRON	_	PronType=Int	4	comp:obj	_	AlignBegin=280767|AlignEnd=280948|Gloss=what
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=280948|AlignEnd=281129|Gloss=3Masc|SpacesAfter=No
-7	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	5	comp:cleft	_	AlignBegin=280948|AlignEnd=281129|ClauseType=Int|Gloss=Prog.Rel|wordform=yakèː
+7	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	5	comp:cleft	_	AlignBegin=280948|AlignEnd=281129|ClauseType=Int|Gloss=Prog.Rel|wordform=yakèː
 8	checking	checking	VERB	_	Foreign=Yes	7	comp:aux	_	AlignBegin=281129|AlignEnd=281310|Gloss=checking|Lang=en
 9	//	//	PUNCT	_	_	3	punct	_	AlignBegin=281310|AlignEnd=281491|Gloss=PUNCT
 
