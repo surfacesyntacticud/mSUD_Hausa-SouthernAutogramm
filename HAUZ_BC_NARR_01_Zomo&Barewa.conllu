@@ -99,7 +99,7 @@
 5	zoːmoː	zoːmoː	NOUN	_	_	7	subj	_	AlignBegin=15278|AlignEnd=15524|Gloss=Rabbit
 6	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=15524|AlignEnd=15770|Gloss=3Masc|SpacesAfter=No
 7	nàː	nàː	AUX	_	Aspect=Prog	4	comp:obj	_	AlignBegin=15524|AlignEnd=15770|Gloss=Prog|wordform=yanàː
-8	kwànce	kwant-	VERB	_	ExtPos=ADV|VerbForm=Part	7	comp:pred	_	AlignBegin=15770|AlignEnd=16016|Gloss=lie.Part
+8	kwànce	kwant-	VERB	_	ExtPos=ADV|VerbForm=Part	7	comp:aux	_	AlignBegin=15770|AlignEnd=16016|Gloss=lie.Part
 9	<	<	PUNCT	_	_	1	punct	_	AlignBegin=16016|AlignEnd=16262|Gloss=PUNCT
 10	sai	sai	ADV	_	_	12	mod	_	AlignBegin=17100|AlignEnd=17302|Gloss=then
 11	ta-	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	12	subj/m	_	AlignBegin=17302|AlignEnd=17504|Gloss=3Fem|SpacesAfter=No|wordform=ta
@@ -466,15 +466,15 @@
 3	shiːkèːnan	shiːkèːnaː	INTJ	_	_	5	discourse	_	AlignBegin=54939|AlignEnd=55050|Gloss=OK|wordform=shiː
 4	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	5	subj/m	_	AlignBegin=55383|AlignEnd=55542|Gloss=3Plur|SpacesAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=55383|AlignEnd=55542|Gloss=Prog|wordform=sunàː
-6	tàfe	taf-	VERB	_	ExtPos=ADV|VerbForm=Part	5	comp:pred	_	AlignBegin=55542|AlignEnd=55701|Gloss=go.Part
+6	tàfe	taf-	VERB	_	ExtPos=ADV|VerbForm=Part	5	comp:aux	_	AlignBegin=55542|AlignEnd=55701|Gloss=go.Part
 7	dai	dai	PART	_	PartType=Top	6	discourse@top	_	AlignBegin=55701|AlignEnd=55860|Gloss=indeed
 8	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	9	subj/m	_	AlignBegin=56019|AlignEnd=56185|Gloss=3Plur|SpacesAfter=No
 9	nàː	nàː	AUX	_	Aspect=Prog	5	conj:redup	_	AlignBegin=56019|AlignEnd=56185|Gloss=Prog|wordform=sunàː
-10	tàfe	taf-	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:pred	_	AlignBegin=56185|AlignEnd=56351|Gloss=go.Part
+10	tàfe	taf-	VERB	_	ExtPos=ADV|VerbForm=Part	9	comp:aux	_	AlignBegin=56185|AlignEnd=56351|Gloss=go.Part
 11	dai	dai	PART	_	PartType=Top	10	discourse@top	_	AlignBegin=56351|AlignEnd=56517|Gloss=indeed
 12	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	13	subj/m	_	AlignBegin=56681|AlignEnd=56875|Gloss=3Plur|SpacesAfter=No
 13	nàː	nàː	AUX	_	Aspect=Prog	9	conj:redup	_	AlignBegin=56681|AlignEnd=56875|Gloss=Prog|wordform=sunàː
-14	tàfe	taf-	VERB	_	ExtPos=ADV|VerbForm=Part	13	comp:pred	_	AlignBegin=56875|AlignEnd=57069|Gloss=go.Part
+14	tàfe	taf-	VERB	_	ExtPos=ADV|VerbForm=Part	13	comp:aux	_	AlignBegin=56875|AlignEnd=57069|Gloss=go.Part
 15	dai	dai	PART	_	PartType=Top	14	discourse@top	_	AlignBegin=57069|AlignEnd=57263|Gloss=indeed
 16	bà	bà	AUX	_	Aspect=Perf|Polarity=Neg	13	parataxis:conj	_	Gloss=Neg.Perf|wordform=bà-
 17	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	16	subj/m	_	AlignBegin=58029|AlignEnd=58249|Gloss=-3Plur|SpacesBefore=No|wordform=bàsù
@@ -2453,7 +2453,7 @@
 1	tòː	tòː	INTJ	_	_	2	discourse	_	AlignBegin=270530|AlignEnd=270734|Gloss=well
 2	bâː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	AlignBegin=270734|AlignEnd=270938|Gloss=there_is.Neg
 3	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	2	subj	_	AlignBegin=270938|AlignEnd=271142|Gloss=3Masc
-4	dà	dà	ADP	_	_	2	comp:loc	_	AlignBegin=271142|AlignEnd=271346|Gloss=with
+4	dà	dà	ADP	_	_	2	comp:pred	_	AlignBegin=271142|AlignEnd=271346|Gloss=with
 5	kuma	kuma	PART	_	PartType=Top	4	discourse@top	_	AlignBegin=271346|AlignEnd=271550|Gloss=also
 6	mài	mài	PART	_	Number=Sing|PartType=Der	4	comp	_	AlignBegin=271550|AlignEnd=271754|Gloss=owner_of.Sing|Linker=Yes
 7	tàimakoː	tàimakoː	NOUN	_	_	6	compound	_	AlignBegin=271754|AlignEnd=271958|Gloss=helping

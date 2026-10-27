@@ -214,7 +214,7 @@
 29	wandà	wandà	PRON	_	PronType=Rel	28	mod@relcl	_	AlignBegin=28085|AlignEnd=28297|Gloss=who.Rel|Relz=Word
 30	ni	ni	PRON	_	Number=Sing|Person=1	31	subj	_	AlignBegin=28297|AlignEnd=28509|Gloss=1Sing
 31	kèː	nàː	AUX	_	Aspect=Prog	29	comp	_	AlignBegin=28297|AlignEnd=28509|ClauseType=Rel|Gloss=Prog.Rel2|Relative=Variante
-32	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	31	comp:pred	_	AlignBegin=28509|AlignEnd=28721|Gloss=stay.Part
+32	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	31	comp:aux	_	AlignBegin=28509|AlignEnd=28721|Gloss=stay.Part
 33	à	à	ADP	_	_	32	comp:obl	_	AlignBegin=28721|AlignEnd=28933|Gloss=at
 34	waje	wajeː	NOUN	_	_	33	comp	_	AlignBegin=28933|AlignEnd=29039|Gloss=side|wordform=wajen|wordfrom=wajenshì
 35	-n	na	PART	_	Case=Gen|PartType=Case	34	mod@poss/m	_	Gloss=Gen|SpacesBefore=No
@@ -1162,7 +1162,7 @@
 16	wandà	wandà	PRON	_	PronType=Rel	13	mod@relcl	_	AlignBegin=118354|AlignEnd=118492|Gloss=which.Rel|Relz=Word
 17	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=Prs	18	subj/m	_	AlignBegin=118492|AlignEnd=118630|Gloss=1Plur|SpacesAfter=No
 18	kè	kè	AUX	_	Copula=Yes|Mood=Rel	16	comp	_	AlignBegin=118492|AlignEnd=118630|ClauseType=Rel|Gloss=be.Rel2|Relz=Affix|wordform=mukè
-19	dà	dà	ADP	_	_	18	comp:loc	_	AlignBegin=118630|AlignEnd=118768|Gloss=with
+19	dà	dà	ADP	_	_	18	comp:pred	_	AlignBegin=118630|AlignEnd=118768|Gloss=with
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	comp	_	AlignBegin=118768|AlignEnd=118906|Gloss=3Masc.Nom|RelPos=Yes
 21	>	>	PUNCT	_	_	22	punct	_	AlignBegin=118906|AlignEnd=119048|Gloss=PUNCT
 22	kàmar̃	kàmar̃	ADP	_	_	13	mod	_	AlignBegin=119048|AlignEnd=119274|Gloss=like
@@ -1626,7 +1626,7 @@
 4	wandà	wandà	PRON	_	PronType=Rel	3	mod@relcl	_	AlignBegin=158096|AlignEnd=158283|Gloss=who.Rel|Relz=Word
 5	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=Prs	6	subj/m	_	AlignBegin=158283|AlignEnd=158470|Gloss=2Masc|SpacesAfter=No
 6	kèː	kèː	AUX	_	Aspect=Prog|Mood=Rel	4	comp	_	AlignBegin=158283|AlignEnd=158470|ClauseType=Rel|Gloss=Prog.Rel|Relz=Affix|wordform=ka
-7	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	6	comp:pred	_	AlignBegin=158470|AlignEnd=158657|Gloss=stay.Part
+7	zàune	zaun-	VERB	_	ExtPos=ADV|VerbForm=Part	6	comp:aux	_	AlignBegin=158470|AlignEnd=158657|Gloss=stay.Part
 8	à	à	ADP	_	_	7	comp:obl	_	AlignBegin=158657|AlignEnd=158844|Gloss=at
 9	wuri	wuriː	NOUN	_	_	8	comp	_	AlignBegin=158844|AlignEnd=158906|Gloss=place|wordform=wuriː|wordfrom=wurinshì
 10	-n	na	PART	_	Case=Gen|PartType=Case	9	mod@poss/m	_	Gloss=Gen|SpacesBefore=No
@@ -1679,7 +1679,7 @@
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	AlignBegin=162663|AlignEnd=162832|Gloss=CompRel|Relz=Word
 5	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	6	subj/m	_	AlignBegin=162832|AlignEnd=163001|Gloss=2Plur|SpacesAfter=No
 6	kè	kè	AUX	_	Copula=Yes|Mood=Rel	4	comp	_	AlignBegin=162832|AlignEnd=163001|ClauseType=Rel|Gloss=be.Rel2|Relz=Affix|wordform=kukè
-7	dà	dà	ADP	_	_	6	comp:loc	_	AlignBegin=163001|AlignEnd=163170|Gloss=with
+7	dà	dà	ADP	_	_	6	comp:pred	_	AlignBegin=163001|AlignEnd=163170|Gloss=with
 8	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp	_	AlignBegin=163170|AlignEnd=163339|Gloss=3Masc.Nom|RelPos=Yes
 9	yànzu	yànzu	ADV	_	_	6	mod	_	AlignBegin=163339|AlignEnd=163508|Gloss=now
 10	<	<	PUNCT	_	_	3	punct	_	AlignBegin=163508|AlignEnd=163680|Gloss=PUNCT
@@ -3004,7 +3004,7 @@
 # text_en = There is no town that people of another town would go and pick up a fight with.
 1	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg|wordform=baːà
 2	-'à	a	PRON	_	Person=4|PronType=ProSubj	1	subj/m	_	AlignBegin=290215|AlignEnd=290359|Gloss=-4|SpacesBefore=No|wordform=baː'à
-3	dà	dà	CCONJ	_	_	1	comp:loc	_	AlignBegin=290359|AlignEnd=290503|Gloss=with
+3	dà	dà	CCONJ	_	_	1	comp:pred	_	AlignBegin=290359|AlignEnd=290503|Gloss=with
 4	wannàn	nân	DET	_	Deixis=ProxS|Gender=Masc|PronType=Dem	5	det	_	AlignBegin=290503|AlignEnd=290647|Gloss=ProxS.Masc
 5	gàriː	gàriː	NOUN	_	_	3	comp:obj	_	AlignBegin=290647|AlignEnd=290791|Gloss=town|RelAnt=Yes
 6	dà	dà	CCONJ	_	_	5	mod@relcl	_	AlignBegin=290791|AlignEnd=290935|Gloss=CompRel|Relz=Word

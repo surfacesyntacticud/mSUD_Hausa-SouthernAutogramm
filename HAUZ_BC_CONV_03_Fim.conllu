@@ -269,7 +269,7 @@
 3	Piːsìː	Piːsìː	PROPN	_	_	2	flat@name	_	AlignBegin=31417|AlignEnd=31651|Gloss=P.C
 4	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg|wordform=baːyà
 5	-yà	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=31651|AlignEnd=31768|Gloss=-3Masc|SpacesBefore=No|wordform=baːyà
-6	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	comp:loc	_	AlignBegin=31885|AlignEnd=32119|Gloss=PreRef|PreRef=Yes
+6	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	comp:pred	_	AlignBegin=31885|AlignEnd=32119|Gloss=PreRef|PreRef=Yes
 7	koː	koː	PART	_	PartType=Disc	4	discourse	_	AlignBegin=32119|AlignEnd=32353|Gloss=or
 8	?//	?//	PUNCT	_	_	4	punct	_	AlignBegin=32353|AlignEnd=32590|Gloss=PUNCT
 
@@ -1686,7 +1686,7 @@
 7	kè	neː	AUX	_	Copula=Yes|Mood=Rel	5	comp	_	AlignBegin=199115|AlignEnd=199317|ClauseType=Rel|Gloss=be.Rel2|InIdiom=Yes|RelRole=subj|Relz=Affix
 8	baː	baːbù	PART	_	PartType=Pred|Polarity=Neg	0	root	_	Gloss=there_is.Neg|wordform=baːyà
 9	-yà	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	8	subj/m	_	AlignBegin=199317|AlignEnd=199519|Gloss=-3Masc|SpacesBefore=No|wordform=baːyà
-10	dà	dà	ADP	_	_	8	comp:loc	_	AlignBegin=199519|AlignEnd=199721|Gloss=with
+10	dà	dà	ADP	_	_	8	comp:pred	_	AlignBegin=199519|AlignEnd=199721|Gloss=with
 11	hakìː	hakìː	NOUN	_	_	10	comp	_	AlignBegin=199721|AlignEnd=199923|Gloss=grass
 12	//	//	PUNCT	_	_	8	punct	_	AlignBegin=199923|AlignEnd=200126|Gloss=PUNCT
 
@@ -2960,7 +2960,7 @@
 5	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	Gloss=Sub|wordform=_̀=
 6	bâː	baːbù	PART	_	PartType=Pred	5	comp:aux	_	AlignBegin=337415|AlignEnd=337536|Gloss=there_is.Neg
 7	wân	wâː	NOUN	_	Definite=Def	6	comp:obj@R	_	AlignBegin=337536|AlignEnd=337596|Gloss=elder_brother.Def|wordform=wâː
-8	gaːdò	gaːdòː	NOUN	_	_	6	comp:loc	_	AlignBegin=338105|AlignEnd=338223|Gloss=inheritance|wordform=gaːdònshi
+8	gaːdò	gaːdòː	NOUN	_	_	6	comp:pred	_	AlignBegin=338105|AlignEnd=338223|Gloss=inheritance|wordform=gaːdònshi
 9	-n	na	PART	_	Case=Gen|PartType=Case	8	mod@poss/m	_	Gloss=Gen|SpacesBefore=No
 10	-shi	-shì	PRON	_	Case=Gen|Gender=Masc|Person=3|PronType=Prs	9	comp	_	Gloss=3Masc.Gen|SpacesBefore=No
 11	//	//	PUNCT	_	_	2	punct	_	AlignBegin=338577|AlignEnd=338812|Gloss=PUNCT
