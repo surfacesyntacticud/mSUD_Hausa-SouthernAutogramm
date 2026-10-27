@@ -348,7 +348,7 @@
 5	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	4	comp:pred	_	AlignBegin=40033|AlignEnd=40213|Gloss=PreRef|PreRef=Yes
 6	ai	ai	INTJ	_	_	1	discourse	_	AlignBegin=40213|AlignEnd=40393|Gloss=eh
 7	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
-8	-sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	7	subj/m	_	AlignBegin=40393|AlignEnd=40573|Gloss=3Plur|SpacesBefore=No|wordform=zaːsù
+8	sù	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	7	subj	_	AlignBegin=40393|AlignEnd=40573|Gloss=3Plur|SpacesBefore=No|wordform=zaːsù
 9	zoː	zoː	VERB	_	_	7	comp:aux	_	AlignBegin=40573|AlignEnd=40753|Gloss=come
 10	su-	su	PRON	_	Number=Plur|Person=3|PronType=ProSubj	11	subj/m	_	AlignBegin=40753|AlignEnd=40933|Gloss=3Plur|SpacesAfter=No|wordform=sù
 11	_̀	_̀	AUX	_	Mood=Sub	7	conj:coord	_	Gloss=Sub|wordform=_̀=
@@ -374,7 +374,7 @@
 # text_en = Well will you go to school tomorrow?
 1	tòː	tòː	INTJ	_	_	2	discourse	_	AlignBegin=42290|AlignEnd=42562|Gloss=well
 2	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
-3	-kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=ProSubj	2	subj/m	_	AlignBegin=42562|AlignEnd=42834|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
+3	kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=ProSubj	2	subj	_	AlignBegin=42562|AlignEnd=42834|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
 4	zoː	zoː	VERB	_	_	2	comp:aux	_	AlignBegin=42834|AlignEnd=43106|Gloss=come
 5	makar̃antaː	makar̃antaː	NOUN	_	_	4	comp:obj@G	_	AlignBegin=43106|AlignEnd=43378|Gloss=school
 6	gòːbe	gòːbe	ADV	_	_	4	mod	_	AlignBegin=43378|AlignEnd=43650|Gloss=tomorrow
@@ -450,7 +450,7 @@
 7	//=	//=	PUNCT	_	_	9	punct	_	AlignBegin=50330|AlignEnd=50493|Gloss=PUNCT
 8	keː	keː	PRON	_	Gender=Fem|Person=2|PronType=Prs	11	vocative	_	AlignBegin=50493|AlignEnd=50656|Gloss=2Fem.Nom
 9	zâː	zâː	AUX	_	Tense=Fut	2	parataxis:conj	_	Gloss=Fut|wordform=zaː-
-10	-kì	ki	PRON	_	Gender=Fem|Person=2|PronType=ProSubj	9	subj/m	_	AlignBegin=50656|AlignEnd=50819|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
+10	kì	ki	PRON	_	Gender=Fem|Person=2|PronType=ProSubj	9	subj	_	AlignBegin=50656|AlignEnd=50819|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
 11	zoː	zoː	VERB	_	_	9	comp:aux	_	AlignBegin=50982|AlignEnd=51145|Gloss=come
 12	?//	?//	PUNCT	_	_	2	punct	_	AlignBegin=51145|AlignEnd=51312|Gloss=PUNCT
 
@@ -507,7 +507,7 @@
 5	<	<	PUNCT	_	_	2	punct	_	AlignBegin=57130|AlignEnd=57299|Gloss=PUNCT
 6	ìnaː	ìnaː	ADV	_	PronType=Int	0	root	_	AlignBegin=57667|AlignEnd=57856|Gloss=where
 7	zâː	zâː	AUX	_	Tense=Fut	6	comp:cleft	_	Gloss=Fut|wordform=zaː-
-8	-kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=ProSubj	7	subj/m	_	AlignBegin=57856|AlignEnd=58045|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
+8	kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=ProSubj	7	subj	_	AlignBegin=57856|AlignEnd=58045|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
 9	jeː	jeː	VERB	_	_	7	comp:aux	_	AlignBegin=58045|AlignEnd=58234|ClauseType=Int|Gloss=go
 10	?//	?//	PUNCT	_	_	6	punct	_	AlignBegin=58234|AlignEnd=58422|Gloss=PUNCT
 
@@ -1256,7 +1256,7 @@
 # text = zaːkì jeː ?//
 # text_en = Will you go?
 1	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
-2	-kì	ki	PRON	_	Gender=Fem|Person=2|PronType=ProSubj	1	subj/m	_	AlignBegin=148818|AlignEnd=148993|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
+2	kì	ki	PRON	_	Gender=Fem|Person=2|PronType=ProSubj	1	subj	_	AlignBegin=148818|AlignEnd=148993|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
 3	jeː	jeː	VERB	_	_	1	comp:aux	_	AlignBegin=149168|AlignEnd=149343|Gloss=go
 4	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=149343|AlignEnd=149518|Gloss=PUNCT
 
@@ -1297,7 +1297,7 @@
 2	ƙarfèː	ƙarfèː	NOUN	_	_	1	comp	_	AlignBegin=154415|AlignEnd=154605|Gloss=o'_clock
 3	nawà	nawà	NUM	_	PronType=Int	2	det	_	AlignBegin=154605|AlignEnd=154795|Gloss=how_many
 4	zâː	zâː	AUX	_	Tense=Fut	1	comp:cleft	_	Gloss=Fut|wordform=zaː-
-5	-mù	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	4	subj/m	_	AlignBegin=154795|AlignEnd=154985|Gloss=1Plur|SpacesBefore=No|wordform=zaːmù
+5	mù	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	4	subj	_	AlignBegin=154795|AlignEnd=154985|Gloss=1Plur|SpacesBefore=No|wordform=zaːmù
 6	jeː	jeː	VERB	_	_	4	comp:aux	_	AlignBegin=154985|AlignEnd=155175|ClauseType=Cleft|Gloss=go
 7	?//	?//	PUNCT	_	_	1	punct	_	AlignBegin=155175|AlignEnd=155367|Gloss=PUNCT
 
@@ -2050,7 +2050,7 @@
 # text_en = Just as she was going to give the thing [...], they drove her away.
 1	bà	bà	PART	_	PartType=Neg|Polarity=Neg	2	discourse	_	AlignBegin=238050|AlignEnd=238255|Gloss=Neg
 2	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
-3	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	2	subj/m	_	AlignBegin=238255|AlignEnd=238460|Gloss=3Fem|SpacesBefore=No|wordform=zaːtà
+3	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	2	subj	_	AlignBegin=238255|AlignEnd=238460|Gloss=3Fem|SpacesBefore=No|wordform=zaːtà
 4	baːdàː	baː	VERB	_	_	2	comp:aux	_	AlignBegin=238460|AlignEnd=238665|Gloss=give.Cau
 5	àbîn	àbù	NOUN	_	Definite=Def	4	comp:obj	_	AlignBegin=238665|AlignEnd=238767|Gloss=thing.Def|wordform=àbù
 6	nan	nan	DET	_	Deixis=ProxH|PronType=Dem	5	det	_	AlignBegin=238870|AlignEnd=239075|Gloss=PreRef|PreRef=Yes
@@ -2879,7 +2879,7 @@
 5	koːmàː	koːm-	VERB	_	_	4	comp:aux	_	AlignBegin=328116|AlignEnd=328305|Gloss=go_back
 6	ƙauyèn	ƙauyèː	NOUN	_	Definite=Def	5	comp:obj@G	_	AlignBegin=328305|AlignEnd=328399|Gloss=village.Def|wordform=ƙauyèː
 7	zaː	zâː	AUX	_	_	0	root	_	Gloss=Fut|wordform=zaː-
-8	-'à	a	PRON	_	Person=4|PronType=ProSubj	7	subj/m	_	AlignBegin=328494|AlignEnd=328683|Gloss=4|SpacesBefore=No|wordform=zaːʼà
+8	'à	a	PRON	_	Person=4|PronType=ProSubj	7	subj	_	AlignBegin=328494|AlignEnd=328683|Gloss=4|SpacesBefore=No|wordform=zaːʼà
 9	kashèː	kas-	VERB	_	_	7	comp:aux	_	AlignBegin=328683|AlignEnd=328872|Gloss=kill
 10	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=Prs	9	mod	_	AlignBegin=328872|AlignEnd=329061|Gloss=3Fem
 11	//	//	PUNCT	_	_	7	punct	_	AlignBegin=329061|AlignEnd=329247|Gloss=PUNCT
@@ -3563,7 +3563,7 @@
 12	wai	wai	PART	_	Evident=Nfh|PartType=Evident	14	discourse	_	AlignBegin=404040|AlignEnd=404244|Gloss=reportedly
 13	<	<	PUNCT	_	_	12	punct	_	AlignBegin=404244|AlignEnd=404448|Gloss=PUNCT
 14	baː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	5	comp:obj	_	Gloss=Neg.Prog
-15	-ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	14	subj/m	_	AlignBegin=404861|AlignEnd=405055|Gloss=-3Fem|SpacesBefore=No|wordform=baːtà
+15	ta	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	14	subj	_	AlignBegin=404861|AlignEnd=405055|Gloss=-3Fem|SpacesBefore=No|wordform=baːtà
 16	iyàː	iyàː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	14	comp:aux	_	AlignBegin=405055|AlignEnd=405249|Gloss=can.Vnoun
 17	ba	ba	PART	_	PartType=Neg|Polarity=Neg	16	mod	_	AlignBegin=405249|AlignEnd=405443|Gloss=Neg
 18	//	//	PUNCT	_	_	4	punct	_	AlignBegin=405443|AlignEnd=405636|Gloss=PUNCT
@@ -3579,7 +3579,7 @@
 2	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|wordform=_=
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=406548|AlignEnd=406621|Gloss=say
 4	baː	bâː	AUX	_	Aspect=Prog|Polarity=Neg	3	comp:obj	_	Gloss=Neg.Prog
-5	-ta	ta	PRON	_	Number=Plur|Person=3|PronType=ProSubj	4	subj/m	_	AlignBegin=406694|AlignEnd=406878|Gloss=-3Fem|SpacesBefore=No|wordform=baːtà
+5	ta	ta	PRON	_	Number=Plur|Person=3|PronType=ProSubj	4	subj	_	AlignBegin=406694|AlignEnd=406878|Gloss=-3Fem|SpacesBefore=No|wordform=baːtà
 6	iyàː	iyàː	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	4	comp:aux	_	AlignBegin=406878|AlignEnd=407062|Gloss=can.Vnoun
 7	ba	ba	PART	_	PartType=Neg|Polarity=Neg	6	mod	_	AlignBegin=407062|AlignEnd=407246|Gloss=Neg
 8	<	<	PUNCT	_	_	2	punct	_	AlignBegin=407246|AlignEnd=407428|Gloss=PUNCT

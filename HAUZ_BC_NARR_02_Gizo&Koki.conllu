@@ -155,7 +155,7 @@
 8	ìnaː	ìnaː	ADV	_	PronType=Int	9	comp:pred	_	AlignBegin=21267|AlignEnd=21537|Gloss=where
 9	nèː	neː	AUX	_	Copula=Yes|Gender=Masc|Number=Plur	4	comp:obj	_	AlignBegin=21537|AlignEnd=21807|Gloss=be.Masc/Plur
 10	zâː	zâː	AUX	_	Tense=Fut	9	comp:cleft	_	Gloss=Fut|wordform=zaː-
-11	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	10	subj/m	_	AlignBegin=21807|AlignEnd=21942|Gloss=3Fem|SpacesBefore=No|wordform=zaːtà
+11	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	10	subj	_	AlignBegin=21807|AlignEnd=21942|Gloss=3Fem|SpacesBefore=No|wordform=zaːtà
 12	saːmoː	saːm-	VERB	_	_	10	comp:aux	_	AlignBegin=22077|AlignEnd=22347|ClauseType=Cleft|Gloss=get.DIR
 13	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	14	det	_	AlignBegin=22347|AlignEnd=22617|Gloss=PreRef|PreRef=Yes
 14	ramàː	ramàː	NOUN	_	_	12	comp:obj	_	AlignBegin=22616|AlignEnd=22887|Gloss=hemp
@@ -588,7 +588,7 @@
 10	àbin	àbù	NOUN	_	Definite=Def	9	comp:obj	_	AlignBegin=68736|AlignEnd=68846|Gloss=thing..Def|RelAnt=Yes
 11	dà	dà	SCONJ	_	_	10	mod@relcl	_	AlignBegin=68955|AlignEnd=69174|Gloss=CompRel|Relz=Word
 12	zâː	zâː	AUX	_	Tense=Fut	11	comp	_	Gloss=Fut|wordform=zaː-
-13	-'à	a	PRON	_	Person=4|PronType=ProSubj	12	subj/m	_	AlignBegin=69174|AlignEnd=69393|Gloss=4|SpacesBefore=No|wordform=zaː'à
+13	'à	a	PRON	_	Person=4|PronType=ProSubj	12	subj	_	AlignBegin=69174|AlignEnd=69393|Gloss=4|SpacesBefore=No|wordform=zaː'à
 14	neːmoː	neːmoː	VERB	_	_	12	comp:aux	_	AlignBegin=69393|AlignEnd=69612|ClauseType=Rel|Gloss=look_for.DIR|RelRole=obj
 15	//	//	PUNCT	_	_	3	punct	_	AlignBegin=69393|AlignEnd=69612|Gloss=PUNCT
 
@@ -628,9 +628,9 @@
 8	mahaɗin	mahaɗiː	NOUN	_	Definite=Def	7	comp:obj	_	AlignBegin=74135|AlignEnd=74220|Gloss=accompaniment..Def|RelAnt=Yes
 9	dà	dà	SCONJ	_	_	8	mod@relcl	_	AlignBegin=74306|AlignEnd=74562|Gloss=CompRel|Relz=Word
 10	zaː	zâː	AUX	_	_	12	reparandum	_	Gloss=Fut|wordform=zaː-
-11	--t	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	10	subj/m	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fe|Scrap=Yes|SpacesBefore=No|wordform=zaːtà
+11	-t	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	10	subj	_	AlignBegin=74562|AlignEnd=74818|Gloss=3Fe|Scrap=Yes|SpacesBefore=No|wordform=zaːtà
 12	zâː	zâː	AUX	_	Tense=Fut	9	comp	_	Gloss=Fut|wordform=zaː-
-13	-'à	a	PRON	_	Person=4|PronType=ProSubj	12	subj/m	_	AlignBegin=75074|AlignEnd=75262|Gloss=4|SpacesBefore=No|wordform=zaːʔà
+13	'à	a	PRON	_	Person=4|PronType=ProSubj	12	subj	_	AlignBegin=75074|AlignEnd=75262|Gloss=4|SpacesBefore=No|wordform=zaːʔà
 14	ci	ci	VERB	_	_	12	comp:aux	_	AlignBegin=75262|AlignEnd=75450|ClauseType=Rel|Gloss=eat|RelRole=udep
 15	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	16	comp:obj	_	AlignBegin=75450|AlignEnd=75638|Gloss=PreRef|PreRef=Yes
 16	ramàn	ramàː	NOUN	_	Definite=Def	14	comp:obl	_	AlignBegin=75638|AlignEnd=75732|Gloss=hemp.Def
@@ -1198,7 +1198,7 @@
 # text_en = How will she..
 1	yàːyàː	yàːyàː	ADV	_	PronType=Int	2	comp:aux	_	AlignBegin=133180|AlignEnd=133461|Gloss=how|Scrap=Yes
 2	zâː	zâː	AUX	_	Tense=Fut	0	root	_	AlignBegin=133461|AlignEnd=133742|Gloss=Fut|wordform=zaː-
-3	-tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	2	subj/m	_	AlignBegin=133461|AlignEnd=133742|Gloss=3Fem|Scrap=Yes|SpacesBefore=No|wordform=tà=
+3	tà	ta	PRON	_	Gender=Fem|Person=3|PronType=ProSubj	2	subj	_	AlignBegin=133461|AlignEnd=133742|Gloss=3Fem|Scrap=Yes|SpacesBefore=No|wordform=tà=
 4	&//	&//	PUNCT	_	_	2	punct	_	AlignBegin=133742|AlignEnd=134022|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_111
@@ -1259,7 +1259,7 @@
 # text_en = (He said,) you will not eat.
 1	bà	bà	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=138918|AlignEnd=139039|Gloss=Neg
 2	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|wordform=zaː-
-3	-kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=ProSubj	2	subj/m	_	AlignBegin=139039|AlignEnd=139160|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
+3	kì	ki	PRON	_	Gender=Fem|Number=Sing|Person=2|PronType=ProSubj	2	subj	_	AlignBegin=139039|AlignEnd=139160|Gloss=2Fem|SpacesBefore=No|wordform=zaːkì
 4	ci	ci	VERB	_	_	2	comp:aux	_	AlignBegin=139160|AlignEnd=139281|Gloss=eat
 5	ba	ba	PART	_	PartType=Neg|Polarity=Neg	2	mod	_	AlignBegin=139281|AlignEnd=139402|Gloss=Neg
 6	//	//	PUNCT	_	_	2	punct	_	AlignBegin=139402|AlignEnd=139524|Gloss=PUNCT
