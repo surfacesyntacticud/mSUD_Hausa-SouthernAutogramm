@@ -223,7 +223,7 @@
 3	cêː	cêː	VERB	_	_	2	comp:aux	_	AlignBegin=32101|AlignEnd=32333|Gloss=say
 4	dàke	dak-	VERB	_	ExtPos=ADV|VerbForm=Part	3	comp:obj	_	AlignBegin=32333|AlignEnd=32565|Gloss=pound.Part
 5	na-	na	PRON	_	Number=Sing|Person=1|PronType=ProSubj	6	subj/m	_	AlignBegin=32565|AlignEnd=32797|Gloss=1Sing|SpacesAfter=No|wordform=na
-6	kèː	nàː	AUX	_	Aspect=Prog	4	comp:cleft	_	AlignBegin=32565|AlignEnd=32797|ClauseType=Cleft|Gloss=Prog.Rel2|Relative=Variante
+6	kèː	nàː	AUX	_	Aspect=Prog|Mood=Rel	4	comp:cleft	_	AlignBegin=32565|AlignEnd=32797|ClauseType=Cleft|Gloss=Prog.Rel
 7	//	//	PUNCT	_	_	2	punct	_	AlignBegin=32797|AlignEnd=33030|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_01_022-022
@@ -709,7 +709,7 @@
 # text_en = Indeed he is there waiting for.. Rat to arrive.
 1	àsheː	àsheː	INTJ	_	_	3	discourse	_	AlignBegin=83460|AlignEnd=83709|Gloss=indeed
 2	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=83709|AlignEnd=83958|Gloss=3Masc|SpacesAfter=No
-3	nàː	nàː	AUX	_	Aspect=Prog	0	root	_	AlignBegin=83709|AlignEnd=83958|Gloss=Prog|wordform=yanàː
+3	nàː	nàː	AUX	_	Aspect=Prog|ExtPos=PART	0	root	_	AlignBegin=83709|AlignEnd=83958|Gloss=Prog|wordform=yanàː
 4	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	3	comp:pred	_	AlignBegin=83958|AlignEnd=84207|Gloss=PreRef|PreRef=Yes
 5	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	6	subj/m	_	AlignBegin=84207|AlignEnd=84456|Gloss=3Masc|SpacesAfter=No
 6	nàː	nàː	AUX	_	Aspect=Prog	3	parataxis:conj	_	AlignBegin=84207|AlignEnd=84456|Gloss=Prog|wordform=yanàː
@@ -955,7 +955,7 @@
 # text = zoːmoː nàː nan ya- nàː jiran-n-shi //
 # text_en = Rabbit is there waiting for him.
 1	zoːmoː	zoːmoː	NOUN	_	_	2	subj	_	AlignBegin=113310|AlignEnd=113537|Gloss=Rabbit
-2	nàː	nàː	AUX	_	Copula=Yes	0	root	_	AlignBegin=113537|AlignEnd=113764|Gloss=be.Loc|Overlap=HAUZ_BC_NARR_01_102-102
+2	nàː	nàː	AUX	_	ExtPos=PART	0	root	_	AlignBegin=113537|AlignEnd=113764|Gloss=be.Loc|Overlap=HAUZ_BC_NARR_01_102-102
 3	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	2	comp:pred	_	AlignBegin=113764|AlignEnd=113991|Gloss=PreRef|PreRef=Yes
 4	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	5	subj/m	_	AlignBegin=113991|AlignEnd=114218|Gloss=3Masc|SpacesAfter=No
 5	nàː	nàː	AUX	_	Aspect=Prog	2	parataxis:conj	_	AlignBegin=113991|AlignEnd=114218|Gloss=Prog|wordform=yanàː
