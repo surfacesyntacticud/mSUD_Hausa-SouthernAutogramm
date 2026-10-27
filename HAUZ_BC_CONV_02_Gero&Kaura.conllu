@@ -1161,7 +1161,7 @@
 15	nèː	neː	PART	_	PartType=Foc	13	discourse@foc	_	AlignBegin=118216|AlignEnd=118354|Gloss=Emph
 16	wandà	wandà	PRON	_	PronType=Rel	13	mod@relcl	_	AlignBegin=118354|AlignEnd=118492|Gloss=which.Rel|Relz=Word
 17	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=Prs	18	subj/m	_	AlignBegin=118492|AlignEnd=118630|Gloss=1Plur|SpacesAfter=No
-18	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	16	comp	_	AlignBegin=118492|AlignEnd=118630|ClauseType=Rel|Gloss=be.Rel2|Relz=Affix|wordform=mukè
+18	kè	kèː	AUX	_	ExtPos=PART|Mood=Rel	16	comp	_	AlignBegin=118492|AlignEnd=118630|ClauseType=Rel|Gloss=be.Rel2|Relz=Affix|wordform=mukè
 19	dà	dà	ADP	_	_	18	comp:pred	_	AlignBegin=118630|AlignEnd=118768|Gloss=with
 20	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	19	comp	_	AlignBegin=118768|AlignEnd=118906|Gloss=3Masc.Nom|RelPos=Yes
 21	>	>	PUNCT	_	_	22	punct	_	AlignBegin=118906|AlignEnd=119048|Gloss=PUNCT
@@ -1678,7 +1678,7 @@
 3	zaman	zaun-	VERB	_	Definite=Def|ExtPos=NOUN|VerbForm=Vnoun	12	dislocated@top	_	AlignBegin=162494|AlignEnd=162578|Gloss=stay.Vnoun..Def|RelAnt=Yes|wordform=zamaː
 4	dà	dà	SCONJ	_	_	3	mod@relcl	_	AlignBegin=162663|AlignEnd=162832|Gloss=CompRel|Relz=Word
 5	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	6	subj/m	_	AlignBegin=162832|AlignEnd=163001|Gloss=2Plur|SpacesAfter=No
-6	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	4	comp	_	AlignBegin=162832|AlignEnd=163001|ClauseType=Rel|Gloss=be.Rel2|Relz=Affix|wordform=kukè
+6	kè	kèː	AUX	_	ExtPos=PART|Mood=Rel	4	comp	_	AlignBegin=162832|AlignEnd=163001|ClauseType=Rel|Gloss=be.Rel2|Relz=Affix|wordform=kukè
 7	dà	dà	ADP	_	_	6	comp:pred	_	AlignBegin=163001|AlignEnd=163170|Gloss=with
 8	shiː	shiː	PRON	_	Gender=Masc|Person=3|PronType=Prs	7	comp	_	AlignBegin=163170|AlignEnd=163339|Gloss=3Masc.Nom|RelPos=Yes
 9	yànzu	yànzu	ADV	_	_	6	mod	_	AlignBegin=163339|AlignEnd=163508|Gloss=now

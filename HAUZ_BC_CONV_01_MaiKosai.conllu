@@ -2615,7 +2615,7 @@
 8	sâː	sâː	NOUN	_	_	6	comp:obj	_	AlignBegin=283823|AlignEnd=284060|Gloss=bull
 9	wandà	wandà	PRON	_	PronType=Rel	8	mod@relcl	_	AlignBegin=284297|AlignEnd=284415|Gloss=which|Relz=Word
 10	ya-	ya	PRON	_	Gender=Masc|Person=3|PronType=Prs	11	subj/m	_	AlignBegin=284415|AlignEnd=284534|Gloss=3Masc|SpacesAfter=No
-11	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	9	comp	_	AlignBegin=284415|AlignEnd=284534|ClauseType=Rel|Gloss=be.Rel2|RelRole=subj|wordform=ya
+11	kè	kèː	AUX	_	ExtPos=PART|Mood=Rel	9	comp	_	AlignBegin=284415|AlignEnd=284534|ClauseType=Rel|Gloss=be.Rel2|RelRole=subj|wordform=ya
 12	cikin	cikin	ADP	_	_	11	comp:pred	_	AlignBegin=284771|AlignEnd=284889|Gloss=inside
 13	wânnan	wânnan	DET	_	Number=Plur|PronType=Dem	14	det	_	AlignBegin=284889|AlignEnd=285008|Gloss=PreRef|PreRef=Yes
 14	X	X	X	_	_	12	comp	_	AlignBegin=285245|AlignEnd=285482|Gloss=X
@@ -4511,7 +4511,7 @@
 18	-n	na	PART	_	Case=Gen|PartType=Case	17	udep/m	_	Gloss=Gen|SpacesBefore=No
 19	ruwaː	ruwaː	NOUN	_	_	18	comp	_	AlignBegin=522925|AlignEnd=523106|Gloss=water
 20	ku-	ku	PRON	_	Number=Plur|Person=2|PronType=Prs	21	subj/m	_	AlignBegin=523106|AlignEnd=523287|Gloss=2Plur|SpacesAfter=No
-21	kè	kè	AUX	_	ExtPos=PART|Mood=Rel	16	parataxis:conj	_	AlignBegin=523106|AlignEnd=523287|ClauseType=Rel|Gloss=be.Rel2|Relz=Affix|wordform=kukè
+21	kè	kèː	AUX	_	ExtPos=PART|Mood=Rel	16	parataxis:conj	_	AlignBegin=523106|AlignEnd=523287|ClauseType=Rel|Gloss=be.Rel2|Relz=Affix|wordform=kukè
 22	dà	dà	ADP	_	_	21	comp:pred	_	AlignBegin=523468|AlignEnd=523649|Gloss=with
 23	àmfàːni	àmfàːniː	NOUN	_	_	22	comp	_	AlignBegin=523649|AlignEnd=523709|Gloss=use|wordform=àmfàːninkù
 24	-n	na	PART	_	Case=Gen|PartType=Case	23	mod@poss/m	_	Gloss=Gen|SpacesBefore=No
