@@ -69,16 +69,15 @@
 # speaker_id = SP1
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_NARR_02.WAV
 # sent_timecode = 10421, 11670
-# text = i- nàː naː~ || a- nàː nan //
+# text = i-nàː naː~ a-nàː nan //
 # text_en = There they were.
 1	i-	i	PRON	_	Number=Sing|Person=1|PronType=Prs	2	subj/m	_	AlignBegin=10421|AlignEnd=10636|Gloss=1Sing|SpaceAfter=No
-2	nàː	nàː	AUX	_	Copula=Yes|ExtPos=PART	6	reparandum	_	AlignBegin=10421|AlignEnd=10636|Gloss=Prog|STAMP=No
-3	naː~	X	X	_	_	6	reparandum	_	AlignBegin=10636|AlignEnd=10851|Gloss=X|Scrap=Yes
-4	||	||	PUNCT	_	_	3	punct	_	AlignBegin=10851|AlignEnd=11066|Gloss=PUNCT
-5	a-	a	PRON	_	Person=4|PronType=Prs	6	subj/m	_	AlignBegin=11066|AlignEnd=11267|Gloss=4|SpaceAfter=No
-6	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes|ExtPos=PART	0	root	_	AlignBegin=11066|AlignEnd=11267|Gloss=Prog|STAMP=No|wordform=a
-7	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	6	comp:pred	_	AlignBegin=11267|AlignEnd=11468|Gloss=PreRef|PreRef=Yes
-8	//	//	PUNCT	_	_	6	punct	_	AlignBegin=11468|AlignEnd=11670|Gloss=PUNCT
+2	nàː	nàː	AUX	_	Copula=Yes	5	reparandum	_	AlignBegin=10421|AlignEnd=10636|Gloss=Prog|STAMP=No
+3	naː~	X	X	_	_	5	reparandum	_	AlignBegin=10636|AlignEnd=10851|Gloss=X|Scrap=Yes
+4	a-	a	PRON	_	Person=4|PronType=Prs	5	subj/m	_	AlignBegin=11066|AlignEnd=11267|Gloss=4|SpaceAfter=No
+5	nàː	nàː	AUX	_	Aspect=Prog|Copula=Yes	0	root	_	AlignBegin=11066|AlignEnd=11267|Gloss=Prog|STAMP=No|wordform=a
+6	nan	nan	ADV	_	Deixis=ProxH|PronType=Dem	5	comp:pred	_	AlignBegin=11267|AlignEnd=11468|Gloss=PreRef|PreRef=Yes
+7	//	//	PUNCT	_	_	5	punct	_	AlignBegin=11468|AlignEnd=11670|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_NARR_02_008
 # speaker_id = SP2
