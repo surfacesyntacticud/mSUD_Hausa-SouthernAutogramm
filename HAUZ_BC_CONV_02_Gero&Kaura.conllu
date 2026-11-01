@@ -2014,7 +2014,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_02.WAV
 # sent_timecode = 192203, 196029
 # phonetic_text = eː / àlhamdù lìllaːhì / shiː / dàngàntakàː -n -shì dà wancàn kàːkaː / ƙanèː -n -tà nèː //
-# text = eː < àlhamdù lìllaːhì < shiː < dàngàntakà-n-shì dà wancàn kàːkaː < ƙanè-n-tà neː //
+# text = eː < àlhamdù lìllaːhì < shiː < dàngàntakà -n -shì dà wancàn kàːkaː < ƙanè -n -tà neː //
 # text_en = Eh, Alhamdu lillahi he, his relationship with that grand-mother, he is her younger brother.
 1	eː	eː	INTJ	_	_	18	discourse	_	AlignBegin=192203|AlignEnd=192282|Gloss=FILL
 2	<	<	PUNCT	_	_	1	punct	_	AlignBegin=192282|AlignEnd=192361|Gloss=PUNCT

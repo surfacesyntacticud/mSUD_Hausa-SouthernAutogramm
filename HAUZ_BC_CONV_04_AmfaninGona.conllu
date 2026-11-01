@@ -9602,7 +9602,7 @@
 # text_en = Those near Angana.
 1	wandà	wandà	PRON	_	ExtPos=SCONJ|PronType=Rel	0	root	_	AlignBegin=107030|AlignEnd=1070610|AttachTo=2@HAUZ_BC_CONV_04_0953-0953|Gloss=who|Overlap=HAUZ_BC_CONV_04_0953-0953|Rel=mod:appos@relcl|Relz=Word
 2	su-	su	PRON	_	Number=Plur|Person=3|PronType=Prs	3	subj/m	_	AlignBegin=1070610|AlignEnd=1070910|AttachTo=HAUZ_BC_CONV_04_0954-0954|Gloss=3Plur|Rel=mod@relcl|SpaceAfter=No
-3	kè	kèː	AUX	_	Copula=Yes|Mood=Rel	1	comp:obj	_	AlignBegin=1070610|AlignEnd=1070910|AttachTo=HAUZ_BC_CONV_04_0954-0954|ClauseType=Rel|Gloss=Rel.Prog|Rel=mod@relcl|RelRole=subj|STAMP=No|wordform=sukè
+3	kè	kèː	AUX	_	Copula=Yes|ExtPos=PART|Mood=Rel	1	comp:obj	_	AlignBegin=1070610|AlignEnd=1070910|AttachTo=HAUZ_BC_CONV_04_0954-0954|ClauseType=Rel|Gloss=Rel.Prog|Rel=mod@relcl|RelRole=subj|STAMP=No|wordform=sukè
 4	geːfen	geːfen	ADP	_	_	3	comp:pred	_	AlignBegin=1071210|AlignEnd=1071350|Gloss=near|wordform=geːfeː
 5	Àngàna	Àngàna	PROPN	_	_	4	comp	_	AlignBegin=1071480|AlignEnd=1071750|Gloss=Angana
 6	//	//	PUNCT	_	_	1	punct	_	AlignBegin=1071750|AlignEnd=1072020|Gloss=PUNCT

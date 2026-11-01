@@ -4900,10 +4900,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 570426, 571691
 # phonetic_text = akàn saːmù matsalaː irìː -ǹ na wânnan //
-# text = akàn sàːmi matsalaː irìn na wânnan //
+# text = a-kàn sàːmi matsalaː irì -n na wânnan //
 # text_en = We usually get that kind of problem.
 1	a-	a	PRON	_	Person=4|PronType=ProSubj	2	subj/m	_	AlignBegin=570426|AlignEnd=570607|Gloss=4|SpaceAfter=No|wordform=akàn
-2	kàn	kàn	AUX	_	Aspect=Hab	0	root	_	Gloss=Hab|STAMP=Yes|wordform=kàn=
+2	kàn	kàn	AUX	_	Aspect=Hab	0	root	_	Gloss=Hab|STAMP=Yes|wordform=akàn
 3	sàːmi	saːm-	VERB	_	_	2	comp:aux	_	AlignBegin=570607|AlignEnd=570788|Gloss=get
 4	matsalaː	matsalaː	NOUN	_	_	3	mod	_	AlignBegin=570788|AlignEnd=570969|Gloss=problem
 5	irì	irìː	NOUN	_	_	4	mod	_	AlignBegin=570969|AlignEnd=571059|Gloss=type|wordform=irìn
