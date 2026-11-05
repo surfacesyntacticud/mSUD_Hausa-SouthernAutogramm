@@ -366,12 +366,12 @@
 7	Ø	kà	AUX	_	Aspect=Perf|Mood=Rel|Number=Sing	0	root	_	Gloss=Perf.Rel.Sing|STAMP=Yes|wordform=_=
 8	cêː	cêː	VERB	_	_	7	comp:aux	_	AlignBegin=44871|AlignEnd=44991|Gloss=say
 9	tôː	tôː	INTJ	_	_	15	discourse	_	AlignBegin=45110|AlignEnd=45318|Gloss=well
-10	Gizò	Gizò	PROPN	_	_	16	vocative	_	AlignBegin=45318|AlignEnd=45526|Gloss=Spider
-11	àbin	àbù	NOUN	_	Definite=Def	15	subj	_	AlignBegin=46401|AlignEnd=46521|Gloss=thing.Def
+10	Gizò	Gizò	PROPN	_	_	15	vocative	_	AlignBegin=45318|AlignEnd=45526|Gloss=Spider
+11	àbin	àbù	NOUN	_	Definite=Def	15	dislocated@subj	_	AlignBegin=46401|AlignEnd=46521|Gloss=thing.Def
 12	fa	fa	PART	_	PartType=Top	11	discourse@top	_	AlignBegin=46641|AlignEnd=46881|Gloss=indeed
 13	neːmaː	neːm-	VERB	_	ExtPos=NOUN|VerbForm=Vnoun	15	subj	_	AlignBegin=46881|AlignEnd=47121|Gloss=look_for.Vnoun
 14	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	15	subj/m	_	AlignBegin=47121|AlignEnd=47361|Gloss=3Masc|SpaceAfter=No|wordform=yaː
-15	aː	aː	AUX	_	Aspect=Perf|Number=Sing	8	comp:obj	_	Gloss=Perf.Sing|STAMP=Yes|wordform=aː=
+15	aː	aː	AUX	_	Aspect=Perf|Number=Sing	8	comp:obj@T	_	Gloss=Perf.Sing|STAMP=Yes|wordform=aː=
 16	saːmù	saː-	VERB	_	_	15	comp:aux	_	AlignBegin=47361|AlignEnd=47601|Gloss=get
 17	//	//	PUNCT	_	_	7	punct	_	AlignBegin=47601|AlignEnd=47840|Gloss=PUNCT
 

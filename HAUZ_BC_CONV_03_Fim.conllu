@@ -1680,7 +1680,7 @@
 1	ki-	ki	PRON	_	Gender=Fem|Person=2|PronType=ProSubj	2	subj/m	_	AlignBegin=198509|AlignEnd=198711|Gloss=2Fem|SpaceAfter=No|wordform=kin
 2	n	aː	AUX	_	Aspect=Perf|Gender=Fem|Number=Sing	8	parataxis:discourse	_	Gloss=Perf.Sing.Fem|STAMP=Yes|wordform=n=
 3	san	sanìː	VERB	_	_	2	comp:aux	_	AlignBegin=198711|AlignEnd=198913|Gloss=know
-4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	AlignBegin=198913|AlignEnd=199115|Gloss=3Masc.Nom
+4	shiː	shiː	PRON	_	Case=Nom|Gender=Masc|Person=3|PronType=Prs	8	dislocated@subj	_	AlignBegin=198913|AlignEnd=199115|Gloss=3Masc.Nom|RelAnt=Yes
 5	dà	dà	SCONJ	_	ExtPos=ADV	4	mod@relcl	_	AlignBegin=199115|AlignEnd=199317|Gloss=COMP|Idiom=Yes|Relz=Word
 6	ya-	ya	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	subj/m	_	AlignBegin=199115|AlignEnd=199317|Gloss=3Masc|InIdiom=Yes|SpaceAfter=No
 7	kè	neː	AUX	_	Copula=Yes|Mood=Rel	5	comp	_	AlignBegin=199115|AlignEnd=199317|ClauseType=Rel|Gloss=be.Rel2|InIdiom=Yes|RelRole=subj|Relz=Affix|STAMP=No

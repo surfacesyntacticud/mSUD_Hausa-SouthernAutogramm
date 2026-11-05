@@ -1185,7 +1185,7 @@
 10	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|SpaceForm=zâi|STAMP=Yes|wordform=zâː-
 11	-i	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	10	subj/m	_	AlignBegin=128947|AlignEnd=129145|Gloss=3Masc|SpaceBefore=No|wordform=zâi
 12	ji	ji	VERB	_	_	10	comp:aux	_	AlignBegin=129145|AlignEnd=129343|Gloss=feel
-13	gar̃as	gar̃as	ADV	_	_	12	comp:pred	_	AlignBegin=129343|AlignEnd=129541|Gloss=well_being|Ideo=Yes
+13	gar̃as	gar̃as	IDEO	_	_	12	comp:pred	_	AlignBegin=129343|AlignEnd=129541|Gloss=well_being|Ideo=Yes
 14	ba	ba	PART	_	PartType=Neg|Polarity=Neg	10	mod	_	AlignBegin=129541|AlignEnd=129739|Gloss=Neg
 15	//	//	PUNCT	_	_	10	punct	_	AlignBegin=129739|AlignEnd=129937|Gloss=PUNCT
 
@@ -1226,7 +1226,7 @@
 11	ka-	ka	PRON	_	Gender=Masc|Person=2|PronType=ProSubj	12	subj/m	_	AlignBegin=133848|AlignEnd=134060|Gloss=2Masc|SpaceAfter=No|wordform=kà
 12	_̀	_̀	AUX	_	Mood=Sub	10	mod	_	Gloss=Sub|STAMP=Yes|wordform=_̀=
 13	ji	ji	VERB	_	_	12	comp:aux	_	AlignBegin=134060|AlignEnd=134272|Gloss=feel
-14	gar̃as	gar̃as	ADV	_	_	13	comp:pred	_	AlignBegin=134272|AlignEnd=134484|Gloss=well_being|Ideo=Yes
+14	gar̃as	gar̃as	IDEO	_	_	13	comp:pred	_	AlignBegin=134272|AlignEnd=134484|Gloss=well_being|Ideo=Yes
 15	//	//	PUNCT	_	_	5	punct	_	AlignBegin=134484|AlignEnd=134697|Gloss=PUNCT
 
 # sent_id = HAUZ_BC_CONV_04_0114-0114
@@ -8069,12 +8069,12 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_04.WAV
 # sent_timecode = 911162, 913337
 # phonetic_text = tòː / ai yànzu / àbù -n dà yakèː fàːru -wàː / zân yi ƙòːƙariː / ìn yi fangaliː //
-# text = zân=yi ƙòːƙariː in- _̀= yi fangaliː //
+# text = zâː -n yi ƙòːƙariː in-_̀ yi fangaliː //
 # text_en = I will try to make a watering bed.
 1	zâː	zâː	AUX	_	Tense=Fut	0	root	_	Gloss=Fut|SpaceForm=zân|STAMP=Yes|wordform=zâː-
 2	-n	ni	PRON	_	Number=Sing|Person=1|PronType=ProSubj	1	subj/m	_	AlignBegin=911162|AlignEnd=911436|Gloss=1Sing|Overlap=[HAUZ_BC_CONV_04_0795-0795][HAUZ_BC_CONV_04_0796-0796][HAUZ_BC_CONV_04_0797-0797][HAUZ_BC_CONV_04_0799-0799]|SpaceBefore=No|wordform=zân
-3	yi	yi	VERB	_	_	1	comp:aux	_	AlignBegin=911436|AlignEnd=911710|Gloss=do
-4	ƙòːƙariː	ƙòːƙariː	NOUN	_	_	3	comp:obj	_	AlignBegin=911710|AlignEnd=911984|Gloss=effort
+3	yi	yi	VERB	_	ExtPos=VERB	1	comp:aux	_	AlignBegin=911436|AlignEnd=911710|Gloss=do|Idiom=Yes
+4	ƙòːƙariː	ƙòːƙariː	NOUN	_	_	3	comp:pred	_	AlignBegin=911710|AlignEnd=911984|Gloss=effort|InIdiom=Yes
 5	in-	in	PRON	_	Number=Sing|Person=1|PronType=ProSubj	6	subj/m	_	AlignBegin=912258|AlignEnd=912528|Gloss=1sing|SpaceAfter=No|wordform=ìn
 6	_̀	_̀	AUX	_	Mood=Sub	3	comp:obj	_	Gloss=Sub|STAMP=Yes|wordform=_̀=
 7	yi	yi	VERB	_	_	6	comp:aux	_	AlignBegin=912528|AlignEnd=912798|Gloss=do

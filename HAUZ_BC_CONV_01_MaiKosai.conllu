@@ -2873,7 +2873,7 @@
 3	à	à	ADP	_	_	10	mod	_	AlignBegin=320797|AlignEnd=321014|Gloss=at
 4	dâː	dâː	ADV	_	_	3	comp	_	AlignBegin=321014|AlignEnd=321231|Gloss=formerly
 5	<	<	PUNCT	_	_	3	punct	_	AlignBegin=321231|AlignEnd=321448|Gloss=PUNCT
-6	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	10	mod	_	AlignBegin=321448|AlignEnd=321556|Gloss=time.Def
+6	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	10	mod	_	AlignBegin=321448|AlignEnd=321556|Gloss=time.Def|RelAnt=Yes
 7	dà	dà	SCONJ	_	_	6	mod@relcl	_	AlignBegin=321665|AlignEnd=321882|Gloss=COMP
 8	àː	àː	INTJ	_	_	10	discourse	_	AlignBegin=322099|AlignEnd=322316|Gloss=FILL
 9	<	<	PUNCT	_	_	8	punct	_	AlignBegin=322316|AlignEnd=322533|Gloss=PUNCT
@@ -3782,7 +3782,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/HAUZ/WAV/HAUZ_BC_CONV_01.WAV
 # sent_timecode = 437436, 443888
 # phonetic_text = yaː sàːmi àmfàːniː dòːmin à loːkàcîn < à || à loːkàcîn dà mun noːmàː shi < sai àmfàːnîn < ya zoː ya yi tsàːdaː //
-# text = yaː= sàːmi àmfàːniː dòːmin à loːkàcîn || à || à loːkàcîn dà mun= noːmàː shi < sai àmfàːnîn < ya= zoː ya= yi tsàːdaː //
+# text = y-aː sàːmi àmfàːniː dòːmin à loːkàcîn || à || à loːkàcîn dà mu-n noːmàː shi < sai àmfàːnîn < ya-Ø zoː ya-Ø yi tsàːdaː //
 # text_en = He made a profit because in that time, er.. er.. when we did that farming, then vegetables became very expensive.
 1	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	2	subj/m	_	AlignBegin=437436|AlignEnd=437595|Gloss=3Masc|SpaceAfter=No|wordform=yaː
 2	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|STAMP=Yes|wordform=aː=
@@ -3795,10 +3795,10 @@
 9	à	à	ADP	_	_	11	reparandum	_	AlignBegin=439080|AlignEnd=439206|Gloss=at
 10	||	||	PUNCT	_	_	9	punct	_	AlignBegin=439206|AlignEnd=439333|Gloss=PUNCT
 11	à	à	ADP	_	_	23	mod	_	AlignBegin=439586|AlignEnd=439839|Gloss=at
-12	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	11	comp	_	AlignBegin=440092|AlignEnd=440218|Gloss=time.Def
+12	loːkàcîn	loːkàciː	NOUN	_	Definite=Def	11	comp	_	AlignBegin=440092|AlignEnd=440218|Gloss=time.Def|RelAnt=Yes
 13	dà	dà	SCONJ	_	_	12	mod@relcl	_	AlignBegin=440345|AlignEnd=440598|Gloss=COMP
 14	mu-	mu	PRON	_	Number=Plur|Person=1|PronType=ProSubj	15	subj/m	_	AlignBegin=440598|AlignEnd=440851|Gloss=1Plur|SpaceAfter=No|wordform=mun=
-15	n	aː	AUX	_	Aspect=Perf|Number=Plur	13	comp	_	Gloss=Perf.Plur|STAMP=Yes|wordform=n=
+15	n	aː	AUX	_	Aspect=Perf|Number=Plur	13	comp	_	ClauseType=Rel|Gloss=Perf.Plur|STAMP=Yes|wordform=mun
 16	noːmàː	noːm-	VERB	_	_	15	comp:aux	_	AlignBegin=440851|AlignEnd=441104|Gloss=farm
 17	shi	shi	PRON	_	Gender=Masc|Person=3|PronType=Prs	16	mod	_	AlignBegin=441104|AlignEnd=441357|Gloss=3Masc
 18	<	<	PUNCT	_	_	13	punct	_	AlignBegin=441357|AlignEnd=441610|Gloss=PUNCT
@@ -3857,7 +3857,7 @@
 # phonetic_text = wàːtòː -ǹ yaː kasànceː cêːwaː dai in kukà gamàː neːmaː -n raːniː / kukàn yi noːmaː -n || noːmaː -n &//
 # text = wàːtòn y- aː kasànceː cêːwaː dai in ku- kà gamà noːma -n raːniː < ku- kàn yi noːma -n || noːma -n &//
 # text_en = that is to say when you finished the dry season farming, you were doing that dry season farming... that dry season farming…
-1	wàːtòn	wàːtòː	CCONJ	_	_	3	cc	_	AlignBegin=448240|AlignEnd=448332|Gloss=that_is
+1	wàːtòn	wàːtòː	CCONJ	_	_	3	cc	_	AlignBegin=448240|AlignEnd=448332|Gloss=that_is_to_say
 2	y-	ya	PRON	_	Gender=Masc|Person=3|PronType=ProSubj	3	subj/m	_	AlignBegin=448425|AlignEnd=448610|Gloss=3Masc|SpaceAfter=No|wordform=yaː
 3	aː	aː	AUX	_	Aspect=Perf|Number=Sing	0	root	_	Gloss=Perf.Sing|STAMP=Yes|wordform=aː=
 4	kasànceː	kasànceː	VERB	_	_	3	comp:aux	_	AlignBegin=448610|AlignEnd=448795|Gloss=become|Scrap=Yes
